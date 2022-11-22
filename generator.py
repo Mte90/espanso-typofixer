@@ -7,6 +7,12 @@ import os
 import yaml
 
 file = Path("./words").glob("*.json")
+counter = {
+    "en": {"words": 0, "typos": 0},
+    "fr": {"words": 0, "typos": 0},
+    "it": {"words": 0, "typos": 0},
+    "es": {"words": 0, "typos": 0},
+}
 for filename in file:
     if os.path.isfile(filename):
         with open(filename, "r") as f:
@@ -19,19 +25,22 @@ for filename in file:
                 "parent": "default",
                 "matches": [],
             }
+            counter[lang]["words"] = len(json.items())
             for (correct_word, misspelled_words) in json.items():
-                yaml_content["matches"].append(
-                    [
-                        {
-                            "trigger": correct_word,
-                            "replace": misspelled_words,
-                            "propagate_case": "true",
-                            "word": "true",
-                        }
-                    ]
-                )
-                # for misspelled_word in misspelled_words:
+                for misspelled_word in misspelled_words:
+                    yaml_content["matches"].append(
+                        [
+                            {
+                                "trigger": misspelled_word,
+                                "replace": correct_word,
+                                "propagate_case": "true",
+                                "word": "true",
+                            }
+                        ]
+                    )
+                counter[lang]["typos"] += len(misspelled_words)
             with open("typofixer-" + lang + "/package.yaml", "w") as yaml_file:
                 yaml.dump(yaml_content, yaml_file, sort_keys=False)
 
 print("Finished")
+print(counter)

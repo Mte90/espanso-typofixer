@@ -11,6 +11,13 @@ I preferred to migrate to Espanso for various reasons:
 * Python project use like 50mb of ram, espanso instead more less
 * Opening to a wide more usage to gather more typos
 
+## Status
+
+* **English**: <!--en-words-->0<!--en-words-end--> with <!--en-tipos-->0<!--en-tipos-end-->
+* **French**: <!--fr-words-->0<!--fr-words-end--> with <!--fr-tipos-->0<!--fr-tipos-end-->
+* **Italian**: <!--it-words-->0<!--it-words-end--> with <!--it-tipos-->0<!--it-tipos-end-->
+* **Spanish**: <!--es-words-->0<!--es-words-end--> with <!--es-tipos-->0<!--es-tipos-end-->
+
 ## How works
 
 The words list are in the words folder in JSON format, the `generator.py` script generate the `.yml` files for the various languages.
