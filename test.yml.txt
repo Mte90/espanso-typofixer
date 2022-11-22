@@ -1,0 +1,19 @@
+name: misspell-en_UK
+parent: default
+matches:
+  - trigger: "institutionalization"
+    replace: "institutionalisation"
+    propagate_case: true
+    word: true
+  - trigger: "internationalization"
+    replace: "internationalisation"
+    propagate_case: true
+    word: true
+  - trigger: "professionalization"
+    replace: "professionalisation"
+    propagate_case: true
+    word: true
+  - trigger: "compartmentalizing"
+    replace: "compartmentalising"
+    propagate_case: true
+    word: true
