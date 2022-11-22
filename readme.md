@@ -1,4 +1,5 @@
 # Espanso-Typofixer
+[![License](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](http://www.gnu.org/licenses/gpl-3.0)   
 
 This packages is a porting [SyntaxAutoFix](https://github.com/Mte90/SyntaxAutoFix) in Python that is now 7 years old.  
 Just used by me and no one else, in the years got tons of words with various hacktoberfest and by daily gathering of typos in English and Italian.
