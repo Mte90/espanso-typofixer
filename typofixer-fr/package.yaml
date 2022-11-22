@@ -1,0 +1,349 @@
+name: typofixer-fr
+parent: default
+matches:
+- - trigger: agression
+    replace:
+    - aggression
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: "arr\xEAter"
+    replace:
+    - arreter
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: ascenseur
+    replace:
+    - ascenceur
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: banlieue
+    replace:
+    - banlieu
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: banlieues
+    replace:
+    - banlieux
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: "belle-s\u0153ur"
+    replace:
+    - belle-soeur
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: biter
+    replace:
+    - bitter
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: bleus
+    replace:
+    - bleux
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: "budg\xE9taire"
+    replace:
+    - "bug\xE9taire"
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: "\xE7\xE0 et l\xE0"
+    replace:
+    - "\xE7a et l\xE0"
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: caresse
+    replace:
+    - casress
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: "cat\xE9chisme"
+    replace:
+    - "cath\xE9chisme"
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: cauchemar
+    replace:
+    - cauchemard
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: cauchemars
+    replace:
+    - cauchemards
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: "C\xE8ne"
+    replace:
+    - "c\xE8ne"
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: championnat
+    replace:
+    - championat
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: ci-dessus
+    replace:
+    - cidessus
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: colophane
+    replace:
+    - collophane
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: colocataire
+    replace:
+    - colocateur
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: "c\xF4lon"
+    replace:
+    - colon
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: "c\xF4lons"
+    replace:
+    - colons
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: "comp\xE9titivit\xE9"
+    replace:
+    - "comp\xE9tivit\xE9"
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: conscience
+    replace:
+    - concience
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: croisement
+    replace:
+    - croissement
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: "d\xE9barrasser"
+    replace:
+    - "d\xE9barasser"
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: "d\xE9faite"
+    replace:
+    - "d\xE9fete"
+    - "d\xE9f\xE8te"
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: "derni\xE8re"
+    replace:
+    - derniere
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: "d\xE9shydrog\xE9nase"
+    replace:
+    - deshydrogenase
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: etc.
+    replace:
+    - ect.
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: "elles-m\xEAmes"
+    replace:
+    - "ellesm\xEAmes"
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: entregent
+    replace:
+    - entre-gens
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: entrepreneuriat
+    replace:
+    - entrepreunariat
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: "\xE9taient"
+    replace:
+    - etaient
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: "\xE9tait"
+    replace:
+    - etait
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: "\xE9taits"
+    replace:
+    - etaits
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: "\xEAtre"
+    replace:
+    - etre
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: "exp\xE9rimental"
+    replace:
+    - experimental
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: fascisme
+    replace:
+    - fachisme
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: fascismes
+    replace:
+    - fachismes
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: fasciste
+    replace:
+    - fachiste
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: fascistes
+    replace:
+    - fachistes
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: flottille
+    replace:
+    - flotille
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: flotrilles
+    replace:
+    - flotilles
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: foehn
+    replace:
+    - "f\u0153hn"
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: Guiana
+    replace:
+    - Guyana
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: ici
+    replace:
+    - "i\xE7i"
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: "\xEElot"
+    replace:
+    - "il\xF4t"
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: inclus
+    replace:
+    - inclu
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: "Isra\xE9lien"
+    replace:
+    - "Isra\xEBlien"
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: "Isra\xE9liens"
+    replace:
+    - "Isra\xEBliens"
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: lipofuscine
+    replace:
+    - lipofucsine
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: merci
+    replace:
+    - "mer\xE7i"
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: merveilleux
+    replace:
+    - merveilleu
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: niveau
+    replace:
+    - nivau
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: par-ci
+    replace:
+    - par ci
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: par-la
+    replace:
+    - par la
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: "patin \xE0 roulettes"
+    replace:
+    - "patin \xE0 roues"
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: "pendre la cr\xE9maill\xE8re"
+    replace:
+    - "pendre la cr\xE9malli\xE8re"
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: "peut-\xEAtre"
+    replace:
+    - "peut \xEAtre"
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: poisse
+    replace:
+    - pouasse
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: pourparlers
+    replace:
+    - pourpalers
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: "prot\xE8ge"
+    replace:
+    - "prot\xE9ge"
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: "qualit\xE9"
+    replace:
+    - "qualit\xE9e"
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: roder
+    replace:
+    - "r\xF4der"
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: "sayn\xE8te"
+    replace:
+    - saynette
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: soi-disant
+    replace:
+    - soit-disant
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: transsexuel
+    replace:
+    - transexuel
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: transsexuels
+    replace:
+    - transexuels
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: "trompe-l\u2019\u0153il"
+    replace:
+    - trompe l'oeil
+    propagate_case: 'true'
+    word: 'true'

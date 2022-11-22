@@ -1,0 +1,533 @@
+name: typofixer-es
+parent: default
+matches:
+- - trigger: Caracas
+    replace:
+    - Carcas
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: abandonar
+    replace:
+    - abandoran
+    - abandoanr
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: adios
+    replace:
+    - addios
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: adulterado
+    replace:
+    - adulterdo
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: "afirmaci\xF3n"
+    replace:
+    - "afirmasi\xF3n"
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: alumnos
+    replace:
+    - alunmos
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: amoroso
+    replace:
+    - amorso
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: aparece
+    replace:
+    - aprarce
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: avanzar
+    replace:
+    - avansar
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: "aversi\xF3n"
+    replace:
+    - "adversi\xF3n"
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: ayudarte
+    replace:
+    - ayudrate
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: banal
+    replace:
+    - vanal
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: bueno
+    replace:
+    - beuno
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: cantar
+    replace:
+    - cantra
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: capacidad
+    replace:
+    - capsidad
+    - capasidad
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: causa
+    replace:
+    - casua
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: cepillo
+    replace:
+    - sepillo
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: coger
+    replace:
+    - cojer
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: comenzar
+    replace:
+    - conmenzar
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: comunismo
+    replace:
+    - conumismo
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: conciencia
+    replace:
+    - consciencia
+    - conciensia
+    - consiensia
+    - consiencia
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: contento
+    replace:
+    - contendo
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: convalecencia
+    replace:
+    - convalescencia
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: conyuntura
+    replace:
+    - conyontura
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: cuidar
+    replace:
+    - ciudar
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: "decisi\xF3n"
+    replace:
+    - "desici\xF3n"
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: deshabitado
+    replace:
+    - desabitado
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: deshecho
+    replace:
+    - desecho
+    - desdecho
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: desprenderse
+    replace:
+    - depsenderse
+    - desprenderce
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: distintos
+    replace:
+    - disitintos
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: editorial
+    replace:
+    - editorail
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: efectividad
+    replace:
+    - efectiviad
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: empieza
+    replace:
+    - empiesza
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: enfermo
+    replace:
+    - enfermp
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: enfrentarse
+    replace:
+    - enfretnarse
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: enfrente
+    replace:
+    - enferente
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: enojado
+    replace:
+    - enojadp
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: episodios
+    replace:
+    - espisodios
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: escoger
+    replace:
+    - escojer
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: "esc\xE9ptico"
+    replace:
+    - "exc\xE9ptico"
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: esperamos
+    replace:
+    - esperamso
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: estimados
+    replace:
+    - estimaods
+    - estimaos
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: estuviera
+    replace:
+    - estubiera
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: exhalar
+    replace:
+    - exalar
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: exhausto
+    replace:
+    - exausto
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: exhortar
+    replace:
+    - exortar
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: exhumar
+    replace:
+    - exumar
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: familia
+    replace:
+    - familai
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: fidedigno
+    replace:
+    - fideligno
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: frontera
+    replace:
+    - frotnera
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: garaje
+    replace:
+    - garage
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: general
+    replace:
+    - genral
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: glosario
+    replace:
+    - glosairo
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: gracias
+    replace:
+    - gracas
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: gusano
+    replace:
+    - gusanso
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: humano
+    replace:
+    - human
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: idiocincrasia
+    replace:
+    - idiocincracia
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: "ilusi\xF3n"
+    replace:
+    - "iluis\xF3n"
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: infancia
+    replace:
+    - infanca
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: infligido
+    replace:
+    - inflingido
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: insistir
+    replace:
+    - insistr
+    - incistir
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: injerencia
+    replace:
+    - ingerencia
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: interesante
+    replace:
+    - interesnate
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: "inter\xE9s"
+    replace:
+    - interez
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: llorar
+    replace:
+    - llroar
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: "mis\xF3gino"
+    replace:
+    - "mis\xF3geno"
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: muestra
+    replace:
+    - meustra
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: "m\xF3vil"
+    replace:
+    - "m\xF3bil"
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: nosotros
+    replace:
+    - nosotrs
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: novedades
+    replace:
+    - novedaes
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: nuestra
+    replace:
+    - neustra
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: nuevo
+    replace:
+    - neuvo
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: "ocasi\xF3n"
+    replace:
+    - "ocaci\xF3n"
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: olor
+    replace:
+    - holor
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: para
+    replace:
+    - pra
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: plagio
+    replace:
+    - plajio
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: preparados
+    replace:
+    - preparadso
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: "presi\xF3n"
+    replace:
+    - "preci\xF3n"
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: prestarnos
+    replace:
+    - prsetarnos
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: prever
+    replace:
+    - preveer
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: profesor
+    replace:
+    - professor
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: prohibido
+    replace:
+    - proihibido
+    - proibido
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: pueblo
+    replace:
+    - puevlo
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: realidad
+    replace:
+    - realiad
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: relaciones
+    replace:
+    - relacions
+    - relasion
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: resbalando
+    replace:
+    - resvalando
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: ruptura
+    replace:
+    - ruputura
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: sacapuntas
+    replace:
+    - sakapuntas
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: social
+    replace:
+    - socail
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: sociedad
+    replace:
+    - socieda
+    - sosiedad
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: soledad
+    replace:
+    - soldedad
+    - solaedad
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: solidario
+    replace:
+    - solidairo
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: terminaba
+    replace:
+    - temrinaba
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: tienda
+    replace:
+    - teinda
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: "todav\xEDa"
+    replace:
+    - "todab\xEDa"
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: traducidos
+    replace:
+    - traducidso
+    - traduciods
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: traspasan
+    replace:
+    - traspsan
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: traspasar
+    replace:
+    - traspsar
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: trastornado
+    replace:
+    - transtornado
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: "t\xF3xicas"
+    replace:
+    - "t\xF3xisac"
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: unidos
+    replace:
+    - unidso
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: vacaciones
+    replace:
+    - vacasiones
+    - vacasions
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: yendo
+    replace:
+    - llendo
+    propagate_case: 'true'
+    word: 'true'

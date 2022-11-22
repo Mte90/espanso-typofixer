@@ -1,0 +1,6243 @@
+name: typofixer-it
+parent: default
+matches:
+- - trigger: abbandonare
+    replace:
+    - abbandoare
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: abbastanza
+    replace:
+    - abastanza
+    - ababstanza
+    - abbstanza
+    - abbstanza
+    - abbastanzia
+    - abbatsanza
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: abbiamo
+    replace:
+    - abbimoa
+    - abbimo
+    - abbimo
+    - abbaimo
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: abbonamento
+    replace:
+    - abonamento
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: abilitate
+    replace:
+    - abiltiate
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: abilitati
+    replace:
+    - abiltiati
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: abilitato
+    replace:
+    - abiltiato
+    - abilitaot
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: abituata
+    replace:
+    - abiutata
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: abituato
+    replace:
+    - abiutato
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: accede
+    replace:
+    - acede
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: accessi
+    replace:
+    - acessi
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: accesso
+    replace:
+    - acecsso
+    - acesso
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: accetta
+    replace:
+    - acectta
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: accettato
+    replace:
+    - acecttato
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: accettavo
+    replace:
+    - accetavo
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: accettazione
+    replace:
+    - accetazione
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: accontenta
+    replace:
+    - acontenta
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: accontertarti
+    replace:
+    - acocntentarti
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: accorpiamo
+    replace:
+    - accopriamo
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: acquistabili
+    replace:
+    - acquistbili
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: addirittura
+    replace:
+    - addirittuera
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: adesivi
+    replace:
+    - adevisi
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: affidabile
+    replace:
+    - affadabile
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: affrontata
+    replace:
+    - affrotnata
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: aggiornamento
+    replace:
+    - aggiornametno
+    - agigornamento
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: aggiornando
+    replace:
+    - aggiorando
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: aggiornare
+    replace:
+    - agigornare
+    - aggioranre
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: aggiornata
+    replace:
+    - agigornata
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: aggiornato
+    replace:
+    - agiornato
+    - agigornato
+    - agigornato
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: aggiorni
+    replace:
+    - aggionri
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: aggiorno
+    replace:
+    - agiorno
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: aggiudicato
+    replace:
+    - aggiudato
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: aggiunge
+    replace:
+    - agiunge
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: aggiungere
+    replace:
+    - aggiugnere
+    - aggiugnere
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: aggiungerne
+    replace:
+    - aggiugnerne
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: aggiungiamo
+    replace:
+    - aggiungiami
+    - aggiungiuamo
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: aggiungono
+    replace:
+    - agigungono
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: aggiunto
+    replace:
+    - agignto
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: aggregazione
+    replace:
+    - aggregazoine
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: aggreghiamo
+    replace:
+    - agreghiamo
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: aiutano
+    replace:
+    - aiutnao
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: alcune
+    replace:
+    - alcuen
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: algoritmi
+    replace:
+    - algortimi
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: alimentatore
+    replace:
+    - alimetnatore
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: alla
+    replace:
+    - alal
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: alle
+    replace:
+    - alel
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: alleanza
+    replace:
+    - allenaza
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: alleanze
+    replace:
+    - allenaze
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: allineamento
+    replace:
+    - allineameto
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: allineate
+    replace:
+    - allienate
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: allineati
+    replace:
+    - allienati
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: allora
+    replace:
+    - alora
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: almeno
+    replace:
+    - lameno
+    - almneo
+    - almeo
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: alternative
+    replace:
+    - alterantive
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: alternativi
+    replace:
+    - alterantivi
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: alternativo
+    replace:
+    - laternativo
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: altra
+    replace:
+    - latra
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: altre
+    replace:
+    - latre
+    - latre
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: altri
+    replace:
+    - altr
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: altrimenti
+    replace:
+    - altriemnti
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: altro
+    replace:
+    - latro
+    - alotr
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: ammesso
+    replace:
+    - amesso
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: ammettere
+    replace:
+    - amettere
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: amministrativa
+    replace:
+    - amminsitrativa
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: amministratore
+    replace:
+    - amminsitratore
+    - amminsitratore
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: amministrazioni
+    replace:
+    - amministraizoni
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: analizzati
+    replace:
+    - nalizzati
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: anche
+    replace:
+    - anceh
+    - nahce
+    - anhce
+    - nahce
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: ancora
+    replace:
+    - ancoran
+    - acora
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: andando
+    replace:
+    - anando
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: andare
+    replace:
+    - anadre
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: andato
+    replace:
+    - adnato
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: andavano
+    replace:
+    - anvano
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: andrebbero
+    replace:
+    - andrebero
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: animazioni
+    replace:
+    - animaizoni
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: antonio
+    replace:
+    - antono
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: anzi
+    replace:
+    - nzi
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: aperte
+    replace:
+    - paerte
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: aperto
+    replace:
+    - paerto
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: apparire
+    replace:
+    - apprire
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: appena
+    replace:
+    - appean
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: approfittare
+    replace:
+    - appforittare
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: approfittiamo
+    replace:
+    - approfitiamo
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: aprile
+    replace:
+    - parile
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: arrapano
+    replace:
+    - arrpano
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: arrivano
+    replace:
+    - arivano
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: arrivare
+    replace:
+    - arivare
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: arrivati
+    replace:
+    - arivati
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: arriveremo
+    replace:
+    - ariveremo
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: arruginito
+    replace:
+    - arruginto
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: articoli
+    replace:
+    - artiocli
+    - artiocli
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: ascensore
+    replace:
+    - ascnesore
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: ascolta
+    replace:
+    - asoclta
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: aspetta
+    replace:
+    - aspeta
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: aspettando
+    replace:
+    - apsettando
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: aspettare
+    replace:
+    - apsettare
+    - aspetare
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: aspettavo
+    replace:
+    - aspetavo
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: assicurare
+    replace:
+    - assicuare
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: associazione
+    replace:
+    - assocaizione
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: associazioni
+    replace:
+    - asociazioni
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: assolutamente
+    replace:
+    - assolutametne
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: attesa
+    replace:
+    - atesa
+    - atesa
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: attimo
+    replace:
+    - attim
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: attrezzi
+    replace:
+    - atrezi
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: attualmente
+    replace:
+    - attualemnte
+    - attualemnte
+    - attualemnte
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: attuenanti
+    replace:
+    - attuentanti
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: autobiografia
+    replace:
+    - autobiogrfia
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: automatically
+    replace:
+    - autoamticaly
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: automaticamente
+    replace:
+    - autoamticamente
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: automatici
+    replace:
+    - autoamtici
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: automatico
+    replace:
+    - autoamtico
+    - autamatico
+    - autmatico
+    - autmatico
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: avanzano
+    replace:
+    - avazanzano
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: aver
+    replace:
+    - vare
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: avere
+    replace:
+    - avcere
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: averli
+    replace:
+    - vaerli
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: averlo
+    replace:
+    - vaerlo
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: avete
+    replace:
+    - avede
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: avevamo
+    replace:
+    - avevao
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: avevi
+    replace:
+    - vevi
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: avevo
+    replace:
+    - aveo
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: avrebbe
+    replace:
+    - avrebe
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: avuto
+    replace:
+    - auvot
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: avvenuto
+    replace:
+    - avenuto
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: azienda
+    replace:
+    - azineda
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: azione
+    replace:
+    - aziine
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: balle
+    replace:
+    - balel
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: barbara
+    replace:
+    - barabra
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: bassissima
+    replace:
+    - bassisima
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: basta
+    replace:
+    - bsta
+    - basat
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: battaglia
+    replace:
+    - bataglia
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: batteria
+    replace:
+    - batteira
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: bella
+    replace:
+    - belal
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: benvenuta
+    replace:
+    - bnevenuta
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: bestemmiare
+    replace:
+    - bestemiare
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: bibliografia
+    replace:
+    - bibligorafia
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: bidoni
+    replace:
+    - biodni
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: bisogna
+    replace:
+    - bisgoan
+    - bisgona
+    - bisgona
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: bisognerebbe
+    replace:
+    - biosgnerebbe
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: bisogno
+    replace:
+    - bisgono
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: bloccarli
+    replace:
+    - blocarli
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: blocchi
+    replace:
+    - blochci
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: bordi
+    replace:
+    - borid
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: buongiorno
+    replace:
+    - Buongirono
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: buono
+    replace:
+    - bvuono
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: buttando
+    replace:
+    - buttnado
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: cacchio
+    replace:
+    - cachcio
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: caduto
+    replace:
+    - caudot
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: cambia
+    replace:
+    - cabmia
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: cambiano
+    replace:
+    - cabiano
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: cambiare
+    replace:
+    - canbiare
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: cambiarlo
+    replace:
+    - camobairlo
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: cambio
+    replace:
+    - cabmio
+    - cmabio
+    - acmbio
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: campagna
+    replace:
+    - campgna
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: campagne
+    replace:
+    - camapgne
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: cancellare
+    replace:
+    - cancelalre
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: capire
+    replace:
+    - cpaire
+    - cpaire
+    - cpaire
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: capisce
+    replace:
+    - capise
+    - cpisce
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: capisco
+    replace:
+    - cpiasco
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: capiscono
+    replace:
+    - capisconmo
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: capite
+    replace:
+    - caoite
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: capito
+    replace:
+    - capto
+    - cpaito
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: cappellata
+    replace:
+    - cappellatta
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: caricamento
+    replace:
+    - caricmento
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: carriera
+    replace:
+    - carrira
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: cartella
+    replace:
+    - cartelal
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: cartellazione
+    replace:
+    - caretllazione
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: casini
+    replace:
+    - casiin
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: categoria
+    replace:
+    - categoira
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: cavolo
+    replace:
+    - caovlo
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: cazzi
+    replace:
+    - caziz
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: cercherei
+    replace:
+    - cercehrei
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: cerco
+    replace:
+    - erco
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: cestinarlo
+    replace:
+    - cestianrlo
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: che
+    replace:
+    - ceh
+    - hce
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: chi
+    replace:
+    - hci
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: chiamare
+    replace:
+    - chiarare
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: chiamiamo
+    replace:
+    - hciamiamo
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: chiaramente
+    replace:
+    - chiaramento
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: chiariva
+    replace:
+    - chairiva
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: chiave
+    replace:
+    - chaive
+    - chiav
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: chiede
+    replace:
+    - chide
+    - cheide
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: chiedere
+    replace:
+    - chidere
+    - cheidere
+    - cheidere
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: chiederti
+    replace:
+    - chiererti
+    - chiderti
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: "chieder\xF2"
+    replace:
+    - "cheider\xF2"
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: chiedete
+    replace:
+    - cheidete
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: chiediamo
+    replace:
+    - chiadiamo
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: chiesto
+    replace:
+    - hicesto
+    - chisto
+    - cheisto
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: cifra
+    replace:
+    - cfira
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: coinvolgere
+    replace:
+    - coinvoglere
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: collaborazione
+    replace:
+    - collbaorazione
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: collaborazioni
+    replace:
+    - collaborzioni
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: collegare
+    replace:
+    - colelgare
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: collegato
+    replace:
+    - colelgato
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: colleghi
+    replace:
+    - colelghi
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: collezione
+    replace:
+    - colelzione
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: comando
+    replace:
+    - cmmando
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: combinazioni
+    replace:
+    - combinaizoni
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: come
+    replace:
+    - comne
+    - cvome
+    - coem
+    - ocme
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: commentato
+    replace:
+    - commetnato
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: commento
+    replace:
+    - commentio
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: compatibili
+    replace:
+    - comaptibili
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: compila
+    replace:
+    - ocmpila
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: compilare
+    replace:
+    - compialre
+    - compialre
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: compilarli
+    replace:
+    - complilarli
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: compilate
+    replace:
+    - compialte
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: completa
+    replace:
+    - compelta
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: complicato
+    replace:
+    - complciato
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: complicazioni
+    replace:
+    - complicaizoni
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: comporta
+    replace:
+    - comprta
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: comportamento
+    replace:
+    - comprotamento
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: comportare
+    replace:
+    - comprtare
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: comportarmi
+    replace:
+    - comprotarmi
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: compra
+    replace:
+    - compa
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: comprare
+    replace:
+    - comrapre
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: comprato
+    replace:
+    - comrpato
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: compreso
+    replace:
+    - comrpeso
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: compri
+    replace:
+    - cmpri
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: comunicazione
+    replace:
+    - comunicaizone
+    - comunicziaone
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: comunicazioni
+    replace:
+    - comunicaizoni
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: comunque
+    replace:
+    - counque
+    - comunqwue
+    - comuqne
+    - comunqeu
+    - comnuque
+    - conuque
+    - comuqnue
+    - comuinque
+    - comuhque
+    - comnuque
+    - conunque
+    - conunque
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: con
+    replace:
+    - ocn
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: concorso
+    replace:
+    - concirso
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: condividi
+    replace:
+    - condivdi
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: condivisione
+    replace:
+    - condivisioen
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: condizioni
+    replace:
+    - codnizioni
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: condotta
+    replace:
+    - condatta
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: confartigianato
+    replace:
+    - confartiginato
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: conferenze
+    replace:
+    - conferneze
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: confermato
+    replace:
+    - conferamto
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: configurare
+    replace:
+    - confgiurare
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: configurarlo
+    replace:
+    - confirugarlo
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: configurati
+    replace:
+    - connfigurati
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: configurato
+    replace:
+    - confogirato
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: configurazione
+    replace:
+    - configurazioen
+    - configuarazione
+    - condigurazione
+    - confgiurazione
+    - confgiurazione
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: confusione
+    replace:
+    - confusioen
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: conosce
+    replace:
+    - consoce
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: conoscenza
+    replace:
+    - consocenza
+    - cconscenza
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: conoscenze
+    replace:
+    - consocenze
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: conoscere
+    replace:
+    - consocere
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: conoscete
+    replace:
+    - consocete
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: conoscevo
+    replace:
+    - consocevo
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: conosci
+    replace:
+    - consosci
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: consegnano
+    replace:
+    - cosnegano
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: considera
+    replace:
+    - consdiera
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: considerando
+    replace:
+    - cosniderando
+    - consierando
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: considerare
+    replace:
+    - consdierare
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: considerate
+    replace:
+    - consdierate
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: consideriamo
+    replace:
+    - consdieriamo
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: contattare
+    replace:
+    - cotnatt
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: contattato
+    replace:
+    - contattaot
+    - concattato
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: contatto
+    replace:
+    - cotatto
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: contemporanea
+    replace:
+    - conemporanea
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: contento
+    replace:
+    - conteto
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: continuare
+    replace:
+    - continaure
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: continuo
+    replace:
+    - contunuo
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: contrappone
+    replace:
+    - conrappone
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: contratto
+    replace:
+    - cotnratto
+    - cotnratto
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: contributo
+    replace:
+    - contirbuto
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: contributori
+    replace:
+    - contirbutori
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: controllare
+    replace:
+    - controlalre
+    - controlalre
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: conviene
+    replace:
+    - convine
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: convincere
+    replace:
+    - convicnere
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: coordinarsi
+    replace:
+    - coordianrsi
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: copia
+    replace:
+    - copai
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: coraggio
+    replace:
+    - coragio
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: correggeva
+    replace:
+    - corregeva
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: correttamente
+    replace:
+    - correttamnet
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: corretti
+    replace:
+    - coretti
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: corretto
+    replace:
+    - correto
+    - coretto
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: corrispondente
+    replace:
+    - corrispondete
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: corrispondete
+    replace:
+    - corrispondnte
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: corrispondono
+    replace:
+    - cirrispondono
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: cose
+    replace:
+    - cse
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: costante
+    replace:
+    - costsnte
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: costanti
+    replace:
+    - costnati
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: creazione
+    replace:
+    - creazioen
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: dargli
+    replace:
+    - darlgi
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: dashboard
+    replace:
+    - dasbhoard
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: decentemente
+    replace:
+    - decentemnte
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: decidere
+    replace:
+    - edcidere
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: decisamente
+    replace:
+    - decisametne
+    - decisametne
+    - decisametne
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: declinare
+    replace:
+    - declianre
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: definire
+    replace:
+    - defnire
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: definitiva
+    replace:
+    - definitva
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: definitivo
+    replace:
+    - definitvo
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: del
+    replace:
+    - dle
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: della
+    replace:
+    - delal
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: delle
+    replace:
+    - dele
+    - delel
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: democratico
+    replace:
+    - demcoratico
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: deposito
+    replace:
+    - despoito
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: depresse
+    replace:
+    - deprese
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: descrizione
+    replace:
+    - descirzione
+    - descirizione
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: destroy
+    replace:
+    - desotry
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: dettagli
+    replace:
+    - detagli
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: dettaglio
+    replace:
+    - detaglio
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: devi
+    replace:
+    - edvi
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: dicevo
+    replace:
+    - dcevo
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: differenza
+    replace:
+    - diferenza
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: difficile
+    replace:
+    - difficiel
+    - difficle
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: digitalizzare
+    replace:
+    - digitalizare
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: dimenticato
+    replace:
+    - dimetnicato
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: dimentichiamo
+    replace:
+    - dimenticiamo
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: dimmi
+    replace:
+    - dimim
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: dimostra
+    replace:
+    - dimsotra
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: dimostrare
+    replace:
+    - dimsotrare
+    - dimsotrare
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: dimostrata
+    replace:
+    - dimsotrata
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: dimostrato
+    replace:
+    - dimsotrato
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: dipendente
+    replace:
+    - dipenmdente
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: direbbero
+    replace:
+    - direbero
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: direi
+    replace:
+    - dieri
+    - idrei
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: diretta
+    replace:
+    - direta
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: direttamente
+    replace:
+    - direttametne
+    - direttametne
+    - direttametne
+    - direttametne
+    - direttametne
+    - diretamente
+    - direttametne
+    - diretamente
+    - direttmanete
+    - direttametne
+    - direttametne
+    - direttametn
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: dirglielo
+    replace:
+    - dirgielo
+    - dirglelo
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: disallineato
+    replace:
+    - disallienato
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: disattivare
+    replace:
+    - diattivare
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: discussione
+    replace:
+    - discusisone
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: discussioni
+    replace:
+    - discusisoni
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: disistallare
+    replace:
+    - disistalalre
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: dispiace
+    replace:
+    - dispaice
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: dispiaceva
+    replace:
+    - dispaiceva
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: disposizione
+    replace:
+    - dispozione
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: distrazioni
+    replace:
+    - distraizoni
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: diventare
+    replace:
+    - dinvetare
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: diventato
+    replace:
+    - dievntato
+    - diventto
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: diversi
+    replace:
+    - dibversi
+    - diveris
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: divertente
+    replace:
+    - divertenet
+    - divertenete
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: documentazione
+    replace:
+    - documentaizone
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: dollari
+    replace:
+    - dolalri
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: domanda
+    replace:
+    - doamnda
+    - domadna
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: domande
+    replace:
+    - domaned
+    - doamnde
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: domani
+    replace:
+    - doamni
+    - doamni
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: dominio
+    replace:
+    - dominipo
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: donazione
+    replace:
+    - donazioen
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: dormivo
+    replace:
+    - odrmivo
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: dovevo
+    replace:
+    - doveo
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: dovrebbe
+    replace:
+    - dorvebbe
+    - dovrebe
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: dovrebbero
+    replace:
+    - dovrebero
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: dovreste
+    replace:
+    - drovreste
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: dovuto
+    replace:
+    - duvot
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: due
+    replace:
+    - deu
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: duplicati
+    replace:
+    - duplciati
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: durante
+    replace:
+    - durnte
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: ebbe
+    replace:
+    - ebe
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: efffetto
+    replace:
+    - effeto
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: elaborazione
+    replace:
+    - elborazione
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: elettronica
+    replace:
+    - eletronica
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: eliminare
+    replace:
+    - eliniare
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: energie
+    replace:
+    - enerige
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: enigmistica
+    replace:
+    - engmistica
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: entrambe
+    replace:
+    - netrambe
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: entrano
+    replace:
+    - entrnao
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: entrare
+    replace:
+    - netrare
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: entrato
+    replace:
+    - etrnato
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: equivoco
+    replace:
+    - ecquivoco
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: eravamo
+    replace:
+    - eravano
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: errore
+    replace:
+    - erroe
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: esattamente
+    replace:
+    - esattametne
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: esempio
+    replace:
+    - eempio
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: esiste
+    replace:
+    - essite
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: espande
+    replace:
+    - epsande
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: esperienza
+    replace:
+    - espereienza
+    - epserienza
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: esportare
+    replace:
+    - espoertare
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: esportazione
+    replace:
+    - esportaizone
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: espressi
+    replace:
+    - esperssi
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: essere
+    replace:
+    - esere
+    - essre
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: estensione
+    replace:
+    - estnesione
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: estensioni
+    replace:
+    - esntesioni
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: esterni
+    replace:
+    - esterini
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: estrae
+    replace:
+    - estrate
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: estratte
+    replace:
+    - etsratte
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: estratto
+    replace:
+    - estrato
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: euro
+    replace:
+    - uero
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: eventuale
+    replace:
+    - envetuale
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: evidentemente
+    replace:
+    - evidentemetne
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: facciamo
+    replace:
+    - faciamo
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: faccio
+    replace:
+    - facco
+    - facico
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: facemmo
+    replace:
+    - facemo
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: facendo
+    replace:
+    - afcendo
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: facile
+    replace:
+    - faciel
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: fanno
+    replace:
+    - fano
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: fare
+    replace:
+    - fafre
+    - frare
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: fargli
+    replace:
+    - faregli
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: farla
+    replace:
+    - afrla
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: fatemelo
+    replace:
+    - ffatemelo
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: fatti
+    replace:
+    - faftti
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: fattibili
+    replace:
+    - fattibli
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: fatto
+    replace:
+    - fatot
+    - aftto
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: febbraio
+    replace:
+    - febraio
+    - febbrai
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: fermato
+    replace:
+    - femrato
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: fermo
+    replace:
+    - femro
+    - femro
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: festeggiare
+    replace:
+    - festegiare
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: ficcare
+    replace:
+    - ficacre
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: fighi
+    replace:
+    - ifghi
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: filmare
+    replace:
+    - filmanre
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: fine
+    replace:
+    - ifne
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: finestra
+    replace:
+    - finiestra
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: finisce
+    replace:
+    - ffinisce
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: finished
+    replace:
+    - finisehd
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: firmare
+    replace:
+    - firamre
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: fissiamoci
+    replace:
+    - fissimaoci
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: flashare
+    replace:
+    - flsahre
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: fondazione
+    replace:
+    - fondaizone
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: formale
+    replace:
+    - fotmale
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: formato
+    replace:
+    - formatoo
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: fornitore
+    replace:
+    - frornitore
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: forse
+    replace:
+    - frose
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: fotocopiatrice
+    replace:
+    - fotocopitraice
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: frammentato
+    replace:
+    - frammetnato
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: francesco
+    replace:
+    - frnacesco
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: frattempo
+    replace:
+    - fratempo
+    - frattmepo
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: fretta
+    replace:
+    - freta
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: frontiere
+    replace:
+    - frotneiere
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: funziona
+    replace:
+    - funizona
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: funzionante
+    replace:
+    - funzionate
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: funzionare
+    replace:
+    - funzioanre
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: funzionavano
+    replace:
+    - funzioanvano
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: funzione
+    replace:
+    - fuznione
+    - funzioen
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: funzioni
+    replace:
+    - funizoni
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: generare
+    replace:
+    - generaer
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: genitore
+    replace:
+    - gentiore
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: gestione
+    replace:
+    - gestioen
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: gioiello
+    replace:
+    - gioello
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: giorni
+    replace:
+    - gionri
+    - grioni
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: giovedi
+    replace:
+    - "givoed\xEC"
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: girare
+    replace:
+    - giarre
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: girato
+    replace:
+    - giraot
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: giustamente
+    replace:
+    - giuistamente
+    - gisutamente
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: giusto
+    replace:
+    - viusto
+    - guisto
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: glielo
+    replace:
+    - glie
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: gloria
+    replace:
+    - glora
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: gomma
+    replace:
+    - gomam
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: gomme
+    replace:
+    - gomem
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: grado
+    replace:
+    - grao
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: gratuito
+    replace:
+    - gratutito
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: grazie
+    replace:
+    - graize
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: grosso
+    replace:
+    - gorsso
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: gruppi
+    replace:
+    - gurppi
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: guadagniamo
+    replace:
+    - gadagniamo
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: guardando
+    replace:
+    - guardandno
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: guerra
+    replace:
+    - guera
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: guida
+    replace:
+    - guda
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: hanno
+    replace:
+    - hannio
+    - hann
+    - hano
+    - hanon
+    - hhan
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: ignoranza
+    replace:
+    - ignorazna
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: ignori
+    replace:
+    - ingori
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: il
+    replace:
+    - lil
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: imbarazzante
+    replace:
+    - imabarazzante
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: immagina
+    replace:
+    - imamgina
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: immaginato
+    replace:
+    - imamginato
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: immagine
+    replace:
+    - imamgine
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: immagini
+    replace:
+    - imamgini
+    - immaggini
+    - imamgini
+    - imamgiin
+    - imamgini
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: immagino
+    replace:
+    - immgaino
+    - imamgino
+    - imamgino
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: impara
+    replace:
+    - imapra
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: imparare
+    replace:
+    - imaprare
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: impegnare
+    replace:
+    - impengare
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: impegni
+    replace:
+    - impgni
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: impianta
+    replace:
+    - impianata
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: implementare
+    replace:
+    - implemntare
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: implementato
+    replace:
+    - implmentato
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: implementazioni
+    replace:
+    - implementaizoni
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: importante
+    replace:
+    - imporntate
+    - importate
+    - importanete
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: importare
+    replace:
+    - oimportare
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: impossibile
+    replace:
+    - impossibiel
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: impostazioni
+    replace:
+    - impsotazioni
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: impressione
+    replace:
+    - imrpessione
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: incastrarvi
+    replace:
+    - incastrarcvi
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: incentivi
+    replace:
+    - incetivi
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: incompetenti
+    replace:
+    - incompetneti
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: incredibile
+    replace:
+    - incerdibile
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: indirizzo
+    replace:
+    - idirizzo
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: inevitabilmente
+    replace:
+    - inveitabilmente
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: influire
+    replace:
+    - influre
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: influisce
+    replace:
+    - influsice
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: informarlo
+    replace:
+    - inofrmarlo
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: informatica
+    replace:
+    - inforamtica
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: informazione
+    replace:
+    - informazone
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: informazioni
+    replace:
+    - informaizoni
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: inglese
+    replace:
+    - inglse
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: ingrandimento
+    replace:
+    - ingradimento
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: iniziare
+    replace:
+    - inizare
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: innalzati
+    replace:
+    - inalzati
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: innanzitutto
+    replace:
+    - innazitutto
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: innestate
+    replace:
+    - inestate
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: inniettata
+    replace:
+    - inietata
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: inoltre
+    replace:
+    - inolter
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: insalata
+    replace:
+    - inslata
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: inserire
+    replace:
+    - isnerire
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: inserito
+    replace:
+    - inmserito
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: insomma
+    replace:
+    - insooma
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: inspiegabilmente
+    replace:
+    - inspiegabilemtne
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: installare
+    replace:
+    - instalalre
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: installazione
+    replace:
+    - installaizone
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: intanto
+    replace:
+    - intnaot
+    - intant
+    - intnato
+    - intnato
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: integrazioni
+    replace:
+    - integraizoni
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: integrerei
+    replace:
+    - itnegrerei
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: intelligente
+    replace:
+    - inteliggente
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: intendi
+    replace:
+    - itendi
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: interattivi
+    replace:
+    - interativi
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: interazioni
+    replace:
+    - interaizoni
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: interessa
+    replace:
+    - itneressa
+    - interess
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: interessano
+    replace:
+    - interessnao
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: interessante
+    replace:
+    - itneressante
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: interessanti
+    replace:
+    - itneressanti
+    - itneressanti
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: interessata
+    replace:
+    - itneressata
+    - interesata
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: interessati
+    replace:
+    - itneressati
+    - itneressati
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: interessato
+    replace:
+    - itneressato
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: interesse
+    replace:
+    - itneresse
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: interfacce
+    replace:
+    - itnerfacce
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: interfaccia
+    replace:
+    - interfaccai
+    - itnerfaccia
+    - iterfaccia
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: internet
+    replace:
+    - itnernet
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: interno
+    replace:
+    - itnerno
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: inutile
+    replace:
+    - intuile
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: invece
+    replace:
+    - ivnece
+    - invce
+    - invce
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: inventano
+    replace:
+    - invetano
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: inventarci
+    replace:
+    - ivnentarci
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: inventarono
+    replace:
+    - invetarono
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: iscrizione
+    replace:
+    - iscrizioen
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: italiana
+    replace:
+    - itliana
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: largo
+    replace:
+    - alrgo
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: lascialo
+    replace:
+    - lascalo
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: lasciare
+    replace:
+    - lascaire
+    - lascair
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: lasciato
+    replace:
+    - alsciato
+    - lsciato
+    - laciato
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: lascio
+    replace:
+    - alscio
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: lavatrice
+    replace:
+    - lvatrice
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: lavora
+    replace:
+    - alvora
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: lavorando
+    replace:
+    - alvorando
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: lavorare
+    replace:
+    - lavrare
+    - alvorare
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: lavorato
+    replace:
+    - lavroato
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: lavoro
+    replace:
+    - alvoro
+    - alvoro
+    - laovro
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: le ho detto
+    replace:
+    - gli ho detto
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: legale
+    replace:
+    - lgale
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: leggendo
+    replace:
+    - elggendo
+    - leggegndo
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: leggere
+    replace:
+    - legere
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: leggermente
+    replace:
+    - leggereemnte
+    - leggeemrnte
+    - legegremnte
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: lentamente
+    replace:
+    - lentamnete
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: letto
+    replace:
+    - eltto
+    - leto
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: liberativo
+    replace:
+    - lbierativo
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: libero
+    replace:
+    - lbiero
+    - libeor
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: libreoffice
+    replace:
+    - lbireoffice
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: libreria
+    replace:
+    - lbireria
+    - lbireria
+    - lbireria
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: librerie
+    replace:
+    - lbirerie
+    - lbirerie
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: libro
+    replace:
+    - lbiro
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: licenza
+    replace:
+    - lcienza
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: licenziato
+    replace:
+    - lcienziato
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: limite
+    replace:
+    - limte
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: linea
+    replace:
+    - liena
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: linguaggio
+    replace:
+    - linguagigo
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: lista
+    replace:
+    - lsita
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: locale
+    replace:
+    - lcoale
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: localizzazione
+    replace:
+    - localizzaizione
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: locazione
+    replace:
+    - localzione
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: macchina
+    replace:
+    - amcchina
+    - machcina
+    - machina
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: macchine
+    replace:
+    - machcine
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: macchinetta
+    replace:
+    - machcinetta
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: madonna
+    replace:
+    - madonan
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: magagne
+    replace:
+    - amgagne
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: magari
+    replace:
+    - mfgari
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: magazzino
+    replace:
+    - amgazzino
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: maggiore
+    replace:
+    - amggiore
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: maggiori
+    replace:
+    - magigori
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: magliette
+    replace:
+    - magleitte
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: manca
+    replace:
+    - amnca
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: mancano
+    replace:
+    - amcano
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: mancanza
+    replace:
+    - mancaza
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: manda
+    replace:
+    - amnda
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: mandagli
+    replace:
+    - madagli
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: mandare
+    replace:
+    - madnare
+    - madnare
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: mandato
+    replace:
+    - manato
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: mandavano
+    replace:
+    - mandavno
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: mando
+    replace:
+    - amndo
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: mangiare
+    replace:
+    - mangaire
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: manico
+    replace:
+    - manicco
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: maniera
+    replace:
+    - maneira
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: maniglie
+    replace:
+    - manigle
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: manteniamo
+    replace:
+    - ' manteiamo'
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: mantenimento
+    replace:
+    - mantenimeto
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: manualmente
+    replace:
+    - manualemten
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: manutenzione
+    replace:
+    - amnutenzione
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: marchio
+    replace:
+    - marhcio
+    - amrchio
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: massimo
+    replace:
+    - masismo
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: materassi
+    replace:
+    - amterassi
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: materiale
+    replace:
+    - amteriale
+    - amteriale
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: matrimonio
+    replace:
+    - amtrimonio
+    - amtrimonio
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: mattina
+    replace:
+    - mattian
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: meglio
+    replace:
+    - megli
+    - melgio
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: mente
+    replace:
+    - metne
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: mercato
+    replace:
+    - emrcato
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: mese
+    replace:
+    - emse
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: messaggi
+    replace:
+    - messagi
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: messaggio
+    replace:
+    - emssaggio
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: metodi
+    replace:
+    - meotdi
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: metodo
+    replace:
+    - medoto
+    - emtodo
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: mette
+    replace:
+    - emtte
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: mettendo
+    replace:
+    - metendo
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: mettercele
+    replace:
+    - mettercle
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: mettere
+    replace:
+    - emttere
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: metterli
+    replace:
+    - emtterli
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: mettermi
+    replace:
+    - emttermi
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: mettevo
+    replace:
+    - emttevo
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: metti
+    replace:
+    - emtti
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: mettiamo
+    replace:
+    - metttiamo
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: mettono
+    replace:
+    - emtono
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: migliaio
+    replace:
+    - miglialio
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: migliorare
+    replace:
+    - mgiliraore
+    - mgiliorare
+    - migliroare
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: migliorata
+    replace:
+    - migliroata
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: migliorava
+    replace:
+    - migliroava
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: migliori
+    replace:
+    - milgiori
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: milione
+    replace:
+    - miliome
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: minacciarci
+    replace:
+    - miancciarci
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: minaccio
+    replace:
+    - mianccio
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: minuti
+    replace:
+    - mnuti
+    - mnuti
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: mistica
+    replace:
+    - miatica
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: misure
+    replace:
+    - msiure
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: mobile
+    replace:
+    - modile
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: moderatore
+    replace:
+    - mdoeratore
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: modifiche
+    replace:
+    - mdofiche
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: modulo
+    replace:
+    - moudlo
+    - moudlo
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: molti
+    replace:
+    - mlti
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: montaggio
+    replace:
+    - montagigo
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: monumento
+    replace:
+    - monumenot
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: mostra
+    replace:
+    - msotra
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: mostri
+    replace:
+    - mostir
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: mouia
+    replace:
+    - muia
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: mucchio
+    replace:
+    - muchcio
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: muovere
+    replace:
+    - muivere
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: nascita
+    replace:
+    - anscita
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: nascosta
+    replace:
+    - nasconsta
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: nascosto
+    replace:
+    - nascsto
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: nazionale
+    replace:
+    - naizonale
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: neanche
+    replace:
+    - neache
+    - nanche
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: necessaria
+    replace:
+    - encessaria
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: necessario
+    replace:
+    - encessario
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: nei
+    replace:
+    - nie
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: nella
+    replace:
+    - enlla
+    - nelal
+    - nela
+    - nlla
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: nessun
+    replace:
+    - nesusn
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: nessuna
+    replace:
+    - nesusna
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: nessuno
+    replace:
+    - enssuno
+    - nesusno
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: niente
+    replace:
+    - niete
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: non
+    replace:
+    - enon
+    - nons
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: nostra
+    replace:
+    - nsotra
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: nostri
+    replace:
+    - nsotri
+    - snotri
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: nostro
+    replace:
+    - nostor
+    - nsotro
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: notare
+    replace:
+    - ntoare
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: notifica
+    replace:
+    - motifica
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: numerazione
+    replace:
+    - numeraione
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: nuova
+    replace:
+    - nuvoa
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: nuovamente
+    replace:
+    - nuovametne
+    - nuovametne
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: obbligatorie
+    replace:
+    - obbilgiatorie
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: oblique
+    replace:
+    - olbique
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: officiali
+    replace:
+    - oficiali
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: officine
+    replace:
+    - officne
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: oggetti
+    replace:
+    - oggeti
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: oggetto
+    replace:
+    - oggeto
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: ogni
+    replace:
+    - goni
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: oltre
+    replace:
+    - otlre
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: oltretutto
+    replace:
+    - olrtetutto
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: oltreutto
+    replace:
+    - otlretutto
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: opensource
+    replace:
+    - openosurce
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: operativo
+    replace:
+    - oeprativo
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: opposed
+    replace:
+    - opppsed
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: oppure
+    replace:
+    - opure
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: opzione
+    replace:
+    - zopione
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: opzioni
+    replace:
+    - ozpioni
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: oramai
+    replace:
+    - oaramai
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: ordine
+    replace:
+    - rodine
+    - oridne
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: ordini
+    replace:
+    - rodini
+    - oridni
+    - oridni
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: organi
+    replace:
+    - orgnai
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: organizza
+    replace:
+    - orgnaizza
+    - orgnaizza
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: organizzando
+    replace:
+    - orgnaizzando
+    - orgnaizzando
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: organizzano
+    replace:
+    - orgnaizzano
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: organizzarci
+    replace:
+    - orgnaizzarci
+    - orgniazzarci
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: organizzare
+    replace:
+    - orgnaizzare
+    - roganizzare
+    - orgnaizzare
+    - orgnaizzare
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: organizzarle
+    replace:
+    - orgnaizzarle
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: organizzarlo
+    replace:
+    - orgnaizzarlo
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: organizzarmi
+    replace:
+    - orgnaizzarmi
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: organizzarono
+    replace:
+    - orgnaizzarono
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: organizzarsi
+    replace:
+    - orgnaizzarsi
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: organizzarvi
+    replace:
+    - orgnaizzarvi
+    - organzzarvi
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: organizzati
+    replace:
+    - orgnaizzati
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: organizzativa
+    replace:
+    - orgnaizzativa
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: organizzative
+    replace:
+    - orgnaizzative
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: organizzativi
+    replace:
+    - orgnaizzativi
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: organizzativo
+    replace:
+    - orgnaizzativo
+    - orgnaizzativo
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: organizzato
+    replace:
+    - orgnaizzato
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: organizzavate
+    replace:
+    - organizzvate
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: organizzazione
+    replace:
+    - orgnaizzazione
+    - orgnaizzaizone
+    - orgnaizzazione
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: organizzeranno
+    replace:
+    - orgnaizzeranno
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: organizziamo
+    replace:
+    - orgnaizziamo
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: organizzo
+    replace:
+    - orgnaizzo
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: ormai
+    replace:
+    - omrai
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: oscuro
+    replace:
+    - oscruo
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: osservatorio
+    replace:
+    - osseravtorio
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: ottimizzazioni
+    replace:
+    - ottimizzaizoni
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: ovunque
+    replace:
+    - vounque
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: ovviamente
+    replace:
+    - ovviametne
+    - ovviametne
+    - ovviametne
+    - ovviametne
+    - ovviammnete
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: paese
+    replace:
+    - apese
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: pagamento
+    replace:
+    - apgamento
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: pagare
+    replace:
+    - apgare
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: pagina
+    replace:
+    - pagian
+    - pagia
+    - pagia
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: parallelamente
+    replace:
+    - paralellamente
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: parametri
+    replace:
+    - 'aprametri '
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: parametro
+    replace:
+    - aprametro
+    - apramentro
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: parecchia
+    replace:
+    - aprecchia
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: parecchie
+    replace:
+    - aprecchie
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: parecchio
+    replace:
+    - parecciho
+    - parechcio
+    - aprecchio
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: pareri
+    replace:
+    - apreri
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: pareti
+    replace:
+    - paerti
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: parlano
+    replace:
+    - palrano
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: parlare
+    replace:
+    - prlare
+    - paralre
+    - paralre
+    - pralare
+    - paralre
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: parlato
+    replace:
+    - aprlato
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: parliamo
+    replace:
+    - parliamno
+    - parlaimo
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: parola
+    replace:
+    - prarola
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: parole
+    replace:
+    - paroel
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: parte
+    replace:
+    - prate
+    - aprte
+    - partte
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: partecipa
+    replace:
+    - aprtecipa
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: partecipare
+    replace:
+    - aprtecipare
+    - aprteciapre
+    - parteciapre
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: partecipato
+    replace:
+    - aprtecipato
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: partecipazione
+    replace:
+    - partecipazioen
+    - aprtecipazione
+    - partecipaizone
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: particolare
+    replace:
+    - particoalre
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: partiva
+    replace:
+    - parrtiva
+    - aprtiva
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: passaggio
+    replace:
+    - passagio
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: passando
+    replace:
+    - opassndo
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: passaparola
+    replace:
+    - pasaparola
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: passare
+    replace:
+    - apssare
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: passati
+    replace:
+    - apassati
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: passato
+    replace:
+    - pasato
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: pasticci
+    replace:
+    - spaticci
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: paura
+    replace:
+    - apura
+    - apura
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: pausa
+    replace:
+    - apusa
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: pazzesca
+    replace:
+    - pazzzesca
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: peggio
+    replace:
+    - pegio
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: peggiore
+    replace:
+    - pegiore
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: pensa
+    replace:
+    - pennsa
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: pensato
+    replace:
+    - pesnato
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: pensavamo
+    replace:
+    - pesanvamo
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: pensiamoci
+    replace:
+    - pensaimoci
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: per
+    replace:
+    - pe
+    - er
+    - epr
+    - ppe
+    - epr
+    - epr
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: perdendo
+    replace:
+    - perndendo
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: perdere
+    replace:
+    - predere
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: perfetto
+    replace:
+    - perfeto
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: periodo
+    replace:
+    - epriodo
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: permetterebbe
+    replace:
+    - pemretterebbe
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: perso
+    replace:
+    - eprso
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: persona
+    replace:
+    - persoan
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: personaggio
+    replace:
+    - persoanggio
+    - prsonaggio
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: personale
+    replace:
+    - eprsonale
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: personalizzazioni
+    replace:
+    - persoalizzazioni
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: persone
+    replace:
+    - eprsone
+    - persoen
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: piace
+    replace:
+    - paice
+    - paice
+    - paice
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: piacere
+    replace:
+    - paicere
+    - piacree
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: piacerebbe
+    replace:
+    - paicerebbe
+    - paicerebbe
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: piacevole
+    replace:
+    - paicevole
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: piaciuto
+    replace:
+    - piacuto
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: piantato
+    replace:
+    - pinatato
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: piattaforma
+    replace:
+    - piatatforma
+    - piattafroma
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: piccola
+    replace:
+    - piccoal
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: piccoli
+    replace:
+    - picocli
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: pienissimo
+    replace:
+    - pienissio
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: poi
+    replace:
+    - ppoi
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: polemiche
+    replace:
+    - poelmiche
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: pomeriggio
+    replace:
+    - pomerigigo
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: porcherie
+    replace:
+    - procherie
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: portale
+    replace:
+    - protale
+    - portlae
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: portare
+    replace:
+    - protare
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: portatile
+    replace:
+    - protatile
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: portava
+    replace:
+    - protava
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: possiamo
+    replace:
+    - possimoa
+    - possiam
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: possibile
+    replace:
+    - possibiel
+    - possibiel
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: posso
+    replace:
+    - posos
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: poste
+    replace:
+    - spote
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: posti
+    replace:
+    - posit
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: potente
+    replace:
+    - poteten
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: potenzialmente
+    replace:
+    - potenizlmanete
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: poter
+    replace:
+    - ptoer
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: potete
+    replace:
+    - ptoete
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: poteva
+    replace:
+    - ptoeva
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: potrebbe
+    replace:
+    - ptoerbbe
+    - potrebe
+    - ptorebbe
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: potrebbero
+    replace:
+    - ptorebbero
+    - potrebero
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: potrei
+    replace:
+    - ptorei
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: potremmo
+    replace:
+    - potremm
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: potresti
+    replace:
+    - ptoresti
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: poveraccio
+    replace:
+    - poveracco
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: praticamente
+    replace:
+    - praticametne
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: prendere
+    replace:
+    - predenre
+    - prendenre
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: prenotare
+    replace:
+    - prentoare
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: prescindere
+    replace:
+    - prescidnere
+    - prescidenre
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: presentazione
+    replace:
+    - presentaizone
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: presentazioni
+    replace:
+    - presentaizoni
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: presente
+    replace:
+    - preente
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: presentino
+    replace:
+    - presnetino
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: pretendo
+    replace:
+    - prtendo
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: previsto
+    replace:
+    - previsot
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: prima
+    replace:
+    - pri
+    - prim
+    - priam
+    - pria
+    - priam
+    - rpima
+    - priam
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: principale
+    replace:
+    - princiaple
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: principalmente
+    replace:
+    - principlamente
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: privato
+    replace:
+    - prvato
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: probabilmente
+    replace:
+    - probabilmetne
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: problema
+    replace:
+    - rpoblema
+    - prlblema
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: prodotti
+    replace:
+    - prodoti
+    - porodotti
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: prodotto
+    replace:
+    - prodtto
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: produzione
+    replace:
+    - produzioen
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: professionale
+    replace:
+    - profesisonale
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: professionisti
+    replace:
+    - profesisonisti
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: progetto
+    replace:
+    - priogetto
+    - prgoetto
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: programma
+    replace:
+    - programam
+    - proramma
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: programmare
+    replace:
+    - programamre
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: programmato
+    replace:
+    - programamto
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: programmatore
+    replace:
+    - prgrammatore
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: programmatori
+    replace:
+    - programamtori
+    - progeammatori
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: proiettore
+    replace:
+    - proeittore
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: prontissime
+    replace:
+    - prosntissime
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: pronto
+    replace:
+    - prontt
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: propagazione
+    replace:
+    - propagaiozne
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: proporlo
+    replace:
+    - proprorlo
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: proporzioni
+    replace:
+    - proprozioni
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: proposito
+    replace:
+    - propostio
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: proposta
+    replace:
+    - posposta
+    - porposta
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: proposte
+    replace:
+    - porposte
+    - propsote
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: proposto
+    replace:
+    - proposot
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: proprietario
+    replace:
+    - prorpietario
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: proprio
+    replace:
+    - prorpio
+    - priprio
+    - orprio
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: prorogato
+    replace:
+    - prorogatp
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: prossima
+    replace:
+    - prossim
+    - prossiam
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: prossimamente
+    replace:
+    - prosimamente
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: prossimo
+    replace:
+    - prosismo
+    - rpossimo
+    - possimo
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: prototipi
+    replace:
+    - prototivi
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: prova
+    replace:
+    - rpova
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: provo
+    replace:
+    - rpovo
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: psicologa
+    replace:
+    - psicologaa
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: pubblica
+    replace:
+    - publica
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: pubblicazioni
+    replace:
+    - pubblicaizoni
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: pulito
+    replace:
+    - pultio
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: pulizia
+    replace:
+    - puzlia
+    - puliza
+    - pulizzia
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: punto
+    replace:
+    - putno
+    - punot
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: purchase
+    replace:
+    - pruchase
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: quadruplo
+    replace:
+    - quadruplio
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: qualche
+    replace:
+    - qualce
+    - qualhce
+    - qualceh
+    - quacleh
+    - qualceh
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: qualcosa
+    replace:
+    - quaclosa
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: qualcuno
+    replace:
+    - qulaucno
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: qualsiasi
+    replace:
+    - quasliasi
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: quando
+    replace:
+    - qaundo
+    - qunado
+    - qunado
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: quanto
+    replace:
+    - quanot
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: quella
+    replace:
+    - quelal
+    - ueqall
+    - qeulla
+    - quelal
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: quelli
+    replace:
+    - queli
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: quello
+    replace:
+    - uqello
+    - uqello
+    - quelo
+    - quelo
+    - qeullo
+    - uqello
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: questa
+    replace:
+    - uqesta
+    - qeusta
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: queste
+    replace:
+    - uqeste
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: questi
+    replace:
+    - quetsi
+    - qusti
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: questionario
+    replace:
+    - qeustionario
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: questione
+    replace:
+    - questioen
+    - quesitone
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: questo
+    replace:
+    - uesto
+    - qeusto
+    - quesot
+    - queto
+    - uqesto
+    - qeusto
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: quindi
+    replace:
+    - quinid
+    - quinid
+    - qundi
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: raccontarono
+    replace:
+    - racconrarono
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: raggruppare
+    replace:
+    - raggrupare
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: ragionare
+    replace:
+    - raguionare
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: rappresentanza
+    replace:
+    - rappresentaza
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: realizzazione
+    replace:
+    - relaizzazione
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: recensito
+    replace:
+    - recensiot
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: recentemente
+    replace:
+    - recenetemente
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: registrati
+    replace:
+    - regtistrati
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: registrazione
+    replace:
+    - regstrazione
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: registrazioni
+    replace:
+    - regisrtazioni
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: regola
+    replace:
+    - regoal
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: regolamento
+    replace:
+    - regolmaneto
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: reindirizza
+    replace:
+    - reinidirizza
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: reindirizzato
+    replace:
+    - reindirzzato
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: relativa
+    replace:
+    - reelativa
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: relazione
+    replace:
+    - realzione
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: responsabili
+    replace:
+    - reposnsabili
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: revisionare
+    replace:
+    - revisonare
+    - revisioanre
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: riaccendendo
+    replace:
+    - riaccendnedo
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: riapprovarla
+    replace:
+    - riapporvarla
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: riapri
+    replace:
+    - riaptri
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: riassunto
+    replace:
+    - rassiunto
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: riavvio
+    replace:
+    - riavivo
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: ricaricando
+    replace:
+    - ricarcando
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: richiede
+    replace:
+    - richede
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: richiedere
+    replace:
+    - richeide
+    - richeidere
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: richiesta
+    replace:
+    - richeista
+    - irchiesta
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: richieste
+    replace:
+    - recheiste
+    - richeiste
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: richiesto
+    replace:
+    - richeisto
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: riconoscere
+    replace:
+    - riconsocere
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: riconoscimento
+    replace:
+    - riconsocimento
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: ricontrollati
+    replace:
+    - ricontrolalti
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: riempito
+    replace:
+    - rimpeito
+    - rimpeito
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: riesce
+    replace:
+    - reisce
+    - risce
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: rifacendo
+    replace:
+    - rifancedo
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: riferissi
+    replace:
+    - refrissi
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: rifiuta
+    replace:
+    - rifitua
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: rifornimento
+    replace:
+    - riforinmenti
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: riguardano
+    replace:
+    - irugardano
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: riguardo
+    replace:
+    - rgiuardo
+    - rugardo
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: rilascia
+    replace:
+    - rialscia
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: rilasciano
+    replace:
+    - rialsciano
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: rilasciare
+    replace:
+    - rialsciare
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: rilasciarli
+    replace:
+    - rialsciarli
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: rilasciata
+    replace:
+    - rialsciata
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: rilasciato
+    replace:
+    - rialsciato
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: rilascio
+    replace:
+    - rialscio
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: rimando
+    replace:
+    - riamndo
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: rimarremo
+    replace:
+    - rimarrermo
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: rimborsate
+    replace:
+    - rimobrsate
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: rinnovare
+    replace:
+    - rinnvoare
+    - rinovare
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: rinunciato
+    replace:
+    - rinunicnato
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: riorganizzare
+    replace:
+    - riorgnaizzare
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: riparte
+    replace:
+    - riprte
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: ripetizione
+    replace:
+    - rieptizioni
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: riportare
+    replace:
+    - riprotare
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: ripresentarsi
+    replace:
+    - ripresesntarsi
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: risarcimento
+    replace:
+    - risaricmento
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: risolto
+    replace:
+    - rosolto
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: risolvere
+    replace:
+    - risovlere
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: risolviamo
+    replace:
+    - risovliamo
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: risparmiato
+    replace:
+    - rispariamto
+    - ripsarmiato
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: risponde
+    replace:
+    - riscponde
+    - rispodne
+    - rispodne
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: rispondendo
+    replace:
+    - ripondendo
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: risponderai
+    replace:
+    - rispodnerai
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: rispondere
+    replace:
+    - rispodnere
+    - rspiondre
+    - rispodnere
+    - ripsondere
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: rispondergli
+    replace:
+    - risponderlgi
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: rispondono
+    replace:
+    - rispondno
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: risposta
+    replace:
+    - rispota`
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: risposte
+    replace:
+    - ripsoste
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: risposto
+    replace:
+    - rispsoto
+    - rispsoto
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: risulta
+    replace:
+    - risutla
+    - risutla
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: risultare
+    replace:
+    - risutlare
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: risultati
+    replace:
+    - irsultati
+    - rislutati
+    - rsiultati
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: ritardo
+    replace:
+    - irtardo
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: ritrovare
+    replace:
+    - ritovare
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: riunione
+    replace:
+    - riunioone
+    - riunioen
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: riusare
+    replace:
+    - risuare
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: riusarlo
+    replace:
+    - risuarlo
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: riusato
+    replace:
+    - risuato
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: riusciamo
+    replace:
+    - riousciamo
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: riusciti
+    replace:
+    - riusxciti
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: riuscito
+    replace:
+    - riuscto
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: riusiamo
+    replace:
+    - rusiamo
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: rogne
+    replace:
+    - rogni
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: rompere
+    replace:
+    - romepre
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: salvati
+    replace:
+    - alvati
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: sanitari
+    replace:
+    - santiari
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: sanitizzati
+    replace:
+    - santizzati
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: sapere
+    replace:
+    - saper
+    - saepre
+    - sapre
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: sapevo
+    replace:
+    - sapeo
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: sapienza
+    replace:
+    - spaienza
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: saprei
+    replace:
+    - sapreo
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: sarebbe
+    replace:
+    - sarebe
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: sbagliati
+    replace:
+    - sbaglaiti
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: sbagliato
+    replace:
+    - sbaglaito
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: sbaglio
+    replace:
+    - sbalgio
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: sbattersi
+    replace:
+    - sbatersi
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: scansionare
+    replace:
+    - scansioanre
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: scappare
+    replace:
+    - scppare
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: scaricare
+    replace:
+    - scricare
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: scartoffie
+    replace:
+    - scartoeffie
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: scatole
+    replace:
+    - scatoel
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: scelgo
+    replace:
+    - sceglo
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: scelta
+    replace:
+    - scleta
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: scelto
+    replace:
+    - scleto
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: scheda
+    replace:
+    - scehda
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: scherziamo
+    replace:
+    - scherizmao
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: schiantare
+    replace:
+    - schianatare
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: sciacquone
+    replace:
+    - sciqauone
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: scommetto
+    replace:
+    - scommeto
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: scommettono
+    replace:
+    - scomettono
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: scomparsa
+    replace:
+    - scomaprsa
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: sconsigliata
+    replace:
+    - sconsiglaita
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: scontare
+    replace:
+    - scotnare
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: scoprire
+    replace:
+    - scroprire
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: scordato
+    replace:
+    - scrodato
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: scorsa
+    replace:
+    - scrosa
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: scorte
+    replace:
+    - scrote
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: scritto
+    replace:
+    - scrito
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: scrivendolo
+    replace:
+    - scirvendolo
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: scrivergli
+    replace:
+    - scrviergli
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: scriverlo
+    replace:
+    - scrivero
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: scrivessero
+    replace:
+    - scirvessero
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: scrivilo
+    replace:
+    - scrivlo
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: scrolla
+    replace:
+    - scrollla
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: scuola
+    replace:
+    - sucola
+    - scuoal
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: scusa
+    replace:
+    - scsua
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: se
+    replace:
+    - sen
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: secondo
+    replace:
+    - seocndo
+    - secndo
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: segnala
+    replace:
+    - sengala
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: segnalato
+    replace:
+    - segnalat
+    - segnalto
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: segnalazione
+    replace:
+    - segnalaizone
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: segnato
+    replace:
+    - sengato
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: segui
+    replace:
+    - seugi
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: sembra
+    replace:
+    - smebra
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: sembrava
+    replace:
+    - sebrava
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: semiautomatico
+    replace:
+    - semiautoamtico
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: semplice
+    replace:
+    - semplcie
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: semplicemente
+    replace:
+    - semplicemnete
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: semplificherebbe
+    replace:
+    - semplifhcerebbe
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: sempre
+    replace:
+    - semrpe
+    - sempee
+    - smepre
+    - smpere
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: senti
+    replace:
+    - sneti
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: sentiamo
+    replace:
+    - setniamo
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: sentirci
+    replace:
+    - senteirci
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: sentita
+    replace:
+    - sentta
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: sentito
+    replace:
+    - snetito
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: senza
+    replace:
+    - sena
+    - sneza
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: separati
+    replace:
+    - spearati
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: separatisti
+    replace:
+    - separatsti
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: servi
+    replace:
+    - srvi
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: servirebbe
+    replace:
+    - servirebe
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: servizio
+    replace:
+    - servioz
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: servono
+    replace:
+    - serovno
+    - serovno
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: settembre
+    replace:
+    - setembre
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: settimana
+    replace:
+    - settimna
+    - settiman
+    - setimana
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: sfortunatamente
+    replace:
+    - sfortunatamete
+    - sfortuantamente
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: siamo
+    replace:
+    - siao
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: siccome
+    replace:
+    - siccoem
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: sicuramente
+    replace:
+    - sicuramte
+    - sicurametne
+    - sincerametne
+    - sicurametne
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: sicurezza
+    replace:
+    - iscurezza
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: siete
+    replace:
+    - seiti
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: significa
+    replace:
+    - siginifica
+    - sginifica
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: significati
+    replace:
+    - sginificati
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: significherebbe
+    replace:
+    - sginificherebbe
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: simpatico
+    replace:
+    - simaptico
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: sinceramente
+    replace:
+    - sinceramenten
+    - siceramente
+    - sincerammente
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: singola
+    replace:
+    - singoal
+    - signola
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: singolarmente
+    replace:
+    - singolrmente
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: sistemare
+    replace:
+    - sistamre
+    - sistamre
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: sistemazione
+    replace:
+    - sistamaizone
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: sistemo
+    replace:
+    - sistmeo
+    - sistmeo
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: situazione
+    replace:
+    - stiauzione
+    - situaizone
+    - situaizone
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: sofisticato
+    replace:
+    - sofistiacto
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: solitamente
+    replace:
+    - solitasmente
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: solito
+    replace:
+    - oslito
+    - solto
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: soltanto
+    replace:
+    - soltaont
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: soluzione
+    replace:
+    - osluzione
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: sondagio
+    replace:
+    - sondagigo
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: sono
+    replace:
+    - osno
+    - sonmo
+    - osno
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: sopratutto
+    replace:
+    - sopatutto
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: sorprendermi
+    replace:
+    - soprendermi
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: sostituisco
+    replace:
+    - sostistuisco
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: sottodominio
+    replace:
+    - sttodominio
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: spaventando
+    replace:
+    - spaventanto
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: spazio
+    replace:
+    - spaizo
+    - spaizo
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: spegnere
+    replace:
+    - spengere
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: spende
+    replace:
+    - spene
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: sperimentare
+    replace:
+    - sperimetnare
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: spiegano
+    replace:
+    - spiegnao
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: spiegato
+    replace:
+    - speigato
+    - psiegato
+    - speigato
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: spiegazione
+    replace:
+    - speigazione
+    - spiegaizone
+    - spiegazioen
+    - speigazione
+    - speigazione
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: spiegazioni
+    replace:
+    - spiegaizoni
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: spiego
+    replace:
+    - psiego
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: spingere
+    replace:
+    - spignere
+    - spingre
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: sponsorizzato
+    replace:
+    - sponsorizzatro
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: sporcare
+    replace:
+    - sprocare
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: spostare
+    replace:
+    - spsotare
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: sprite
+    replace:
+    - spirte
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: sputo
+    replace:
+    - psuto
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: stamattina
+    replace:
+    - stamattian
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: stampare
+    replace:
+    - stmapare
+    - stamapre
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: stanno
+    replace:
+    - stanho
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: statistiche
+    replace:
+    - staitstiche
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: stava
+    replace:
+    - satava
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: stavo
+    replace:
+    - stavao
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: stazione
+    replace:
+    - staizone
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: stessa
+    replace:
+    - tessa
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: stiamo
+    replace:
+    - sitamo
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: storico
+    replace:
+    - sotirco
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: strada
+    replace:
+    - sttada
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: studentesche
+    replace:
+    - studentesce
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: stupendi
+    replace:
+    - stupedi
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: succederanno
+    replace:
+    - sucederanno
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: successivamente
+    replace:
+    - sucessivamente
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: successivo
+    replace:
+    - sucessivo
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: successo
+    replace:
+    - sucesso
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: sufficente
+    replace:
+    - sufficinte
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: sufficiente
+    replace:
+    - sufficente
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: sufficienti
+    replace:
+    - sufficenti
+    - sufficenti
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: suggerimenti
+    replace:
+    - suggeriemnti
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: sulla
+    replace:
+    - sulal
+    - sulal
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: sulle
+    replace:
+    - sulel
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: supporto
+    replace:
+    - spporto
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: svenire
+    replace:
+    - svnire
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: sviluppare
+    replace:
+    - sivluppare
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: sviluppatori
+    replace:
+    - svilupaptori
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: svolta
+    replace:
+    - svolat
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: taglie
+    replace:
+    - tagle
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: tamponare
+    replace:
+    - tampoanre
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: tante
+    replace:
+    - tnate
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: tanti
+    replace:
+    - tnait
+    - tnati
+    - ntanti
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: tanto
+    replace:
+    - tnato
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: tappare
+    replace:
+    - tapapre
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: tartaruga
+    replace:
+    - tartargua
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: tastiera
+    replace:
+    - tasteira
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: telefonare
+    replace:
+    - telefoanre
+    - telefoanre
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: telefonarmi
+    replace:
+    - telefornarmi
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: telefono
+    replace:
+    - telfeono
+    - telfono
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: tema
+    replace:
+    - ltema
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: temo
+    replace:
+    - tenmo
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: tempi
+    replace:
+    - tmepi
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: tempo
+    replace:
+    - tmepo
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: tentativi
+    replace:
+    - tentaivi
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: teoria
+    replace:
+    - terosia
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: terapia
+    replace:
+    - tarpia
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: terminale
+    replace:
+    - termianle
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: termini
+    replace:
+    - temrini
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: tienile
+    replace:
+    - tenile
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: timeout
+    replace:
+    - timoeut
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: togliere
+    replace:
+    - togleire
+    - toglire
+    - togleire
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: toglierei
+    replace:
+    - toglerei
+    - togleirei
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: tolgono
+    replace:
+    - toglono
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: tornato
+    replace:
+    - trnato
+    - toranto
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: tracciamento
+    replace:
+    - tracciamneto
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: traduzione
+    replace:
+    - traduzioen
+    - tradzuione
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: tranquillamente
+    replace:
+    - tranquillametne
+    - tranquillmanete
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: tranquilli
+    replace:
+    - trnaquilli
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: trasferimento
+    replace:
+    - tasferimento
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: trasforma
+    replace:
+    - trasfroma
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: trastevere
+    replace:
+    - trasntevere
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: tratterebbe
+    replace:
+    - tratterenbbe
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: triste
+    replace:
+    - trsite
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: trovare
+    replace:
+    - trvare
+    - torvare
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: trovato
+    replace:
+    - trvato
+    - trovaot
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: trovi
+    replace:
+    - trovu
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: tuo
+    replace:
+    - tup
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: tutela
+    replace:
+    - tutetla
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: tutte
+    replace:
+    - tutet
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: tutti
+    replace:
+    - tutit
+    - tutit
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: tutto
+    replace:
+    - tuto
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: uguali
+    replace:
+    - ugiali
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: ultima
+    replace:
+    - ultiam
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: ultimi
+    replace:
+    - utlimi
+    - lutimi
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: un
+    replace:
+    - u
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: una
+    replace:
+    - uan
+    - uan
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: universitari
+    replace:
+    - unviersitari
+    - unviersitari
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: universitaria
+    replace:
+    - unviersitria
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: "universit\xE0"
+    replace:
+    - "unviersit\xE0"
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: usabile
+    replace:
+    - suabile
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: usare
+    replace:
+    - suare
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: usate
+    replace:
+    - suate
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: utenti
+    replace:
+    - utneti
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: utile
+    replace:
+    - tuile
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: utilizzare
+    replace:
+    - utilizzre
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: vacanze
+    replace:
+    - vancaze
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: vado
+    replace:
+    - vaod
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: validazione
+    replace:
+    - validazioen
+    - validazioen
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: valutare
+    replace:
+    - valtuare
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: valutazioni
+    replace:
+    - valutaizoni
+    - valutaizoni
+    - valutaizoni
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: variazioni
+    replace:
+    - variaizoni
+    - variaizoni
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: vecchio
+    replace:
+    - vechcio
+    - vechcio
+    - vechcio
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: vedere
+    replace:
+    - vedree
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: vediamo
+    replace:
+    - vediam
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: vedrei
+    replace:
+    - vederi
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: vendiamo
+    replace:
+    - nvediamo
+    - vendiao
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: veramente
+    replace:
+    - verametne
+    - verametne
+    - verametne
+    - vermente
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: verifica
+    replace:
+    - varifica
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: verificando
+    replace:
+    - verificano
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: verranno
+    replace:
+    - verrano
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: verrebbe
+    replace:
+    - verrebe
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: versione
+    replace:
+    - verisoen
+    - verisone
+    - vrsione
+    - versioen
+    - vrsione
+    - vrsione
+    - verisone
+    - iversone
+    - verione
+    - verisone
+    - verisoen
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: versioni
+    replace:
+    - verisoni
+    - versoni
+    - verisoni
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: verso
+    replace:
+    - vesro
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: vicesindaco
+    replace:
+    - vicensidanco
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: vincere
+    replace:
+    - vicnere
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: virgola
+    replace:
+    - verigola
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: virtuale
+    replace:
+    - vrituale
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: visualizzazione
+    replace:
+    - visualizazione
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: vogliamo
+    replace:
+    - vigliamo
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: voglio
+    replace:
+    - volio
+    - volgio
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: volantino
+    replace:
+    - vloantino
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: volesse
+    replace:
+    - volese
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: volete
+    replace:
+    - voelte
+    - voelte
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: volontari
+    replace:
+    - ovltnoari
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: volta
+    replace:
+    - votla
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: vorranno
+    replace:
+    - vorrano
+    - vrrano
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: vorrebbe
+    replace:
+    - vorrebe
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: vorrei
+    replace:
+    - voreri
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: vostro
+    replace:
+    - vostor
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: vulnerabile
+    replace:
+    - vulenrabile
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: "vulnerabilit\xE1"
+    replace:
+    - "vulenrabilit\xE1"
+    propagate_case: 'true'
+    word: 'true'
+- - trigger: webinar
+    replace:
+    - webianr
+    propagate_case: 'true'
+    word: 'true'
