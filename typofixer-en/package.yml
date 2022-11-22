@@ -19925,6 +19925,10 @@ matches:
     replace: wife's
     propagate_case: 'true'
     word: 'true'
+- - trigger: wikpedia
+    replace: wikipedia
+    propagate_case: 'true'
+    word: 'true'
 - - trigger: weild
     replace: wild
     propagate_case: 'true'

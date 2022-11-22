@@ -40,7 +40,7 @@ for filename in file:
                         ]
                     )
                 counter[lang]["typos"] += len(misspelled_words)
-            with open("typofixer-" + lang + "/package.yaml", "w") as yaml_file:
+            with open("typofixer-" + lang + "/package.yml", "w") as yaml_file:
                 yaml.dump(yaml_content, yaml_file, sort_keys=False)
 
 print("Finished")
