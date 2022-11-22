@@ -13,10 +13,10 @@ I preferred to migrate to Espanso for various reasons:
 
 ## Status
 
-* **English**: <!--en-words-->0<!--en-words-end--> with <!--en-typos-->0<!--en-typos-end-->
-* **French**: <!--fr-words-->0<!--fr-words-end--> with <!--fr-typos-->0<!--fr-typos-end-->
-* **Italian**: <!--it-words-->0<!--it-words-end--> with <!--it-typos-->0<!--it-typos-end-->
-* **Spanish**: <!--es-words-->0<!--es-words-end--> with <!--es-typos-->0<!--es-typos-end-->
+* **English**: *<!--en-words-->4382<!--en-words-end-->* words with *<!--en-typos-->5046<!--en-typos-end-->*  typos
+* **French**: *<!--fr-words-->69<!--fr-words-end-->* words with *<!--fr-typos-->70<!--fr-typos-end-->* typos
+* **Italian**: *<!--it-words-->1174<!--it-words-end-->* words with *<!--it-typos-->1544<!--it-typos-end-->* typos
+* **Spanish**: *<!--es-words-->103<!--es-words-end-->* words with *<!--es-typos-->118<!--es-typos-end-->* typos
 
 ## How works
 
@@ -26,6 +26,5 @@ The `tools` folder includes some script to convert a CSV to JSON and removed dup
 
 ## TODO
 
-* Update Readme with numbers for all the languages
 * Define how to upload the packages for espanso hub
 * Fix `tools` to work outside the original python project

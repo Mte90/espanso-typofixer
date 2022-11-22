@@ -60,4 +60,5 @@ with open("./readme.md", "r") as f:
             readme,
         )
 
-    print(readme)
+with open("./readme.md", "w") as writer:
+    writer.write(readme)
