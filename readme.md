@@ -22,7 +22,7 @@ I preferred to migrate to Espanso for various reasons:
 
 The words list are in the words folder in JSON format, the `generator.py` script generate the `.yml` files for the various languages.
 
-The `tools` folder includes some script to convert a CSV to JSON and remove duplicates.
+The `tools` folder includes some script to convert a CSV to JSON, remove duplicates, GUI to add new word (all based on SyntaxAutoFix).
 
 ## TODO
 
