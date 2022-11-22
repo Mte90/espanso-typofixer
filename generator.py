@@ -5,6 +5,7 @@ from json import load
 from collections import OrderedDict
 import os
 import yaml
+import re
 
 file = Path("./words").glob("*.json")
 counter = {
@@ -44,3 +45,19 @@ for filename in file:
 
 print("Finished")
 print(counter)
+
+with open("./readme.md", "r") as f:
+    readme = f.read()
+    for lang in counter:
+        readme = re.sub(
+            "<!--" + lang + "-words-->.*<!--" + lang + "-words-end-->",
+            "<!--" + lang + "-words-->" + str(counter[lang]["words"]) + "<!--" + lang + "-words-end-->",
+            readme,
+        )
+        readme = re.sub(
+            "<!--" + lang + "-typos-->.*<!--" + lang + "-typos-end-->",
+            "<!--" + lang + "-typos-->" + str(counter[lang]["typos"]) + "<!--" + lang + "-typos-end-->",
+            readme,
+        )
+
+    print(readme)

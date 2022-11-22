@@ -13,10 +13,10 @@ I preferred to migrate to Espanso for various reasons:
 
 ## Status
 
-* **English**: <!--en-words-->0<!--en-words-end--> with <!--en-tipos-->0<!--en-tipos-end-->
-* **French**: <!--fr-words-->0<!--fr-words-end--> with <!--fr-tipos-->0<!--fr-tipos-end-->
-* **Italian**: <!--it-words-->0<!--it-words-end--> with <!--it-tipos-->0<!--it-tipos-end-->
-* **Spanish**: <!--es-words-->0<!--es-words-end--> with <!--es-tipos-->0<!--es-tipos-end-->
+* **English**: <!--en-words-->0<!--en-words-end--> with <!--en-typos-->0<!--en-typos-end-->
+* **French**: <!--fr-words-->0<!--fr-words-end--> with <!--fr-typos-->0<!--fr-typos-end-->
+* **Italian**: <!--it-words-->0<!--it-words-end--> with <!--it-typos-->0<!--it-typos-end-->
+* **Spanish**: <!--es-words-->0<!--es-words-end--> with <!--es-typos-->0<!--es-typos-end-->
 
 ## How works
 
