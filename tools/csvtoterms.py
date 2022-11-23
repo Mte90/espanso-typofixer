@@ -12,7 +12,7 @@ parser.add_argument('-lang', dest="lang", type=str, required=True)
 args = parser.parse_args()
 
 script_path = os.path.dirname(os.path.realpath(__file__))
-script_path = os.path.join(script_path, 'SyntaxAutoFix/words/' + args.lang + '.json')
+script_path = os.path.join(script_path, '/../words/' + args.lang + '.json')
 
 typo_data = open_typo_file(script_path)
 with open(args.file) as csv_file:
