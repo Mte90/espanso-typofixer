@@ -30,14 +30,12 @@ for filename in file:
             for (correct_word, misspelled_words) in json.items():
                 for misspelled_word in misspelled_words:
                     yaml_content["matches"].append(
-                        [
-                            {
+                        {
                                 "trigger": misspelled_word,
                                 "replace": correct_word,
                                 "propagate_case": "true",
                                 "word": "true",
-                            }
-                        ]
+                        }
                     )
                 counter[lang]["typos"] += len(misspelled_words)
             with open("typofixer-" + lang + "/package.yml", "w") as yaml_file:
