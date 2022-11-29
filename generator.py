@@ -31,10 +31,10 @@ for filename in file:
                 for misspelled_word in misspelled_words:
                     yaml_content["matches"].append(
                         {
-                                "trigger": misspelled_word,
-                                "replace": correct_word,
-                                "propagate_case": "true",
-                                "word": "true",
+                            "trigger": misspelled_word,
+                            "replace": correct_word,
+                            "propagate_case": True,
+                            "word": True,
                         }
                     )
                 counter[lang]["typos"] += len(misspelled_words)
