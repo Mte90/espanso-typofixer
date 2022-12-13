@@ -1,12 +1,28 @@
 name: typofixer-fr
 parent: default
 matches:
+- trigger: cène
+  replace: Cène
+  propagate_case: true
+  word: true
+- trigger: Guyana
+  replace: Guiana
+  propagate_case: true
+  word: true
+- trigger: Israëlien
+  replace: Israélien
+  propagate_case: true
+  word: true
+- trigger: Israëliens
+  replace: Israéliens
+  propagate_case: true
+  word: true
 - trigger: aggression
   replace: agression
   propagate_case: true
   word: true
 - trigger: arreter
-  replace: "arr\xEAter"
+  replace: arrêter
   propagate_case: true
   word: true
 - trigger: ascenceur
@@ -22,7 +38,7 @@ matches:
   propagate_case: true
   word: true
 - trigger: belle-soeur
-  replace: "belle-s\u0153ur"
+  replace: belle-sœur
   propagate_case: true
   word: true
 - trigger: bitter
@@ -33,20 +49,16 @@ matches:
   replace: bleus
   propagate_case: true
   word: true
-- trigger: "bug\xE9taire"
-  replace: "budg\xE9taire"
-  propagate_case: true
-  word: true
-- trigger: "\xE7a et l\xE0"
-  replace: "\xE7\xE0 et l\xE0"
+- trigger: bugétaire
+  replace: budgétaire
   propagate_case: true
   word: true
 - trigger: casress
   replace: caresse
   propagate_case: true
   word: true
-- trigger: "cath\xE9chisme"
-  replace: "cat\xE9chisme"
+- trigger: cathéchisme
+  replace: catéchisme
   propagate_case: true
   word: true
 - trigger: cauchemard
@@ -57,10 +69,6 @@ matches:
   replace: cauchemars
   propagate_case: true
   word: true
-- trigger: "c\xE8ne"
-  replace: "C\xE8ne"
-  propagate_case: true
-  word: true
 - trigger: championat
   replace: championnat
   propagate_case: true
@@ -69,24 +77,16 @@ matches:
   replace: ci-dessus
   propagate_case: true
   word: true
-- trigger: collophane
-  replace: colophane
-  propagate_case: true
-  word: true
 - trigger: colocateur
   replace: colocataire
   propagate_case: true
   word: true
-- trigger: colon
-  replace: "c\xF4lon"
+- trigger: collophane
+  replace: colophane
   propagate_case: true
   word: true
-- trigger: colons
-  replace: "c\xF4lons"
-  propagate_case: true
-  word: true
-- trigger: "comp\xE9tivit\xE9"
-  replace: "comp\xE9titivit\xE9"
+- trigger: compétivité
+  replace: compétitivité
   propagate_case: true
   word: true
 - trigger: concience
@@ -97,32 +97,36 @@ matches:
   replace: croisement
   propagate_case: true
   word: true
-- trigger: "d\xE9barasser"
-  replace: "d\xE9barrasser"
+- trigger: colon
+  replace: côlon
   propagate_case: true
   word: true
-- trigger: "d\xE9fete"
-  replace: "d\xE9faite"
-  propagate_case: true
-  word: true
-- trigger: "d\xE9f\xE8te"
-  replace: "d\xE9faite"
+- trigger: colons
+  replace: côlons
   propagate_case: true
   word: true
 - trigger: derniere
-  replace: "derni\xE8re"
+  replace: dernière
+  propagate_case: true
+  word: true
+- trigger: débarasser
+  replace: débarrasser
+  propagate_case: true
+  word: true
+- trigger: défète
+  replace: défaite
+  propagate_case: true
+  word: true
+- trigger: défete
+  replace: défaite
   propagate_case: true
   word: true
 - trigger: deshydrogenase
-  replace: "d\xE9shydrog\xE9nase"
+  replace: déshydrogénase
   propagate_case: true
   word: true
-- trigger: ect.
-  replace: etc.
-  propagate_case: true
-  word: true
-- trigger: "ellesm\xEAmes"
-  replace: "elles-m\xEAmes"
+- trigger: ellesmêmes
+  replace: elles-mêmes
   propagate_case: true
   word: true
 - trigger: entre-gens
@@ -133,24 +137,12 @@ matches:
   replace: entrepreneuriat
   propagate_case: true
   word: true
-- trigger: etaient
-  replace: "\xE9taient"
-  propagate_case: true
-  word: true
-- trigger: etait
-  replace: "\xE9tait"
-  propagate_case: true
-  word: true
-- trigger: etaits
-  replace: "\xE9taits"
-  propagate_case: true
-  word: true
-- trigger: etre
-  replace: "\xEAtre"
+- trigger: ect.
+  replace: etc.
   propagate_case: true
   word: true
 - trigger: experimental
-  replace: "exp\xE9rimental"
+  replace: expérimental
   propagate_case: true
   word: true
 - trigger: fachisme
@@ -169,47 +161,31 @@ matches:
   replace: fascistes
   propagate_case: true
   word: true
-- trigger: flotille
-  replace: flottille
-  propagate_case: true
-  word: true
 - trigger: flotilles
   replace: flotrilles
   propagate_case: true
   word: true
-- trigger: "f\u0153hn"
+- trigger: flotille
+  replace: flottille
+  propagate_case: true
+  word: true
+- trigger: fœhn
   replace: foehn
   propagate_case: true
   word: true
-- trigger: Guyana
-  replace: Guiana
-  propagate_case: true
-  word: true
-- trigger: "i\xE7i"
+- trigger: içi
   replace: ici
-  propagate_case: true
-  word: true
-- trigger: "il\xF4t"
-  replace: "\xEElot"
   propagate_case: true
   word: true
 - trigger: inclu
   replace: inclus
   propagate_case: true
   word: true
-- trigger: "Isra\xEBlien"
-  replace: "Isra\xE9lien"
-  propagate_case: true
-  word: true
-- trigger: "Isra\xEBliens"
-  replace: "Isra\xE9liens"
-  propagate_case: true
-  word: true
 - trigger: lipofucsine
   replace: lipofuscine
   propagate_case: true
   word: true
-- trigger: "mer\xE7i"
+- trigger: merçi
   replace: merci
   propagate_case: true
   word: true
@@ -229,16 +205,16 @@ matches:
   replace: par-la
   propagate_case: true
   word: true
-- trigger: "patin \xE0 roues"
-  replace: "patin \xE0 roulettes"
+- trigger: patin à roues
+  replace: patin à roulettes
   propagate_case: true
   word: true
-- trigger: "pendre la cr\xE9malli\xE8re"
-  replace: "pendre la cr\xE9maill\xE8re"
+- trigger: pendre la crémallière
+  replace: pendre la crémaillère
   propagate_case: true
   word: true
-- trigger: "peut \xEAtre"
-  replace: "peut-\xEAtre"
+- trigger: peut être
+  replace: peut-être
   propagate_case: true
   word: true
 - trigger: pouasse
@@ -249,20 +225,20 @@ matches:
   replace: pourparlers
   propagate_case: true
   word: true
-- trigger: "prot\xE9ge"
-  replace: "prot\xE8ge"
+- trigger: protége
+  replace: protège
   propagate_case: true
   word: true
-- trigger: "qualit\xE9e"
-  replace: "qualit\xE9"
+- trigger: qualitée
+  replace: qualité
   propagate_case: true
   word: true
-- trigger: "r\xF4der"
+- trigger: rôder
   replace: roder
   propagate_case: true
   word: true
 - trigger: saynette
-  replace: "sayn\xE8te"
+  replace: saynète
   propagate_case: true
   word: true
 - trigger: soit-disant
@@ -278,6 +254,30 @@ matches:
   propagate_case: true
   word: true
 - trigger: trompe l'oeil
-  replace: "trompe-l\u2019\u0153il"
+  replace: trompe-l’œil
+  propagate_case: true
+  word: true
+- trigger: ça et là
+  replace: çà et là
+  propagate_case: true
+  word: true
+- trigger: etaient
+  replace: étaient
+  propagate_case: true
+  word: true
+- trigger: etait
+  replace: était
+  propagate_case: true
+  word: true
+- trigger: etaits
+  replace: étaits
+  propagate_case: true
+  word: true
+- trigger: etre
+  replace: être
+  propagate_case: true
+  word: true
+- trigger: ilôt
+  replace: îlot
   propagate_case: true
   word: true

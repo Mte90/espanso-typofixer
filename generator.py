@@ -16,7 +16,7 @@ counter = {
 }
 for filename in file:
     if os.path.isfile(filename):
-        with open(filename, "r") as f:
+        with open(filename, "r", encoding='utf-8') as f:
             print("Parsing " + str(filename) + " language")
             lang = os.path.splitext(os.path.basename(filename))
             lang = lang[0]
@@ -38,8 +38,8 @@ for filename in file:
                         }
                     )
                 counter[lang]["typos"] += len(misspelled_words)
-            with open("typofixer-" + lang + "/package.yml", "w") as yaml_file:
-                yaml.dump(yaml_content, yaml_file, sort_keys=False)
+            with open("typofixer-" + lang + "/package.yml", "w", encoding='utf-8') as yaml_file:
+                yaml.dump(yaml_content, yaml_file, sort_keys=False, allow_unicode=True)
 
 print("Finished")
 print(counter)
