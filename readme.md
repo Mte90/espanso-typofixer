@@ -10,7 +10,7 @@
 
 * **English**: *<!--en-words-->4383<!--en-words-end-->* words with *<!--en-typos-->5025<!--en-typos-end-->* typos
 * **French**: *<!--fr-words-->69<!--fr-words-end-->* words with *<!--fr-typos-->70<!--fr-typos-end-->* typos
-* **Italian**: *<!--it-words-->1182<!--it-words-end-->* words with *<!--it-typos-->1436<!--it-typos-end-->* typos
+* **Italian**: *<!--it-words-->1183<!--it-words-end-->* words with *<!--it-typos-->1437<!--it-typos-end-->* typos
 * **Spanish**: *<!--es-words-->103<!--es-words-end-->* words with *<!--es-typos-->118<!--es-typos-end-->* typos
 
 ## Story

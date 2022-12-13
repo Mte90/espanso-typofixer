@@ -2717,6 +2717,10 @@ matches:
   replace: mancanza
   propagate_case: true
   word: true
+- trigger: manacava
+  replace: mancava
+  propagate_case: true
+  word: true
 - trigger: amnda
   replace: manda
   propagate_case: true
