@@ -2,7 +2,7 @@
 import argparse
 import logging
 import os.path
-from SyntaxAutoFix.utils import open_typo_file
+from SyntaxAutoFix.utils import open_typo_file, save_typo_data
 
 
 def parse_argument(_parser_):
@@ -36,8 +36,9 @@ def main():
 
     # Store argument
     script_path = os.path.dirname(os.path.realpath(__file__))
-    script_path = os.path.join(script_path, 'SyntaxAutoFix/words/')
+    script_path = os.path.join(script_path, '../words/')
     words = load_language(args, script_path)
+    cleaned_words = {}
     for (correct, wrongs) in words.items():
         for wrong in wrongs:
             if wrong == correct:
@@ -47,6 +48,13 @@ def main():
                 continue
             if wrong:
                 term_is_typo_of_another_word(wrong, words)
+        _words = [*set(wrongs)]
+        cleaned_words[correct] = _words
+
+    logging.info(
+        f"NOTICE: File cleaned by typos duplicated."
+    )
+    save_typo_data(script_path + args.lang + '.json', cleaned_words)
 
 
 if __name__ == "__main__":
