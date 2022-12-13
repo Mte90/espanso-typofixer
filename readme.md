@@ -41,4 +41,4 @@ The words/typos list are in the words folder in JSON format, the [generator.py](
 
 ## TODO
 
-* Define how to upload the packages for espanso hub
+* Looking for an automated way to publish new packages on espanso hub
