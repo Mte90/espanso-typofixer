@@ -26,6 +26,7 @@ I preferred to migrate to [Espanso](https://espanso.org) for various reasons:
 * Opening to a wide more usage to gather more typos
 * Espanso has unit tests and better support
 * Espanso is multiplatform so also Windows and OSX
+* Espanso support any uppercase/lowercase letters or mixed
 
 # How contribute
 
