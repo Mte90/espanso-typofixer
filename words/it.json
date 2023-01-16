@@ -37,6 +37,9 @@
     "accede": [
         "acede"
     ],
+    "accedere": [
+        "acedere"
+    ],
     "accessi": [
         "acessi"
     ],
@@ -192,7 +195,8 @@
         "altr"
     ],
     "altrimenti": [
-        "altriemnti"
+        "altriemnti",
+        "ltrimenti"
     ],
     "altro": [
         "alotr",
@@ -1362,6 +1366,9 @@
     "generare": [
         "generaer"
     ],
+    "generato": [
+        "generto"
+    ],
     "genitore": [
         "gentiore"
     ],
@@ -1483,6 +1490,9 @@
     "impianta": [
         "impianata"
     ],
+    "impiegarci": [
+        "impiegrci"
+    ],
     "implementare": [
         "implemntare"
     ],
@@ -1495,7 +1505,8 @@
     "importante": [
         "importate",
         "imporntate",
-        "importanete"
+        "importanete",
+        "imporrtante"
     ],
     "importare": [
         "oimportare"
@@ -2600,6 +2611,9 @@
         "prlblema",
         "rpoblema"
     ],
+    "problemi": [
+        "provlemi"
+    ],
     "prodotti": [
         "porodotti",
         "prodoti"
@@ -2794,6 +2808,9 @@
     ],
     "raccontarono": [
         "racconrarono"
+    ],
+    "raddoppi": [
+        "rddoppi"
     ],
     "raggruppare": [
         "raggrupare"
@@ -3329,7 +3346,8 @@
         "sginificherebbe"
     ],
     "simpatico": [
-        "simaptico"
+        "simaptico",
+        "simptico"
     ],
     "sinceramente": [
         "sincerammente",
@@ -3602,7 +3620,8 @@
     ],
     "togliere": [
         "toglire",
-        "togleire"
+        "togleire",
+        "tgoliere"
     ],
     "toglierei": [
         "toglerei",
@@ -3624,7 +3643,8 @@
     ],
     "tranquillamente": [
         "tranquillametne",
-        "tranquillmanete"
+        "tranquillmanete",
+        "tranquillmaente"
     ],
     "tranquilli": [
         "trnaquilli"
@@ -3665,7 +3685,9 @@
         "tutet"
     ],
     "tutti": [
-        "tutit"
+        "tutit",
+        "tuutti",
+        "tuttti"
     ],
     "tutto": [
         "tuto"
