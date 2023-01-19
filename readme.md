@@ -8,9 +8,9 @@
 
 ## Status (per last update)
 
-* **English**: *<!--en-words-->4383<!--en-words-end-->* words with *<!--en-typos-->5025<!--en-typos-end-->* typos
+* **English**: *<!--en-words-->4384<!--en-words-end-->* words with *<!--en-typos-->5030<!--en-typos-end-->* typos
 * **French**: *<!--fr-words-->69<!--fr-words-end-->* words with *<!--fr-typos-->70<!--fr-typos-end-->* typos
-* **Italian**: *<!--it-words-->1183<!--it-words-end-->* words with *<!--it-typos-->1437<!--it-typos-end-->* typos
+* **Italian**: *<!--it-words-->1202<!--it-words-end-->* words with *<!--it-typos-->1468<!--it-typos-end-->* typos
 * **Spanish**: *<!--es-words-->103<!--es-words-end-->* words with *<!--es-typos-->118<!--es-typos-end-->* typos
 
 ## Story
@@ -30,7 +30,9 @@ I preferred to migrate to [Espanso](https://espanso.org) for various reasons:
 
 # How contribute
 
-With [manageterms-gui.py](https://github.com/Mte90/espanso-typofixer/blob/master/tools/manageterms-gui.py) you can have a nice UI to add a single term manually to a word file. Next you can do a PR with your json with all the new words to this repository. This script requires `PyQT` installed.
+The word database is not inside the various `typofixer-*` folder by language but inside the [words](https://github.com/Mte90/espanso-typofixer/tree/master/words) folder in a JSON format.
+
+With [manageterms-gui.py](https://github.com/Mte90/espanso-typofixer/blob/master/tools/manageterms-gui.py) you have a nice UI to add a single term manually to a word file. Next you can do a PR with your json with all the new words to this repository. This script requires `PyQT` installed.
 
 Otherwise if you have a CSV file with [csvtoterms.py](https://github.com/Mte90/espanso-typofixer/blob/master/tools/csvtoterms.py) you can add automatically to the JSON file.
 
@@ -38,7 +40,7 @@ The [tools](https://github.com/Mte90/espanso-typofixer/tree/master/tools) folder
 
 ## How generate a Espanso package
 
-The words/typos list are in the words folder in JSON format, the [generator.py](https://github.com/Mte90/espanso-typofixer/blob/master/generator.py) script generate the `.yml` files for the various languages (for dependencies check the `requirements.txt` file).
+The [generator.py](https://github.com/Mte90/espanso-typofixer/blob/master/generator.py) script generate the `.yml` files for the various languages (for dependencies check the `requirements.txt` file).
 
 ## TODO
 
