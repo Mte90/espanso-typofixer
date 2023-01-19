@@ -248,6 +248,9 @@
     "animazioni": [
         "animaizoni"
     ],
+    "annullare": [
+        "annulare"
+    ],
     "annullato": [
         "annulato"
     ],
@@ -1366,6 +1369,9 @@
     "generare": [
         "generaer"
     ],
+    "generata": [
+        "gnerata"
+    ],
     "generato": [
         "generto"
     ],
@@ -1533,7 +1539,8 @@
         "incerdibile"
     ],
     "indirizzo": [
-        "idirizzo"
+        "idirizzo",
+        "idinrizzo"
     ],
     "inevitabilmente": [
         "inveitabilmente"
@@ -2279,6 +2286,9 @@
         "pagia",
         "pagian"
     ],
+    "paio": [
+        "apio"
+    ],
     "parallelamente": [
         "paralellamente"
     ],
@@ -2298,7 +2308,8 @@
     "parecchio": [
         "parechcio",
         "parecciho",
-        "aprecchio"
+        "aprecchio",
+        "precchio"
     ],
     "pareri": [
         "apreri"
@@ -2408,6 +2419,9 @@
         "ppe",
         "epr",
         "pe"
+    ],
+    "perch\u00e9": [
+        "perch\u00e8"
     ],
     "perdendo": [
         "perndendo"
@@ -2689,7 +2703,8 @@
     "proprio": [
         "priprio",
         "orprio",
-        "prorpio"
+        "prorpio",
+        "propio"
     ],
     "prorogato": [
         "prorogatp"

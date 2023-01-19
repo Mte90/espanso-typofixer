@@ -42,7 +42,6 @@ for filename in file:
                 yaml.dump(yaml_content, yaml_file, sort_keys=False, allow_unicode=True)
 
 print("Finished")
-print(counter)
 
 with open("./readme.md", "r") as f:
     readme = f.read()
