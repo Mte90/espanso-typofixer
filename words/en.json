@@ -1408,6 +1408,9 @@
     "another": [
         "anotehr"
     ],
+    "answering": [
+        "asnwering"
+    ],
     "anthropologist": [
         "anthropolgist"
     ],
@@ -2164,6 +2167,9 @@
     ],
     "blew": [
         "blowed"
+    ],
+    "blockchain": [
+        "blockchan"
     ],
     "blossom": [
         "blossem"
@@ -3040,6 +3046,12 @@
     "complicated": [
         "complciated"
     ],
+    "component": [
+        "componenet"
+    ],
+    "components": [
+        "componenets"
+    ],
     "comprehensive": [
         "comphrehensive"
     ],
@@ -3836,6 +3848,9 @@
     "demeanour": [
         "damenor",
         "demenor"
+    ],
+    "democrats": [
+        "deomcrats"
     ],
     "demographic": [
         "demographical"
@@ -4880,6 +4895,9 @@
     ],
     "ensued": [
         "unsued"
+    ],
+    "enter": [
+        "eneter"
     ],
     "entered": [
         "entred"
@@ -13666,7 +13684,8 @@
         "iwth",
         "witht",
         "wtih",
-        "iwht"
+        "iwht",
+        "wit"
     ],
     "withdraw": [
         "withdrawl"

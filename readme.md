@@ -1,17 +1,22 @@
-# Espanso-Typofixer
-[![License](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](http://www.gnu.org/licenses/gpl-3.0)   
-
-* https://hub.espanso.org/typofixer-en
-* https://hub.espanso.org/typofixer-es
-* https://hub.espanso.org/typofixer-fr
-* https://hub.espanso.org/typofixer-it
+# Espanso-Typofixer [![License](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](http://www.gnu.org/licenses/gpl-3.0)   
 
 ## Status (per last update)
 
-* **English**: *<!--en-words-->4384<!--en-words-end-->* words with *<!--en-typos-->5030<!--en-typos-end-->* typos
-* **French**: *<!--fr-words-->69<!--fr-words-end-->* words with *<!--fr-typos-->70<!--fr-typos-end-->* typos
-* **Italian**: *<!--it-words-->1202<!--it-words-end-->* words with *<!--it-typos-->1468<!--it-typos-end-->* typos
-* **Spanish**: *<!--es-words-->103<!--es-words-end-->* words with *<!--es-typos-->118<!--es-typos-end-->* typos
+* [![https://hub.espanso.org/typofixer-en](https://img.shields.io/badge/typofixer-%F0%9F%87%AC%F0%9F%87%A7%20%F0%9F%87%BA%F0%9F%87%B8-white.svg)]([https://hub.espanso.org/typofixer-en]): *<!--en-words-->4384<!--en-words-end-->* words with *<!--en-typos-->5030<!--en-typos-end-->* typos
+* [![https://hub.espanso.org/typofixer-fr](https://img.shields.io/badge/typofixer-%F0%9F%87%AB%F0%9F%87%B7%20-white.svg)](https://hub.espanso.org/typofixer-fr): *<!--fr-words-->69<!--fr-words-end-->* words with *<!--fr-typos-->70<!--fr-typos-end-->* typos
+* [![https://hub.espanso.org/typofixer-it](https://img.shields.io/badge/typofixer-%F0%9F%87%AE%F0%9F%87%B9%20-white.svg)](https://hub.espanso.org/typofixer-it): *<!--it-words-->1202<!--it-words-end-->* words with *<!--it-typos-->1468<!--it-typos-end-->* typos
+* [![https://hub.espanso.org/typofixer-es](https://img.shields.io/badge/typofixer-%F0%9F%87%AA%F0%9F%87%B8%20-white.svg)](https://hub.espanso.org/typofixer-es): *<!--es-words-->103<!--es-words-end-->* words with *<!--es-typos-->118<!--es-typos-end-->* typos
+
+## I want the development version!
+
+Upload a new espanso package is very unconfortable right now, if it was possible I will release a new one every week automatically but every step is manual.
+If you want the latest update list, you need to follow that steps:
+
+* Download this repository
+* Execute the `generator.py` script
+* Pick from the folders for every language the `package.yml` file
+* Go on Linux to `/home/your-user/.config/espanso/match/packages/` and put that file in the corresponding package you installed
+* Espanso (if running) will refresh automatically to the new terms
 
 ## Story
 

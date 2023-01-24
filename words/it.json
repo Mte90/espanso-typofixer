@@ -318,6 +318,9 @@
         "apsettare",
         "aspetare"
     ],
+    "aspettavi": [
+        "apsettavi"
+    ],
     "aspettavo": [
         "aspetavo"
     ],
@@ -409,6 +412,9 @@
     ],
     "balle": [
         "balel"
+    ],
+    "bamboccioni": [
+        "bsmboccioni"
     ],
     "barbara": [
         "barabra"
@@ -818,10 +824,14 @@
         "consdierare"
     ],
     "considerate": [
-        "consdierate"
+        "consdierate",
+        "cobsiderate"
     ],
     "consideriamo": [
         "consdieriamo"
+    ],
+    "consiglio": [
+        "consilgio"
     ],
     "contattare": [
         "cotnatt"
@@ -976,6 +986,9 @@
     ],
     "dicevo": [
         "dcevo"
+    ],
+    "differenti": [
+        "differetnti"
     ],
     "differenza": [
         "diferenza"
@@ -1153,6 +1166,9 @@
     ],
     "entrambe": [
         "netrambe"
+    ],
+    "entrambi": [
+        "emtrabi"
     ],
     "entrano": [
         "entrnao"
@@ -1383,6 +1399,9 @@
     ],
     "gioiello": [
         "gioello"
+    ],
+    "giorgia": [
+        "gioriga"
     ],
     "giorni": [
         "gionri",
@@ -1808,6 +1827,9 @@
     ],
     "locazione": [
         "localzione"
+    ],
+    "luglio": [
+        "lulgio"
     ],
     "macchina": [
         "amcchina",
@@ -2262,6 +2284,9 @@
     ],
     "osservatorio": [
         "osseravtorio"
+    ],
+    "ottimamente": [
+        "ottiamente"
     ],
     "ottimizzazioni": [
         "ottimizzaizoni"
@@ -2727,6 +2752,9 @@
     "prova": [
         "rpova"
     ],
+    "province": [
+        "provincie"
+    ],
     "provo": [
         "rpovo"
     ],
@@ -2923,6 +2951,9 @@
     ],
     "ricontrollati": [
         "ricontrolalti"
+    ],
+    "riempie": [
+        "rimpie"
     ],
     "riempito": [
         "rimpeito"
@@ -3173,6 +3204,9 @@
     "scheda": [
         "scehda"
     ],
+    "schermo": [
+        "scermo"
+    ],
     "scherziamo": [
         "scherizmao"
     ],
@@ -3210,7 +3244,8 @@
         "scrote"
     ],
     "scritto": [
-        "scrito"
+        "scrito",
+        "scirto"
     ],
     "scrivendolo": [
         "scirvendolo"
@@ -3242,14 +3277,16 @@
     ],
     "secondo": [
         "secndo",
-        "seocndo"
+        "seocndo",
+        "sencondo"
     ],
     "segnala": [
         "sengala"
     ],
     "segnalato": [
         "segnalto",
-        "segnalat"
+        "segnalat",
+        "sgnalato"
     ],
     "segnalazione": [
         "segnalaizone"
@@ -3509,6 +3546,9 @@
     ],
     "strada": [
         "sttada"
+    ],
+    "stressarlo": [
+        "strssearlo"
     ],
     "studentesche": [
         "studentesce"
@@ -3873,17 +3913,5 @@
     ],
     "webinar": [
         "webianr"
-    ],
-    "luglio": [
-        "lulgio"
-    ],
-     "consiglio": [
-        "consilgio"
-    ],
-     "giorgia": [
-        "gioriga"
-    ],
-     "aspettavi": [
-        "apsettavi"
-    ]    
+    ]
 }
