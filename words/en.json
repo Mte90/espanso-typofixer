@@ -2605,6 +2605,9 @@
     "changeable": [
         "changable"
     ],
+    "changes": [
+        "cnahges"
+    ],
     "changeset": [
         "ghangeset"
     ],
@@ -3699,7 +3702,8 @@
         "dangerious"
     ],
     "dashboard": [
-        "dashbaord"
+        "dashbaord",
+        "dahsboard"
     ],
     "daub": [
         "doub"
@@ -5169,7 +5173,8 @@
         "excecuting"
     ],
     "execution": [
-        "excecution"
+        "excecution",
+        "exeuction"
     ],
     "exempt": [
         "exampt"
@@ -5246,6 +5251,9 @@
     ],
     "explain": [
         "expalin"
+    ],
+    "explains": [
+        "exaplins"
     ],
     "explanation": [
         "explination"
@@ -5772,7 +5780,8 @@
         "fragement"
     ],
     "framework": [
-        "frameowkr"
+        "frameowkr",
+        "franework"
     ],
     "fraught": [
         "frought"
@@ -6147,7 +6156,8 @@
         "hapened"
     ],
     "happening": [
-        "hapening"
+        "hapening",
+        "ahppening"
     ],
     "harass": [
         "harrassing",
@@ -10401,6 +10411,9 @@
     "recurring": [
         "reccuring"
     ],
+    "reddit": [
+        "reddti"
+    ],
     "redevelopment": [
         "redevelopement"
     ],
@@ -10568,6 +10581,9 @@
     ],
     "remnants": [
         "remanants"
+    ],
+    "rempo": [
+        "rempo"
     ],
     "rendering": [
         "redenring"
@@ -13274,7 +13290,8 @@
     "various": [
         "varois",
         "varous",
-        "vaiours"
+        "vaiours",
+        "variosu"
     ],
     "variously": [
         "variosly"
@@ -13390,6 +13407,9 @@
     ],
     "vicinity": [
         "vacinity"
+    ],
+    "video": [
+        "vidoe"
     ],
     "view": [
         "veiw"

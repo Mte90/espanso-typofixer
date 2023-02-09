@@ -13,7 +13,8 @@
     "abbiamo": [
         "abbimoa",
         "abbaimo",
-        "abbimo"
+        "abbimo",
+        "abiamo"
     ],
     "abbonamento": [
         "abonamento"
@@ -135,6 +136,9 @@
     "aggreghiamo": [
         "agreghiamo"
     ],
+    "agosto": [
+        "agsoto"
+    ],
     "aiutano": [
         "aiutnao"
     ],
@@ -254,6 +258,9 @@
     "annullato": [
         "annulato"
     ],
+    "anticipo": [
+        "aticipo"
+    ],
     "antonio": [
         "antono"
     ],
@@ -313,6 +320,9 @@
     ],
     "aspettando": [
         "apsettando"
+    ],
+    "aspettano": [
+        "aspettnao"
     ],
     "aspettare": [
         "apsettare",
@@ -657,11 +667,17 @@
         "ocme",
         "comne"
     ],
+    "cominciando": [
+        "comnciando"
+    ],
     "commentato": [
         "commetnato"
     ],
     "commento": [
         "commentio"
+    ],
+    "comparazione": [
+        "comaprazione"
     ],
     "compatibili": [
         "comaptibili"
@@ -716,6 +732,9 @@
     ],
     "compri": [
         "cmpri"
+    ],
+    "comunicare": [
+        "counicare"
     ],
     "comunicazione": [
         "comunicziaone",
@@ -783,7 +802,8 @@
         "confgiurazione",
         "configuarazione",
         "condigurazione",
-        "configurazioen"
+        "configurazioen",
+        "configuraizone"
     ],
     "confusione": [
         "confusioen"
@@ -850,7 +870,8 @@
         "conteto"
     ],
     "continuare": [
-        "continaure"
+        "continaure",
+        "contiunare"
     ],
     "continuo": [
         "contunuo"
@@ -884,6 +905,9 @@
     ],
     "copia": [
         "copai"
+    ],
+    "copiare": [
+        "copaire"
     ],
     "coraggio": [
         "coragio"
@@ -986,6 +1010,9 @@
     ],
     "dicevo": [
         "dcevo"
+    ],
+    "dicitura": [
+        "dicutira"
     ],
     "differenti": [
         "differetnti"
@@ -1106,8 +1133,12 @@
         "domaned",
         "doamnde"
     ],
+    "domanderete": [
+        "domandarete"
+    ],
     "domani": [
-        "doamni"
+        "doamni",
+        "doani"
     ],
     "dominio": [
         "dominipo"
@@ -1192,7 +1223,8 @@
         "esattametne"
     ],
     "esempio": [
-        "eempio"
+        "eempio",
+        "esemio"
     ],
     "esiste": [
         "essite"
@@ -1273,6 +1305,9 @@
     "farla": [
         "afrla"
     ],
+    "fastidio": [
+        "farsidio"
+    ],
     "fatemelo": [
         "ffatemelo"
     ],
@@ -1288,7 +1323,8 @@
     ],
     "febbraio": [
         "febbrai",
-        "febraio"
+        "febraio",
+        "fabbraio"
     ],
     "fermato": [
         "femrato"
@@ -1307,6 +1343,9 @@
     ],
     "filmare": [
         "filmanre"
+    ],
+    "finalmente": [
+        "finalemente"
     ],
     "fine": [
         "ifne"
@@ -1353,6 +1392,9 @@
     "francesco": [
         "frnacesco"
     ],
+    "frase": [
+        "frawe"
+    ],
     "frattempo": [
         "frattmepo",
         "fratempo"
@@ -1367,7 +1409,8 @@
         "funizona"
     ],
     "funzionante": [
-        "funzionate"
+        "funzionate",
+        "funzionente"
     ],
     "funzionare": [
         "funzioanre"
@@ -1380,7 +1423,8 @@
         "fuznione"
     ],
     "funzioni": [
-        "funizoni"
+        "funizoni",
+        "fuznioni"
     ],
     "generare": [
         "generaer"
@@ -1776,7 +1820,8 @@
         "leggereemnte"
     ],
     "lentamente": [
-        "lentamnete"
+        "lentamnete",
+        "lenatamente"
     ],
     "letto": [
         "eltto",
@@ -2296,7 +2341,8 @@
     ],
     "ovviamente": [
         "ovviammnete",
-        "ovviametne"
+        "ovviametne",
+        "ovviaemnte"
     ],
     "paese": [
         "apese"
@@ -2334,7 +2380,8 @@
         "parechcio",
         "parecciho",
         "aprecchio",
-        "precchio"
+        "precchio",
+        "parechio"
     ],
     "pareri": [
         "apreri"
@@ -2401,7 +2448,8 @@
         "pasaparola"
     ],
     "passare": [
-        "apssare"
+        "apssare",
+        "pasare"
     ],
     "passati": [
         "apassati"
@@ -2515,6 +2563,9 @@
     "pienissimo": [
         "pienissio"
     ],
+    "pizza": [
+        "piza"
+    ],
     "poi": [
         "ppoi"
     ],
@@ -2595,6 +2646,15 @@
     "praticamente": [
         "praticametne"
     ],
+    "predefinito": [
+        "rpedefinito"
+    ],
+    "predisposta": [
+        "predispsota"
+    ],
+    "premier": [
+        "prmier"
+    ],
     "prendere": [
         "predenre",
         "prendenre"
@@ -2651,7 +2711,8 @@
         "rpoblema"
     ],
     "problemi": [
-        "provlemi"
+        "provlemi",
+        "porblemi"
     ],
     "prodotti": [
         "porodotti",
@@ -2729,7 +2790,8 @@
         "priprio",
         "orprio",
         "prorpio",
-        "propio"
+        "propio",
+        "proproo"
     ],
     "prorogato": [
         "prorogatp"
@@ -2751,6 +2813,9 @@
     ],
     "prova": [
         "rpova"
+    ],
+    "proviamoci": [
+        "provaimoci"
     ],
     "province": [
         "provincie"
@@ -2775,6 +2840,9 @@
         "puzlia",
         "pulizzia"
     ],
+    "puntate": [
+        "puntante"
+    ],
     "punto": [
         "punot",
         "putno"
@@ -2792,7 +2860,8 @@
         "qualce"
     ],
     "qualcosa": [
-        "quaclosa"
+        "quaclosa",
+        "qualcoa"
     ],
     "qualcuno": [
         "qulaucno"
@@ -2818,7 +2887,8 @@
     "quello": [
         "qeullo",
         "uqello",
-        "quelo"
+        "quelo",
+        "quallo"
     ],
     "questa": [
         "qeusta",
@@ -2875,6 +2945,9 @@
     ],
     "registrati": [
         "regtistrati"
+    ],
+    "registratori": [
+        "regsitratori"
     ],
     "registrazione": [
         "regstrazione"
@@ -2934,7 +3007,8 @@
     ],
     "richiesta": [
         "irchiesta",
-        "richeista"
+        "richeista",
+        "rchiesta"
     ],
     "richieste": [
         "recheiste",
@@ -3016,6 +3090,12 @@
     ],
     "rimborsate": [
         "rimobrsate"
+    ],
+    "rimettendomi": [
+        "riemttendomi"
+    ],
+    "rimuovere": [
+        "rimuovre"
     ],
     "rinnovare": [
         "rinnvoare",
@@ -3142,6 +3222,9 @@
     "salvati": [
         "alvati"
     ],
+    "salvato": [
+        "savalto"
+    ],
     "sanitari": [
         "santiari"
     ],
@@ -3192,6 +3275,9 @@
     "scatole": [
         "scatoel"
     ],
+    "scegliere": [
+        "scegeliere"
+    ],
     "scelgo": [
         "sceglo"
     ],
@@ -3209,6 +3295,9 @@
     ],
     "scherziamo": [
         "scherizmao"
+    ],
+    "schianta": [
+        "schianata"
     ],
     "schiantare": [
         "schianatare"
@@ -3442,6 +3531,9 @@
     "soluzione": [
         "osluzione"
     ],
+    "sondaggio": [
+        "sodnaggio"
+    ],
     "sondagio": [
         "sondagigo"
     ],
@@ -3586,6 +3678,9 @@
     "sulle": [
         "sulel"
     ],
+    "suonato": [
+        "suoanto"
+    ],
     "supporto": [
         "spporto"
     ],
@@ -3619,13 +3714,17 @@
         "tnait"
     ],
     "tanto": [
-        "tnato"
+        "tnato",
+        "tnto"
     ],
     "tappare": [
         "tapapre"
     ],
     "tartaruga": [
         "tartargua"
+    ],
+    "tassazione": [
+        "tassazioe"
     ],
     "tastiera": [
         "tasteira"
@@ -3719,6 +3818,9 @@
     "triste": [
         "trsite"
     ],
+    "trova": [
+        "trva"
+    ],
     "trovare": [
         "torvare",
         "trvare"
@@ -3727,8 +3829,12 @@
         "trovaot",
         "trvato"
     ],
+    "trovava": [
+        "trvava"
+    ],
     "trovi": [
-        "trovu"
+        "trovu",
+        "rtovi"
     ],
     "tuo": [
         "tup"
@@ -3746,6 +3852,9 @@
     ],
     "tutto": [
         "tuto"
+    ],
+    "ufficialmente": [
+        "ufficiaalmente"
     ],
     "uguali": [
         "ugiali"
