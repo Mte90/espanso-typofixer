@@ -84,6 +84,9 @@
     "affrontata": [
         "affrotnata"
     ],
+    "aggiornamenti": [
+        "aggiornemtni"
+    ],
     "aggiornamento": [
         "agigornamento",
         "aggiornametno"
@@ -805,6 +808,9 @@
         "configurazioen",
         "configuraizone"
     ],
+    "configurazioni": [
+        "configuraizoni"
+    ],
     "confusione": [
         "confusioen"
     ],
@@ -1232,6 +1238,9 @@
     "espande": [
         "epsande"
     ],
+    "esperanto": [
+        "epseranto"
+    ],
     "esperienza": [
         "epserienza",
         "espereienza"
@@ -1382,6 +1391,9 @@
     ],
     "forse": [
         "frose"
+    ],
+    "fortuna": [
+        "fortuan"
     ],
     "fotocopiatrice": [
         "fotocopitraice"
@@ -1601,6 +1613,9 @@
     "incredibile": [
         "incerdibile"
     ],
+    "indietro": [
+        "inidetro"
+    ],
     "indirizzo": [
         "idirizzo",
         "idinrizzo"
@@ -1678,7 +1693,8 @@
         "intnaot",
         "intato",
         "intant",
-        "intnato"
+        "intnato",
+        "intano"
     ],
     "integrazioni": [
         "integraizoni"
@@ -1737,6 +1753,9 @@
     ],
     "interno": [
         "itnerno"
+    ],
+    "introduzione": [
+        "intrdozuione"
     ],
     "inutile": [
         "intuile"
@@ -2057,6 +2076,9 @@
     "milione": [
         "miliome"
     ],
+    "minacciando": [
+        "miancciando"
+    ],
     "minacciarci": [
         "miancciarci"
     ],
@@ -2333,6 +2355,9 @@
     "ottimamente": [
         "ottiamente"
     ],
+    "ottimizzate": [
+        "ottimizate"
+    ],
     "ottimizzazioni": [
         "ottimizzaizoni"
     ],
@@ -2396,6 +2421,9 @@
         "paralre",
         "prlare",
         "pralare"
+    ],
+    "parlarne": [
+        "pralarne"
     ],
     "parlato": [
         "aprlato"
@@ -2737,6 +2765,9 @@
     "programma": [
         "proramma",
         "programam"
+    ],
+    "programmando": [
+        "progrmmando"
     ],
     "programmare": [
         "programamre"
@@ -3094,6 +3125,9 @@
     "rimettendomi": [
         "riemttendomi"
     ],
+    "rimontarlo": [
+        "rimotnarlo"
+    ],
     "rimuovere": [
         "rimuovre"
     ],
@@ -3141,6 +3175,9 @@
         "rispariamto",
         "ripsarmiato"
     ],
+    "rispettare": [
+        "rispetare"
+    ],
     "risponde": [
         "riscponde",
         "rispodne"
@@ -3170,6 +3207,9 @@
     ],
     "risposto": [
         "rispsoto"
+    ],
+    "ristretto": [
+        "ritrestto"
     ],
     "risulta": [
         "risutla"
@@ -3396,7 +3436,8 @@
         "semiautoamtico"
     ],
     "semplice": [
-        "semplcie"
+        "semplcie",
+        "smeplice"
     ],
     "semplicemente": [
         "semplicemnete"
@@ -3627,6 +3668,9 @@
     "stazione": [
         "staizone"
     ],
+    "stefano": [
+        "stefnao"
+    ],
     "stessa": [
         "tessa"
     ],
@@ -3637,7 +3681,8 @@
         "sotirco"
     ],
     "strada": [
-        "sttada"
+        "sttada",
+        "strda"
     ],
     "stressarlo": [
         "strssearlo"
@@ -3715,7 +3760,8 @@
     ],
     "tanto": [
         "tnato",
-        "tnto"
+        "tnto",
+        "tano"
     ],
     "tappare": [
         "tapapre"
@@ -3942,6 +3988,9 @@
     ],
     "verificando": [
         "verificano"
+    ],
+    "verificato": [
+        "vrificato"
     ],
     "verranno": [
         "verrano"
