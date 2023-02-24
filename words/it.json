@@ -517,6 +517,9 @@
     "campagne": [
         "camapgne"
     ],
+    "campo": [
+        "cmpo"
+    ],
     "cancellare": [
         "cancelalre"
     ],
@@ -589,6 +592,9 @@
     "chi": [
         "hci"
     ],
+    "chiacchierata": [
+        "chiachcierata"
+    ],
     "chiamare": [
         "chiarare"
     ],
@@ -637,6 +643,9 @@
     "cifra": [
         "cfira"
     ],
+    "citazioni": [
+        "citaizoni"
+    ],
     "coinvolgere": [
         "coinvoglere"
     ],
@@ -644,7 +653,8 @@
         "collbaorazione"
     ],
     "collaborazioni": [
-        "collaborzioni"
+        "collaborzioni",
+        "collaboraizoni"
     ],
     "collegare": [
         "colelgare"
@@ -678,6 +688,9 @@
     ],
     "commento": [
         "commentio"
+    ],
+    "commerciale": [
+        "comemrciale"
     ],
     "comparazione": [
         "comaprazione"
@@ -857,7 +870,8 @@
         "consdieriamo"
     ],
     "consiglio": [
-        "consilgio"
+        "consilgio",
+        "consighlio"
     ],
     "contattare": [
         "cotnatt"
@@ -983,7 +997,8 @@
         "dle"
     ],
     "della": [
-        "delal"
+        "delal",
+        "dela"
     ],
     "delle": [
         "dele",
@@ -1019,6 +1034,9 @@
     ],
     "dicitura": [
         "dicutira"
+    ],
+    "dietro": [
+        "dieotr"
     ],
     "differenti": [
         "differetnti"
@@ -1270,6 +1288,9 @@
     "estrae": [
         "estrate"
     ],
+    "estrarre": [
+        "estrare"
+    ],
     "estratte": [
         "etsratte"
     ],
@@ -1313,6 +1334,9 @@
     ],
     "farla": [
         "afrla"
+    ],
+    "farlo": [
+        "falro"
     ],
     "fastidio": [
         "farsidio"
@@ -1360,7 +1384,8 @@
         "ifne"
     ],
     "finestra": [
-        "finiestra"
+        "finiestra",
+        "fienstra"
     ],
     "finisce": [
         "ffinisce"
@@ -1426,6 +1451,9 @@
     ],
     "funzionare": [
         "funzioanre"
+    ],
+    "funzionato": [
+        "funzunato"
     ],
     "funzionavano": [
         "funzioanvano"
@@ -1666,7 +1694,8 @@
         "inietata"
     ],
     "inoltre": [
-        "inolter"
+        "inolter",
+        "inotlre"
     ],
     "insalata": [
         "inslata"
@@ -2352,6 +2381,9 @@
     "osservatorio": [
         "osseravtorio"
     ],
+    "ottima": [
+        "otima"
+    ],
     "ottimamente": [
         "ottiamente"
     ],
@@ -2369,6 +2401,9 @@
         "ovviametne",
         "ovviaemnte"
     ],
+    "pacchettone": [
+        "paccehttone"
+    ],
     "paese": [
         "apese"
     ],
@@ -2384,6 +2419,9 @@
     ],
     "paio": [
         "apio"
+    ],
+    "paraddossalmente": [
+        "pradossalmente"
     ],
     "parallelamente": [
         "paralellamente"
@@ -2531,7 +2569,8 @@
         "predere"
     ],
     "perfetto": [
-        "perfeto"
+        "perfeto",
+        "pereftto"
     ],
     "periodo": [
         "epriodo"
@@ -2706,8 +2745,14 @@
     "presente": [
         "preente"
     ],
+    "presentiamo": [
+        "presnetiamo"
+    ],
     "presentino": [
         "presnetino"
+    ],
+    "presso": [
+        "persso"
     ],
     "pretendo": [
         "prtendo"
@@ -2740,7 +2785,8 @@
     ],
     "problemi": [
         "provlemi",
-        "porblemi"
+        "porblemi",
+        "prblemi"
     ],
     "prodotti": [
         "porodotti",
@@ -2794,6 +2840,9 @@
     "propagazione": [
         "propagaiozne"
     ],
+    "propongo": [
+        "porpongo"
+    ],
     "proporlo": [
         "proprorlo"
     ],
@@ -2813,6 +2862,9 @@
     ],
     "proposto": [
         "proposot"
+    ],
+    "propri": [
+        "prorpi"
     ],
     "proprietario": [
         "prorpietario"
@@ -3013,6 +3065,9 @@
     ],
     "riaccendendo": [
         "riaccendnedo"
+    ],
+    "riaggiorni": [
+        "riaggioni"
     ],
     "riapprovarla": [
         "riapporvarla"
@@ -3276,6 +3331,9 @@
         "sapre",
         "saper"
     ],
+    "saperlo": [
+        "sperlo"
+    ],
     "sapevo": [
         "sapeo"
     ],
@@ -3367,7 +3425,8 @@
         "scrodato"
     ],
     "scorsa": [
-        "scrosa"
+        "scrosa",
+        "scora"
     ],
     "scorte": [
         "scrote"
@@ -3407,7 +3466,8 @@
     "secondo": [
         "secndo",
         "seocndo",
-        "sencondo"
+        "sencondo",
+        "secodno"
     ],
     "segnala": [
         "sengala"
@@ -3441,6 +3501,9 @@
     ],
     "semplicemente": [
         "semplicemnete"
+    ],
+    "semplici": [
+        "samplici"
     ],
     "semplificherebbe": [
         "semplifhcerebbe"
@@ -3800,6 +3863,9 @@
     "tentativi": [
         "tentaivi"
     ],
+    "tentazione": [
+        "tentaizone"
+    ],
     "teoria": [
         "terosia"
     ],
@@ -3962,6 +4028,9 @@
     ],
     "variazioni": [
         "variaizoni"
+    ],
+    "varie": [
+        "vaire"
     ],
     "vecchio": [
         "vechcio"
