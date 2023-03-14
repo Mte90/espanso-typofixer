@@ -85,7 +85,8 @@
         "affrotnata"
     ],
     "aggiornamenti": [
-        "aggiornemtni"
+        "aggiornemtni",
+        "agigornamenti"
     ],
     "aggiornamento": [
         "agigornamento",
@@ -132,6 +133,9 @@
     ],
     "aggiunto": [
         "agignto"
+    ],
+    "aggiustarglielo": [
+        "aggiustrglielo"
     ],
     "aggregazione": [
         "aggregazoine"
@@ -181,7 +185,8 @@
     "almeno": [
         "almneo",
         "lameno",
-        "almeo"
+        "almeo",
+        "alneno"
     ],
     "alternative": [
         "alterantive"
@@ -300,6 +305,9 @@
     "arrivare": [
         "arivare"
     ],
+    "arrivata": [
+        "arivata"
+    ],
     "arrivati": [
         "arivati"
     ],
@@ -336,6 +344,9 @@
     ],
     "aspettavo": [
         "aspetavo"
+    ],
+    "aspettiamo": [
+        "aspttiamo"
     ],
     "assicurare": [
         "assicuare"
@@ -418,7 +429,8 @@
         "avenuto"
     ],
     "azienda": [
-        "azineda"
+        "azineda",
+        "aizneda"
     ],
     "azione": [
         "aziine"
@@ -444,6 +456,9 @@
     ],
     "batteria": [
         "batteira"
+    ],
+    "bel": [
+        "mel"
     ],
     "bella": [
         "belal"
@@ -713,6 +728,12 @@
     "completa": [
         "compelta"
     ],
+    "completamente": [
+        "completamnete"
+    ],
+    "completo": [
+        "compoleto"
+    ],
     "complicato": [
         "complciato"
     ],
@@ -746,6 +767,9 @@
     "compreso": [
         "comrpeso"
     ],
+    "compressi": [
+        "comrpessi`"
+    ],
     "compri": [
         "cmpri"
     ],
@@ -770,7 +794,8 @@
         "conunque",
         "comnuque",
         "comuinque",
-        "comuncue"
+        "comuncue",
+        "comunqu"
     ],
     "con": [
         "ocn"
@@ -931,6 +956,9 @@
     ],
     "coraggio": [
         "coragio"
+    ],
+    "correggere": [
+        "corregere"
     ],
     "correggeva": [
         "corregeva"
@@ -1352,7 +1380,8 @@
     ],
     "fatto": [
         "aftto",
-        "fatot"
+        "fatot",
+        "ftto"
     ],
     "febbraio": [
         "febbrai",
@@ -1629,6 +1658,9 @@
     "impressione": [
         "imrpessione"
     ],
+    "incastrare": [
+        "icastrare"
+    ],
     "incastrarvi": [
         "incastrarcvi"
     ],
@@ -1736,6 +1768,9 @@
     ],
     "intendi": [
         "itendi"
+    ],
+    "intenzione": [
+        "intezione"
     ],
     "interattivi": [
         "interativi"
@@ -2061,6 +2096,9 @@
     "mettendo": [
         "metendo"
     ],
+    "metterai": [
+        "meterai"
+    ],
     "mettercele": [
         "mettercle"
     ],
@@ -2071,7 +2109,8 @@
         "emtterli"
     ],
     "mettermi": [
-        "emttermi"
+        "emttermi",
+        "metermi"
     ],
     "mettevo": [
         "emttevo"
@@ -2111,6 +2150,9 @@
     "minacciarci": [
         "miancciarci"
     ],
+    "minacciato": [
+        "miancciato"
+    ],
     "minaccio": [
         "mianccio"
     ],
@@ -2140,6 +2182,9 @@
     ],
     "montaggio": [
         "montagigo"
+    ],
+    "montagna": [
+        "montaga"
     ],
     "monumento": [
         "monumenot"
@@ -2242,6 +2287,9 @@
     ],
     "oblique": [
         "olbique"
+    ],
+    "offerta": [
+        "offetra"
     ],
     "officiali": [
         "oficiali"
@@ -2363,6 +2411,9 @@
         "orgnaizzazione",
         "orgnaizzaizone"
     ],
+    "organizzazioni": [
+        "organizzaizoni"
+    ],
     "organizzeranno": [
         "orgnaizzeranno"
     ],
@@ -2404,11 +2455,17 @@
     "pacchettone": [
         "paccehttone"
     ],
+    "pacco": [
+        "apcco"
+    ],
     "paese": [
         "apese"
     ],
     "pagamento": [
         "apgamento"
+    ],
+    "pagano": [
+        "pagno"
     ],
     "pagare": [
         "apgare"
@@ -2432,6 +2489,9 @@
     "parametro": [
         "aprametro",
         "apramentro"
+    ],
+    "paranoici": [
+        "pranoici"
     ],
     "parecchia": [
         "aprecchia"
@@ -2589,7 +2649,8 @@
         "persoanggio"
     ],
     "personale": [
-        "eprsonale"
+        "eprsonale",
+        "personala"
     ],
     "personalizzazioni": [
         "persoalizzazioni"
@@ -2619,7 +2680,9 @@
     ],
     "piattaforma": [
         "piattafroma",
-        "piatatforma"
+        "piatatforma",
+        "piattaofrma",
+        "paittaforma"
     ],
     "piccola": [
         "piccoal"
@@ -2657,6 +2720,9 @@
     ],
     "portava": [
         "protava"
+    ],
+    "posizione": [
+        "posizone"
     ],
     "possiamo": [
         "possiam",
@@ -2711,13 +2777,17 @@
         "poveracco"
     ],
     "praticamente": [
-        "praticametne"
+        "praticametne",
+        "prticamente"
     ],
     "predefinito": [
         "rpedefinito"
     ],
     "predisposta": [
         "predispsota"
+    ],
+    "prefigge": [
+        "prefige"
     ],
     "premier": [
         "prmier"
@@ -2803,6 +2873,9 @@
     ],
     "professionisti": [
         "profesisonisti"
+    ],
+    "progetti": [
+        "proggetti"
     ],
     "progetto": [
         "prgoetto",
@@ -2923,8 +2996,12 @@
         "puzlia",
         "pulizzia"
     ],
+    "puntata": [
+        "putnata"
+    ],
     "puntate": [
-        "puntante"
+        "puntante",
+        "putnate"
     ],
     "punto": [
         "punot",
@@ -2950,7 +3027,8 @@
         "qulaucno"
     ],
     "qualsiasi": [
-        "quasliasi"
+        "quasliasi",
+        "qualsaisi"
     ],
     "quando": [
         "qaundo",
@@ -2962,7 +3040,8 @@
     "quella": [
         "quelal",
         "qeulla",
-        "ueqall"
+        "ueqall",
+        "uqella"
     ],
     "quelli": [
         "queli"
@@ -3020,6 +3099,9 @@
     "realizzazione": [
         "relaizzazione"
     ],
+    "realmente": [
+        "relamente"
+    ],
     "recensito": [
         "recensiot"
     ],
@@ -3052,6 +3134,9 @@
     ],
     "relativa": [
         "reelativa"
+    ],
+    "relativi": [
+        "realativi"
     ],
     "relazione": [
         "realzione"
@@ -3122,6 +3207,9 @@
         "risce",
         "reisce"
     ],
+    "riesco": [
+        "reisco"
+    ],
     "rifacendo": [
         "rifancedo"
     ],
@@ -3182,6 +3270,9 @@
     ],
     "rimontarlo": [
         "rimotnarlo"
+    ],
+    "rimozione": [
+        "rimozone"
     ],
     "rimuovere": [
         "rimuovre"
@@ -3261,7 +3352,8 @@
         "ripsoste"
     ],
     "risposto": [
-        "rispsoto"
+        "rispsoto",
+        "risopsto"
     ],
     "ristretto": [
         "ritrestto"
@@ -3404,10 +3496,14 @@
         "sciqauone"
     ],
     "scommetto": [
-        "scommeto"
+        "scommeto",
+        "scometto"
     ],
     "scommettono": [
         "scomettono"
+    ],
+    "scomparire": [
+        "socmparire"
     ],
     "scomparsa": [
         "scomaprsa"
@@ -3437,6 +3533,9 @@
     ],
     "scrivendolo": [
         "scirvendolo"
+    ],
+    "scrivere": [
+        "scivere"
     ],
     "scrivergli": [
         "scrviergli"
@@ -3541,6 +3640,9 @@
     ],
     "servi": [
         "srvi"
+    ],
+    "serviamo": [
+        "seviamo"
     ],
     "servirebbe": [
         "servirebe"
@@ -3653,6 +3755,9 @@
     ],
     "sostituisco": [
         "sostistuisco"
+    ],
+    "sottodomini": [
+        "sottodimini"
     ],
     "sottodominio": [
         "sttodominio"
@@ -3939,7 +4044,8 @@
     ],
     "trovato": [
         "trovaot",
-        "trvato"
+        "trvato",
+        "torvato"
     ],
     "trovava": [
         "trvava"
@@ -3983,6 +4089,9 @@
     ],
     "una": [
         "uan"
+    ],
+    "understand": [
+        "undertand"
     ],
     "universitari": [
         "unviersitari"
@@ -4137,6 +4246,9 @@
     ],
     "vulnerabilit\u00e1": [
         "vulenrabilit\u00e1"
+    ],
+    "vuoi": [
+        "vuioi"
     ],
     "webinar": [
         "webianr"

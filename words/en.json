@@ -1815,6 +1815,9 @@
     "attendants": [
         "attendents"
     ],
+    "attending": [
+        "attedning"
+    ],
     "attitude": [
         "attitide"
     ],
@@ -2380,7 +2383,8 @@
         "campain"
     ],
     "campaigns": [
-        "campains"
+        "campains",
+        "campaings"
     ],
     "can": [
         "cna"
@@ -3047,7 +3051,8 @@
         "competion"
     ],
     "complicated": [
-        "complciated"
+        "complciated",
+        "compilcated"
     ],
     "component": [
         "componenet"
@@ -3234,7 +3239,8 @@
     ],
     "consider": [
         "consdider",
-        "concider"
+        "concider",
+        "comsider"
     ],
     "considered": [
         "consdidered",
@@ -3673,6 +3679,9 @@
     ],
     "customer": [
         "custoemr"
+    ],
+    "customers": [
+        "custoemrs"
     ],
     "customize": [
         "customzie"
@@ -4811,6 +4820,9 @@
     "empty": [
         "empyt"
     ],
+    "enabled": [
+        "enblaed"
+    ],
     "enact": [
         "inact"
     ],
@@ -5070,6 +5082,9 @@
     "evaluate": [
         "evluate"
     ],
+    "evaluating": [
+        "evluating"
+    ],
     "evaluation": [
         "evalution"
     ],
@@ -5250,7 +5265,8 @@
     ],
     "experience": [
         "epxerience",
-        "experiance"
+        "experiance",
+        "expiernece"
     ],
     "experiment": [
         "expirement"
@@ -5762,6 +5778,9 @@
     ],
     "forward": [
         "foward"
+    ],
+    "forwarding": [
+        "forawarding"
     ],
     "fought": [
         "faught",
@@ -6661,6 +6680,9 @@
     "implement": [
         "impliment"
     ],
+    "implemented": [
+        "implemnted"
+    ],
     "impolite": [
         "inpolite"
     ],
@@ -7007,6 +7029,9 @@
     ],
     "insidious": [
         "ecidious"
+    ],
+    "insights": [
+        "isights"
     ],
     "insinuate": [
         "incinuate"
@@ -7856,6 +7881,9 @@
     "making": [
         "amking",
         "mkaing"
+    ],
+    "malware": [
+        "malweare"
     ],
     "mammal": [
         "mamal"
@@ -9143,6 +9171,9 @@
     ],
     "participated": [
         "particpated"
+    ],
+    "participation": [
+        "particiaption"
     ],
     "particular": [
         "parituclar"
