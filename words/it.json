@@ -78,8 +78,14 @@
     "adesivi": [
         "adevisi"
     ],
+    "adottare": [
+        "adaottare"
+    ],
     "affidabile": [
         "affadabile"
+    ],
+    "affittarla": [
+        "affitarla"
     ],
     "affrontata": [
         "affrotnata"
@@ -594,6 +600,9 @@
     "cercherei": [
         "cercehrei"
     ],
+    "cerchi": [
+        "cherchi"
+    ],
     "cerco": [
         "erco"
     ],
@@ -844,7 +853,8 @@
         "configuarazione",
         "condigurazione",
         "configurazioen",
-        "configuraizone"
+        "configuraizone",
+        "configurazaione"
     ],
     "configurazioni": [
         "configuraizoni"
@@ -897,6 +907,9 @@
     "consiglio": [
         "consilgio",
         "consighlio"
+    ],
+    "consultarci": [
+        "consultrci"
     ],
     "contattare": [
         "cotnatt"
@@ -1032,6 +1045,9 @@
         "dele",
         "delel"
     ],
+    "demenziale": [
+        "dememnziale"
+    ],
     "democratico": [
         "demcoratico"
     ],
@@ -1117,7 +1133,8 @@
         "diretamente",
         "direttmanete",
         "direttametne",
-        "direttametn"
+        "direttametn",
+        "direttamete"
     ],
     "dirglielo": [
         "dirgielo",
@@ -1251,7 +1268,8 @@
         "netrambe"
     ],
     "entrambi": [
-        "emtrabi"
+        "emtrabi",
+        "entrmbi"
     ],
     "entrano": [
         "entrnao"
@@ -1272,11 +1290,13 @@
         "erroe"
     ],
     "esattamente": [
-        "esattametne"
+        "esattametne",
+        "esattamtnte"
     ],
     "esempio": [
         "eempio",
-        "esemio"
+        "esemio",
+        "esmepio"
     ],
     "esiste": [
         "essite"
@@ -1324,6 +1344,9 @@
     ],
     "estratto": [
         "estrato"
+    ],
+    "etichette": [
+        "etichete"
     ],
     "euro": [
         "uero"
@@ -1635,7 +1658,8 @@
         "implemntare"
     ],
     "implementato": [
-        "implmentato"
+        "implmentato",
+        "implementto"
     ],
     "implementazioni": [
         "implementaizoni"
@@ -1679,6 +1703,9 @@
     "indirizzo": [
         "idirizzo",
         "idinrizzo"
+    ],
+    "industriale": [
+        "indistriale"
     ],
     "inevitabilmente": [
         "inveitabilmente"
@@ -1862,7 +1889,8 @@
         "lsciato"
     ],
     "lascio": [
-        "alscio"
+        "alscio",
+        "lacio"
     ],
     "lavatrice": [
         "lvatrice"
@@ -2066,7 +2094,8 @@
     ],
     "meglio": [
         "megli",
-        "melgio"
+        "melgio",
+        "megio"
     ],
     "mente": [
         "metne"
@@ -2107,6 +2136,9 @@
     ],
     "metterli": [
         "emtterli"
+    ],
+    "mettermeli": [
+        "metermili"
     ],
     "mettermi": [
         "emttermi",
@@ -2488,10 +2520,14 @@
     ],
     "parametro": [
         "aprametro",
-        "apramentro"
+        "apramentro",
+        "paramtero"
     ],
     "paranoici": [
         "pranoici"
+    ],
+    "parecchi": [
+        "aprecchi"
     ],
     "parecchia": [
         "aprecchia"
@@ -2559,6 +2595,9 @@
     ],
     "particolare": [
         "particoalre"
+    ],
+    "partire": [
+        "aprtire"
     ],
     "partiva": [
         "parrtiva",
@@ -2646,7 +2685,8 @@
     ],
     "personaggio": [
         "prsonaggio",
-        "persoanggio"
+        "persoanggio",
+        "personggio"
     ],
     "personale": [
         "eprsonale",
@@ -2689,6 +2729,9 @@
     ],
     "piccoli": [
         "picocli"
+    ],
+    "piedi": [
+        "peidi"
     ],
     "pienissimo": [
         "pienissio"
@@ -2780,17 +2823,26 @@
         "praticametne",
         "prticamente"
     ],
+    "precedente": [
+        "percedente"
+    ],
     "predefinito": [
         "rpedefinito"
     ],
     "predisposta": [
         "predispsota"
     ],
+    "preferirei": [
+        "perferirei"
+    ],
     "prefigge": [
         "prefige"
     ],
     "premier": [
         "prmier"
+    ],
+    "premio": [
+        "permio"
     ],
     "prendere": [
         "predenre",
@@ -3054,7 +3106,8 @@
     ],
     "questa": [
         "qeusta",
-        "uqesta"
+        "uqesta",
+        "qusta"
     ],
     "queste": [
         "uqeste"
@@ -3144,6 +3197,9 @@
     "responsabili": [
         "reposnsabili"
     ],
+    "resto": [
+        "resot"
+    ],
     "revisionare": [
         "revisioanre",
         "revisonare"
@@ -3174,7 +3230,8 @@
     ],
     "richiedere": [
         "richeide",
-        "richeidere"
+        "richeidere",
+        "richidere"
     ],
     "richiesta": [
         "irchiesta",
@@ -3349,7 +3406,8 @@
         "rispota`"
     ],
     "risposte": [
-        "ripsoste"
+        "ripsoste",
+        "rispioste"
     ],
     "risposto": [
         "rispsoto",
@@ -3611,7 +3669,8 @@
         "semrpe",
         "sempee",
         "smepre",
-        "smpere"
+        "smpere",
+        "sepmre"
     ],
     "senti": [
         "sneti"
@@ -3725,7 +3784,8 @@
         "sofistiacto"
     ],
     "solitamente": [
-        "solitasmente"
+        "solitasmente",
+        "solitmente"
     ],
     "solito": [
         "solto",
@@ -3753,6 +3813,9 @@
     "sorprendermi": [
         "soprendermi"
     ],
+    "sospeso": [
+        "sospero"
+    ],
     "sostituisco": [
         "sostistuisco"
     ],
@@ -3761,6 +3824,9 @@
     ],
     "sottodominio": [
         "sttodominio"
+    ],
+    "sparisce": [
+        "saprisce"
     ],
     "spaventando": [
         "spaventanto"
@@ -3852,8 +3918,14 @@
         "sttada",
         "strda"
     ],
+    "strade": [
+        "stade"
+    ],
     "stressarlo": [
         "strssearlo"
+    ],
+    "stringa": [
+        "strina"
     ],
     "studentesche": [
         "studentesce"
@@ -3893,6 +3965,9 @@
     ],
     "suonato": [
         "suoanto"
+    ],
+    "supera": [
+        "supra"
     ],
     "supporto": [
         "spporto"
@@ -4045,7 +4120,8 @@
     "trovato": [
         "trovaot",
         "trvato",
-        "torvato"
+        "torvato",
+        "trovto"
     ],
     "trovava": [
         "trvava"
@@ -4193,6 +4269,9 @@
     ],
     "vicesindaco": [
         "vicensidanco"
+    ],
+    "videogiochi": [
+        "videoiochi"
     ],
     "vincere": [
         "vicnere"

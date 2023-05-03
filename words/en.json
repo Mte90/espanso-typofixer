@@ -2609,11 +2609,17 @@
     "changeable": [
         "changable"
     ],
+    "changed": [
+        "cahnged"
+    ],
     "changes": [
         "cnahges"
     ],
     "changeset": [
         "ghangeset"
+    ],
+    "changing": [
+        "chaning"
     ],
     "channel": [
         "chanell",
@@ -2999,7 +3005,8 @@
         "comapring"
     ],
     "comparison": [
-        "comparision"
+        "comparision",
+        "comaprison"
     ],
     "compatibilities": [
         "compatiblities"
@@ -3039,7 +3046,8 @@
         "compilate"
     ],
     "compiler": [
-        "complier"
+        "complier",
+        "compielr"
     ],
     "complainant": [
         "complaintant"
@@ -3716,6 +3724,9 @@
         "dasbhaord",
         "dhasboard"
     ],
+    "database": [
+        "datbase"
+    ],
     "daub": [
         "doub"
     ],
@@ -3925,7 +3936,8 @@
     ],
     "description": [
         "descirption",
-        "discription"
+        "discription",
+        "decsription"
     ],
     "desiccated": [
         "dessicated"
@@ -9908,7 +9920,8 @@
         "procedes"
     ],
     "process": [
-        "proccess"
+        "proccess",
+        "proces"
     ],
     "processing": [
         "proccessing"
@@ -11693,7 +11706,8 @@
         "sponteous"
     ],
     "sponsor": [
-        "sponser"
+        "sponser",
+        "sposnor"
     ],
     "sponsored": [
         "sponzored"
@@ -11703,6 +11717,9 @@
     ],
     "sporadic": [
         "sporatic"
+    ],
+    "spotify": [
+        "psotify"
     ],
     "spotted": [
         "spoted"
