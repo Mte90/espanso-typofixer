@@ -710,7 +710,8 @@
         "absorbsion"
     ],
     "abstract": [
-        "abstact"
+        "abstact",
+        "abastract"
     ],
     "abundance": [
         "abundence"
@@ -1234,7 +1235,8 @@
     ],
     "already": [
         "alreayd",
-        "laready"
+        "laready",
+        "alerady"
     ],
     "also": [
         "aslo",
@@ -1248,6 +1250,9 @@
     ],
     "alternative": [
         "altenative"
+    ],
+    "alternatives": [
+        "alternaives"
     ],
     "although": [
         "altough",
@@ -1598,7 +1603,8 @@
         "archetecture"
     ],
     "archive": [
-        "achive"
+        "achive",
+        "acrhive"
     ],
     "archived": [
         "achived"
@@ -2008,7 +2014,8 @@
         "becouse",
         "becase",
         "becuase",
-        "becaus"
+        "becaus",
+        "bcause"
     ],
     "becoming": [
         "becomming"
@@ -2610,7 +2617,8 @@
         "changable"
     ],
     "changed": [
-        "cahnged"
+        "cahnged",
+        "chenged"
     ],
     "changes": [
         "cnahges"
@@ -3042,6 +3050,9 @@
     "competitor": [
         "competor"
     ],
+    "competitors": [
+        "comptetitors"
+    ],
     "compile": [
         "compilate"
     ],
@@ -3052,8 +3063,12 @@
     "complainant": [
         "complaintant"
     ],
+    "completelly": [
+        "ocmpletelly"
+    ],
     "completely": [
-        "completly"
+        "completly",
+        "completelly"
     ],
     "completion": [
         "competion"
@@ -3078,7 +3093,8 @@
         "compution"
     ],
     "computer": [
-        "comptuer"
+        "comptuer",
+        "ocmputer"
     ],
     "conceive": [
         "concieve"
@@ -3160,6 +3176,9 @@
     ],
     "config": [
         "cnfig"
+    ],
+    "configure": [
+        "confirgure"
     ],
     "confirm": [
         "confrim"
@@ -3326,6 +3345,9 @@
     ],
     "consul": [
         "consel"
+    ],
+    "consultancy": [
+        "conslutancy"
     ],
     "consulting": [
         "consluting"
@@ -3686,7 +3708,8 @@
         "currenly"
     ],
     "customer": [
-        "custoemr"
+        "custoemr",
+        "cusmer"
     ],
     "customers": [
         "custoemrs"
@@ -3814,6 +3837,9 @@
     ],
     "deep-seated": [
         "deep-seeded"
+    ],
+    "default": [
+        "defulat"
     ],
     "defendant": [
         "defendent"
@@ -4407,7 +4433,8 @@
         "documentry"
     ],
     "documentation": [
-        "documenation"
+        "documenation",
+        "documentaiton"
     ],
     "documented": [
         "doccumented"
@@ -4485,6 +4512,9 @@
     ],
     "drive": [
         "dirve"
+    ],
+    "driver": [
+        "dirver"
     ],
     "dropped": [
         "droped"
@@ -5802,7 +5832,8 @@
         "foudn"
     ],
     "foundation": [
-        "fundation"
+        "fundation",
+        "foundaiton"
     ],
     "foundries": [
         "foundaries"
@@ -6183,6 +6214,9 @@
     ],
     "handled": [
         "handeled"
+    ],
+    "hanks": [
+        "thansk"
     ],
     "happen": [
         "hapen",
@@ -7957,6 +7991,9 @@
         "manuevers",
         "manouvers"
     ],
+    "mantainer": [
+        "manatiner"
+    ],
     "manufacture": [
         "manufature"
     ],
@@ -8251,6 +8288,9 @@
     "missile": [
         "misile",
         "missle"
+    ],
+    "missing": [
+        "mising"
     ],
     "misspell": [
         "mispell"
@@ -9482,6 +9522,9 @@
     "place": [
         "palce"
     ],
+    "placeholder": [
+        "plaecholder"
+    ],
     "placing": [
         "placeing"
     ],
@@ -9504,7 +9547,8 @@
         "planed"
     ],
     "platform": [
-        "platfrom"
+        "platfrom",
+        "paltform"
     ],
     "played": [
         "plyed"
@@ -9562,6 +9606,9 @@
     ],
     "poison": [
         "poisin"
+    ],
+    "politically": [
+        "politivally"
     ],
     "politician": [
         "politition"
@@ -11166,6 +11213,9 @@
     ],
     "securities": [
         "securites"
+    ],
+    "security": [
+        "securty"
     ],
     "sedative": [
         "sedatative"
@@ -13684,7 +13734,8 @@
     "when": [
         "wehn",
         "whne",
-        "wen"
+        "wen",
+        "qhen"
     ],
     "whereabouts": [
         "wherabouts"
@@ -13766,6 +13817,9 @@
     "wintry": [
         "wintery"
     ],
+    "wise": [
+        "iwse"
+    ],
     "witch": [
         "wich"
     ],
@@ -13794,7 +13848,8 @@
     ],
     "without": [
         "witout",
-        "wihout"
+        "wihout",
+        "wihtout"
     ],
     "witness": [
         "wittness"
