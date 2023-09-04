@@ -79,6 +79,9 @@
     "acquistabili": [
         "acquistbili"
     ],
+    "acquisto": [
+        "acquidto"
+    ],
     "addirittura": [
         "addirittuera"
     ],
@@ -516,7 +519,8 @@
         "biosgnerebbe"
     ],
     "bisogno": [
-        "bisgono"
+        "bisgono",
+        "bisnogo"
     ],
     "bloccarli": [
         "blocarli"
@@ -539,6 +543,9 @@
     "buttando": [
         "buttnado"
     ],
+    "buttarmi": [
+        "butarmi"
+    ],
     "cacchio": [
         "cachcio"
     ],
@@ -552,7 +559,8 @@
         "cabiano"
     ],
     "cambiare": [
-        "canbiare"
+        "canbiare",
+        "camibare"
     ],
     "cambiarlo": [
         "camobairlo"
@@ -968,6 +976,9 @@
     "contenuto": [
         "contuto"
     ],
+    "continua": [
+        "conitnua"
+    ],
     "continuare": [
         "continaure",
         "contiunare"
@@ -1258,7 +1269,8 @@
     ],
     "domani": [
         "doamni",
-        "doani"
+        "doani",
+        "donmani"
     ],
     "dominio": [
         "dominipo"
@@ -1500,6 +1512,9 @@
         "finiestra",
         "fienstra"
     ],
+    "finestre": [
+        "finiestre"
+    ],
     "finisce": [
         "ffinisce"
     ],
@@ -1603,6 +1618,9 @@
     ],
     "gestione": [
         "gestioen"
+    ],
+    "gioco": [
+        "gico"
     ],
     "gioiello": [
         "gioello"
@@ -1759,6 +1777,9 @@
     "impossibile": [
         "impossibiel"
     ],
+    "impostato": [
+        "impsotato"
+    ],
     "impostazioni": [
         "impsotazioni"
     ],
@@ -1815,7 +1836,8 @@
         "ingengeria"
     ],
     "inglese": [
-        "inglse"
+        "inglse",
+        "ingelse"
     ],
     "ingrandimento": [
         "ingradimento"
@@ -2142,6 +2164,9 @@
     "mandavano": [
         "mandavno"
     ],
+    "manderanno": [
+        "mandreanno"
+    ],
     "mando": [
         "amndo"
     ],
@@ -2418,6 +2443,9 @@
     ],
     "obbligatorie": [
         "obbilgiatorie"
+    ],
+    "obblighi": [
+        "oblighi"
     ],
     "oblique": [
         "olbique"
@@ -2942,7 +2970,8 @@
     ],
     "praticamente": [
         "praticametne",
-        "prticamente"
+        "prticamente",
+        "pratiacmente"
     ],
     "pratiche": [
         "partiche"
@@ -3091,7 +3120,8 @@
         "prontt"
     ],
     "propagazione": [
-        "propagaiozne"
+        "propagaiozne",
+        "propagaziene"
     ],
     "propongo": [
         "porpongo"
@@ -4022,6 +4052,9 @@
     "spazio": [
         "spaizo"
     ],
+    "specifico": [
+        "specfico"
+    ],
     "speculativi": [
         "sepculativi"
     ],
@@ -4189,6 +4222,9 @@
     ],
     "tagliari": [
         "tglirli"
+    ],
+    "tagliata": [
+        "talgiata"
     ],
     "taglie": [
         "tagle"
@@ -4512,7 +4548,8 @@
         "visualizazione"
     ],
     "voglia": [
-        "voglai"
+        "voglai",
+        "volgia"
     ],
     "vogliamo": [
         "vigliamo"

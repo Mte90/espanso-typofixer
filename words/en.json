@@ -2275,7 +2275,8 @@
         "brung"
     ],
     "browser": [
-        "borwser"
+        "borwser",
+        "brwsoer"
     ],
     "budget": [
         "buget"
@@ -10896,6 +10897,9 @@
     "retardant": [
         "retardent"
     ],
+    "retired": [
+        "reitred"
+    ],
     "retrieve": [
         "retrive"
     ],
@@ -12826,6 +12830,9 @@
     ],
     "toolless": [
         "tooless"
+    ],
+    "tooltip": [
+        "tooltop"
     ],
     "torch": [
         "tourch"
