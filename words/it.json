@@ -392,6 +392,9 @@
     "assolutamente": [
         "assolutametne"
     ],
+    "attacco": [
+        "attaco"
+    ],
     "attesa": [
         "atesa"
     ],
@@ -475,6 +478,9 @@
     ],
     "banchetto": [
         "bnachetto"
+    ],
+    "banner": [
+        "banenr"
     ],
     "barbara": [
         "barabra"
@@ -1428,7 +1434,8 @@
         "evidentemetne"
     ],
     "facciamo": [
-        "faciamo"
+        "faciamo",
+        "faccimao"
     ],
     "faccio": [
         "facco",
@@ -1637,6 +1644,9 @@
     ],
     "girare": [
         "giarre"
+    ],
+    "girarmi": [
+        "girarimi"
     ],
     "girato": [
         "giraot"
@@ -1996,6 +2006,9 @@
     "lasciamo": [
         "lsaciamo"
     ],
+    "lasciano": [
+        "laciano"
+    ],
     "lasciare": [
         "lascaire",
         "lascair"
@@ -2092,6 +2105,9 @@
     ],
     "lista": [
         "lsita"
+    ],
+    "listini": [
+        "lisitini"
     ],
     "locale": [
         "lcoale"
@@ -2197,6 +2213,9 @@
     "marchio": [
         "amrchio",
         "marhcio"
+    ],
+    "marinella": [
+        "marniella"
     ],
     "massimo": [
         "masismo"
@@ -2371,6 +2390,9 @@
     ],
     "nascosto": [
         "nascsto"
+    ],
+    "nativamente": [
+        "nativaente"
     ],
     "nazionale": [
         "naizonale"
@@ -2643,6 +2665,9 @@
     ],
     "paraddossalmente": [
         "pradossalmente"
+    ],
+    "paragrafo": [
+        "paragrfo"
     ],
     "parallelamente": [
         "paralellamente"
@@ -3035,6 +3060,10 @@
     "pretendo": [
         "prtendo"
     ],
+    "previsioni": [
+        "preisioni",
+        "prevsioni"
+    ],
     "previsto": [
         "previsot"
     ],
@@ -3055,7 +3084,8 @@
         "prvato"
     ],
     "probabilmente": [
-        "probabilmetne"
+        "probabilmetne",
+        "probabilnmente`"
     ],
     "problema": [
         "prlblema",
@@ -3190,6 +3220,9 @@
     "provo": [
         "rpovo"
     ],
+    "provvedo": [
+        "prvvedo"
+    ],
     "psicologa": [
         "psicologaa"
     ],
@@ -3238,7 +3271,8 @@
     ],
     "qualcosa": [
         "quaclosa",
-        "qualcoa"
+        "qualcoa",
+        "qualcoas"
     ],
     "qualcuno": [
         "qulaucno"
@@ -3800,6 +3834,9 @@
     "scriverlo": [
         "scrivero"
     ],
+    "scriverti": [
+        "sceiverti"
+    ],
     "scrivessero": [
         "scirvessero"
     ],
@@ -3901,6 +3938,9 @@
     ],
     "separatisti": [
         "separatsti"
+    ],
+    "sereno": [
+        "senreno"
     ],
     "servi": [
         "srvi"
@@ -4028,6 +4068,9 @@
     "sopratutto": [
         "sopatutto"
     ],
+    "sopravvissuto": [
+        "sopravvisuto"
+    ],
     "sorprendermi": [
         "soprendermi"
     ],
@@ -4069,6 +4112,9 @@
     ],
     "spiegano": [
         "spiegnao"
+    ],
+    "spiegarti": [
+        "speigarti"
     ],
     "spiegato": [
         "psiegato",
@@ -4329,6 +4375,9 @@
     "tracciamento": [
         "tracciamneto"
     ],
+    "tracciato": [
+        "traccaito"
+    ],
     "traduzione": [
         "traduzioen",
         "tradzuione"
@@ -4566,6 +4615,9 @@
     ],
     "volete": [
         "voelte"
+    ],
+    "volevo": [
+        "voelvo"
     ],
     "volontari": [
         "ovltnoari"
