@@ -1,6 +1,6 @@
 # Espanso-Typofixer [![License](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](http://www.gnu.org/licenses/gpl-3.0)   
 
-## Status (per last update)
+## Status (per last release)
 
 * [![https://hub.espanso.org/typofixer-en](https://img.shields.io/badge/typofixer-%F0%9F%87%AC%F0%9F%87%A7%20%F0%9F%87%BA%F0%9F%87%B8-white.svg)]([https://hub.espanso.org/typofixer-en]): *<!--en-words-->4416<!--en-words-end-->* words with *<!--en-typos-->5082<!--en-typos-end-->* typos
 * [![https://hub.espanso.org/typofixer-fr](https://img.shields.io/badge/typofixer-%F0%9F%87%AB%F0%9F%87%B7%20-white.svg)](https://hub.espanso.org/typofixer-fr): *<!--fr-words-->69<!--fr-words-end-->* words with *<!--fr-typos-->70<!--fr-typos-end-->* typos
