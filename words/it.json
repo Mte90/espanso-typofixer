@@ -201,6 +201,9 @@
     "allineati": [
         "allienati"
     ],
+    "allontamenerei": [
+        "allontamenrei"
+    ],
     "allora": [
         "alora"
     ],
@@ -231,7 +234,9 @@
     "altrimenti": [
         "altriemnti",
         "ltrimenti",
-        "alrrimenti"
+        "alrrimenti",
+        "altrimneit",
+        "altrimeti"
     ],
     "altro": [
         "alotr",
@@ -272,7 +277,8 @@
         "anando"
     ],
     "andare": [
-        "anadre"
+        "anadre",
+        "adnare"
     ],
     "andato": [
         "adnato"
@@ -305,7 +311,8 @@
         "paerte"
     ],
     "aperto": [
-        "paerto"
+        "paerto",
+        "apeto"
     ],
     "apparire": [
         "apprire"
@@ -378,7 +385,8 @@
         "aspetavo"
     ],
     "aspettiamo": [
-        "aspttiamo"
+        "aspttiamo",
+        "aspettimao"
     ],
     "assicurare": [
         "assicuare"
@@ -644,6 +652,9 @@
     ],
     "cazzi": [
         "caziz"
+    ],
+    "cazzo": [
+        "cazo"
     ],
     "cercherei": [
         "cercehrei"
@@ -1500,6 +1511,9 @@
     "ficcare": [
         "ficacre"
     ],
+    "fidanzati": [
+        "findanzati"
+    ],
     "fighi": [
         "ifghi"
     ],
@@ -1575,7 +1589,8 @@
     ],
     "frattempo": [
         "frattmepo",
-        "fratempo"
+        "fratempo",
+        "frattampo"
     ],
     "fretta": [
         "freta"
@@ -1824,6 +1839,9 @@
     "inevitabilmente": [
         "inveitabilmente"
     ],
+    "inflazione": [
+        "infalzione"
+    ],
     "influire": [
         "influre"
     ],
@@ -1926,6 +1944,9 @@
     "interazioni": [
         "interaizoni"
     ],
+    "intercetta": [
+        "interecetta"
+    ],
     "interessa": [
         "itneressa",
         "interess"
@@ -2004,7 +2025,9 @@
         "lascalo"
     ],
     "lasciamo": [
-        "lsaciamo"
+        "lsaciamo",
+        "laciamo",
+        "lacsiamo"
     ],
     "lasciano": [
         "laciano"
@@ -2095,7 +2118,8 @@
     ],
     "limite": [
         "limte",
-        "limtie"
+        "limtie",
+        "linite"
     ],
     "linea": [
         "liena"
@@ -2239,6 +2263,9 @@
     ],
     "mente": [
         "metne"
+    ],
+    "menziona": [
+        "meziona"
     ],
     "mercato": [
         "emrcato"
@@ -2723,6 +2750,9 @@
         "parliamno",
         "parlaimo"
     ],
+    "parlo": [
+        "aprlo"
+    ],
     "parola": [
         "prarola"
     ],
@@ -2803,6 +2833,9 @@
     ],
     "pensa": [
         "pennsa"
+    ],
+    "pensare": [
+        "pemsare"
     ],
     "pensato": [
         "pesnato"
@@ -2904,6 +2937,9 @@
     "pienissimo": [
         "pienissio"
     ],
+    "pisciare": [
+        "piscaire"
+    ],
     "pizza": [
         "piza"
     ],
@@ -2992,6 +3028,9 @@
     ],
     "poveraccio": [
         "poveracco"
+    ],
+    "pranzo": [
+        "rpanzo"
     ],
     "praticamente": [
         "praticametne",
@@ -3331,7 +3370,8 @@
         "queto",
         "uqesto",
         "uesto",
-        "quesot"
+        "quesot",
+        "qeuto"
     ],
     "quindi": [
         "qundi",
@@ -3548,6 +3588,9 @@
         "rimuovre",
         "rimuvoere"
     ],
+    "ringrazio": [
+        "rignrazio"
+    ],
     "rinnovare": [
         "rinnvoare",
         "rinovare"
@@ -3572,6 +3615,9 @@
     ],
     "ripresentarsi": [
         "ripresesntarsi"
+    ],
+    "riprovare": [
+        "riporvare"
     ],
     "risalgono": [
         "rislgono"
@@ -3747,6 +3793,9 @@
     "scatole": [
         "scatoel"
     ],
+    "scattare": [
+        "scatatre"
+    ],
     "scegliere": [
         "scegeliere"
     ],
@@ -3912,7 +3961,8 @@
         "sempee",
         "smepre",
         "smpere",
-        "sepmre"
+        "sepmre",
+        "sempore"
     ],
     "senti": [
         "sneti"
@@ -3980,7 +4030,8 @@
     "sicuramente": [
         "sicurametne",
         "sincerametne",
-        "sicuramte"
+        "sicuramte",
+        "sicuramete"
     ],
     "sicurezza": [
         "iscurezza"
@@ -4095,6 +4146,9 @@
     "spazio": [
         "spaizo"
     ],
+    "specifichiate": [
+        "specifchiate"
+    ],
     "specifico": [
         "specfico"
     ],
@@ -4112,6 +4166,9 @@
     ],
     "spiegano": [
         "spiegnao"
+    ],
+    "spiegare": [
+        "speigare"
     ],
     "spiegarti": [
         "speigarti"
@@ -4208,6 +4265,12 @@
     ],
     "stupendi": [
         "stupedi"
+    ],
+    "subirebbe": [
+        "subierebbe"
+    ],
+    "succede": [
+        "sucede"
     ],
     "succederanno": [
         "sucederanno"
@@ -4355,6 +4418,9 @@
     "timeout": [
         "timoeut"
     ],
+    "toccare": [
+        "tocacre"
+    ],
     "togliere": [
         "toglire",
         "togleire",
@@ -4364,6 +4430,9 @@
     "toglierei": [
         "toglerei",
         "togleirei"
+    ],
+    "tolgo": [
+        "toglo"
     ],
     "tolgono": [
         "toglono"
@@ -4534,6 +4603,9 @@
     "vendiamo": [
         "nvediamo",
         "vendiao"
+    ],
+    "vendite": [
+        "vedite"
     ],
     "vengono": [
         "vnegono"

@@ -1511,7 +1511,8 @@
         "apoint"
     ],
     "appreciate": [
-        "apprieciate"
+        "apprieciate",
+        "appreacite"
     ],
     "approach": [
         "aproach"
@@ -2280,7 +2281,8 @@
         "brwsoer"
     ],
     "budget": [
-        "buget"
+        "buget",
+        "budeget"
     ],
     "buffaloes": [
         "buffalos"
@@ -7033,6 +7035,9 @@
     "initiator": [
         "initator"
     ],
+    "injection": [
+        "injeciton"
+    ],
     "injured": [
         "injuried"
     ],
@@ -9066,7 +9071,8 @@
     ],
     "other": [
         "otehr",
-        "toerh"
+        "toerh",
+        "othr"
     ],
     "others": [
         "otheres",
@@ -9153,6 +9159,9 @@
     ],
     "page": [
         "apge"
+    ],
+    "pagination": [
+        "pagingation"
     ],
     "paid": [
         "payed",
@@ -10533,7 +10542,8 @@
         "redevelopement"
     ],
     "redirect": [
-        "reidrect"
+        "reidrect",
+        "reciredct"
     ],
     "redirected": [
         "reidrected"
