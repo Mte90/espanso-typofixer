@@ -205,7 +205,8 @@
         "allontamenrei"
     ],
     "allora": [
-        "alora"
+        "alora",
+        "allroa"
     ],
     "almeno": [
         "almneo",
@@ -400,6 +401,9 @@
     "assolutamente": [
         "assolutametne"
     ],
+    "attacchi": [
+        "attachi"
+    ],
     "attacco": [
         "attaco"
     ],
@@ -534,7 +538,8 @@
     ],
     "bisogno": [
         "bisgono",
-        "bisnogo"
+        "bisnogo",
+        "bisognmo"
     ],
     "bloccarli": [
         "blocarli"
@@ -1913,6 +1918,9 @@
     "installare": [
         "instalalre"
     ],
+    "installati": [
+        "isntallati"
+    ],
     "installazione": [
         "installaizone"
     ],
@@ -2043,7 +2051,8 @@
     ],
     "lascio": [
         "alscio",
-        "lacio"
+        "lacio",
+        "lacsio"
     ],
     "lavatrice": [
         "lvatrice"
@@ -3489,7 +3498,8 @@
         "richeiste"
     ],
     "richiesto": [
-        "richeisto"
+        "richeisto",
+        "riochiesto"
     ],
     "riconoscere": [
         "riconsocere"
@@ -3612,6 +3622,9 @@
     ],
     "riportare": [
         "riprotare"
+    ],
+    "riprende": [
+        "riptende"
     ],
     "ripresentarsi": [
         "ripresesntarsi"
@@ -4257,6 +4270,9 @@
     "stressarlo": [
         "strssearlo"
     ],
+    "strettamente": [
+        "strettaemnte"
+    ],
     "stringa": [
         "strina"
     ],
@@ -4512,7 +4528,9 @@
         "tuto"
     ],
     "ufficialmente": [
-        "ufficiaalmente"
+        "ufficiaalmente",
+        "ufficialmetne",
+        "ufficilmanete"
     ],
     "uguali": [
         "ugiali"
@@ -4661,6 +4679,9 @@
     ],
     "virtuale": [
         "vrituale"
+    ],
+    "virtuali": [
+        "virtulai"
     ],
     "vista": [
         "vitsa"
