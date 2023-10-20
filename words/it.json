@@ -212,7 +212,8 @@
         "almneo",
         "lameno",
         "almeo",
-        "alneno"
+        "alneno",
+        "aleno"
     ],
     "alternative": [
         "alterantive"
@@ -1198,7 +1199,8 @@
         "dimsotrata"
     ],
     "dimostrato": [
-        "dimsotrato"
+        "dimsotrato",
+        "dismostrato"
     ],
     "dipendente": [
         "dipenmdente"
@@ -1293,6 +1295,9 @@
         "doamni",
         "doani",
         "donmani"
+    ],
+    "domenica": [
+        "dominica"
     ],
     "dominio": [
         "dominipo"
@@ -1779,6 +1784,9 @@
     "impianta": [
         "impianata"
     ],
+    "impicciato": [
+        "impiccaito"
+    ],
     "impiegarci": [
         "impiegrci"
     ],
@@ -1806,6 +1814,9 @@
     ],
     "impossibile": [
         "impossibiel"
+    ],
+    "impostare": [
+        "impstare"
     ],
     "impostato": [
         "impsotato"
@@ -2016,6 +2027,9 @@
     ],
     "inventarono": [
         "invetarono"
+    ],
+    "invitassero": [
+        "imvitassero"
     ],
     "iscritti": [
         "iscirtti"
@@ -3149,7 +3163,8 @@
         "prodoti"
     ],
     "prodotto": [
-        "prodtto"
+        "prodtto",
+        "prodoto"
     ],
     "produzione": [
         "produzioen"
@@ -3579,6 +3594,9 @@
     "rimarremo": [
         "rimarrermo"
     ],
+    "rimborsa": [
+        "rimnorsa"
+    ],
     "rimborsate": [
         "rimobrsate"
     ],
@@ -3639,7 +3657,8 @@
         "risaricmento"
     ],
     "risolto": [
-        "rosolto"
+        "rosolto",
+        "rioslto"
     ],
     "risolve": [
         "rsiolve"
@@ -3717,7 +3736,8 @@
     ],
     "riunione": [
         "riunioen",
-        "riunioone"
+        "riunioone",
+        "riunine"
     ],
     "riusare": [
         "risuare"
@@ -3739,6 +3759,9 @@
     ],
     "riusiamo": [
         "rusiamo"
+    ],
+    "roba": [
+        "robga"
     ],
     "rogne": [
         "rogni"
@@ -3940,6 +3963,9 @@
     ],
     "segnalazione": [
         "segnalaizone"
+    ],
+    "segnalazioni": [
+        "segnalaizoni"
     ],
     "segnato": [
         "sengato"
@@ -4150,6 +4176,9 @@
     "sottodominio": [
         "sttodominio"
     ],
+    "sovrascrivi": [
+        "sovraxcrivi"
+    ],
     "sparisce": [
         "saprisce"
     ],
@@ -4310,7 +4339,8 @@
         "sufficenti"
     ],
     "suggerimenti": [
-        "suggeriemnti"
+        "suggeriemnti",
+        "sugerimenti"
     ],
     "suggest": [
         "usggest"
@@ -4453,6 +4483,9 @@
     "tolgono": [
         "toglono"
     ],
+    "tornare": [
+        "toranre"
+    ],
     "tornato": [
         "toranto",
         "trnato"
@@ -4534,6 +4567,9 @@
     ],
     "uguali": [
         "ugiali"
+    ],
+    "ulteriormente": [
+        "ulteriormanete"
     ],
     "ultima": [
         "ultiam"
