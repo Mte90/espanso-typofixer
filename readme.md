@@ -2,36 +2,21 @@
 
 ## Status (per last release)
 
-* [![https://hub.espanso.org/typofixer-en](https://img.shields.io/badge/typofixer-%F0%9F%87%AC%F0%9F%87%A7%20%F0%9F%87%BA%F0%9F%87%B8-white.svg)]([https://hub.espanso.org/typofixer-en]): *<!--en-words-->4416<!--en-words-end-->* words with *<!--en-typos-->5082<!--en-typos-end-->* typos
+* [![https://hub.espanso.org/typofixer-en](https://img.shields.io/badge/typofixer-%F0%9F%87%AC%F0%9F%87%A7%20%F0%9F%87%BA%F0%9F%87%B8-white.svg)]([https://hub.espanso.org/typofixer-en]): *<!--en-words-->4444<!--en-words-end-->* words with *<!--en-typos-->5137<!--en-typos-end-->* typos
 * [![https://hub.espanso.org/typofixer-fr](https://img.shields.io/badge/typofixer-%F0%9F%87%AB%F0%9F%87%B7%20-white.svg)](https://hub.espanso.org/typofixer-fr): *<!--fr-words-->69<!--fr-words-end-->* words with *<!--fr-typos-->70<!--fr-typos-end-->* typos
-* [![https://hub.espanso.org/typofixer-it](https://img.shields.io/badge/typofixer-%F0%9F%87%AE%F0%9F%87%B9%20-white.svg)](https://hub.espanso.org/typofixer-it): *<!--it-words-->1333<!--it-words-end-->* words with *<!--it-typos-->1667<!--it-typos-end-->* typos
+* [![https://hub.espanso.org/typofixer-it](https://img.shields.io/badge/typofixer-%F0%9F%87%AE%F0%9F%87%B9%20-white.svg)](https://hub.espanso.org/typofixer-it): *<!--it-words-->1479<!--it-words-end-->* words with *<!--it-typos-->1884<!--it-typos-end-->* typos
 * [![https://hub.espanso.org/typofixer-es](https://img.shields.io/badge/typofixer-%F0%9F%87%AA%F0%9F%87%B8%20-white.svg)](https://hub.espanso.org/typofixer-es): *<!--es-words-->103<!--es-words-end-->* words with *<!--es-typos-->118<!--es-typos-end-->* typos
 
 ## I want the development version!
 
 Upload a new espanso package is very unconfortable right now, if it was possible I will release a new one every week automatically but every step is manual.
-If you want the latest update list, you need to follow that steps:
+If you want the latest update word list, you need to follow that steps:
 
 * Download this repository
 * Execute the `generator.py` script
 * Pick from the folders for every language the `package.yml` file
 * Go on Linux to `/home/your-user/.config/espanso/match/packages/` and put that file in the corresponding package you installed
 * Espanso (if running) will refresh automatically to the new terms
-
-## Story
-
-These packages are a porting [SyntaxAutoFix](https://github.com/Mte90/SyntaxAutoFix) in Python that is now 7 years old.
-Just used by me and no one else, in the years got tons of words with various hacktoberfest and by daily gathering of typos in English and Italian.
-
-I preferred to migrate to [Espanso](https://espanso.org) for various reasons:
-
-* I don't have to maintain a project by code, just still gather typos
-* Python project require `sudo`
-* Python project use like 50mb of ram, espanso instead less
-* Opening to a wide more usage to gather more typos
-* Espanso has unit tests and better support
-* Espanso is multiplatform so also Windows and OSX
-* Espanso support any uppercase/lowercase letters or mixed
 
 # How contribute
 
@@ -46,6 +31,21 @@ The [tools](https://github.com/Mte90/espanso-typofixer/tree/master/tools) folder
 ## How generate a Espanso package
 
 The [generator.py](https://github.com/Mte90/espanso-typofixer/blob/master/generator.py) script generate the `.yml` files for the various languages (for dependencies check the `requirements.txt` file).
+
+# Story
+
+Those packages were a porting [SyntaxAutoFix](https://github.com/Mte90/SyntaxAutoFix) in Python that is now 7 years old (in 2022).
+Just used by me and no one else, in the years got tons of words with various hacktoberfest and by daily gathering of typos in English and Italian.
+
+I preferred to migrate to [Espanso](https://espanso.org) for various reasons:
+
+* I don't have to maintain a project by code, just still gather typos
+* Python project require `sudo`
+* Python project use like 50mb of ram, espanso instead less
+* Opening to a wide more usage to gather more typos
+* Espanso has unit tests and better support
+* Espanso is multiplatform so also Windows and OSX
+* Espanso support any uppercase/lowercase letters or mixed
 
 ## TODO
 
