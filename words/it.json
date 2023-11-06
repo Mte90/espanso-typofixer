@@ -12,7 +12,8 @@
         "abbstanza",
         "abbbstanza",
         "abastanza",
-        "abstanza"
+        "abstanza",
+        "abbastazna"
     ],
     "abbiamo": [
         "abbimoa",
@@ -138,7 +139,8 @@
         "agiunge"
     ],
     "aggiungere": [
-        "aggiugnere"
+        "aggiugnere",
+        "aggiubngere"
     ],
     "aggiungerne": [
         "aggiugnerne"
@@ -417,6 +419,9 @@
     "attrezzi": [
         "atrezi"
     ],
+    "attribuzione": [
+        "atribuzione"
+    ],
     "attualmente": [
         "attualemnte"
     ],
@@ -462,7 +467,8 @@
         "avevao"
     ],
     "avevi": [
-        "vevi"
+        "vevi",
+        "aevvi"
     ],
     "avevo": [
         "aveo"
@@ -611,7 +617,8 @@
     ],
     "capisco": [
         "cpiasco",
-        "capisoc"
+        "capisoc",
+        "capsico"
     ],
     "capiscono": [
         "capisconmo"
@@ -630,7 +637,8 @@
         "cairca"
     ],
     "caricamento": [
-        "caricmento"
+        "caricmento",
+        "cariacmento"
     ],
     "caricarlo": [
         "caircarlo"
@@ -928,6 +936,9 @@
     "confusione": [
         "confusioen"
     ],
+    "congratulazioni": [
+        "congratulazioi"
+    ],
     "conosce": [
         "consoce"
     ],
@@ -1053,6 +1064,9 @@
     ],
     "correttamente": [
         "correttamnet"
+    ],
+    "correttezza": [
+        "corretetzza"
     ],
     "corretti": [
         "coretti"
@@ -1452,7 +1466,8 @@
         "envetuale"
     ],
     "evidentemente": [
-        "evidentemetne"
+        "evidentemetne",
+        "evidentemnte"
     ],
     "facciamo": [
         "faciamo",
@@ -1644,6 +1659,9 @@
     ],
     "generato": [
         "generto"
+    ],
+    "generator": [
+        "genrator"
     ],
     "genitore": [
         "gentiore"
@@ -2212,6 +2230,9 @@
     "mancava": [
         "manacava"
     ],
+    "manco": [
+        "meanco"
+    ],
     "manda": [
         "amnda"
     ],
@@ -2269,6 +2290,9 @@
     ],
     "materassi": [
         "amterassi"
+    ],
+    "materia": [
+        "amteria"
     ],
     "materiale": [
         "amteriale"
@@ -2706,9 +2730,15 @@
     "pagare": [
         "apgare"
     ],
+    "pagarmi": [
+        "pgarmi"
+    ],
     "pagina": [
         "pagia",
         "pagian"
+    ],
+    "pagine": [
+        "pagien"
     ],
     "paio": [
         "apio"
@@ -2976,7 +3006,8 @@
         "poelmiche"
     ],
     "pomeriggio": [
-        "pomerigigo"
+        "pomerigigo",
+        "poermiggio"
     ],
     "porcherie": [
         "procherie"
@@ -3134,7 +3165,8 @@
         "prim",
         "rpima",
         "pria",
-        "priam"
+        "priam",
+        "prma"
     ],
     "principale": [
         "princiaple"
@@ -3340,6 +3372,9 @@
     "qualcuno": [
         "qulaucno"
     ],
+    "quali": [
+        "qualsi"
+    ],
     "qualsiasi": [
         "quasliasi",
         "qualsaisi"
@@ -3441,7 +3476,8 @@
         "regstrazione"
     ],
     "registrazioni": [
-        "regisrtazioni"
+        "regisrtazioni",
+        "registraizoni"
     ],
     "regola": [
         "regoal"
@@ -3463,6 +3499,9 @@
     ],
     "relazione": [
         "realzione"
+    ],
+    "respirare": [
+        "respitare"
     ],
     "responsabili": [
         "reposnsabili"
@@ -3541,6 +3580,9 @@
     ],
     "rifacendo": [
         "rifancedo"
+    ],
+    "riferimenti": [
+        "riferimnenti"
     ],
     "riferissi": [
         "refrissi"
@@ -3987,7 +4029,8 @@
         "smeplice"
     ],
     "semplicemente": [
-        "semplicemnete"
+        "semplicemnete",
+        "smeplicemente"
     ],
     "semplici": [
         "samplici"
@@ -4011,6 +4054,9 @@
     ],
     "sentirci": [
         "senteirci"
+    ],
+    "sentire": [
+        "setnire"
     ],
     "sentita": [
         "sentta"
@@ -4161,11 +4207,17 @@
     "sopravvissuto": [
         "sopravvisuto"
     ],
+    "sorgente": [
+        "sorgete"
+    ],
     "sorprendermi": [
         "soprendermi"
     ],
     "sospeso": [
         "sospero"
+    ],
+    "sostenibilit\u00e1": [
+        "sotenibilit\u00e0"
     ],
     "sostituisco": [
         "sostistuisco"
@@ -4233,6 +4285,10 @@
     "spingere": [
         "spignere",
         "spingre"
+    ],
+    "splendita": [
+        "spnedita",
+        "spledita"
     ],
     "sponsorizzato": [
         "sponsorizzatro"
@@ -4403,6 +4459,9 @@
     "tappare": [
         "tapapre"
     ],
+    "tardi": [
+        "tadi"
+    ],
     "tartaruga": [
         "tartargua"
     ],
@@ -4516,6 +4575,9 @@
     ],
     "trastevere": [
         "trasntevere"
+    ],
+    "tratta": [
+        "trata"
     ],
     "tratterebbe": [
         "tratterenbbe"
