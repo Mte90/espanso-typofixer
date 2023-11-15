@@ -59,6 +59,9 @@
     "accetta": [
         "acectta"
     ],
+    "accettata": [
+        "accetata"
+    ],
     "accettato": [
         "acecttato"
     ],
@@ -172,6 +175,9 @@
     ],
     "alcune": [
         "alcuen"
+    ],
+    "alessandro": [
+        "alesandro"
     ],
     "algoritmi": [
         "algortimi"
@@ -296,6 +302,9 @@
     "animazioni": [
         "animaizoni"
     ],
+    "annuale": [
+        "annulae"
+    ],
     "annullare": [
         "annulare"
     ],
@@ -332,6 +341,9 @@
     ],
     "approfittiamo": [
         "approfitiamo"
+    ],
+    "approvato": [
+        "aprrovato"
     ],
     "aprile": [
         "parile"
@@ -730,6 +742,9 @@
     "chiedete": [
         "cheidete"
     ],
+    "chiedi": [
+        "cheidi"
+    ],
     "chiediamo": [
         "chiadiamo"
     ],
@@ -743,6 +758,12 @@
     ],
     "citazioni": [
         "citaizoni"
+    ],
+    "classe": [
+        "clase"
+    ],
+    "classi": [
+        "lcassi"
     ],
     "coinvolgere": [
         "coinvoglere"
@@ -1010,6 +1031,9 @@
     "contenuto": [
         "contuto"
     ],
+    "conterrano": [
+        "conterrano"
+    ],
     "continua": [
         "conitnua"
     ],
@@ -1154,7 +1178,8 @@
     ],
     "descrizione": [
         "descirizione",
-        "descirzione"
+        "descirzione",
+        "decsrizione"
     ],
     "descrizioni": [
         "descirzioni"
@@ -1700,7 +1725,8 @@
     ],
     "giusto": [
         "viusto",
-        "guisto"
+        "guisto",
+        "gisuto"
     ],
     "glielo": [
         "glie"
@@ -1727,7 +1753,8 @@
         "gratutito"
     ],
     "grazie": [
-        "graize"
+        "graize",
+        "garzie"
     ],
     "grosso": [
         "gorsso"
@@ -1934,6 +1961,9 @@
     ],
     "inserire": [
         "isnerire"
+    ],
+    "inserisce": [
+        "inseriesce"
     ],
     "inserito": [
         "inmserito"
@@ -2417,11 +2447,15 @@
     "mobile": [
         "modile"
     ],
+    "modello": [
+        "mdoello"
+    ],
     "moderatore": [
         "mdoeratore"
     ],
     "modifiche": [
-        "mdofiche"
+        "mdofiche",
+        "moficihe"
     ],
     "modulo": [
         "moudlo"
@@ -2710,7 +2744,8 @@
     "ovviamente": [
         "ovviammnete",
         "ovviametne",
-        "ovviaemnte"
+        "ovviaemnte",
+        "ovviamnte"
     ],
     "pacchettone": [
         "paccehttone"
@@ -2976,7 +3011,8 @@
         "piattafroma",
         "piatatforma",
         "piattaofrma",
-        "paittaforma"
+        "paittaforma",
+        "piattafomra"
     ],
     "piccola": [
         "piccoal"
@@ -3408,7 +3444,8 @@
     "questa": [
         "qeusta",
         "uqesta",
-        "qusta"
+        "qusta",
+        "quyesta"
     ],
     "queste": [
         "uqeste"
@@ -3533,6 +3570,9 @@
     ],
     "ricaricando": [
         "ricarcando"
+    ],
+    "ricevere": [
+        "ricvevere"
     ],
     "richiede": [
         "richede"
@@ -3811,12 +3851,18 @@
     "rompere": [
         "romepre"
     ],
+    "salvarli": [
+        "savlarli"
+    ],
     "salvati": [
         "alvati",
         "savalti"
     ],
     "salvato": [
         "savalto"
+    ],
+    "sangue": [
+        "sange"
     ],
     "sanitari": [
         "santiari"
@@ -4178,7 +4224,8 @@
     ],
     "solitamente": [
         "solitasmente",
-        "solitmente"
+        "solitmente",
+        "solitamehnte"
     ],
     "solito": [
         "solto",
@@ -4269,7 +4316,8 @@
     ],
     "spiegato": [
         "psiegato",
-        "speigato"
+        "speigato",
+        "dspiegato"
     ],
     "spiegazione": [
         "speigazione",
@@ -4363,6 +4411,9 @@
     ],
     "studentesche": [
         "studentesce"
+    ],
+    "studio": [
+        "stodui"
     ],
     "stupendi": [
         "stupedi"
@@ -4636,6 +4687,9 @@
     "ultima": [
         "ultiam"
     ],
+    "ultimamente": [
+        "ultiamente"
+    ],
     "ultimi": [
         "lutimi",
         "utlimi"
@@ -4693,6 +4747,9 @@
     ],
     "valutazioni": [
         "valutaizoni"
+    ],
+    "vari": [
+        "varri"
     ],
     "variazioni": [
         "variaizoni"

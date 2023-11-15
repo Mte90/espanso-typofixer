@@ -2028,7 +2028,8 @@
     ],
     "before": [
         "beofre",
-        "befoer"
+        "befoer",
+        "befreo"
     ],
     "begging": [
         "beggin"
@@ -9021,6 +9022,9 @@
     "optimistic": [
         "optomistic"
     ],
+    "optional": [
+        "optionnal"
+    ],
     "orally": [
         "erally"
     ],
@@ -10873,6 +10877,9 @@
     ],
     "respected": [
         "repected"
+    ],
+    "respective": [
+        "repsective"
     ],
     "respectively": [
         "respectivly"
@@ -13960,7 +13967,8 @@
     ],
     "write": [
         "rwite",
-        "wriet"
+        "wriet",
+        "wirte"
     ],
     "writer": [
         "writter"
