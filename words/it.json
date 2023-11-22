@@ -585,7 +585,8 @@
         "butarmi"
     ],
     "cacchio": [
-        "cachcio"
+        "cachcio",
+        "cacchoi"
     ],
     "caduto": [
         "caudot"
@@ -654,6 +655,9 @@
     ],
     "caricarlo": [
         "caircarlo"
+    ],
+    "caricato": [
+        "carricato"
     ],
     "carriera": [
         "carrira"
@@ -909,6 +913,9 @@
     ],
     "concorso": [
         "concirso"
+    ],
+    "concreta": [
+        "concreata"
     ],
     "condividi": [
         "condivdi"
@@ -1429,7 +1436,8 @@
     "esempio": [
         "eempio",
         "esemio",
-        "esmepio"
+        "esmepio",
+        "esmpio"
     ],
     "esiste": [
         "essite"
@@ -2052,7 +2060,8 @@
         "itnernet"
     ],
     "interno": [
-        "itnerno"
+        "itnerno",
+        "iterno"
     ],
     "interscambio": [
         "interscabmio"
@@ -2104,7 +2113,8 @@
     ],
     "lasciare": [
         "lascaire",
-        "lascair"
+        "lascair",
+        "alsciare"
     ],
     "lasciato": [
         "alsciato",
@@ -3224,7 +3234,8 @@
     "problemi": [
         "provlemi",
         "porblemi",
-        "prblemi"
+        "prblemi",
+        "peroblemi"
     ],
     "prodotti": [
         "porodotti",
@@ -3565,6 +3576,9 @@
     "riassunto": [
         "rassiunto"
     ],
+    "riattivarsi": [
+        "riattivarrsi"
+    ],
     "riavvio": [
         "riavivo"
     ],
@@ -3902,6 +3916,9 @@
     "sbattersi": [
         "sbatersi"
     ],
+    "sblocchiamo": [
+        "sblocchjiamo"
+    ],
     "scansionare": [
         "scansioanre"
     ],
@@ -3994,6 +4011,9 @@
     ],
     "scrittura": [
         "scrittra"
+    ],
+    "scrive": [
+        "sdcrive"
     ],
     "scrivendolo": [
         "scirvendolo"
@@ -4481,6 +4501,9 @@
     ],
     "svolta": [
         "svolat"
+    ],
+    "switch": [
+        "swtich"
     ],
     "tagliari": [
         "tglirli"
