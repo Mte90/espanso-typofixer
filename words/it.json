@@ -1133,6 +1133,9 @@
     "credo": [
         "creod"
     ],
+    "cuffie": [
+        "cuffe"
+    ],
     "dargli": [
         "darlgi"
     ],
@@ -1519,6 +1522,9 @@
     "facile": [
         "faciel"
     ],
+    "famo": [
+        "fampo"
+    ],
     "fanno": [
         "fano"
     ],
@@ -1827,6 +1833,9 @@
     ],
     "imparare": [
         "imaprare"
+    ],
+    "impazziscano": [
+        "imppazziscano"
     ],
     "impegnare": [
         "impengare"
@@ -2632,6 +2641,9 @@
     ],
     "oppure": [
         "opure"
+    ],
+    "optimized": [
+        "optiomized"
     ],
     "opzione": [
         "zopione"
@@ -3482,7 +3494,8 @@
     ],
     "quindi": [
         "qundi",
-        "quinid"
+        "quinid",
+        "quaindi"
     ],
     "raccontarono": [
         "racconrarono"
@@ -3608,6 +3621,9 @@
     "richiesto": [
         "richeisto",
         "riochiesto"
+    ],
+    "ricominciamo": [
+        "ricomicniamo"
     ],
     "riconoscere": [
         "riconsocere"
@@ -3856,6 +3872,9 @@
     "riusiamo": [
         "rusiamo"
     ],
+    "riutilizzarlo": [
+        "riutlizzarlo"
+    ],
     "roba": [
         "robga"
     ],
@@ -4096,7 +4115,8 @@
     ],
     "semplicemente": [
         "semplicemnete",
-        "smeplicemente"
+        "smeplicemente",
+        "sempoicemente"
     ],
     "semplici": [
         "samplici"
@@ -4266,7 +4286,8 @@
     "sono": [
         "sonmo",
         "osno",
-        "sno"
+        "sno",
+        "soo"
     ],
     "sopratutto": [
         "sopatutto"
