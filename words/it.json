@@ -1066,6 +1066,9 @@
     "controllare": [
         "controlalre"
     ],
+    "conversazionale": [
+        "cdonversazionale"
+    ],
     "conviene": [
         "convine"
     ],
@@ -1586,6 +1589,9 @@
     ],
     "finalmente": [
         "finalemente"
+    ],
+    "finanziario": [
+        "finaziario"
     ],
     "fine": [
         "ifne"
@@ -2593,6 +2599,9 @@
     "obbligatorie": [
         "obbilgiatorie"
     ],
+    "obbligatorio": [
+        "obligatorio"
+    ],
     "obblighi": [
         "oblighi"
     ],
@@ -3015,7 +3024,8 @@
         "paicere"
     ],
     "piacerebbe": [
-        "paicerebbe"
+        "paicerebbe",
+        "poiacerebbe"
     ],
     "piacevole": [
         "paicevole"
@@ -3217,6 +3227,9 @@
     ],
     "previsto": [
         "previsot"
+    ],
+    "prezzo": [
+        "prrzzo"
     ],
     "prima": [
         "pri",
@@ -3790,7 +3803,8 @@
     ],
     "risponde": [
         "riscponde",
-        "rispodne"
+        "rispodne",
+        "rispode"
     ],
     "rispondendo": [
         "ripondendo"
@@ -4004,6 +4018,9 @@
     ],
     "scontare": [
         "scotnare"
+    ],
+    "sconto": [
+        "sconot"
     ],
     "scoprire": [
         "scroprire"
@@ -4400,6 +4417,9 @@
     "stampare": [
         "stamapre",
         "stmapare"
+    ],
+    "stampato": [
+        "stmpato"
     ],
     "stanno": [
         "stanho"
@@ -4827,6 +4847,9 @@
     "vengono": [
         "vnegono"
     ],
+    "venne": [
+        "benne"
+    ],
     "veramente": [
         "vermente",
         "verametne"
@@ -4893,7 +4916,8 @@
         "volgia"
     ],
     "vogliamo": [
-        "vigliamo"
+        "vigliamo",
+        "voglaimo"
     ],
     "voglio": [
         "volio",

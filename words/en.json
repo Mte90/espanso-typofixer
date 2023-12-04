@@ -3028,7 +3028,8 @@
         "compatiblities"
     ],
     "compatibility": [
-        "compatiblity"
+        "compatiblity",
+        "comaptibility"
     ],
     "compatible": [
         "compatable"
@@ -6690,6 +6691,9 @@
         "emmediately",
         "imediately"
     ],
+    "immediatly": [
+        "imediatly"
+    ],
     "immense": [
         "imense"
     ],
@@ -7134,7 +7138,8 @@
         "instilation"
     ],
     "installed": [
-        "istalled"
+        "istalled",
+        "instaled"
     ],
     "installment": [
         "intallment"
@@ -13401,7 +13406,6 @@
         "useage"
     ],
     "use": [
-        "sue",
         "useage",
         "uise"
     ],
