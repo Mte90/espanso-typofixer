@@ -1588,7 +1588,8 @@
         "filmanre"
     ],
     "finalmente": [
-        "finalemente"
+        "finalemente",
+        "finalmenre"
     ],
     "finanziario": [
         "finaziario"
@@ -1775,6 +1776,9 @@
     "grazie": [
         "graize",
         "garzie"
+    ],
+    "grossa": [
+        "gorssa"
     ],
     "grosso": [
         "gorsso"
@@ -2316,7 +2320,8 @@
         "manicco"
     ],
     "maniera": [
-        "maneira"
+        "maneira",
+        "menira"
     ],
     "maniglie": [
         "manigle"
@@ -2508,6 +2513,9 @@
     ],
     "mucchio": [
         "muchcio"
+    ],
+    "multa": [
+        "mukta"
     ],
     "muovere": [
         "muivere"
@@ -2788,7 +2796,8 @@
         "apese"
     ],
     "pagamento": [
-        "apgamento"
+        "apgamento",
+        "pagaento"
     ],
     "pagano": [
         "pagno"
@@ -3529,7 +3538,8 @@
         "rappresentaza"
     ],
     "realizzazione": [
-        "relaizzazione"
+        "relaizzazione",
+        "realizzaizone"
     ],
     "realmente": [
         "relamente"
@@ -3613,6 +3623,9 @@
     ],
     "ricevere": [
         "ricvevere"
+    ],
+    "riceverla": [
+        "riveerla"
     ],
     "richiede": [
         "richede"
@@ -3824,7 +3837,8 @@
         "rispondno"
     ],
     "risposta": [
-        "rispota`"
+        "rispota`",
+        "rispsota"
     ],
     "risposte": [
         "ripsoste",
@@ -3897,6 +3911,9 @@
     ],
     "rompere": [
         "romepre"
+    ],
+    "salvare": [
+        "salyare"
     ],
     "salvarli": [
         "savlarli"
@@ -4191,7 +4208,8 @@
     ],
     "servizio": [
         "servioz",
-        "serivioz"
+        "serivioz",
+        "serivizio"
     ],
     "servono": [
         "serovno"
@@ -4543,6 +4561,9 @@
     "svolta": [
         "svolat"
     ],
+    "svuotato": [
+        "svutoato"
+    ],
     "switch": [
         "swtich"
     ],
@@ -4828,7 +4849,8 @@
         "vebe"
     ],
     "vedere": [
-        "vedree"
+        "vedree",
+        "vederre"
     ],
     "vediamo": [
         "vediam",
@@ -4949,7 +4971,8 @@
         "vorrebe"
     ],
     "vorrei": [
-        "voreri"
+        "voreri",
+        "vorrie"
     ],
     "vostro": [
         "vostor"
