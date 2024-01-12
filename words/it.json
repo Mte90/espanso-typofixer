@@ -566,6 +566,9 @@
     "blocchi": [
         "blochci"
     ],
+    "bombardando": [
+        "bombarando"
+    ],
     "bordello": [
         "brodello"
     ],
@@ -1240,6 +1243,9 @@
     "dimentichiamo": [
         "dimenticiamo"
     ],
+    "diminuire": [
+        "dimunire"
+    ],
     "dimmi": [
         "dimim"
     ],
@@ -1539,7 +1545,8 @@
     ],
     "fare": [
         "frare",
-        "fafre"
+        "fafre",
+        "afre"
     ],
     "fargli": [
         "faregli"
@@ -2295,6 +2302,9 @@
     "mancava": [
         "manacava"
     ],
+    "manchi": [
+        "manci"
+    ],
     "manco": [
         "meanco"
     ],
@@ -2586,6 +2596,9 @@
     "non": [
         "enon",
         "nons"
+    ],
+    "normale": [
+        "nornmale"
     ],
     "nostra": [
         "nsotra"
@@ -3676,6 +3689,9 @@
     "riempito": [
         "rimpeito"
     ],
+    "rientrare": [
+        "rinetrare"
+    ],
     "riesce": [
         "risce",
         "reisce"
@@ -4646,7 +4662,8 @@
         "tmepi"
     ],
     "tempo": [
-        "tmepo"
+        "tmepo",
+        "tepo"
     ],
     "tentativi": [
         "tentaivi"
@@ -4665,6 +4682,9 @@
     ],
     "termini": [
         "temrini"
+    ],
+    "testare": [
+        "tstare"
     ],
     "tienile": [
         "tenile"
