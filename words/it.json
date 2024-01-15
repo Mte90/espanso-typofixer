@@ -889,7 +889,8 @@
     ],
     "comunicazione": [
         "comunicziaone",
-        "comunicaizone"
+        "comunicaizone",
+        "comuinicazione"
     ],
     "comunicazioni": [
         "comunicaizoni"
@@ -1058,7 +1059,8 @@
         "conrappone"
     ],
     "contratto": [
-        "cotnratto"
+        "cotnratto",
+        "ciontratto"
     ],
     "contributo": [
         "contirbuto"
@@ -1632,6 +1634,9 @@
     "firmare": [
         "firamre"
     ],
+    "fissala": [
+        "fisala"
+    ],
     "fissiamoci": [
         "fissimaoci"
     ],
@@ -1788,7 +1793,8 @@
     ],
     "grazie": [
         "graize",
-        "garzie"
+        "garzie",
+        "granzie"
     ],
     "grossa": [
         "gorssa"
@@ -3466,7 +3472,8 @@
         "qualhce",
         "quacleh",
         "qualceh",
-        "qualce"
+        "qualce",
+        "qulahce"
     ],
     "qualcosa": [
         "quaclosa",
@@ -3600,6 +3607,9 @@
     ],
     "relativa": [
         "reelativa"
+    ],
+    "relative": [
+        "relatve"
     ],
     "relativi": [
         "realativi"
