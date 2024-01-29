@@ -462,7 +462,8 @@
         "avazanzano"
     ],
     "aver": [
-        "vare"
+        "vare",
+        "averr"
     ],
     "avere": [
         "avcere"
@@ -701,6 +702,9 @@
     ],
     "cerco": [
         "erco"
+    ],
+    "certo": [
+        "cerrto"
     ],
     "cestinarlo": [
         "cestianrlo"
@@ -1801,7 +1805,8 @@
     "grazie": [
         "graize",
         "garzie",
-        "granzie"
+        "granzie",
+        "grazi"
     ],
     "grossa": [
         "gorssa"
@@ -2176,6 +2181,9 @@
     ],
     "lavatrice": [
         "lvatrice"
+    ],
+    "lavatrici": [
+        "lavastrici"
     ],
     "lavora": [
         "alvora"
@@ -4072,6 +4080,9 @@
     "sciacquone": [
         "sciqauone"
     ],
+    "sciroppo": [
+        "scriroppo"
+    ],
     "scommetto": [
         "scommeto",
         "scometto"
@@ -4756,6 +4767,9 @@
     "tracciamento": [
         "tracciamneto"
     ],
+    "tracciare": [
+        "trtacciare"
+    ],
     "tracciato": [
         "traccaito"
     ],
@@ -5000,6 +5014,9 @@
     ],
     "visualizzazione": [
         "visualizazione"
+    ],
+    "vita": [
+        "vitra"
     ],
     "voglia": [
         "voglai",
