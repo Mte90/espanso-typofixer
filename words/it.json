@@ -349,6 +349,9 @@
     "aprile": [
         "parile"
     ],
+    "architetto": [
+        "archtetto"
+    ],
     "arrapano": [
         "arrpano"
     ],
@@ -831,6 +834,9 @@
     ],
     "compatibili": [
         "comaptibili"
+    ],
+    "competenze": [
+        "compenteze"
     ],
     "compila": [
         "ocmpila"
@@ -1390,7 +1396,8 @@
     ],
     "dovrebbe": [
         "dovrebe",
-        "dorvebbe"
+        "dorvebbe",
+        "dsovrebbe"
     ],
     "dovrebbero": [
         "dovrebero"
@@ -1806,7 +1813,8 @@
         "graize",
         "garzie",
         "granzie",
-        "grazi"
+        "grazi",
+        "graie"
     ],
     "grossa": [
         "gorssa"
@@ -1887,6 +1895,9 @@
     "impianta": [
         "impianata"
     ],
+    "impicciati": [
+        "impicciayi"
+    ],
     "impicciato": [
         "impiccaito"
     ],
@@ -1945,6 +1956,9 @@
     "incompetenti": [
         "incompetneti"
     ],
+    "incontrare": [
+        "incotnrare"
+    ],
     "incredibile": [
         "incerdibile"
     ],
@@ -1994,6 +2008,9 @@
     ],
     "ininterrottamente": [
         "inenterrottamente"
+    ],
+    "iniziando": [
+        "iniziado"
     ],
     "iniziare": [
         "inizare"
@@ -2313,6 +2330,9 @@
     ],
     "magliette": [
         "magleitte"
+    ],
+    "male": [
+        "makle"
     ],
     "manca": [
         "amnca"
@@ -3337,6 +3357,9 @@
     "professionisti": [
         "profesisonisti"
     ],
+    "profiler": [
+        "profielr"
+    ],
     "progetti": [
         "proggetti"
     ],
@@ -4076,6 +4099,9 @@
     ],
     "schiantare": [
         "schianatare"
+    ],
+    "schifo": [
+        "scifo"
     ],
     "sciacquone": [
         "sciqauone"
@@ -4892,7 +4918,8 @@
         "utneti"
     ],
     "utile": [
-        "tuile"
+        "tuile",
+        "utle"
     ],
     "utilizzare": [
         "utilizzre"
@@ -4923,6 +4950,9 @@
     ],
     "varie": [
         "vaire"
+    ],
+    "vecchie": [
+        "evcchie"
     ],
     "vecchio": [
         "vechcio"
