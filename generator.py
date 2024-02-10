@@ -20,7 +20,7 @@ for filename in file:
             print("Parsing " + str(filename) + " language")
             lang = os.path.splitext(os.path.basename(filename))
             lang = lang[0]
-            json = load(f, object_hook=OrderedDict)
+            json = load(f)
             yaml_content = {
                 "name": "typofixer-" + lang,
                 "parent": "default",
