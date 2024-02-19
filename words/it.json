@@ -426,6 +426,12 @@
     "attacco": [
         "attaco"
     ],
+    "attendere": [
+        "attendfere"
+    ],
+    "attenzione": [
+        "atetnzione"
+    ],
     "attesa": [
         "atesa"
     ],
@@ -1736,6 +1742,9 @@
     "furgoncino": [
         "furgonicno"
     ],
+    "genera": [
+        "genra"
+    ],
     "generare": [
         "generaer"
     ],
@@ -1982,6 +1991,9 @@
     "inevitabilmente": [
         "inveitabilmente"
     ],
+    "infatti": [
+        "infati"
+    ],
     "inflazione": [
         "infalzione"
     ],
@@ -2001,7 +2013,8 @@
         "informazone"
     ],
     "informazioni": [
-        "informaizoni"
+        "informaizoni",
+        "informaioni"
     ],
     "ingegneria": [
         "ingengeria"
@@ -2312,7 +2325,8 @@
     "macchina": [
         "amcchina",
         "machina",
-        "machcina"
+        "machcina",
+        "macchian"
     ],
     "macchine": [
         "machcine"
@@ -3169,6 +3183,9 @@
     "porcherie": [
         "procherie"
     ],
+    "porta": [
+        "prota"
+    ],
     "portale": [
         "portlae",
         "protale"
@@ -3440,7 +3457,8 @@
         "prorpi"
     ],
     "proprietario": [
-        "prorpietario"
+        "prorpietario",
+        "propeitario"
     ],
     "proprio": [
         "priprio",
@@ -3750,6 +3768,9 @@
     ],
     "ricontrollati": [
         "ricontrolalti"
+    ],
+    "rielaborare": [
+        "rielaorare"
     ],
     "riempie": [
         "rimpie"
@@ -4376,6 +4397,9 @@
     ],
     "singolarmente": [
         "singolrmente"
+    ],
+    "sistemando": [
+        "sitemando"
     ],
     "sistemare": [
         "sistamre"
