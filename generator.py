@@ -18,8 +18,8 @@ for filename in file:
     if os.path.isfile(filename):
         with open(filename, "r", encoding='utf-8') as f:
             print("Parsing " + str(filename) + " language")
-            lang = os.path.splitext(os.path.basename(filename))
-            lang = lang[0]
+            _lang = os.path.splitext(os.path.basename(filename))
+            lang = _lang[0]
             json = load(f, object_hook=OrderedDict)
             yaml_content = {
                 "name": "typofixer-" + lang,
