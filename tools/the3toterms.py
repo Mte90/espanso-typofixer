@@ -18,6 +18,8 @@ before = len(typo_data)
 for rule in the3_content:
     if ':' in rule:
         misspelled_word, correct_word = rule.split(':')
+        if " " in correct_word:
+            continue
         correct_word = correct_word.lower()
         misspelled_word = misspelled_word.lower()
         if correct_word not in typo_data:
