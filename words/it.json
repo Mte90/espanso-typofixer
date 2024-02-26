@@ -312,6 +312,9 @@
     "annullato": [
         "annulato"
     ],
+    "anteguerra": [
+        "antegeurra"
+    ],
     "anticipo": [
         "aticipo"
     ],
@@ -354,6 +357,9 @@
     ],
     "arrapano": [
         "arrpano"
+    ],
+    "arriva": [
+        "ariva"
     ],
     "arrivano": [
         "arivano"
@@ -911,7 +917,8 @@
     "comunicazione": [
         "comunicziaone",
         "comunicaizone",
-        "comuinicazione"
+        "comuinicazione",
+        "comuncazione"
     ],
     "comunicazioni": [
         "comunicaizoni"
@@ -2073,7 +2080,8 @@
         "inspiegabilemtne"
     ],
     "installare": [
-        "instalalre"
+        "instalalre",
+        "isntallare"
     ],
     "installati": [
         "isntallati"
@@ -2526,7 +2534,8 @@
     "migliorare": [
         "mgiliraore",
         "mgiliorare",
-        "migliroare"
+        "migliroare",
+        "migliraore"
     ],
     "migliorata": [
         "migliroata"
@@ -3091,6 +3100,9 @@
     ],
     "periodo": [
         "epriodo"
+    ],
+    "permessi": [
+        "eprmessi"
     ],
     "permetterebbe": [
         "pemretterebbe"
@@ -3847,6 +3859,9 @@
     "rimarremo": [
         "rimarrermo"
     ],
+    "rimasti": [
+        "riamsti"
+    ],
     "rimborsa": [
         "rimnorsa"
     ],
@@ -4329,6 +4344,9 @@
     ],
     "servirebbe": [
         "servirebe"
+    ],
+    "servizi": [
+        "serivizi"
     ],
     "servizio": [
         "servioz",
