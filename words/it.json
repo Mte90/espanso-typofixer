@@ -92,6 +92,9 @@
     "adesivi": [
         "adevisi"
     ],
+    "adolescenti": [
+        "adolesecenti"
+    ],
     "adottare": [
         "adaottare"
     ],
@@ -622,7 +625,8 @@
     ],
     "cambiare": [
         "canbiare",
-        "camibare"
+        "camibare",
+        "ambiare"
     ],
     "cambiarlo": [
         "camobairlo"
@@ -1394,7 +1398,8 @@
         "dominica"
     ],
     "dominio": [
-        "dominipo"
+        "dominipo",
+        "domnio"
     ],
     "donazione": [
         "donazioen"
@@ -1437,6 +1442,9 @@
     ],
     "ebbe": [
         "ebe"
+    ],
+    "effetto": [
+        "efffetto"
     ],
     "efffetto": [
         "effeto"
@@ -4420,7 +4428,8 @@
         "sitemando"
     ],
     "sistemare": [
-        "sistamre"
+        "sistamre",
+        "sistamare"
     ],
     "sistemazione": [
         "sistamaizone"
