@@ -80,6 +80,9 @@
     "accorpiamo": [
         "accopriamo"
     ],
+    "acquirente": [
+        "acquriente"
+    ],
     "acquistabili": [
         "acquistbili"
     ],
@@ -1162,7 +1165,8 @@
         "acos"
     ],
     "cose": [
-        "cse"
+        "cse",
+        "coe"
     ],
     "costante": [
         "costsnte"
@@ -1430,6 +1434,9 @@
     "dovuto": [
         "duvot",
         "douvto"
+    ],
+    "download": [
+        "donwload"
     ],
     "due": [
         "deu"
@@ -2382,6 +2389,9 @@
     ],
     "mancanza": [
         "mancaza"
+    ],
+    "mancata": [
+        "mnacata"
     ],
     "mancava": [
         "manacava"
@@ -3380,7 +3390,8 @@
     ],
     "problema": [
         "prlblema",
-        "rpoblema"
+        "rpoblema",
+        "probema"
     ],
     "problemi": [
         "provlemi",
@@ -4431,6 +4442,9 @@
         "sistamre",
         "sistamare"
     ],
+    "sistemarle": [
+        "sistemrle"
+    ],
     "sistemazione": [
         "sistamaizone"
     ],
@@ -4875,6 +4889,9 @@
     ],
     "trasferimento": [
         "tasferimento"
+    ],
+    "trasferisce": [
+        "traserisce"
     ],
     "trasforma": [
         "trasfroma"
