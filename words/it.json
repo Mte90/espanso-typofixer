@@ -104,6 +104,9 @@
     "affidabile": [
         "affadabile"
     ],
+    "affidabili": [
+        "afffidabili"
+    ],
     "affittarla": [
         "affitarla"
     ],
@@ -112,6 +115,9 @@
     ],
     "affrontata": [
         "affrotnata"
+    ],
+    "aggiorna": [
+        "agiorna"
     ],
     "aggiornamenti": [
         "aggiornemtni",
@@ -134,6 +140,9 @@
     "aggiornato": [
         "agiornato",
         "agigornato"
+    ],
+    "aggiornerei": [
+        "aggiorenrei"
     ],
     "aggiorni": [
         "aggionri"
@@ -1075,7 +1084,8 @@
         "conteto"
     ],
     "contenuto": [
-        "contuto"
+        "contuto",
+        "cotenuto"
     ],
     "conterrano": [
         "conterrano"
@@ -1572,6 +1582,9 @@
     "evidentemente": [
         "evidentemetne",
         "evidentemnte"
+    ],
+    "faccia": [
+        "afccia"
     ],
     "facciamo": [
         "faciamo",
@@ -2704,6 +2717,9 @@
     "non": [
         "enon",
         "nons"
+    ],
+    "nonnismo": [
+        "nonnsimo"
     ],
     "normale": [
         "nornmale"
@@ -4294,6 +4310,9 @@
     "segnala": [
         "sengala"
     ],
+    "segnalare": [
+        "segnalre"
+    ],
     "segnalato": [
         "segnalto",
         "segnalat",
@@ -5200,6 +5219,9 @@
     "vorrei": [
         "voreri",
         "vorrie"
+    ],
+    "vostri": [
+        "vsotri"
     ],
     "vostro": [
         "vostor"
