@@ -43,6 +43,9 @@
     "abituato": [
         "abiutato"
     ],
+    "accadendo": [
+        "acadendo"
+    ],
     "accede": [
         "acede"
     ],
@@ -1004,7 +1007,8 @@
         "condigurazione",
         "configurazioen",
         "configuraizone",
-        "configurazaione"
+        "configurazaione",
+        "confiurazione"
     ],
     "configurazioni": [
         "configuraizoni"
@@ -1935,7 +1939,8 @@
     "immagini": [
         "immaggini",
         "imamgini",
-        "imamgiin"
+        "imamgiin",
+        "immgini"
     ],
     "immagino": [
         "imamgino",
@@ -3340,7 +3345,8 @@
         "partiche"
     ],
     "precedente": [
-        "percedente"
+        "percedente",
+        "rpecedente"
     ],
     "predefinito": [
         "rpedefinito"
@@ -4152,6 +4158,9 @@
     ],
     "sarebbe": [
         "sarebe"
+    ],
+    "sbagliata": [
+        "sbaglaita"
     ],
     "sbagliati": [
         "sbaglaiti"
