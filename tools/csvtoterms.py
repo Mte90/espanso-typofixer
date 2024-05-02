@@ -12,12 +12,16 @@ parser.add_argument('-lang', dest="lang", type=str, required=True)
 args = parser.parse_args()
 
 script_path = os.path.dirname(os.path.realpath(__file__))
-script_path = os.path.join(script_path, '/../words/' + args.lang + '.json')
+script_path = os.path.join(script_path, '../words/' + args.lang + '.json')
 
 typo_data = open_typo_file(script_path)
+print(typo_data)
 with open(args.file) as csv_file:
     csv_reader = csv.reader(csv_file, delimiter=',')
     for row in csv_reader:
-        typo_data[row[0]].add(row[1])
+        if row[0] in typo_data:
+            typo_data[row[0]].append(row[1])
+        else:
+            typo_data[row[0]] = [row[1]]
 
 save_typo_data(script_path, typo_data)
