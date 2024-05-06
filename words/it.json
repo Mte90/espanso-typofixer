@@ -364,6 +364,9 @@
     "approfittiamo": [
         "approfitiamo"
     ],
+    "approvare": [
+        "apprrovare"
+    ],
     "approvato": [
         "aprrovato"
     ],
@@ -913,6 +916,9 @@
     ],
     "compra": [
         "compa"
+    ],
+    "comprai": [
+        "comorai"
     ],
     "comprare": [
         "comrapre",
@@ -4446,7 +4452,8 @@
         "settimna",
         "setimana",
         "setitmana",
-        "settiaman"
+        "settiaman",
+        "settomana"
     ],
     "sfortunatamente": [
         "sfortuantamente",
@@ -4726,6 +4733,9 @@
     ],
     "strumenti": [
         "struemnti"
+    ],
+    "strumento": [
+        "strumeto"
     ],
     "studentesche": [
         "studentesce"
@@ -5234,6 +5244,9 @@
     ],
     "volta": [
         "votla"
+    ],
+    "voluti": [
+        "vcoluti"
     ],
     "vorranno": [
         "vorrano",
