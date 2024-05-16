@@ -153,6 +153,9 @@
     "aggiorno": [
         "agiorno"
     ],
+    "aggirare": [
+        "aggirae"
+    ],
     "aggiudicato": [
         "aggiudato"
     ],
@@ -2749,7 +2752,8 @@
     ],
     "nostri": [
         "nsotri",
-        "snotri"
+        "snotri",
+        "nostir"
     ],
     "nostro": [
         "nsotro",
@@ -4741,7 +4745,8 @@
         "studentesce"
     ],
     "studio": [
-        "stodui"
+        "stodui",
+        "sutdio"
     ],
     "stupendi": [
         "stupedi"
@@ -5130,6 +5135,9 @@
     ],
     "vedrei": [
         "vederi"
+    ],
+    "vendere": [
+        "vednere"
     ],
     "vendiamo": [
         "nvediamo",
