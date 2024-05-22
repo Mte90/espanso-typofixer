@@ -333,6 +333,9 @@
     "annullato": [
         "annulato"
     ],
+    "annullo": [
+        "annulo"
+    ],
     "anteguerra": [
         "antegeurra"
     ],
@@ -3436,7 +3439,8 @@
         "princiaple"
     ],
     "principalmente": [
-        "principlamente"
+        "principlamente",
+        "principalemnte"
     ],
     "privato": [
         "prvato"
@@ -3587,6 +3591,9 @@
     ],
     "provo": [
         "rpovo"
+    ],
+    "provvedere": [
+        "provedere"
     ],
     "provvedo": [
         "prvvedo"
@@ -4544,7 +4551,8 @@
     "solitamente": [
         "solitasmente",
         "solitmente",
-        "solitamehnte"
+        "solitamehnte",
+        "solitamnete"
     ],
     "solito": [
         "solto",
