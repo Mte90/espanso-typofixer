@@ -483,6 +483,9 @@
     "attuenanti": [
         "attuentanti"
     ],
+    "autenticazione": [
+        "autenticaizone"
+    ],
     "autobiografia": [
         "autobiogrfia"
     ],
@@ -1355,6 +1358,9 @@
         "direttametn",
         "direttamete"
     ],
+    "direttivo": [
+        "diretivo"
+    ],
     "dirglielo": [
         "dirgielo",
         "dirglelo"
@@ -1391,6 +1397,9 @@
     ],
     "diventa": [
         "dinveta"
+    ],
+    "diventando": [
+        "diventnado"
     ],
     "diventare": [
         "dinvetare"
@@ -2219,6 +2228,9 @@
         "interfaccai",
         "itnerfaccia"
     ],
+    "internazionali": [
+        "intenrazionali"
+    ],
     "internet": [
         "itnernet"
     ],
@@ -2340,6 +2352,9 @@
     ],
     "liberativo": [
         "lbierativo"
+    ],
+    "liberissimi": [
+        "lbierissimi"
     ],
     "libero": [
         "lbiero",
@@ -2750,6 +2765,9 @@
     ],
     "normale": [
         "nornmale"
+    ],
+    "normalizzare": [
+        "normalizae"
     ],
     "nostra": [
         "nsotra"
@@ -3415,6 +3433,9 @@
     "presso": [
         "persso"
     ],
+    "prestazioni": [
+        "prestaizoni"
+    ],
     "pretendo": [
         "prtendo"
     ],
@@ -3744,7 +3765,8 @@
         "realizzaizone"
     ],
     "realmente": [
-        "relamente"
+        "relamente",
+        "realemnte"
     ],
     "recensito": [
         "recensiot"
@@ -3993,6 +4015,9 @@
     ],
     "riparte": [
         "riprte"
+    ],
+    "ripetibile": [
+        "ripetebile"
     ],
     "ripetizione": [
         "rieptizioni"
@@ -5219,6 +5244,9 @@
     ],
     "virtuali": [
         "virtulai"
+    ],
+    "visite": [
+        "visiste"
     ],
     "vista": [
         "vitsa"
