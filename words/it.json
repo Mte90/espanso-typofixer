@@ -2567,6 +2567,9 @@
     "messaggio": [
         "emssaggio"
     ],
+    "meteo": [
+        "emteo"
+    ],
     "metodi": [
         "meotdi"
     ],
@@ -4921,6 +4924,9 @@
     ],
     "tempi": [
         "tmepi"
+    ],
+    "tempistica": [
+        "tempstica"
     ],
     "tempo": [
         "tmepo",
