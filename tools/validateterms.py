@@ -4,6 +4,8 @@ import logging
 import os.path
 from SyntaxAutoFix.utils import open_typo_file, save_typo_data
 
+logging.basicConfig(level=logging.INFO)
+
 
 def parse_argument(_parser_):
     _parser_.add_argument('-lang', dest="lang", type=str, required=True)
@@ -14,19 +16,13 @@ def parse_argument(_parser_):
 def load_language(_args_, script_path):
     try:
         lang_path = script_path + _args_.lang + '.json'
+        logging.info(
+            f"Language {lang_path} loaded."
+        )
         words = open_typo_file(lang_path)
         return words
     except FileNotFoundError:
         raise ValueError(f"Language '{ _args_.lang}' is not available.")
-
-
-def term_is_typo_of_another_word(term, words):
-    for (correct, wrongs) in words.items():
-        if correct == term:
-            logging.info(f"ERR 1: The term '{correct}' is a typo of '{term}'.")
-        for wrong in wrongs:
-            if not wrong:
-                logging.info(f"ERR 3: The term '{correct}' has an empty typo.")
 
 
 def main():
@@ -39,15 +35,19 @@ def main():
     script_path = os.path.join(script_path, '../words/')
     words = load_language(args, script_path)
     cleaned_words = {}
+    logging.info(
+        f"Started processing"
+    )
     for (correct, wrongs) in words.items():
         for wrong in wrongs:
             if wrong == correct:
                 logging.info(
                     f"ERR 2: The term '{correct}' is a typo of itself."
                 )
+                del words[correct][words[correct].index(correct)]
                 continue
-            if wrong:
-                term_is_typo_of_another_word(wrong, words)
+            if not wrong:
+                logging.info(f"ERR 1: The term '{correct}' has an empty typo.")
         _words = [*set(wrongs)]
         cleaned_words[correct] = _words
 
