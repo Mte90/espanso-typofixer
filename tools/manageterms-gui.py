@@ -40,6 +40,7 @@ class MainWindow(QMainWindow, Ui_MainWindow):
             msg = QErrorMessage(self)
             msg.setWindowModality(QtCore.Qt.WindowModal)
             msg.showMessage('You can’t replace a word with itself. It will create a loop.')
+            return
 
         lang_path = self.script_path + lang + '.json'
         typo_data = open_typo_file(lang_path)

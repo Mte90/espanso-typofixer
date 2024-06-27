@@ -23632,7 +23632,6 @@
         "corrleation",
         "corrolation",
         "corralation",
-        "correlato",
         "corrilation",
         "correlasion",
         "corellation",
@@ -34505,6 +34504,9 @@
     ],
     "enact": [
         "inact"
+    ],
+    "enage": [
+        "engage"
     ],
     "enameled": [
         "enameld"
@@ -56303,7 +56305,8 @@
         "amgazine",
         "magisine",
         "magasine",
-        "magizine"
+        "magizine",
+        "magazie"
     ],
     "magazines": [
         "magainzes",
@@ -62573,7 +62576,8 @@
     "nightly": [
         "nightley",
         "nighlty",
-        "nigthly"
+        "nigthly",
+        "ngihtly"
     ],
     "nightmare": [
         "nightmarket",
@@ -68942,8 +68946,7 @@
         "phongraph"
     ],
     "photo": [
-        "phote",
-        "foto"
+        "phote"
     ],
     "photograph": [
         "photogragh",
@@ -72401,7 +72404,6 @@
     ],
     "proceed": [
         "proceeed",
-        "procede",
         "proced",
         "procceed"
     ],
