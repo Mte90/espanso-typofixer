@@ -13899,7 +13899,6 @@
     ],
     "cancellation": [
         "canceltation",
-        "cancellato",
         "cancelation",
         "concellation"
     ],
@@ -47724,7 +47723,6 @@
         "impossiblble",
         "improssible",
         "inposible",
-        "impossibile",
         "imposible",
         "inpossible"
     ],
@@ -70570,7 +70568,6 @@
         "posisble",
         "poosible",
         "possibble",
-        "possibile",
         "possbile",
         "possoble",
         "posible"
@@ -93564,7 +93561,8 @@
     ],
     "ticket": [
         "tciket",
-        "tickcet"
+        "tickcet",
+        "tikcet"
     ],
     "tidbit": [
         "tidibt"
@@ -95282,9 +95280,6 @@
     ],
     "treats": [
         "treates"
-    ],
-    "tree": [
-        "tre"
     ],
     "tremendous": [
         "trememdous",
