@@ -489,6 +489,9 @@
     "autobiografia": [
         "autobiogrfia"
     ],
+    "automatica": [
+        "autoamtica"
+    ],
     "automatically": [
         "autoamticaly"
     ],
@@ -674,6 +677,9 @@
     ],
     "cancellare": [
         "cancelalre"
+    ],
+    "candida": [
+        "candinda"
     ],
     "capire": [
         "cpaire"
@@ -1185,9 +1191,6 @@
         "coretto",
         "correto"
     ],
-    "controllare": [
-        "controlalre"
-    ],
     "corrispondente": [
         "corrispondete"
     ],
@@ -1221,9 +1224,6 @@
     ],
     "dargli": [
         "darlgi"
-    ],
-    "documentare": [
-        "documetnare"
     ],
     "dashboard": [
         "dasbhoard"
@@ -1428,6 +1428,9 @@
         "divertenet",
         "divertenete"
     ],
+    "documentare": [
+        "documetnare"
+    ],
     "documentazione": [
         "documentaizone"
     ],
@@ -1451,7 +1454,8 @@
     "domani": [
         "doamni",
         "doani",
-        "donmani"
+        "donmani",
+        "domai"
     ],
     "domenica": [
         "dominica"
@@ -1501,9 +1505,6 @@
     ],
     "durante": [
         "durnte"
-    ],
-    "ispirato": [
-        "ipsirato"
     ],
     "ebbe": [
         "ebe"
@@ -1834,6 +1835,9 @@
     "genera": [
         "genra"
     ],
+    "generale": [
+        "genrale"
+    ],
     "generare": [
         "generaer"
     ],
@@ -1917,6 +1921,9 @@
         "granzie",
         "grazi",
         "graie"
+    ],
+    "griglia": [
+        "girglia"
     ],
     "grossa": [
         "gorssa"
@@ -2049,6 +2056,9 @@
     ],
     "incastrarvi": [
         "incastrarcvi"
+    ],
+    "incazzati": [
+        "incazati"
     ],
     "incentivi": [
         "incetivi"
@@ -2280,6 +2290,9 @@
     ],
     "iscrizione": [
         "iscrizioen"
+    ],
+    "ispirato": [
+        "ipsirato"
     ],
     "italiana": [
         "itliana"
@@ -2529,14 +2542,14 @@
     "marcia": [
         "amrcia"
     ],
+    "mare": [
+        "mear"
+    ],
     "marinella": [
         "marniella"
     ],
     "massimo": [
         "masismo"
-    ],
-    "incazzati": [
-        "incazati"
     ],
     "materassi": [
         "amterassi"
@@ -2868,9 +2881,6 @@
     ],
     "opposed": [
         "opppsed"
-    ],
-    "mare": [
-        "mear"
     ],
     "oppure": [
         "opure"
@@ -4270,6 +4280,9 @@
     ],
     "scatole": [
         "scatoel"
+    ],
+    "scatolone": [
+        "sctolone"
     ],
     "scattare": [
         "scatatre"
