@@ -460,7 +460,8 @@
         "attaco"
     ],
     "attendere": [
-        "attendfere"
+        "attendfere",
+        "attendre"
     ],
     "attenzione": [
         "atetnzione"
@@ -833,6 +834,9 @@
     "classi": [
         "lcassi"
     ],
+    "clientele": [
+        "clientelle"
+    ],
     "coinvolgere": [
         "coinvoglere"
     ],
@@ -1090,6 +1094,9 @@
         "consilgio",
         "consighlio"
     ],
+    "construttivamente": [
+        "costruttuvamente"
+    ],
     "consultarci": [
         "consultrci"
     ],
@@ -1320,6 +1327,9 @@
     ],
     "digitalizzare": [
         "digitalizare"
+    ],
+    "dilettante": [
+        "dilletante"
     ],
     "dimenticato": [
         "dimetnicato"
@@ -3816,6 +3826,9 @@
     ],
     "recentemente": [
         "recenetemente"
+    ],
+    "redazione": [
+        "redazioen"
     ],
     "registrati": [
         "regtistrati"
