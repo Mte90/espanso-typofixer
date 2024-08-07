@@ -1638,6 +1638,9 @@
         "evidentemetne",
         "evidentemnte"
     ],
+    "eviterei": [
+        "eviteirei"
+    ],
     "faccia": [
         "afccia"
     ],
@@ -1946,6 +1949,9 @@
     ],
     "guadagniamo": [
         "gadagniamo"
+    ],
+    "guanto": [
+        "guato"
     ],
     "guardando": [
         "guardandno"
@@ -3014,7 +3020,8 @@
         "ottimizate"
     ],
     "ottimizzazioni": [
-        "ottimizzaizoni"
+        "ottimizzaizoni",
+        "ottinmizzazioni"
     ],
     "ovunque": [
         "vounque"
@@ -4493,7 +4500,8 @@
         "sneti"
     ],
     "sentiamo": [
-        "setniamo"
+        "setniamo",
+        "sntiamo"
     ],
     "sentirci": [
         "senteirci"
@@ -4569,6 +4577,9 @@
     ],
     "sicurezza": [
         "iscurezza"
+    ],
+    "sicuro": [
+        "Siuro"
     ],
     "siete": [
         "seiti"
@@ -5057,6 +5068,9 @@
     "traduzione": [
         "traduzioen",
         "tradzuione"
+    ],
+    "traduzioni": [
+        "traduzuoni"
     ],
     "tranquillamente": [
         "tranquillametne",
