@@ -264,7 +264,8 @@
         "latra"
     ],
     "altre": [
-        "latre"
+        "latre",
+        "atre"
     ],
     "altri": [
         "altr"
@@ -748,6 +749,9 @@
     "categoria": [
         "categoira",
         "cateogira"
+    ],
+    "categorie": [
+        "cateogrie"
     ],
     "cavolo": [
         "caovlo"
@@ -3231,6 +3235,9 @@
     "pensa": [
         "pennsa"
     ],
+    "pensando": [
+        "pensado"
+    ],
     "pensare": [
         "pemsare"
     ],
@@ -3442,7 +3449,8 @@
     "praticamente": [
         "praticametne",
         "prticamente",
-        "pratiacmente"
+        "pratiacmente",
+        "prtaicamente"
     ],
     "pratiche": [
         "partiche"
@@ -4480,7 +4488,8 @@
         "segnalaizoni"
     ],
     "segnato": [
-        "sengato"
+        "sengato",
+        "seganto"
     ],
     "segui": [
         "seugi"
@@ -5023,6 +5032,9 @@
     ],
     "tentativi": [
         "tentaivi"
+    ],
+    "tentativo": [
+        "tenativo"
     ],
     "tentazione": [
         "tentaizone"
