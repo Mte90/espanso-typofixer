@@ -1408,7 +1408,6 @@
     "accessible": [
         "accesable",
         "accessisble",
-        "accessibile",
         "accesssible",
         "accessable",
         "accessile",
@@ -6370,7 +6369,6 @@
         "aplicable",
         "applicaple",
         "applicatable",
-        "applicabile",
         "applyable",
         "applicabel",
         "aplicabile",
@@ -16394,7 +16392,8 @@
         "chrsitmas"
     ],
     "chrome": [
-        "crhome"
+        "crhome",
+        "hcrome"
     ],
     "chrominance": [
         "chrminance"
@@ -18836,7 +18835,6 @@
     "comparable": [
         "compareble",
         "comporable",
-        "comparabile",
         "comprable",
         "compariable",
         "comperable",
@@ -19070,7 +19068,6 @@
         "comatible",
         "compatibil",
         "compatbile",
-        "compatibile",
         "compatabile",
         "commpatible",
         "comaptible",
@@ -21327,8 +21324,7 @@
         "considerble",
         "considerabely",
         "conciderable",
-        "considerarle",
-        "considerabile"
+        "considerarle"
     ],
     "considerably": [
         "conciderably",
@@ -22998,7 +22994,6 @@
         "covnerters"
     ],
     "convertible": [
-        "convertibile",
         "convirtible",
         "convertirle",
         "convertiable",
@@ -39200,9 +39195,6 @@
     "facades": [
         "fasodds"
     ],
-    "face": [
-        "facce"
-    ],
     "facebook": [
         "facebok",
         "faceboon",
@@ -41370,8 +41362,7 @@
         "formitable",
         "formidabil",
         "formidible",
-        "formidabble",
-        "formidabile"
+        "formidabble"
     ],
     "forming": [
         "froming"
@@ -47137,7 +47128,6 @@
         "impeech"
     ],
     "impeccable": [
-        "impeccabile",
         "impeckable",
         "impeccible"
     ],
@@ -47673,7 +47663,6 @@
     "improbable": [
         "unprobable",
         "improbible",
-        "improbabile",
         "impropable",
         "improbabil",
         "improbabe",
@@ -47844,8 +47833,7 @@
         "inacessible",
         "inaccesible",
         "inaccessble",
-        "inacccessible",
-        "inaccessibile"
+        "inacccessible"
     ],
     "inaccuracies": [
         "inaccuraces",
@@ -48206,8 +48194,7 @@
         "incompitable",
         "inkompatible",
         "incompatable",
-        "incompatatible",
-        "incompatibile"
+        "incompatatible"
     ],
     "incompatibly": [
         "incompatably"
@@ -48469,8 +48456,7 @@
         "incrediable",
         "incredable",
         "increadible",
-        "incredibe",
-        "incredibile"
+        "incredibe"
     ],
     "incredibly": [
         "incredibley",
@@ -49089,7 +49075,6 @@
         "inevetible",
         "inevitible",
         "inveitable",
-        "inevitabile",
         "enivitable",
         "inevidable",
         "inevtiable"
@@ -49163,7 +49148,6 @@
         "infalability"
     ],
     "infallible": [
-        "infallibile",
         "infallable",
         "infallibe",
         "infallibale"
@@ -50962,7 +50946,6 @@
     "intangible": [
         "intanjible",
         "intangibil",
-        "intangibile",
         "intangable",
         "intangiable",
         "intangeble"
@@ -52510,7 +52493,6 @@
         "invincibe",
         "invinceble",
         "invincil",
-        "invincibile",
         "invincable",
         "invincinble",
         "invinvible",
@@ -52531,7 +52513,6 @@
     ],
     "invisible": [
         "unvisible",
-        "invisibile",
         "invisble",
         "inivisible",
         "invisivble",
@@ -52639,7 +52620,6 @@
         "invulnerabe",
         "invulverable",
         "invulnerbale",
-        "invulnerabile",
         "invulenrable",
         "invunlerable",
         "invulnerble",
@@ -52767,7 +52747,6 @@
     ],
     "irreversible": [
         "irriversible",
-        "irreversibile",
         "irrevirsible",
         "irreversibelt",
         "irreversiable",
@@ -54278,7 +54257,8 @@
         "latets",
         "lastest",
         "latset",
-        "altest"
+        "altest",
+        "ltatest"
     ],
     "latin": [
         "lating"
@@ -69437,7 +69417,6 @@
     ],
     "plausible": [
         "plausibe",
-        "plausbile",
         "plausable",
         "plausibel"
     ],
@@ -79943,7 +79922,6 @@
         "resposible",
         "reponsible",
         "responisble",
-        "responsabile",
         "repsonsible",
         "responcible",
         "resopnsible",
@@ -85876,7 +85854,8 @@
         "sourt"
     ],
     "sorted": [
-        "sotred"
+        "sotred",
+        "sorrted"
     ],
     "sorter": [
         "sortnr",
@@ -100134,7 +100113,6 @@
         "visblie",
         "visable",
         "visivble",
-        "visibile",
         "visibl"
     ],
     "visibly": [
@@ -100540,7 +100518,6 @@
         "vulnurable",
         "vunlerable",
         "vulbearable",
-        "vulnerabile",
         "vulnerarble",
         "vulnerabil",
         "vulnearabule",
