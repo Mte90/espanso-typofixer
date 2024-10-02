@@ -4349,7 +4349,6 @@
     "allow": [
         "alow",
         "alllow",
-        "allo",
         "allwo"
     ],
     "allowable": [
@@ -19786,7 +19785,6 @@
         "compresores",
         "compressio",
         "comprossor",
-        "compreso",
         "compresors"
     ],
     "compressors": [
@@ -101323,7 +101321,8 @@
         "widged",
         "widgit",
         "widghet",
-        "widgect"
+        "widgect",
+        "wdget"
     ],
     "widgets": [
         "wigdets",
