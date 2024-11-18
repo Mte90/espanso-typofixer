@@ -6732,6 +6732,9 @@
         "aproval",
         "approvel"
     ],
+    "approvals": [
+        "approvvals"
+    ],
     "approve": [
         "appove",
         "apporve",
@@ -60157,7 +60160,8 @@
         "mounths",
         "monts",
         "monnths",
-        "monthes"
+        "monthes",
+        "motnhs"
     ],
     "montreal": [
         "montrel",
@@ -90597,7 +90601,8 @@
         "swithc",
         "swtich",
         "swich",
-        "siwtch"
+        "siwtch",
+        "wistch"
     ],
     "switchable": [
         "swithable",
