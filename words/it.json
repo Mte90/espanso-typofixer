@@ -164,7 +164,8 @@
         "aggiudato"
     ],
     "aggiunge": [
-        "agiunge"
+        "agiunge",
+        "agigunge"
     ],
     "aggiungere": [
         "aggiugnere",
@@ -1328,6 +1329,9 @@
     "dettaglio": [
         "detaglio"
     ],
+    "detto": [
+        "dfetto"
+    ],
     "devi": [
         "edvi"
     ],
@@ -1399,7 +1403,8 @@
     ],
     "direi": [
         "dieri",
-        "idrei"
+        "idrei",
+        "dirrei"
     ],
     "diretta": [
         "direta"
@@ -1594,7 +1599,8 @@
         "entrnao"
     ],
     "entrare": [
-        "netrare"
+        "netrare",
+        "entrrare"
     ],
     "entrato": [
         "etrnato"
@@ -1717,6 +1723,9 @@
     ],
     "fargli": [
         "faregli"
+    ],
+    "farglieli": [
+        "farlgieli"
     ],
     "farla": [
         "afrla"
@@ -1885,6 +1894,9 @@
     "funzioni": [
         "funizoni",
         "fuznioni"
+    ],
+    "funzionino": [
+        "funzionico"
     ],
     "furgoncino": [
         "furgonicno"
@@ -2371,6 +2383,9 @@
     "italiana": [
         "itliana"
     ],
+    "italianizziamo": [
+        "italianiziamo"
+    ],
     "largo": [
         "alrgo"
     ],
@@ -2414,7 +2429,8 @@
     ],
     "lavorare": [
         "alvorare",
-        "lavrare"
+        "lavrare",
+        "lavoare"
     ],
     "lavorato": [
         "lavroato"
@@ -2761,7 +2777,8 @@
         "mianccio"
     ],
     "minuti": [
-        "mnuti"
+        "mnuti",
+        "muinuti"
     ],
     "mistica": [
         "miatica"
@@ -2787,6 +2804,9 @@
     ],
     "molti": [
         "mlti"
+    ],
+    "momento": [
+        "moento"
     ],
     "montaggio": [
         "montagigo"
@@ -3149,7 +3169,8 @@
     "parametro": [
         "aprametro",
         "apramentro",
-        "paramtero"
+        "paramtero",
+        "paarmetro"
     ],
     "paranoici": [
         "pranoici"
@@ -3393,6 +3414,9 @@
     "pisciare": [
         "piscaire"
     ],
+    "pisciato": [
+        "piscaito"
+    ],
     "pizza": [
         "piza"
     ],
@@ -3458,6 +3482,9 @@
     ],
     "poter": [
         "ptoer"
+    ],
+    "poterlo": [
+        "opterlo"
     ],
     "potete": [
         "ptoete"
@@ -3713,7 +3740,8 @@
         "orprio",
         "prorpio",
         "propio",
-        "proproo"
+        "proproo",
+        "prorio"
     ],
     "prorogato": [
         "prorogatp"
@@ -4730,6 +4758,9 @@
     "sistemazione": [
         "sistamaizone"
     ],
+    "sistemiamo": [
+        "sistemamo"
+    ],
     "sistemistica": [
         "sistemisitisca"
     ],
@@ -5108,6 +5139,12 @@
         "tmepo",
         "tepo"
     ],
+    "tendina": [
+        "tednina"
+    ],
+    "tendona": [
+        "tendiona"
+    ],
     "tentativi": [
         "tentaivi"
     ],
@@ -5166,6 +5203,9 @@
     "tornato": [
         "toranto",
         "trnato"
+    ],
+    "torrnare": [
+        "toranre"
     ],
     "tracciamento": [
         "tracciamneto"
@@ -5306,6 +5346,9 @@
     "usate": [
         "suate"
     ],
+    "usiamo": [
+        "usaiamo"
+    ],
     "utenti": [
         "utneti"
     ],
@@ -5344,7 +5387,8 @@
         "vaire"
     ],
     "vecchie": [
-        "evcchie"
+        "evcchie",
+        "vechie"
     ],
     "vecchio": [
         "vechcio"

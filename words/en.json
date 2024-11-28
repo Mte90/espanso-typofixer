@@ -14703,7 +14703,6 @@
     "category": [
         "catagory",
         "cateogry",
-        "categorie",
         "catergory",
         "catgory",
         "catagori",
@@ -20167,8 +20166,7 @@
         "conculsion",
         "conlusion",
         "conclution",
-        "conlcusion",
-        "concluso"
+        "conlcusion"
     ],
     "conclusions": [
         "conculsions",
@@ -62766,6 +62764,9 @@
         "noticabley",
         "noticabely",
         "noticably"
+    ],
+    "noticed": [
+        "notcied"
     ],
     "noticing": [
         "noticeing"
