@@ -932,7 +932,8 @@
     ],
     "completamente": [
         "completamnete",
-        "complemtanete"
+        "complemtanete",
+        "compeltamente"
     ],
     "completo": [
         "compoleto"
@@ -1254,8 +1255,14 @@
     "costerebbe": [
         "costerebe"
     ],
+    "creato": [
+        "crerato"
+    ],
     "creazione": [
         "creazioen"
+    ],
+    "credito": [
+        "cerdito"
     ],
     "credo": [
         "creod"
@@ -1420,7 +1427,8 @@
         "direttametne",
         "direttametn",
         "direttamete",
-        "diretatmente"
+        "diretatmente",
+        "direttamte"
     ],
     "direttivo": [
         "diretivo"
@@ -1443,6 +1451,9 @@
     ],
     "disegnarlo": [
         "disetgnarlo"
+    ],
+    "disiscrivermi": [
+        "discrevermi"
     ],
     "disistallare": [
         "disistalalre"
@@ -1513,7 +1524,8 @@
         "doamni",
         "doani",
         "donmani",
-        "domai"
+        "domai",
+        "domano"
     ],
     "domenica": [
         "dominica"
@@ -1714,6 +1726,9 @@
     ],
     "facile": [
         "faciel"
+    ],
+    "facilmente": [
+        "facilemten"
     ],
     "famo": [
         "fampo"
@@ -1965,6 +1980,9 @@
         "viusto",
         "guisto",
         "gisuto"
+    ],
+    "gli": [
+        "gloi"
     ],
     "glielo": [
         "glie"
