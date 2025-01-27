@@ -15,6 +15,9 @@
         "abstanza",
         "abbastazna"
     ],
+    "abbassare": [
+        "abasare"
+    ],
     "abbiamo": [
         "abbimoa",
         "abbaimo",
@@ -385,6 +388,9 @@
     "approvato": [
         "aprrovato"
     ],
+    "apriamo": [
+        "aprimao"
+    ],
     "aprile": [
         "parile"
     ],
@@ -553,7 +559,8 @@
         "avrebe"
     ],
     "avuto": [
-        "auvot"
+        "auvot",
+        "avvuto"
     ],
     "avvenuto": [
         "avenuto"
@@ -859,6 +866,9 @@
     ],
     "clientele": [
         "clientelle"
+    ],
+    "coincidenze": [
+        "conincidenze"
     ],
     "coinvolgere": [
         "coinvoglere"
@@ -1354,7 +1364,8 @@
         "dcevo"
     ],
     "dichiarazione": [
-        "dichiarazioen"
+        "dichiarazioen",
+        "dichiarrazione"
     ],
     "dicitura": [
         "dicutira"
@@ -3814,6 +3825,9 @@
     "prova": [
         "rpova"
     ],
+    "provavto": [
+        "proavto"
+    ],
     "proviamoci": [
         "provaimoci"
     ],
@@ -3954,7 +3968,8 @@
     "quindi": [
         "qundi",
         "quinid",
-        "quaindi"
+        "quaindi",
+        "uindi"
     ],
     "quotazione": [
         "quotazone"
@@ -4255,6 +4270,9 @@
     "riparte": [
         "riprte"
     ],
+    "ripartito": [
+        "ripartio"
+    ],
     "ripetibile": [
         "ripetebile"
     ],
@@ -4379,7 +4397,8 @@
         "risuato"
     ],
     "riusciamo": [
-        "riousciamo"
+        "riousciamo",
+        "risuciamo"
     ],
     "riusciti": [
         "riusxciti"
@@ -4598,6 +4617,9 @@
     ],
     "scrivilo": [
         "scrivlo"
+    ],
+    "scrivono": [
+        "scrivvono"
     ],
     "scrolla": [
         "scrollla"
@@ -5119,6 +5141,9 @@
     "sviluppatori": [
         "svilupaptori"
     ],
+    "sviluppo": [
+        "svilupo"
+    ],
     "svolta": [
         "svolat"
     ],
@@ -5566,7 +5591,8 @@
     ],
     "vogliamo": [
         "vigliamo",
-        "voglaimo"
+        "voglaimo",
+        "volgiamo"
     ],
     "voglio": [
         "volio",
