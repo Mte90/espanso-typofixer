@@ -5,6 +5,9 @@
     "abbandonare": [
         "abbandoare"
     ],
+    "abbassare": [
+        "abasare"
+    ],
     "abbastanza": [
         "ababstanza",
         "abbastanzia",
@@ -14,9 +17,6 @@
         "abastanza",
         "abstanza",
         "abbastazna"
-    ],
-    "abbassare": [
-        "abasare"
     ],
     "abbiamo": [
         "abbimoa",
@@ -350,6 +350,9 @@
     ],
     "anteguerra": [
         "antegeurra"
+    ],
+    "anticipato": [
+        "antiocipato"
     ],
     "anticipo": [
         "aticipo"
@@ -1361,7 +1364,8 @@
         "edvi"
     ],
     "dicevo": [
-        "dcevo"
+        "dcevo",
+        "didevo"
     ],
     "dichiarazione": [
         "dichiarazioen",
@@ -1505,11 +1509,15 @@
         "dibversi"
     ],
     "diverso": [
-        "diveros"
+        "diveros",
+        "divero"
     ],
     "divertente": [
         "divertenet",
         "divertenete"
+    ],
+    "diverto": [
+        "diverrto"
     ],
     "documentare": [
         "documetnare"
@@ -1679,7 +1687,8 @@
     ],
     "essere": [
         "essre",
-        "esere"
+        "esere",
+        "esseer"
     ],
     "estensione": [
         "estnesione"
@@ -4145,7 +4154,8 @@
         "rinetrare"
     ],
     "rientrato": [
-        "rierntrato"
+        "rierntrato",
+        "eientrato"
     ],
     "riesce": [
         "risce",
@@ -4601,7 +4611,8 @@
         "scirvendolo"
     ],
     "scrivere": [
-        "scivere"
+        "scivere",
+        "scrivevre"
     ],
     "scrivergli": [
         "scrviergli"
@@ -5308,6 +5319,9 @@
     ],
     "traduzioni": [
         "traduzuoni"
+    ],
+    "tranquilli": [
+        "trranquilli"
     ],
     "tranquillamente": [
         "tranquillametne",
