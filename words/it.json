@@ -54,7 +54,8 @@
         "acede"
     ],
     "accedere": [
-        "acedere"
+        "acedere",
+        "accederre"
     ],
     "accessi": [
         "acessi"
@@ -1205,6 +1206,9 @@
     "conversazionale": [
         "cdonversazionale"
     ],
+    "convertire": [
+        "convbertire"
+    ],
     "conviene": [
         "convine"
     ],
@@ -1306,6 +1310,9 @@
     ],
     "decidere": [
         "edcidere"
+    ],
+    "decimali": [
+        "deciamli"
     ],
     "decisamente": [
         "decisametne",
@@ -1700,6 +1707,9 @@
         "esere",
         "esseer"
     ],
+    "esserti": [
+        "essereti"
+    ],
     "estensione": [
         "estnesione"
     ],
@@ -1762,6 +1772,9 @@
     ],
     "facilmente": [
         "facilemten"
+    ],
+    "fai": [
+        "fafi"
     ],
     "famo": [
         "fampo"
@@ -1976,7 +1989,8 @@
         "genrator"
     ],
     "generazione": [
-        "generaizine"
+        "generaizine",
+        "generaizone"
     ],
     "genitore": [
         "gentiore"
@@ -2935,7 +2949,8 @@
     "neanche": [
         "nanche",
         "neache",
-        "neanceh"
+        "neanceh",
+        "neanch"
     ],
     "necessaria": [
         "encessaria"
@@ -3009,6 +3024,9 @@
     ],
     "numeri": [
         "nuemri"
+    ],
+    "numero": [
+        "numeor"
     ],
     "nuova": [
         "nuvoa"
@@ -3640,7 +3658,8 @@
     ],
     "prendere": [
         "predenre",
-        "prendenre"
+        "prendenre",
+        "prednere"
     ],
     "prendesse": [
         "perndesse"
@@ -4955,6 +4974,9 @@
     ],
     "sovrascrivi": [
         "sovraxcrivi"
+    ],
+    "sparassero": [
+        "sparasserto"
     ],
     "sparisce": [
         "saprisce"
