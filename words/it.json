@@ -252,7 +252,8 @@
         "lameno",
         "almeo",
         "alneno",
-        "aleno"
+        "aleno",
+        "alnmeno"
     ],
     "alternativa": [
         "alternatva"
@@ -411,7 +412,8 @@
         "arivano"
     ],
     "arrivare": [
-        "arivare"
+        "arivare",
+        "arrivsare"
     ],
     "arrivata": [
         "arivata",
@@ -1271,6 +1273,9 @@
     "cose": [
         "cse",
         "coe"
+    ],
+    "costa": [
+        "csta"
     ],
     "costante": [
         "costsnte"
@@ -2675,6 +2680,9 @@
     "mandagli": [
         "madagli"
     ],
+    "mandarci": [
+        "madnarci"
+    ],
     "mandare": [
         "madnare"
     ],
@@ -2950,7 +2958,8 @@
         "nanche",
         "neache",
         "neanceh",
-        "neanch"
+        "neanch",
+        "enanceh"
     ],
     "necessaria": [
         "encessaria"
@@ -3104,6 +3113,9 @@
     "oramai": [
         "oaramai",
         "roamai"
+    ],
+    "ordinato": [
+        "ordianto"
     ],
     "ordine": [
         "rodine",
@@ -3279,6 +3291,9 @@
     ],
     "paranoici": [
         "pranoici"
+    ],
+    "parcheggio": [
+        "parecheggio"
     ],
     "parecchi": [
         "aprecchi"
@@ -4037,6 +4052,9 @@
     "ragionare": [
         "raguionare"
     ],
+    "ramo": [
+        "rampo"
+    ],
     "rapportarsi": [
         "ripportarsi"
     ],
@@ -4393,7 +4411,8 @@
         "rispodnergli"
     ],
     "rispondono": [
-        "rispondno"
+        "rispondno",
+        "riscondono"
     ],
     "risposta": [
         "rispota`",
@@ -5166,6 +5185,9 @@
     "suggerimenti": [
         "suggeriemnti",
         "sugerimenti"
+    ],
+    "suggerimento": [
+        "suggerimentio"
     ],
     "suggest": [
         "usggest"
