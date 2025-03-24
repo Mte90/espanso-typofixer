@@ -16,7 +16,8 @@
         "abbbstanza",
         "abastanza",
         "abstanza",
-        "abbastazna"
+        "abbastazna",
+        "abbastananza"
     ],
     "abbiamo": [
         "abbimoa",
@@ -435,6 +436,9 @@
     "articoli": [
         "artiocli"
     ],
+    "articolo": [
+        "articol"
+    ],
     "ascensore": [
         "ascnesore"
     ],
@@ -445,7 +449,8 @@
         "ascolit"
     ],
     "aspetta": [
-        "aspeta"
+        "aspeta",
+        "aspettqa"
     ],
     "aspettando": [
         "apsettando"
@@ -865,6 +870,9 @@
         "cheisto",
         "chisto"
     ],
+    "chiudere": [
+        "chiuedere"
+    ],
     "cifra": [
         "cfira"
     ],
@@ -879,6 +887,9 @@
     ],
     "classi": [
         "lcassi"
+    ],
+    "classificatore": [
+        "cassificatore"
     ],
     "clientele": [
         "clientelle"
@@ -1211,6 +1222,9 @@
     ],
     "contributori": [
         "contirbutori"
+    ],
+    "controlla": [
+        "controlal"
     ],
     "controllare": [
         "controlalre"
@@ -1843,6 +1857,9 @@
         "febraio",
         "fabbraio"
     ],
+    "felice": [
+        "filice"
+    ],
     "fermato": [
         "femrato"
     ],
@@ -2001,7 +2018,8 @@
         "genrata"
     ],
     "generato": [
-        "generto"
+        "generto",
+        "genrato"
     ],
     "generator": [
         "genrator"
@@ -2161,6 +2179,9 @@
     ],
     "impazziscano": [
         "imppazziscano"
+    ],
+    "impazziscono": [
+        "impazzisscono"
     ],
     "impegnare": [
         "impengare"
@@ -2653,7 +2674,8 @@
         "amgagne"
     ],
     "magari": [
-        "mfgari"
+        "mfgari",
+        "mgari"
     ],
     "magazzino": [
         "amgazzino"
@@ -2919,6 +2941,9 @@
     ],
     "molti": [
         "mlti"
+    ],
+    "momentaneamente": [
+        "momentanemanete"
     ],
     "momento": [
         "moento"
@@ -3424,6 +3449,9 @@
     ],
     "pausa": [
         "apusa"
+    ],
+    "pazienza": [
+        "pazienda"
     ],
     "pazzesca": [
         "pazzzesca"
@@ -4038,7 +4066,8 @@
     ],
     "questi": [
         "quetsi",
-        "qusti"
+        "qusti",
+        "quesdti"
     ],
     "questionario": [
         "qeustionario"
@@ -4418,7 +4447,8 @@
     "risponde": [
         "riscponde",
         "rispodne",
-        "rispode"
+        "rispode",
+        "risdponde"
     ],
     "rispondendo": [
         "ripondendo"
@@ -4504,6 +4534,9 @@
     ],
     "riusiamo": [
         "rusiamo"
+    ],
+    "riutilizzabile": [
+        "irutilizzabile"
     ],
     "riutilizzarlo": [
         "riutlizzarlo"
@@ -4707,6 +4740,9 @@
     "scriverlo": [
         "scrivero"
     ],
+    "scrivermi": [
+        "scirvermi"
+    ],
     "scriverti": [
         "sceiverti"
     ],
@@ -4866,6 +4902,9 @@
         "setitmana",
         "settiaman",
         "settomana"
+    ],
+    "sezione": [
+        "seizone"
     ],
     "sezioni": [
         "seizoni"
@@ -5045,6 +5084,9 @@
     "speculativi": [
         "sepculativi"
     ],
+    "spedirtelo": [
+        "spediterlo"
+    ],
     "spegnere": [
         "spengere"
     ],
@@ -5146,6 +5188,9 @@
     ],
     "stiamo": [
         "sitamo"
+    ],
+    "stimato": [
+        "stimao"
     ],
     "storico": [
         "sotirco"
