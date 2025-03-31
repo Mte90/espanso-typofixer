@@ -636,7 +636,8 @@
     ],
     "bisogna": [
         "bisgona",
-        "bisgoan"
+        "bisgoan",
+        "bisongna"
     ],
     "bisognerebbe": [
         "biosgnerebbe"
@@ -780,6 +781,9 @@
     "casini": [
         "casiin"
     ],
+    "casistiche": [
+        "casisisthce"
+    ],
     "categoria": [
         "categoira",
         "cateogira"
@@ -840,6 +844,9 @@
     "chiave": [
         "chaive",
         "chiav"
+    ],
+    "chiavi": [
+        "chivai"
     ],
     "chiede": [
         "chide",
@@ -973,7 +980,8 @@
     "completamente": [
         "completamnete",
         "complemtanete",
-        "compeltamente"
+        "compeltamente",
+        "completanemente"
     ],
     "completo": [
         "compoleto"
@@ -1251,7 +1259,8 @@
         "copetina"
     ],
     "copia": [
-        "copai"
+        "copai",
+        "copoia"
     ],
     "copiare": [
         "copaire"
@@ -1357,7 +1366,8 @@
         "definitva"
     ],
     "definitivo": [
-        "definitvo"
+        "definitvo",
+        "deffinitivo"
     ],
     "del": [
         "dle"
@@ -1970,7 +1980,8 @@
         "frotneiere"
     ],
     "funziona": [
-        "funizona"
+        "funizona",
+        "funjziona"
     ],
     "funzionante": [
         "funzionate",
@@ -2154,6 +2165,9 @@
     ],
     "immagina": [
         "imamgina"
+    ],
+    "immaginare": [
+        "mmaginare"
     ],
     "immaginato": [
         "imamginato"
@@ -2451,6 +2465,9 @@
         "iterfaccia",
         "interfaccai",
         "itnerfaccia"
+    ],
+    "internamente": [
+        "interbamente"
     ],
     "internazionali": [
         "intenrazionali"
@@ -2788,7 +2805,8 @@
         "amteriale"
     ],
     "matrimonio": [
-        "amtrimonio"
+        "amtrimonio",
+        "matreimonio"
     ],
     "mattina": [
         "mattian"
@@ -2800,6 +2818,9 @@
         "megli",
         "melgio",
         "megio"
+    ],
+    "mensilmente": [
+        "mensimlente"
     ],
     "mente": [
         "metne"
@@ -3288,7 +3309,8 @@
     ],
     "pagamento": [
         "apgamento",
-        "pagaento"
+        "pagaento",
+        "pagfamento"
     ],
     "pagano": [
         "pagno"
@@ -3804,7 +3826,8 @@
         "prlblema",
         "rpoblema",
         "probema",
-        "prolema"
+        "prolema",
+        "porblema"
     ],
     "problemi": [
         "provlemi",
@@ -3840,7 +3863,8 @@
     ],
     "progetto": [
         "prgoetto",
-        "priogetto"
+        "priogetto",
+        "rpogetto"
     ],
     "programma": [
         "proramma",
@@ -4277,6 +4301,9 @@
     "riesco": [
         "reisco",
         "riesc"
+    ],
+    "rifacciamo": [
+        "rifaciamo"
     ],
     "rifacendo": [
         "rifancedo"
@@ -4824,7 +4851,8 @@
     "semplicemente": [
         "semplicemnete",
         "smeplicemente",
-        "sempoicemente"
+        "sempoicemente",
+        "sempliemente"
     ],
     "semplici": [
         "samplici"
@@ -5001,6 +5029,9 @@
     "slogarsi": [
         "sgloarsi"
     ],
+    "smarchiamo": [
+        "smarchimao"
+    ],
     "sofisticato": [
         "sofistiacto"
     ],
@@ -5019,7 +5050,8 @@
         "solatanto"
     ],
     "soluzione": [
-        "osluzione"
+        "osluzione",
+        "solzuone"
     ],
     "sondaggio": [
         "sodnaggio"
@@ -5047,6 +5079,9 @@
     ],
     "sospeso": [
         "sospero"
+    ],
+    "sostendere": [
+        "sostemdere"
     ],
     "sostenibilit\u00e1": [
         "sotenibilit\u00e0"
@@ -5178,7 +5213,8 @@
         "stavao"
     ],
     "stazione": [
-        "staizone"
+        "staizone",
+        "staziome"
     ],
     "stefano": [
         "stefnao"
@@ -5332,7 +5368,8 @@
     "tanto": [
         "tnato",
         "tnto",
-        "tano"
+        "tano",
+        "tatno"
     ],
     "tappare": [
         "tapapre"
@@ -5543,7 +5580,8 @@
     "ufficialmente": [
         "ufficiaalmente",
         "ufficialmetne",
-        "ufficilmanete"
+        "ufficilmanete",
+        "ufficilamnente"
     ],
     "uguali": [
         "ugiali"
