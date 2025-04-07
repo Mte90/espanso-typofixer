@@ -950,6 +950,9 @@
     "commerciale": [
         "comemrciale"
     ],
+    "comparativa": [
+        "comaprativa"
+    ],
     "comparazione": [
         "comaprazione"
     ],
@@ -1058,7 +1061,8 @@
         "comuqneu"
     ],
     "con": [
-        "ocn"
+        "ocn",
+        "cvon"
     ],
     "concedi": [
         "ocncedi"
@@ -1916,6 +1920,9 @@
     ],
     "finisce": [
         "ffinisce"
+    ],
+    "finisco": [
+        "fiisco"
     ],
     "finished": [
         "finisehd"
@@ -3642,6 +3649,9 @@
     ],
     "portava": [
         "protava"
+    ],
+    "porto": [
+        "porot"
     ],
     "posizione": [
         "posizone"
@@ -5685,6 +5695,9 @@
         "vedree",
         "vederre",
         "vecere"
+    ],
+    "vedetelo": [
+        "vedetrelo"
     ],
     "vediamo": [
         "vediam",
