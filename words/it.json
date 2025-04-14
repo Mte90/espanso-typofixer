@@ -186,6 +186,9 @@
         "aggiungiuamo",
         "aggiungiami"
     ],
+    "aggiungo": [
+        "agigungo"
+    ],
     "aggiungono": [
         "agigungono"
     ],
@@ -354,6 +357,9 @@
     ],
     "annullo": [
         "annulo"
+    ],
+    "ansia": [
+        "nasia"
     ],
     "anteguerra": [
         "antegeurra"
@@ -721,6 +727,9 @@
     ],
     "cancellare": [
         "cancelalre"
+    ],
+    "cancellazione": [
+        "cancellzione"
     ],
     "cancello": [
         "cacnello"
@@ -1427,6 +1436,9 @@
     "dichiarazione": [
         "dichiarazioen",
         "dichiarrazione"
+    ],
+    "diciamo": [
+        "dicamo"
     ],
     "dicitura": [
         "dicutira"
@@ -2581,6 +2593,9 @@
         "lavrare",
         "lavoare"
     ],
+    "lavorativa": [
+        "lavoratica"
+    ],
     "lavorato": [
         "lavroato"
     ],
@@ -2811,6 +2826,9 @@
     "materiale": [
         "amteriale"
     ],
+    "maternit\u00e0": [
+        "amternit\u00e0"
+    ],
     "matrimonio": [
         "amtrimonio",
         "matreimonio"
@@ -2924,6 +2942,9 @@
     ],
     "milione": [
         "miliome"
+    ],
+    "mille": [
+        "milel"
     ],
     "minacciando": [
         "miancciando"
@@ -3769,6 +3790,9 @@
     "preoccupi": [
         "preocupi"
     ],
+    "preparo": [
+        "praparo"
+    ],
     "prescindere": [
         "prescidenre",
         "prescidnere"
@@ -3826,7 +3850,8 @@
         "principalemnte"
     ],
     "privato": [
-        "prvato"
+        "prvato",
+        "prtivato"
     ],
     "probabilmente": [
         "probabilmetne",
@@ -4443,6 +4468,9 @@
     "riportare": [
         "riprotare"
     ],
+    "riporterebbe": [
+        "ripoterebbe"
+    ],
     "riprende": [
         "riptende"
     ],
@@ -4496,7 +4524,8 @@
     "rispondere": [
         "ripsondere",
         "rspiondre",
-        "rispodnere"
+        "rispodnere",
+        "rsipondere"
     ],
     "rispondergli": [
         "risponderlgi",
@@ -4615,7 +4644,8 @@
     "sapere": [
         "saepre",
         "sapre",
-        "saper"
+        "saper",
+        "sapee"
     ],
     "saperlo": [
         "sperlo"
@@ -5251,6 +5281,9 @@
     "strade": [
         "stade"
     ],
+    "straordinarie": [
+        "straordinare"
+    ],
     "stressarlo": [
         "strssearlo"
     ],
@@ -5278,6 +5311,9 @@
     ],
     "subirebbe": [
         "subierebbe"
+    ],
+    "subito": [
+        "subiuto"
     ],
     "succede": [
         "sucede"
@@ -5800,7 +5836,8 @@
     "vogliamo": [
         "vigliamo",
         "voglaimo",
-        "volgiamo"
+        "volgiamo",
+        "vogliao"
     ],
     "voglio": [
         "volio",
