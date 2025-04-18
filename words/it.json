@@ -101,6 +101,9 @@
     "addirittura": [
         "addirittuera"
     ],
+    "addosso": [
+        "adoso"
+    ],
     "adesivi": [
         "adevisi"
     ],
@@ -290,7 +293,8 @@
         "ltrimenti",
         "alrrimenti",
         "altrimneit",
-        "altrimeti"
+        "altrimeti",
+        "altrimneti"
     ],
     "altro": [
         "alotr",
@@ -483,6 +487,9 @@
     ],
     "assicurare": [
         "assicuare"
+    ],
+    "assillarli": [
+        "assilarli"
     ],
     "associazione": [
         "assocaizione"
@@ -1411,7 +1418,8 @@
         "decsrizione"
     ],
     "descrizioni": [
-        "descirzioni"
+        "descirzioni",
+        "descriioni"
     ],
     "destroy": [
         "desotry"
@@ -2863,7 +2871,8 @@
         "emse"
     ],
     "messaggi": [
-        "messagi"
+        "messagi",
+        "mesaggi"
     ],
     "messaggio": [
         "emssaggio"
@@ -2980,6 +2989,9 @@
     "moderatore": [
         "mdoeratore"
     ],
+    "modifica": [
+        "modififca"
+    ],
     "modifiche": [
         "mdofiche",
         "moficihe",
@@ -3054,6 +3066,9 @@
     ],
     "necessaria": [
         "encessaria"
+    ],
+    "necessariamente": [
+        "neccesariamente"
     ],
     "necessario": [
         "encessario",
@@ -3176,6 +3191,9 @@
     ],
     "oltreutto": [
         "otlretutto"
+    ],
+    "onestamente": [
+        "omestamentr"
     ],
     "opensource": [
         "openosurce"
@@ -3373,7 +3391,8 @@
     ],
     "parametri": [
         "aprametri ",
-        "paratetri"
+        "paratetri",
+        "parameti"
     ],
     "parametro": [
         "aprametro",
@@ -3627,6 +3646,9 @@
     "pienissimo": [
         "pienissio"
     ],
+    "pieno": [
+        "piemo"
+    ],
     "pisciare": [
         "piscaire"
     ],
@@ -3679,7 +3701,8 @@
     ],
     "possiamo": [
         "possiam",
-        "possimoa"
+        "possimoa",
+        "posiamo"
     ],
     "possibile": [
         "possibiel"
@@ -4041,6 +4064,9 @@
         "pusalnte",
         "pulsnate"
     ],
+    "pulsanti": [
+        "puslanti"
+    ],
     "puntata": [
         "putnata"
     ],
@@ -4118,7 +4144,8 @@
         "qeusta",
         "uqesta",
         "qusta",
-        "quyesta"
+        "quyesta",
+        "auesta"
     ],
     "queste": [
         "uqeste"
@@ -4402,6 +4429,9 @@
     ],
     "rimando": [
         "riamndo"
+    ],
+    "rimane": [
+        "riamen"
     ],
     "rimarranno": [
         "rimaranno"
@@ -5168,6 +5198,9 @@
     "spende": [
         "spene"
     ],
+    "speriamo": [
+        "spieriamo"
+    ],
     "sperimentare": [
         "sperimetnare"
     ],
@@ -5622,6 +5655,9 @@
     ],
     "tutto": [
         "tuto"
+    ],
+    "ufficiale": [
+        "ufficile"
     ],
     "ufficialmente": [
         "ufficiaalmente",
