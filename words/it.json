@@ -150,10 +150,14 @@
     ],
     "aggiornare": [
         "aggioranre",
-        "agigornare"
+        "agigornare",
+        "aggioenare"
     ],
     "aggiornata": [
         "agigornata"
+    ],
+    "aggiornati": [
+        "aggironati"
     ],
     "aggiornato": [
         "agiornato",
@@ -874,7 +878,8 @@
     ],
     "chiedere": [
         "cheidere",
-        "chidere"
+        "chidere",
+        "cheedere"
     ],
     "chiederti": [
         "chiererti",
@@ -1113,6 +1118,9 @@
     ],
     "confermato": [
         "conferamto"
+    ],
+    "confidente": [
+        "confdente"
     ],
     "configurare": [
         "confgiurare"
@@ -1410,6 +1418,9 @@
     "democratico": [
         "demcoratico"
     ],
+    "dentro": [
+        "dentor"
+    ],
     "deposito": [
         "despoito"
     ],
@@ -1585,6 +1596,9 @@
         "diventto",
         "dievntato"
     ],
+    "diversa": [
+        "divcersa"
+    ],
     "diversi": [
         "diveris",
         "dibversi"
@@ -1716,7 +1730,9 @@
     ],
     "entrambi": [
         "emtrabi",
-        "entrmbi"
+        "entrmbi",
+        "entrmabi",
+        "emtrambi"
     ],
     "entrano": [
         "entrnao"
@@ -1730,6 +1746,9 @@
     ],
     "equivoco": [
         "ecquivoco"
+    ],
+    "erano": [
+        "eano"
     ],
     "eravamo": [
         "eravano"
@@ -1856,6 +1875,9 @@
         "frare",
         "fafre",
         "afre"
+    ],
+    "farei": [
+        "farie"
     ],
     "fargli": [
         "faregli"
@@ -2046,6 +2068,9 @@
     ],
     "furgoncino": [
         "furgonicno"
+    ],
+    "gastrica": [
+        "grastrica"
     ],
     "genera": [
         "genra"
@@ -2380,7 +2405,8 @@
         "iniziado"
     ],
     "iniziare": [
-        "inizare"
+        "inizare",
+        "inizire"
     ],
     "innalzati": [
         "inalzati"
@@ -2640,7 +2666,8 @@
         "legegremnte",
         "leggeemrnte",
         "leggereemnte",
-        "leggermete"
+        "leggermete",
+        "leggemrnete"
     ],
     "lentamente": [
         "lentamnete",
@@ -2966,6 +2993,9 @@
     "mille": [
         "milel"
     ],
+    "millesimo": [
+        "muillesimo"
+    ],
     "minacciando": [
         "miancciando"
     ],
@@ -3088,6 +3118,9 @@
     "nei": [
         "nie"
     ],
+    "nel": [
+        "nep"
+    ],
     "nella": [
         "nela",
         "nlla",
@@ -3109,6 +3142,9 @@
     ],
     "niente": [
         "niete"
+    ],
+    "nomi": [
+        "nommi"
     ],
     "non": [
         "enon",
@@ -3355,6 +3391,9 @@
         "ovviaemnte",
         "ovviamnte"
     ],
+    "pacchettizzato": [
+        "pacchettizato"
+    ],
     "pacchettone": [
         "paccehttone"
     ],
@@ -3446,7 +3485,8 @@
     "parlare": [
         "paralre",
         "prlare",
-        "pralare"
+        "pralare",
+        "apralre"
     ],
     "parlarne": [
         "pralarne"
@@ -3612,7 +3652,8 @@
     ],
     "persone": [
         "eprsone",
-        "persoen"
+        "persoen",
+        "personme"
     ],
     "piace": [
         "paice",
@@ -3673,7 +3714,8 @@
         "pcohetto"
     ],
     "poi": [
-        "ppoi"
+        "ppoi",
+        "ppi"
     ],
     "polemiche": [
         "poelmiche"
@@ -4282,6 +4324,9 @@
     ],
     "responsabili": [
         "reposnsabili"
+    ],
+    "resterei": [
+        "restarei"
     ],
     "resto": [
         "resot"
@@ -5040,7 +5085,8 @@
         "sicurametne",
         "sincerametne",
         "sicuramte",
-        "sicuramete"
+        "sicuramete",
+        "sicuramnte"
     ],
     "sicurezza": [
         "iscurezza"
@@ -5110,7 +5156,8 @@
         "stiauzione",
         "situaizone",
         "situaizoni",
-        "situazion"
+        "situazion",
+        "sitauazione"
     ],
     "situazioni": [
         "situaizoni"
@@ -5251,7 +5298,8 @@
     ],
     "spingere": [
         "spignere",
-        "spingre"
+        "spingre",
+        "psingere"
     ],
     "splendita": [
         "spnedita",
@@ -5673,7 +5721,8 @@
     "tutti": [
         "tutit",
         "tuutti",
-        "tuttti"
+        "tuttti",
+        "tuitti"
     ],
     "tutto": [
         "tuto"
