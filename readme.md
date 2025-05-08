@@ -2,9 +2,9 @@
 
 ## Status (per last release)
 
-* [![https://hub.espanso.org/typofixer-en](https://img.shields.io/badge/typofixer-%F0%9F%87%AC%F0%9F%87%A7%20%F0%9F%87%BA%F0%9F%87%B8-white.svg)]([https://hub.espanso.org/typofixer-en]): *<!--en-words-->17616<!--en-words-end-->* words with *<!--en-typos-->67204<!--en-typos-end-->* typos
+* [![https://hub.espanso.org/typofixer-en](https://img.shields.io/badge/typofixer-%F0%9F%87%AC%F0%9F%87%A7%20%F0%9F%87%BA%F0%9F%87%B8-white.svg)]([https://hub.espanso.org/typofixer-en]): *<!--en-words-->17620<!--en-words-end-->* words with *<!--en-typos-->67216<!--en-typos-end-->* typos
 * [![https://hub.espanso.org/typofixer-fr](https://img.shields.io/badge/typofixer-%F0%9F%87%AB%F0%9F%87%B7%20-white.svg)](https://hub.espanso.org/typofixer-fr): *<!--fr-words-->69<!--fr-words-end-->* words with *<!--fr-typos-->70<!--fr-typos-end-->* typos
-* [![https://hub.espanso.org/typofixer-it](https://img.shields.io/badge/typofixer-%F0%9F%87%AE%F0%9F%87%B9%20-white.svg)](https://hub.espanso.org/typofixer-it): *<!--it-words-->1651<!--it-words-end-->* words with *<!--it-typos-->2145<!--it-typos-end-->* typos
+* [![https://hub.espanso.org/typofixer-it](https://img.shields.io/badge/typofixer-%F0%9F%87%AE%F0%9F%87%B9%20-white.svg)](https://hub.espanso.org/typofixer-it): *<!--it-words-->1799<!--it-words-end-->* words with *<!--it-typos-->2406<!--it-typos-end-->* typos
 * [![https://hub.espanso.org/typofixer-es](https://img.shields.io/badge/typofixer-%F0%9F%87%AA%F0%9F%87%B8%20-white.svg)](https://hub.espanso.org/typofixer-es): *<!--es-words-->103<!--es-words-end-->* words with *<!--es-typos-->118<!--es-typos-end-->* typos
 
 ## I want the development version!
