@@ -478,7 +478,8 @@
     ],
     "aspettare": [
         "apsettare",
-        "aspetare"
+        "aspetare",
+        "apsttare"
     ],
     "aspettavi": [
         "apsettavi"
@@ -1058,7 +1059,8 @@
         "cmpri"
     ],
     "comunicare": [
-        "counicare"
+        "counicare",
+        "comuinicare"
     ],
     "comunicazione": [
         "comunicziaone",
@@ -1179,6 +1181,9 @@
     ],
     "conosciuti": [
         "conosciti"
+    ],
+    "conoscono": [
+        "ocnoscono"
     ],
     "consegnano": [
         "cosnegano"
@@ -1368,6 +1373,9 @@
     ],
     "dargli": [
         "darlgi"
+    ],
+    "darmi": [
+        "damri"
     ],
     "dashboard": [
         "dasbhoard"
@@ -2522,6 +2530,9 @@
     "interesse": [
         "itneresse"
     ],
+    "interessi": [
+        "itneressi"
+    ],
     "interfacce": [
         "itnerfacce"
     ],
@@ -2631,7 +2642,8 @@
         "alvora"
     ],
     "lavorando": [
-        "alvorando"
+        "alvorando",
+        "laorando"
     ],
     "lavorare": [
         "alvorare",
@@ -3528,6 +3540,9 @@
         "partecipaizone",
         "aprtecipazione"
     ],
+    "parti": [
+        "aprti"
+    ],
     "particolare": [
         "particoalre"
     ],
@@ -3620,7 +3635,8 @@
     ],
     "perfetto": [
         "perfeto",
-        "pereftto"
+        "pereftto",
+        "eprfetto"
     ],
     "periodo": [
         "epriodo"
@@ -4218,7 +4234,8 @@
     ],
     "questione": [
         "questioen",
-        "quesitone"
+        "quesitone",
+        "quetione"
     ],
     "questo": [
         "qeusto",
@@ -4236,6 +4253,9 @@
     ],
     "quotazione": [
         "quotazone"
+    ],
+    "raccogliere": [
+        "raccogleire"
     ],
     "raccontarono": [
         "racconrarono"
@@ -4285,7 +4305,8 @@
         "regsitratori"
     ],
     "registrazione": [
-        "regstrazione"
+        "regstrazione",
+        "regsitrazione"
     ],
     "registrazioni": [
         "regisrtazioni",
@@ -4321,6 +4342,9 @@
     ],
     "respirare": [
         "respitare"
+    ],
+    "responsabile": [
+        "resposabile"
     ],
     "responsabili": [
         "reposnsabili"
@@ -4528,6 +4552,9 @@
         "rimuovre",
         "rimuvoere"
     ],
+    "ringrazierai": [
+        "ringrazieai"
+    ],
     "ringrazio": [
         "rignrazio"
     ],
@@ -4586,6 +4613,9 @@
     ],
     "risolve": [
         "rsiolve"
+    ],
+    "risolvendo": [
+        "risolvedo"
     ],
     "risolvere": [
         "risovlere"
@@ -4774,6 +4804,9 @@
     ],
     "sblocchiamo": [
         "sblocchjiamo"
+    ],
+    "sbrandizzato": [
+        "sbradizzato"
     ],
     "scansionare": [
         "scansioanre"
@@ -5612,6 +5645,9 @@
     "toccare": [
         "tocacre"
     ],
+    "toccato": [
+        "tocatto"
+    ],
     "togliere": [
         "toglire",
         "togleire",
@@ -5920,7 +5956,8 @@
         "vicnere"
     ],
     "virgola": [
-        "verigola"
+        "verigola",
+        "virgona"
     ],
     "virtuale": [
         "vrituale"
