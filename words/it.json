@@ -452,7 +452,8 @@
         "arruginto"
     ],
     "articoli": [
-        "artiocli"
+        "artiocli",
+        "aritcoli"
     ],
     "articolo": [
         "articol"
@@ -637,6 +638,9 @@
     ],
     "batteria": [
         "batteira"
+    ],
+    "battute": [
+        "battue"
     ],
     "bel": [
         "mel"
@@ -1058,6 +1062,9 @@
     "compri": [
         "cmpri"
     ],
+    "comprimere": [
+        "compriere"
+    ],
     "comunicare": [
         "counicare",
         "comuinicare"
@@ -1093,6 +1100,9 @@
     ],
     "concedi": [
         "ocncedi"
+    ],
+    "concessionaria": [
+        "concessioanria"
     ],
     "concorso": [
         "concirso"
@@ -1294,6 +1304,9 @@
     ],
     "copertina": [
         "copetina"
+    ],
+    "copertine": [
+        "coperrtine"
     ],
     "copia": [
         "copai",
@@ -1621,6 +1634,9 @@
     ],
     "diverto": [
         "diverrto"
+    ],
+    "divulgazione": [
+        "divuolgazione"
     ],
     "documentare": [
         "documetnare"
@@ -2118,6 +2134,9 @@
     ],
     "giorgia": [
         "gioriga"
+    ],
+    "giornata": [
+        "gioranta"
     ],
     "giorni": [
         "gionri",
@@ -2822,6 +2841,9 @@
     "mandare": [
         "madnare"
     ],
+    "mandarmi": [
+        "madnarmi"
+    ],
     "mandato": [
         "manato"
     ],
@@ -2998,6 +3020,9 @@
     ],
     "migliori": [
         "milgiori"
+    ],
+    "migrare": [
+        "micrare"
     ],
     "milione": [
         "miliome"
@@ -3553,6 +3578,9 @@
         "parrtiva",
         "aprtiva"
     ],
+    "parzialmente": [
+        "pazrialmente"
+    ],
     "passaggio": [
         "passagio",
         "pasaggio"
@@ -3833,7 +3861,8 @@
         "prticamente",
         "pratiacmente",
         "prtaicamente",
-        "praticamenbte"
+        "praticamenbte",
+        "praitcamente"
     ],
     "pratiche": [
         "partiche"
@@ -3988,6 +4017,9 @@
     ],
     "progetti": [
         "proggetti"
+    ],
+    "progettino": [
+        "proettino"
     ],
     "progetto": [
         "prgoetto",
@@ -4253,6 +4285,9 @@
     ],
     "quotazione": [
         "quotazone"
+    ],
+    "raccogliamo": [
+        "raccoglaimo"
     ],
     "raccogliere": [
         "raccogleire"
@@ -5070,6 +5105,9 @@
     "sereno": [
         "senreno"
     ],
+    "serve": [
+        "sevre"
+    ],
     "servi": [
         "srvi"
     ],
@@ -5762,7 +5800,8 @@
         "tutit",
         "tuutti",
         "tuttti",
-        "tuitti"
+        "tuitti",
+        "ttuti"
     ],
     "tutto": [
         "tuto"
