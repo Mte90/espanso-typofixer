@@ -19,6 +19,12 @@
         "abbastazna",
         "abbastananza"
     ],
+    "immagino": [
+        "imamgino"
+    ],
+    "girate": [
+        "girtate"
+    ],
     "abbiamo": [
         "abbimoa",
         "abbaimo",
@@ -85,6 +91,9 @@
     ],
     "accontertarti": [
         "acocntentarti"
+    ],
+    "accorperei": [
+        "accoreprei"
     ],
     "accorpiamo": [
         "accopriamo"
@@ -170,7 +179,8 @@
         "aggionri"
     ],
     "aggiorno": [
-        "agiorno"
+        "agiorno",
+        "aggiornp"
     ],
     "aggirare": [
         "aggirae"
@@ -805,7 +815,8 @@
         "carricato"
     ],
     "carriera": [
-        "carrira"
+        "carrira",
+        "carrirea"
     ],
     "cartella": [
         "cartelal"
@@ -824,7 +835,8 @@
     ],
     "categoria": [
         "categoira",
-        "cateogira"
+        "cateogira",
+        "cateogria"
     ],
     "categorie": [
         "cateogrie"
@@ -837,6 +849,9 @@
     ],
     "cazzo": [
         "cazo"
+    ],
+    "cellulari": [
+        "cellari"
     ],
     "centinaia": [
         "centiania"
@@ -901,6 +916,9 @@
         "chidere",
         "cheedere"
     ],
+    "chiedergli": [
+        "chidergli"
+    ],
     "chiederti": [
         "chiererti",
         "chiderti"
@@ -946,6 +964,9 @@
     "clientele": [
         "clientelle"
     ],
+    "codice": [
+        "coeice"
+    ],
     "coincidenze": [
         "conincidenze"
     ],
@@ -988,6 +1009,9 @@
     ],
     "commentato": [
         "commetnato"
+    ],
+    "commenti": [
+        "commennti"
     ],
     "commento": [
         "commentio"
@@ -1040,6 +1064,9 @@
     "complicazioni": [
         "complicaizoni"
     ],
+    "complottisti": [
+        "conplottisti"
+    ],
     "componibile": [
         "ocmponibile"
     ],
@@ -1078,7 +1105,8 @@
         "cmpri"
     ],
     "comprimere": [
-        "compriere"
+        "compriere",
+        "compriremere"
     ],
     "compro": [
         "ocmpro"
@@ -1232,6 +1260,9 @@
     "considerate": [
         "consdierate",
         "cobsiderate"
+    ],
+    "considerazione": [
+        "consdierazione"
     ],
     "consideriamo": [
         "consdieriamo"
@@ -1600,6 +1631,9 @@
     "disattivare": [
         "diattivare"
     ],
+    "disattiviamo": [
+        "disattivamo"
+    ],
     "discussione": [
         "discusisone"
     ],
@@ -1668,7 +1702,8 @@
         "documetnare"
     ],
     "documentazione": [
-        "documentaizone"
+        "documentaizone",
+        "docuimentazione"
     ],
     "documento": [
         "docmento"
@@ -2062,7 +2097,8 @@
         "frose"
     ],
     "fortuna": [
-        "fortuan"
+        "fortuan",
+        "forutna"
     ],
     "fotocopiatrice": [
         "fotocopitraice"
@@ -2245,6 +2281,9 @@
     ],
     "gruppi": [
         "gurppi"
+    ],
+    "guadagnerebbero": [
+        "guadagnerenbbero"
     ],
     "guadagniamo": [
         "gadagniamo"
@@ -2522,6 +2561,9 @@
     "installati": [
         "isntallati"
     ],
+    "installato": [
+        "instllato"
+    ],
     "installazione": [
         "installaizone"
     ],
@@ -2644,6 +2686,9 @@
     "investirci": [
         "ivestirci"
     ],
+    "inviato": [
+        "iniato"
+    ],
     "invitassero": [
         "imvitassero"
     ],
@@ -2720,9 +2765,6 @@
     "lavoro": [
         "laovro",
         "alvoro"
-    ],
-    "le ho detto": [
-        "gli ho detto"
     ],
     "legale": [
         "lgale"
@@ -3243,6 +3285,9 @@
     "nonnismo": [
         "nonnsimo"
     ],
+    "nonostante": [
+        "nonoistante"
+    ],
     "normale": [
         "nornmale"
     ],
@@ -3258,7 +3303,8 @@
     "nostri": [
         "nsotri",
         "snotri",
-        "nostir"
+        "nostir",
+        "nosti"
     ],
     "nostro": [
         "nsotro",
@@ -3433,7 +3479,8 @@
     ],
     "organizzazione": [
         "orgnaizzazione",
-        "orgnaizzaizone"
+        "orgnaizzaizone",
+        "organizazione"
     ],
     "organizzazioni": [
         "organizzaizoni"
@@ -3723,6 +3770,9 @@
         "pereftto",
         "eprfetto"
     ],
+    "performante": [
+        "performaten"
+    ],
     "periodo": [
         "epriodo"
     ],
@@ -3749,7 +3799,8 @@
         "personala"
     ],
     "personalizzazioni": [
-        "persoalizzazioni"
+        "persoalizzazioni",
+        "personalizzaizoni"
     ],
     "persone": [
         "eprsone",
@@ -3930,6 +3981,9 @@
     "precedente": [
         "percedente",
         "rpecedente"
+    ],
+    "predefinite": [
+        "predefinte"
     ],
     "predefinito": [
         "rpedefinito"
@@ -4347,7 +4401,8 @@
         "qundi",
         "quinid",
         "quaindi",
-        "uindi"
+        "uindi",
+        "quidi"
     ],
     "quotazione": [
         "quotazone"
@@ -4487,6 +4542,9 @@
     "ricarichi": [
         "ricarcichi"
     ],
+    "ricerche": [
+        "ricesrche"
+    ],
     "ricevere": [
         "ricvevere"
     ],
@@ -4580,7 +4638,8 @@
     ],
     "riguarda": [
         "rugiarda",
-        "riuarda"
+        "riuarda",
+        "irguarda"
     ],
     "riguardano": [
         "irugardano"
@@ -4733,6 +4792,9 @@
     ],
     "rispettare": [
         "rispetare"
+    ],
+    "rispettiamo": [
+        "riespettiamo"
     ],
     "risponde": [
         "riscponde",
@@ -5227,6 +5289,9 @@
         "sfortuantamente",
         "sfortunatamete"
     ],
+    "sforzo": [
+        "sforoz"
+    ],
     "siamo": [
         "siao"
     ],
@@ -5700,6 +5765,9 @@
     "telefonata": [
         "telefoanta"
     ],
+    "telefoni": [
+        "telefino"
+    ],
     "telefono": [
         "telfeono",
         "telfono"
@@ -5818,6 +5886,9 @@
     ],
     "tranquilli": [
         "trnaquilli"
+    ],
+    "transazione": [
+        "trasazione"
     ],
     "trasferimento": [
         "tasferimento"
@@ -5940,6 +6011,9 @@
     "usare": [
         "suare"
     ],
+    "usarla": [
+        "suarla"
+    ],
     "usarono": [
         "usarno"
     ],
@@ -5948,6 +6022,9 @@
     ],
     "usiamo": [
         "usaiamo"
+    ],
+    "utente": [
+        "uitente"
     ],
     "utenti": [
         "utneti",
@@ -5962,7 +6039,8 @@
         "utilizzre"
     ],
     "vacanze": [
-        "vancaze"
+        "vancaze",
+        "vecanze"
     ],
     "vado": [
         "vaod"
@@ -6044,7 +6122,8 @@
         "varifica"
     ],
     "verificando": [
-        "verificano"
+        "verificano",
+        "verificndo"
     ],
     "verificato": [
         "vrificato"
