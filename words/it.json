@@ -25,6 +25,9 @@
         "abbimo",
         "abiamo"
     ],
+    "abbonamenti": [
+        "abobnamenti"
+    ],
     "abbonamento": [
         "abonamento"
     ],
@@ -146,7 +149,8 @@
         "aggiornametno"
     ],
     "aggiornando": [
-        "aggiorando"
+        "aggiorando",
+        "agigornando"
     ],
     "aggiornano": [
         "agigornano"
@@ -154,7 +158,8 @@
     "aggiornare": [
         "aggioranre",
         "agigornare",
-        "aggioenare"
+        "aggioenare",
+        "aggiorare"
     ],
     "aggiornata": [
         "agigornata"
@@ -322,6 +327,9 @@
         "amminsitratore",
         "amministraore"
     ],
+    "amministratori": [
+        "amministrtatori"
+    ],
     "amministrazioni": [
         "amministraizoni"
     ],
@@ -359,6 +367,9 @@
     ],
     "andavano": [
         "anvano"
+    ],
+    "andrebbe": [
+        "andrebeb"
     ],
     "andrebbero": [
         "andrebero"
@@ -575,6 +586,9 @@
         "autmatico",
         "autoamtico"
     ],
+    "avanti": [
+        "aventi"
+    ],
     "avanzano": [
         "avazanzano"
     ],
@@ -658,6 +672,9 @@
     ],
     "bella": [
         "belal"
+    ],
+    "beneficio": [
+        "beneicio"
     ],
     "benvenuta": [
         "bnevenuta"
@@ -761,6 +778,9 @@
     ],
     "cancellare": [
         "cancelalre"
+    ],
+    "cancellato": [
+        "canellato"
     ],
     "cancellazione": [
         "cancellzione"
@@ -1451,7 +1471,8 @@
         "dasbhoard"
     ],
     "davvero": [
-        "davero"
+        "davero",
+        "davveo"
     ],
     "decentemente": [
         "decentemnte"
@@ -1507,6 +1528,9 @@
     ],
     "deposito": [
         "despoito"
+    ],
+    "deprecato": [
+        "deprcato"
     ],
     "depresse": [
         "deprese"
@@ -1589,6 +1613,9 @@
     "dimostra": [
         "dimsotra",
         "dismotra"
+    ],
+    "dimostrano": [
+        "dimsotrano"
     ],
     "dimostrare": [
         "dimsotrare"
@@ -1781,7 +1808,8 @@
     ],
     "dovuto": [
         "duvot",
-        "douvto"
+        "douvto",
+        "dovutro"
     ],
     "download": [
         "donwload"
@@ -1859,6 +1887,9 @@
     "errore": [
         "erroe"
     ],
+    "errori": [
+        "erori"
+    ],
     "esattamente": [
         "esattametne",
         "esattamtnte"
@@ -1921,7 +1952,8 @@
         "etsratte"
     ],
     "estratto": [
-        "estrato"
+        "estrato",
+        "etratto"
     ],
     "etichette": [
         "etichete"
@@ -1997,6 +2029,9 @@
     "farlo": [
         "falro"
     ],
+    "farmi": [
+        "famri"
+    ],
     "farvi": [
         "fafrvi"
     ],
@@ -2018,6 +2053,9 @@
         "ftto",
         "faftto",
         "fgatto"
+    ],
+    "features": [
+        "fetaures"
     ],
     "febbraio": [
         "febbrai",
@@ -2274,6 +2312,9 @@
     ],
     "granch\u00e8": [
         "grnach\u00e8"
+    ],
+    "grandi": [
+        "grnadi"
     ],
     "grandinato": [
         "gradninato"
@@ -2534,6 +2575,9 @@
     "ingrandimento": [
         "ingradimento"
     ],
+    "inibire": [
+        "ibinire"
+    ],
     "ininterrottamente": [
         "inenterrottamente"
     ],
@@ -2706,7 +2750,8 @@
     ],
     "invece": [
         "ivnece",
-        "invce"
+        "invce",
+        "imvece"
     ],
     "inventano": [
         "invetano"
@@ -2729,6 +2774,9 @@
     "iscritti": [
         "iscirtti",
         "iscriti"
+    ],
+    "iscrivere": [
+        "iscirvere"
     ],
     "iscrizione": [
         "iscrizioen"
@@ -3038,7 +3086,8 @@
         "matreimonio"
     ],
     "mattina": [
-        "mattian"
+        "mattian",
+        "matina"
     ],
     "medaglie": [
         "mdeaglie"
@@ -3200,6 +3249,9 @@
     "modifica": [
         "modififca"
     ],
+    "modificato": [
+        "midificato"
+    ],
     "modifiche": [
         "mdofiche",
         "moficihe",
@@ -3261,6 +3313,12 @@
     ],
     "nativamente": [
         "nativaente"
+    ],
+    "naturale": [
+        "naturalle"
+    ],
+    "navetta": [
+        "anvetta"
     ],
     "navigazione": [
         "navogazione"
@@ -3364,7 +3422,8 @@
         "nuemri"
     ],
     "numero": [
-        "numeor"
+        "numeor",
+        "numeto"
     ],
     "nuova": [
         "nuvoa"
@@ -3392,6 +3451,9 @@
     ],
     "officine": [
         "officne"
+    ],
+    "offrire": [
+        "offire"
     ],
     "oggetti": [
         "oggeti"
@@ -3471,7 +3533,8 @@
     ],
     "organizzarci": [
         "orgniazzarci",
-        "orgnaizzarci"
+        "orgnaizzarci",
+        "orgabizzarci"
     ],
     "organizzare": [
         "orgnaizzare",
@@ -3534,6 +3597,9 @@
     "organizzo": [
         "orgnaizzo"
     ],
+    "originale": [
+        "originzle"
+    ],
     "ormai": [
         "omrai"
     ],
@@ -3566,7 +3632,8 @@
         "ovviammnete",
         "ovviametne",
         "ovviaemnte",
-        "ovviamnte"
+        "ovviamnte",
+        "ovviamtne"
     ],
     "pacchettizzato": [
         "pacchettizato"
@@ -3839,6 +3906,9 @@
         "eprsonale",
         "personala"
     ],
+    "personalizzato": [
+        "persnalizzato"
+    ],
     "personalizzazioni": [
         "persoalizzazioni",
         "personalizzaizoni"
@@ -3847,6 +3917,9 @@
         "eprsone",
         "persoen",
         "personme"
+    ],
+    "piacciono": [
+        "piacicono"
     ],
     "piace": [
         "paice",
@@ -3865,6 +3938,9 @@
     ],
     "piaciuto": [
         "piacuto"
+    ],
+    "piangendo": [
+        "pianngendo"
     ],
     "piano": [
         "paino"
@@ -3964,6 +4040,9 @@
     ],
     "potente": [
         "poteten"
+    ],
+    "potenziale": [
+        "potenzile"
     ],
     "potenzialmente": [
         "potenizlmanete"
@@ -4390,7 +4469,8 @@
         "qunado"
     ],
     "quanto": [
-        "quanot"
+        "quanot",
+        "wuanto"
     ],
     "quella": [
         "quelal",
@@ -4403,7 +4483,8 @@
     ],
     "quelli": [
         "queli",
-        "qeulli"
+        "qeulli",
+        "uelli"
     ],
     "quello": [
         "qeullo",
@@ -4499,6 +4580,12 @@
     "redazione": [
         "redazioen"
     ],
+    "regalare": [
+        "reglarare"
+    ],
+    "regenerate": [
+        "regerante"
+    ],
     "registrati": [
         "regtistrati"
     ],
@@ -4550,6 +4637,9 @@
     "responsabili": [
         "reposnsabili"
     ],
+    "resta": [
+        "rsta"
+    ],
     "resterei": [
         "restarei"
     ],
@@ -4580,6 +4670,9 @@
     ],
     "riavvio": [
         "riavivo"
+    ],
+    "ricarica": [
+        "ricairca"
     ],
     "ricaricando": [
         "ricarcando"
@@ -4805,7 +4898,8 @@
         "ripresesntarsi"
     ],
     "riprovare": [
-        "riporvare"
+        "riporvare",
+        "riporovare"
     ],
     "risalgono": [
         "rislgono"
@@ -5295,7 +5389,8 @@
         "senreno"
     ],
     "serve": [
-        "sevre"
+        "sevre",
+        "seve"
     ],
     "servi": [
         "srvi"
@@ -5353,7 +5448,9 @@
         "sicuramte",
         "sicuramete",
         "sicuramnte",
-        "sicurmaente"
+        "sicurmaente",
+        "sicuramtne",
+        "scuramente"
     ],
     "sicurezza": [
         "iscurezza"
@@ -5373,6 +5470,9 @@
     ],
     "significati": [
         "sginificati"
+    ],
+    "significato": [
+        "sinignificato"
     ],
     "significherebbe": [
         "sginificherebbe",
@@ -5488,6 +5588,9 @@
     ],
     "sostenibilit\u00e1": [
         "sotenibilit\u00e0"
+    ],
+    "sostituirlo": [
+        "sostotiurlo"
     ],
     "sostituisco": [
         "sostistuisco"
@@ -5695,6 +5798,9 @@
     "succederanno": [
         "sucederanno"
     ],
+    "succedere": [
+        "sucedere"
+    ],
     "successivamente": [
         "sucessivamente"
     ],
@@ -5740,6 +5846,9 @@
     ],
     "supera": [
         "supra"
+    ],
+    "supporta": [
+        "spupporta"
     ],
     "supporto": [
         "spporto"
@@ -6232,6 +6341,9 @@
     ],
     "virtuali": [
         "virtulai"
+    ],
+    "virtualmente": [
+        "virtualemnte"
     ],
     "visite": [
         "visiste"

@@ -55828,6 +55828,9 @@
         "logiteh",
         "logtiech"
     ],
+    "logout": [
+        "loguot"
+    ],
     "logwriter": [
         "logwritter"
     ],
@@ -55904,7 +55907,8 @@
         "loopup"
     ],
     "loop": [
-        "looop"
+        "looop",
+        "llop"
     ],
     "loopback": [
         "looback",
@@ -68035,7 +68039,8 @@
         "permissino",
         "permssion",
         "premission",
-        "paermission"
+        "paermission",
+        "permissinon"
     ],
     "permissioned": [
         "permessioned"
@@ -76387,7 +76392,8 @@
         "reidrect",
         "rediect",
         "redict",
-        "reciredct"
+        "reciredct",
+        "redreict"
     ],
     "redirected": [
         "rediected",
@@ -81022,6 +81028,9 @@
     ],
     "ripped": [
         "riped"
+    ],
+    "riscrivo": [
+        "riscivo"
     ],
     "riscv": [
         "rsicv"
@@ -93580,6 +93589,9 @@
     "token": [
         "toekn",
         "tolen"
+    ],
+    "tokenizer": [
+        "tokeniazer"
     ],
     "tokens": [
         "tolens"
