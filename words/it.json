@@ -1672,6 +1672,9 @@
     "disattiviamo": [
         "disattivamo"
     ],
+    "discorso": [
+        "disocrso"
+    ],
     "discussione": [
         "discusisone"
     ],
@@ -2379,7 +2382,8 @@
         "eiri"
     ],
     "ignoranza": [
-        "ignorazna"
+        "ignorazna",
+        "inoranza"
     ],
     "ignori": [
         "ingori"
@@ -2436,6 +2440,9 @@
     ],
     "impianta": [
         "impianata"
+    ],
+    "impianto": [
+        "jmpianto"
     ],
     "impicciati": [
         "impicciayi"
@@ -4114,6 +4121,9 @@
     ],
     "preferirei": [
         "perferirei"
+    ],
+    "preferisco": [
+        "prefierisco"
     ],
     "prefigge": [
         "prefige"
@@ -5800,6 +5810,9 @@
     ],
     "succedere": [
         "sucedere"
+    ],
+    "succedono": [
+        "sucedono"
     ],
     "successivamente": [
         "sucessivamente"
