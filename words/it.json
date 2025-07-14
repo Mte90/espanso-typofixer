@@ -548,6 +548,9 @@
     "attimo": [
         "attim"
     ],
+    "attivazione": [
+        "attivaizone"
+    ],
     "attrezzi": [
         "atrezi"
     ],
@@ -1028,6 +1031,9 @@
     ],
     "cominciando": [
         "comnciando"
+    ],
+    "cominciato": [
+        "cominicato"
     ],
     "commentato": [
         "commetnato"
@@ -2901,7 +2907,8 @@
         "lbirerie"
     ],
     "libro": [
-        "lbiro"
+        "lbiro",
+        "linro"
     ],
     "licenza": [
         "lcienza"
@@ -6390,6 +6397,9 @@
     ],
     "volenteroso": [
         "volneteroso"
+    ],
+    "volentieri": [
+        "volnteri"
     ],
     "volesse": [
         "volese"
