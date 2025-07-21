@@ -165,7 +165,8 @@
         "agigornata"
     ],
     "aggiornati": [
-        "aggironati"
+        "aggironati",
+        "agigornati"
     ],
     "aggiornato": [
         "agiornato",
@@ -464,6 +465,9 @@
     "arrivati": [
         "arivati"
     ],
+    "arrivavano": [
+        "arivavano"
+    ],
     "arriveremo": [
         "ariveremo"
     ],
@@ -500,6 +504,9 @@
         "apsettare",
         "aspetare",
         "apsttare"
+    ],
+    "aspettative": [
+        "aspettatite"
     ],
     "aspettavi": [
         "apsettavi"
@@ -794,6 +801,9 @@
     "candida": [
         "candinda"
     ],
+    "capiamo": [
+        "caiamo"
+    ],
     "capire": [
         "cpaire"
     ],
@@ -919,6 +929,9 @@
     "chiamiamo": [
         "hciamiamo"
     ],
+    "chiara": [
+        "chaira"
+    ],
     "chiaramente": [
         "chiaramento"
     ],
@@ -963,7 +976,8 @@
     "chiesto": [
         "hicesto",
         "cheisto",
-        "chisto"
+        "chisto",
+        "chieto"
     ],
     "chiudere": [
         "chiuedere"
@@ -991,6 +1005,9 @@
     ],
     "codice": [
         "coeice"
+    ],
+    "coglione": [
+        "colgione"
     ],
     "coincidenze": [
         "conincidenze"
@@ -1219,7 +1236,8 @@
         "connfigurati"
     ],
     "configurato": [
-        "confogirato"
+        "confogirato",
+        "conigurato"
     ],
     "configurazione": [
         "confgiurazione",
@@ -1290,7 +1308,8 @@
         "cobsiderate"
     ],
     "considerazione": [
-        "consdierazione"
+        "consdierazione",
+        "considearzione"
     ],
     "consideriamo": [
         "consdieriamo"
@@ -1337,6 +1356,9 @@
     ],
     "continuazione": [
         "continuzazione"
+    ],
+    "continuiamo": [
+        "cotinuiamo"
     ],
     "continuo": [
         "contunuo"
@@ -1582,7 +1604,8 @@
         "dicutira"
     ],
     "dietro": [
-        "dieotr"
+        "dieotr",
+        "deitro"
     ],
     "differenti": [
         "differetnti"
@@ -1729,7 +1752,8 @@
     ],
     "diversi": [
         "diveris",
-        "dibversi"
+        "dibversi",
+        "dversi"
     ],
     "diverso": [
         "diveros",
@@ -1807,6 +1831,9 @@
     ],
     "dovrebbero": [
         "dovrebero"
+    ],
+    "dovrei": [
+        "covrei"
     ],
     "dovreste": [
         "drovreste"
@@ -1985,7 +2012,8 @@
     ],
     "facciamo": [
         "faciamo",
-        "faccimao"
+        "faccimao",
+        "afcciamo"
     ],
     "faccio": [
         "facco",
@@ -2021,7 +2049,8 @@
     "fare": [
         "frare",
         "fafre",
-        "afre"
+        "afre",
+        "fae"
     ],
     "farei": [
         "farie"
@@ -2084,7 +2113,8 @@
         "ferrare"
     ],
     "festeggiare": [
-        "festegiare"
+        "festegiare",
+        "festeggire"
     ],
     "ficcare": [
         "ficacre"
@@ -2202,7 +2232,8 @@
     ],
     "funzionare": [
         "funzioanre",
-        "unzioanrre"
+        "unzioanrre",
+        "funizionare"
     ],
     "funzionato": [
         "funzunato"
@@ -2260,6 +2291,9 @@
     ],
     "gestione": [
         "gestioen"
+    ],
+    "gestisce": [
+        "gestiosce"
     ],
     "gioco": [
         "gico"
@@ -2391,6 +2425,9 @@
         "ignorazna",
         "inoranza"
     ],
+    "ignorare": [
+        "inograre"
+    ],
     "ignori": [
         "ingori"
     ],
@@ -2490,6 +2527,9 @@
     ],
     "impossibile": [
         "impossibiel"
+    ],
+    "imposta": [
+        "impsota"
     ],
     "impostare": [
         "impstare"
@@ -2678,6 +2718,9 @@
     "intelligente": [
         "inteliggente"
     ],
+    "intende": [
+        "itnende"
+    ],
     "intendi": [
         "itendi"
     ],
@@ -2859,7 +2902,8 @@
     ],
     "lavoro": [
         "laovro",
-        "alvoro"
+        "alvoro",
+        "lavlro"
     ],
     "legale": [
         "lgale"
@@ -3027,6 +3071,9 @@
     "mandare": [
         "madnare"
     ],
+    "mandargli": [
+        "madargli"
+    ],
     "mandarmi": [
         "madnarmi"
     ],
@@ -3163,6 +3210,9 @@
     ],
     "mettercele": [
         "mettercle"
+    ],
+    "metterci": [
+        "meterci"
     ],
     "mettere": [
         "emttere",
@@ -3345,7 +3395,8 @@
         "neache",
         "neanceh",
         "neanch",
-        "enanceh"
+        "enanceh",
+        "nenache"
     ],
     "necessaria": [
         "encessaria"
@@ -3385,6 +3436,9 @@
     "niente": [
         "niete",
         "nienite"
+    ],
+    "noi": [
+        "nio"
     ],
     "nomi": [
         "nommi"
@@ -3428,6 +3482,9 @@
     ],
     "notifica": [
         "motifica"
+    ],
+    "nozze": [
+        "nozza"
     ],
     "numerazione": [
         "numeraione"
@@ -4186,6 +4243,9 @@
     "preservare": [
         "preserrvare"
     ],
+    "pressa": [
+        "presas"
+    ],
     "pressione": [
         "pressioen"
     ],
@@ -4379,6 +4439,9 @@
     "prova": [
         "rpova"
     ],
+    "provarla": [
+        "prvarla"
+    ],
     "provato": [
         "proivato"
     ],
@@ -4463,7 +4526,8 @@
         "quacleh",
         "qualceh",
         "qualce",
-        "qulahce"
+        "qulahce",
+        "quelche"
     ],
     "qualcosa": [
         "quaclosa",
@@ -4765,7 +4829,8 @@
     ],
     "riesco": [
         "reisco",
-        "riesc"
+        "riesc",
+        "risco"
     ],
     "rifacciamo": [
         "rifaciamo"
@@ -4978,6 +5043,9 @@
     "rispondervi": [
         "rispndervi"
     ],
+    "risponditore": [
+        "rispnditore"
+    ],
     "rispondono": [
         "rispondno",
         "riscondono"
@@ -5046,7 +5114,8 @@
         "riusxciti"
     ],
     "riuscito": [
-        "riuscto"
+        "riuscto",
+        "riuscitio"
     ],
     "riusiamo": [
         "rusiamo"
@@ -5087,6 +5156,9 @@
     ],
     "sanitari": [
         "santiari"
+    ],
+    "sanitizza": [
+        "santiizza"
     ],
     "sanitizzati": [
         "santizzati"
@@ -5942,7 +6014,8 @@
         "tasteira"
     ],
     "telefonare": [
-        "telefoanre"
+        "telefoanre",
+        "telefonore"
     ],
     "telefonarmi": [
         "telefornarmi"
@@ -6447,5 +6520,8 @@
     ],
     "webinar": [
         "webianr"
+    ],
+    "zappato": [
+        "zappto"
     ]
 }
