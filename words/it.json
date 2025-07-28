@@ -518,6 +518,9 @@
         "aspttiamo",
         "aspettimao"
     ],
+    "aspetto": [
+        "aseptto"
+    ],
     "asset": [
         "assset"
     ],
@@ -637,6 +640,9 @@
     ],
     "avvenuto": [
         "avenuto"
+    ],
+    "avviato": [
+        "avviatgo"
     ],
     "azienda": [
         "azineda",
@@ -818,7 +824,8 @@
         "cpiasco",
         "capisoc",
         "capsico",
-        "capisico"
+        "capisico",
+        "caisco"
     ],
     "capiscono": [
         "capisconmo"
@@ -999,6 +1006,9 @@
     ],
     "classificatore": [
         "cassificatore"
+    ],
+    "cliente": [
+        "clienete"
     ],
     "clientele": [
         "clientelle"
@@ -1187,7 +1197,8 @@
     ],
     "con": [
         "ocn",
-        "cvon"
+        "cvon",
+        "von"
     ],
     "concedi": [
         "ocncedi"
@@ -1481,7 +1492,8 @@
         "cerdito"
     ],
     "credo": [
-        "creod"
+        "creod",
+        "creso"
     ],
     "cuffie": [
         "cuffe"
@@ -1540,7 +1552,8 @@
     ],
     "delle": [
         "dele",
-        "delel"
+        "delel",
+        "dlle"
     ],
     "demenziale": [
         "dememnziale"
@@ -2289,6 +2302,9 @@
     "genitore": [
         "gentiore"
     ],
+    "gestionale": [
+        "getiopnale"
+    ],
     "gestione": [
         "gestioen"
     ],
@@ -2616,7 +2632,8 @@
     ],
     "informazioni": [
         "informaizoni",
-        "informaioni"
+        "informaioni",
+        "informazioi"
     ],
     "ingegneria": [
         "ingengeria"
@@ -2707,7 +2724,8 @@
         "intant",
         "intnato",
         "intano",
-        "iuntanto"
+        "iuntanto",
+        "inanto"
     ],
     "integrazioni": [
         "integraizoni"
@@ -3157,6 +3175,9 @@
         "megli",
         "melgio",
         "megio"
+    ],
+    "meno": [
+        "menp"
     ],
     "mensilmente": [
         "mensimlente"
@@ -4404,7 +4425,8 @@
         "proposot"
     ],
     "propri": [
-        "prorpi"
+        "prorpi",
+        "prorpri"
     ],
     "proprietario": [
         "prorpietario",
@@ -4609,7 +4631,8 @@
         "quinid",
         "quaindi",
         "uindi",
-        "quidi"
+        "quidi",
+        "qujndi"
     ],
     "quotazione": [
         "quotazone"
@@ -5657,6 +5680,9 @@
         "sno",
         "soo"
     ],
+    "soprattutto": [
+        "sorpattutto"
+    ],
     "sopratutto": [
         "sopatutto"
     ],
@@ -5990,7 +6016,8 @@
         "tnait"
     ],
     "tantini": [
-        "atntini"
+        "atntini",
+        "tnatini"
     ],
     "tanto": [
         "tnato",
@@ -6077,7 +6104,8 @@
         "temrini"
     ],
     "testare": [
-        "tstare"
+        "tstare",
+        "tesatre"
     ],
     "tienile": [
         "tenile"
@@ -6321,6 +6349,9 @@
     "valutazioni": [
         "valutaizoni"
     ],
+    "vantaggio": [
+        "vantaggii"
+    ],
     "vari": [
         "varri"
     ],
@@ -6449,6 +6480,9 @@
     ],
     "vita": [
         "vitra"
+    ],
+    "vocale": [
+        "voccale"
     ],
     "voglia": [
         "voglai",
