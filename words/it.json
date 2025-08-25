@@ -159,7 +159,9 @@
         "aggioranre",
         "agigornare",
         "aggioenare",
-        "aggiorare"
+        "aggiorare",
+        "aggiornre",
+        "agigoranre"
     ],
     "aggiornata": [
         "agigornata"
@@ -604,7 +606,8 @@
     "automatico": [
         "autamatico",
         "autmatico",
-        "autoamtico"
+        "autoamtico",
+        "atuomatico"
     ],
     "avanti": [
         "aventi"
@@ -1087,7 +1090,8 @@
         "commentio"
     ],
     "commerciale": [
-        "comemrciale"
+        "comemrciale",
+        "commefciale"
     ],
     "comparativa": [
         "comaprativa"
@@ -1624,6 +1628,9 @@
     "devi": [
         "edvi"
     ],
+    "devo": [
+        "dego"
+    ],
     "dicevo": [
         "dcevo",
         "didevo"
@@ -1637,6 +1644,9 @@
     ],
     "dicitura": [
         "dicutira"
+    ],
+    "dicono": [
+        "idcono"
     ],
     "dietro": [
         "dieotr",
@@ -4278,6 +4288,9 @@
     "premio": [
         "permio"
     ],
+    "prende": [
+        "prene"
+    ],
     "prendere": [
         "predenre",
         "prendenre",
@@ -6039,7 +6052,8 @@
         "sulal"
     ],
     "sulle": [
-        "sulel"
+        "sulel",
+        "slle"
     ],
     "suonato": [
         "suoanto"
