@@ -119,6 +119,9 @@
     "adottare": [
         "adaottare"
     ],
+    "adozione": [
+        "adozoone"
+    ],
     "affidabile": [
         "affadabile"
     ],
@@ -377,7 +380,8 @@
         "anvano"
     ],
     "andrebbe": [
-        "andrebeb"
+        "andrebeb",
+        "andrebe"
     ],
     "andrebbero": [
         "andrebero"
@@ -486,7 +490,8 @@
         "aritcoli"
     ],
     "articolo": [
-        "articol"
+        "articol",
+        "arciolo"
     ],
     "ascensore": [
         "ascnesore"
@@ -1028,7 +1033,8 @@
         "cassificatore"
     ],
     "cliente": [
-        "clienete"
+        "clienete",
+        "lciente"
     ],
     "clientele": [
         "clientelle"
@@ -1051,6 +1057,9 @@
     "collaborazioni": [
         "collaborzioni",
         "collaboraizoni"
+    ],
+    "collega": [
+        "colelga"
     ],
     "collegare": [
         "colelgare"
@@ -1214,7 +1223,8 @@
         "comuncue",
         "comunqu",
         "comunqua",
-        "comuqneu"
+        "comuqneu",
+        "comnque"
     ],
     "con": [
         "ocn",
@@ -1564,8 +1574,12 @@
     "decrementa": [
         "decremeta"
     ],
+    "definiamo": [
+        "deviniamo"
+    ],
     "definire": [
-        "defnire"
+        "defnire",
+        "devinire"
     ],
     "definitiva": [
         "definitva"
@@ -2072,6 +2086,9 @@
     "eviterei": [
         "eviteirei"
     ],
+    "evoluzione": [
+        "evoluazione"
+    ],
     "faccia": [
         "afccia"
     ],
@@ -2088,7 +2105,8 @@
         "facemo"
     ],
     "facendo": [
-        "afcendo"
+        "afcendo",
+        "facndo"
     ],
     "facile": [
         "faciel"
@@ -2317,7 +2335,8 @@
     "funzioni": [
         "funizoni",
         "fuznioni",
-        "fufnzioni"
+        "fufnzioni",
+        "funziohni"
     ],
     "funzionino": [
         "funzionico"
@@ -2354,6 +2373,9 @@
     ],
     "genitore": [
         "gentiore"
+    ],
+    "gente": [
+        "gnente"
     ],
     "gestionale": [
         "getiopnale"
@@ -2468,6 +2490,9 @@
     ],
     "guardando": [
         "guardandno"
+    ],
+    "guardarli": [
+        "giardarli"
     ],
     "guerra": [
         "guera"
@@ -3365,6 +3390,9 @@
     "mille": [
         "milel"
     ],
+    "millennio": [
+        "millenio"
+    ],
     "millesimo": [
         "muillesimo"
     ],
@@ -3403,10 +3431,12 @@
         "mdoeratore"
     ],
     "modifica": [
-        "modififca"
+        "modififca",
+        "modofica"
     ],
     "modificato": [
-        "midificato"
+        "midificato",
+        "modifciato"
     ],
     "modifiche": [
         "mdofiche",
@@ -3589,7 +3619,8 @@
     ],
     "numero": [
         "numeor",
-        "numeto"
+        "numeto",
+        "munero"
     ],
     "nuova": [
         "nuvoa"
@@ -3897,7 +3928,8 @@
         "paralre",
         "prlare",
         "pralare",
-        "apralre"
+        "apralre",
+        "palrare"
     ],
     "parlarne": [
         "pralarne"
@@ -4518,7 +4550,8 @@
         "prorpio",
         "propio",
         "proproo",
-        "prorio"
+        "prorio",
+        "porprio"
     ],
     "prorogato": [
         "prorogatp"
@@ -4697,7 +4730,8 @@
     "questi": [
         "quetsi",
         "qusti",
-        "quesdti"
+        "quesdti",
+        "queti"
     ],
     "questionario": [
         "qeustionario"
@@ -4802,6 +4836,9 @@
     "regolamento": [
         "regolmaneto",
         "rogolamentano"
+    ],
+    "regolo": [
+        "reoglo"
     ],
     "reindirizza": [
         "reinidirizza"
@@ -5111,7 +5148,8 @@
     ],
     "risolto": [
         "rosolto",
-        "rioslto"
+        "rioslto",
+        "risplto"
     ],
     "risolve": [
         "rsiolve"
@@ -5227,6 +5265,9 @@
         "riousciamo",
         "risuciamo"
     ],
+    "riuscire": [
+        "ruiscire"
+    ],
     "riusciti": [
         "riusxciti"
     ],
@@ -5276,6 +5317,9 @@
     ],
     "sanitari": [
         "santiari"
+    ],
+    "sanitaria": [
+        "sanitasria"
     ],
     "sanitizza": [
         "santiizza"
@@ -5588,7 +5632,8 @@
     ],
     "senza": [
         "sneza",
-        "sena"
+        "sena",
+        "seza"
     ],
     "separati": [
         "spearati"
@@ -5648,11 +5693,15 @@
     "sforzo": [
         "sforoz"
     ],
+    "sfugge": [
+        "sfuge"
+    ],
     "siamo": [
         "siao"
     ],
     "siccome": [
-        "siccoem"
+        "siccoem",
+        "sicocme"
     ],
     "sicuramente": [
         "sicurametne",
@@ -5984,6 +6033,9 @@
     ],
     "strettamente": [
         "strettaemnte"
+    ],
+    "striminzito": [
+        "striminziot"
     ],
     "stringa": [
         "strina"
@@ -6588,6 +6640,9 @@
     ],
     "vista": [
         "vitsa"
+    ],
+    "visto": [
+        "bisto"
     ],
     "visualizzazione": [
         "visualizazione"
