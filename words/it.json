@@ -491,7 +491,8 @@
     ],
     "articolo": [
         "articol",
-        "arciolo"
+        "arciolo",
+        "articoo"
     ],
     "ascensore": [
         "ascnesore"
@@ -1267,6 +1268,9 @@
     ],
     "confidente": [
         "confdente"
+    ],
+    "configura": [
+        "configra"
     ],
     "configurare": [
         "confgiurare",
@@ -3293,6 +3297,9 @@
     "mese": [
         "emse"
     ],
+    "mesi": [
+        "miesa"
+    ],
     "messaggi": [
         "messagi",
         "mesaggi"
@@ -3562,13 +3569,17 @@
     "noi": [
         "nio"
     ],
+    "nome": [
+        "noem"
+    ],
     "nomi": [
         "nommi"
     ],
     "non": [
         "enon",
         "nons",
-        "nmon"
+        "nmon",
+        "noin"
     ],
     "nonnismo": [
         "nonnsimo"
@@ -3869,7 +3880,11 @@
         "pagien"
     ],
     "paio": [
-        "apio"
+        "apio",
+        "pai"
+    ],
+    "pannello": [
+        "pannelo"
     ],
     "paraddossalmente": [
         "pradossalmente"
@@ -4010,6 +4025,9 @@
     ],
     "passato": [
         "pasato"
+    ],
+    "passiamo": [
+        "passaimo"
     ],
     "passo": [
         "paso"
@@ -4896,6 +4914,9 @@
     "riassunto": [
         "rassiunto"
     ],
+    "riattaccato": [
+        "riatticato"
+    ],
     "riattivarsi": [
         "riattivarrsi"
     ],
@@ -4956,6 +4977,9 @@
     ],
     "ricordati": [
         "ricoradti"
+    ],
+    "ricostruire": [
+        "ricotruirti"
     ],
     "rielaborare": [
         "rielaorare"
@@ -5576,7 +5600,8 @@
         "seugi"
     ],
     "sembra": [
-        "smebra"
+        "smebra",
+        "smbra"
     ],
     "sembrava": [
         "sebrava"
@@ -6027,6 +6052,9 @@
     ],
     "straordinarie": [
         "straordinare"
+    ],
+    "streaming": [
+        "straming"
     ],
     "stressarlo": [
         "strssearlo"
