@@ -879,7 +879,8 @@
         "caircarlo"
     ],
     "caricato": [
-        "carricato"
+        "carricato",
+        "aricato"
     ],
     "carriera": [
         "carrira",
@@ -1042,6 +1043,9 @@
     ],
     "codice": [
         "coeice"
+    ],
+    "cogliere": [
+        "colgiere"
     ],
     "coglione": [
         "colgione"
@@ -1540,6 +1544,9 @@
         "creod",
         "creso"
     ],
+    "criticando": [
+        "crticando"
+    ],
     "cuffie": [
         "cuffe"
     ],
@@ -1624,6 +1631,9 @@
     ],
     "depresse": [
         "deprese"
+    ],
+    "descritto": [
+        "desritto"
     ],
     "descrizione": [
         "descirizione",
@@ -2100,6 +2110,9 @@
         "faciamo",
         "faccimao",
         "afcciamo"
+    ],
+    "facciamoci": [
+        "faccimaoci"
     ],
     "faccio": [
         "facco",
@@ -2600,7 +2613,8 @@
     ],
     "implementare": [
         "implemntare",
-        "impelemtare"
+        "impelemtare",
+        "implemetnare"
     ],
     "implementarla": [
         "implelenmtarla"
@@ -3000,7 +3014,8 @@
     ],
     "lavorando": [
         "alvorando",
-        "laorando"
+        "laorando",
+        "lavotando"
     ],
     "lavorare": [
         "alvorare",
@@ -3184,7 +3199,8 @@
         "madnarci"
     ],
     "mandare": [
-        "madnare"
+        "madnare",
+        "madanre"
     ],
     "mandargli": [
         "madargli"
@@ -3414,6 +3430,9 @@
     ],
     "minaccio": [
         "mianccio"
+    ],
+    "minutes": [
+        "minnutes"
     ],
     "minuti": [
         "mnuti",
@@ -4106,6 +4125,9 @@
     "permessi": [
         "eprmessi"
     ],
+    "permette": [
+        "permete"
+    ],
     "permetterebbe": [
         "pemretterebbe"
     ],
@@ -4713,7 +4735,8 @@
     ],
     "quanto": [
         "quanot",
-        "wuanto"
+        "wuanto",
+        "qianto"
     ],
     "quella": [
         "quelal",
@@ -4765,7 +4788,8 @@
         "uqesto",
         "uesto",
         "quesot",
-        "qeuto"
+        "qeuto",
+        "qiesto"
     ],
     "quindi": [
         "qundi",
@@ -5182,7 +5206,8 @@
         "risolvedo"
     ],
     "risolvere": [
-        "risovlere"
+        "risovlere",
+        "rislovere"
     ],
     "risolviamo": [
         "risovliamo"
@@ -5252,7 +5277,8 @@
         "ritrestto"
     ],
     "risulta": [
-        "risutla"
+        "risutla",
+        "riulta"
     ],
     "risultare": [
         "risutlare"
@@ -5399,6 +5425,9 @@
     ],
     "scansionare": [
         "scansioanre"
+    ],
+    "scansioni": [
+        "scansions"
     ],
     "scappare": [
         "scppare"
@@ -5791,6 +5820,9 @@
     "sistemarle": [
         "sistemrle"
     ],
+    "sistemato": [
+        "sistamto"
+    ],
     "sistemazione": [
         "sistamaizone"
     ],
@@ -5825,6 +5857,9 @@
     "sofisticato": [
         "sofistiacto"
     ],
+    "software": [
+        "softweare"
+    ],
     "solitamente": [
         "solitasmente",
         "solitmente",
@@ -5841,7 +5876,8 @@
     ],
     "soluzione": [
         "osluzione",
-        "solzuone"
+        "solzuone",
+        "solzuione"
     ],
     "sondaggio": [
         "sodnaggio"
