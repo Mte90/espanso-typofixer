@@ -485,6 +485,9 @@
     "arruginito": [
         "arruginto"
     ],
+    "artefatti": [
+        "arteffatti"
+    ],
     "articoli": [
         "artiocli",
         "aritcoli"
@@ -708,6 +711,9 @@
     ],
     "bella": [
         "belal"
+    ],
+    "benedetto": [
+        "bendetto"
     ],
     "beneficio": [
         "beneicio"
@@ -1157,6 +1163,9 @@
     "complottisti": [
         "conplottisti"
     ],
+    "componente": [
+        "comomente"
+    ],
     "componibile": [
         "ocmponibile"
     ],
@@ -1498,6 +1507,9 @@
     "corretto": [
         "coretto",
         "correto"
+    ],
+    "correzione": [
+        "corezione"
     ],
     "corrispondente": [
         "corrispondete"
@@ -1922,6 +1934,9 @@
         "covrei",
         "dovreo"
     ],
+    "dovremmo": [
+        "doremmo"
+    ],
     "dovreste": [
         "drovreste"
     ],
@@ -2116,7 +2131,8 @@
     ],
     "faccio": [
         "facco",
-        "facico"
+        "facico",
+        "facio"
     ],
     "facemmo": [
         "facemo"
@@ -2360,6 +2376,9 @@
     ],
     "furgoncino": [
         "furgonicno"
+    ],
+    "futuro": [
+        "funturo"
     ],
     "gastrica": [
         "grastrica"
@@ -2627,7 +2646,8 @@
         "impementazione"
     ],
     "implementazioni": [
-        "implementaizoni"
+        "implementaizoni",
+        "implemntazioni"
     ],
     "implodendo": [
         "iplodendo"
@@ -3340,7 +3360,8 @@
         "emtte"
     ],
     "mettendo": [
-        "metendo"
+        "metendo",
+        "mettndo"
     ],
     "metterai": [
         "meterai"
@@ -3692,7 +3713,8 @@
         "goni"
     ],
     "ognuno": [
-        "ognugno"
+        "ognugno",
+        "ogniuono"
     ],
     "oltre": [
         "otlre",
@@ -4956,6 +4978,9 @@
     "ricarichi": [
         "ricarcichi"
     ],
+    "ricerca": [
+        "ricerica"
+    ],
     "ricerche": [
         "ricesrche"
     ],
@@ -4986,6 +5011,9 @@
     "richiesto": [
         "richeisto",
         "riochiesto"
+    ],
+    "richiudiamo": [
+        "richiuduamo"
     ],
     "ricominciamo": [
         "ricomicniamo"
@@ -5137,6 +5165,9 @@
     "rimuovere": [
         "rimuovre",
         "rimuvoere"
+    ],
+    "rimuovo": [
+        "rimuiovo"
     ],
     "ringrazierai": [
         "ringrazieai"
@@ -6068,7 +6099,8 @@
         "tessa"
     ],
     "stiamo": [
-        "sitamo"
+        "sitamo",
+        "stiao"
     ],
     "stimato": [
         "stimao"
@@ -6497,7 +6529,8 @@
         "ultiamente"
     ],
     "ultime": [
-        "utlime"
+        "utlime",
+        "ultie"
     ],
     "ultimi": [
         "lutimi",
