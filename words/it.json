@@ -198,6 +198,9 @@
         "agiunge",
         "agigunge"
     ],
+    "aggiungendole": [
+        "aggiungndole"
+    ],
     "aggiungere": [
         "aggiugnere",
         "aggiubngere"
@@ -325,6 +328,9 @@
     "ammesso": [
         "amesso"
     ],
+    "ammetta": [
+        "ammeta"
+    ],
     "ammettere": [
         "amettere"
     ],
@@ -355,7 +361,8 @@
         "anceh",
         "nahce",
         "anhe",
-        "ache"
+        "ache",
+        "anchq"
     ],
     "ancora": [
         "ancoran",
@@ -960,10 +967,14 @@
         "chiachcierata"
     ],
     "chiamare": [
-        "chiarare"
+        "chiarare",
+        "chaiamre"
     ],
     "chiamarti": [
         "hciamrti"
+    ],
+    "chiamate": [
+        "chiamte"
     ],
     "chiamiamo": [
         "hciamiamo"
@@ -1369,7 +1380,8 @@
     ],
     "considerazione": [
         "consdierazione",
-        "considearzione"
+        "considearzione",
+        "considerazine"
     ],
     "consideriamo": [
         "consdieriamo"
@@ -1399,6 +1411,9 @@
     ],
     "contemporanea": [
         "conemporanea"
+    ],
+    "contemporaneamente": [
+        "contemporanemente"
     ],
     "contento": [
         "conteto"
@@ -1604,6 +1619,9 @@
         "defnire",
         "devinire"
     ],
+    "definiti": [
+        "difiniti"
+    ],
     "definitiva": [
         "definitva"
     ],
@@ -1674,7 +1692,8 @@
         "edvi"
     ],
     "devo": [
-        "dego"
+        "dego",
+        "deo"
     ],
     "dicevo": [
         "dcevo",
@@ -1821,6 +1840,9 @@
     ],
     "dispiaceva": [
         "dispaiceva"
+    ],
+    "disponibili": [
+        "dispobniili"
     ],
     "disposizione": [
         "dispozione"
@@ -2859,6 +2881,9 @@
     "integrerei": [
         "itnegrerei"
     ],
+    "integriamo": [
+        "integrimo"
+    ],
     "intelligente": [
         "inteliggente"
     ],
@@ -3073,6 +3098,9 @@
         "leggemrnete",
         "leggeemrnete"
     ],
+    "leggono": [
+        "legono"
+    ],
     "lentamente": [
         "lentamnete",
         "lenatamente"
@@ -3184,6 +3212,9 @@
     ],
     "magliette": [
         "magleitte"
+    ],
+    "mai": [
+        "masi"
     ],
     "male": [
         "makle"
@@ -3415,6 +3446,9 @@
     ],
     "migliorata": [
         "migliroata"
+    ],
+    "migliorato": [
+        "miglirato"
     ],
     "migliorava": [
         "migliroava"
@@ -3940,14 +3974,16 @@
         "aprametri ",
         "paratetri",
         "parameti",
-        "paraemtri"
+        "paraemtri",
+        "aprametri"
     ],
     "parametro": [
         "aprametro",
         "apramentro",
         "paramtero",
         "paarmetro",
-        "paramentro"
+        "paramentro",
+        "parameatro"
     ],
     "paranoici": [
         "pranoici"
@@ -4120,6 +4156,9 @@
         "ppe",
         "epr",
         "pe"
+    ],
+    "percentuale": [
+        "precentuale"
     ],
     "perch\u00e8": [
         "perchp\u00e8"
@@ -4398,6 +4437,9 @@
         "prendenre",
         "prednere"
     ],
+    "prenderebbe": [
+        "prenderebe"
+    ],
     "prendesse": [
         "perndesse"
     ],
@@ -4629,6 +4671,9 @@
         "prosismo",
         "possimo",
         "rpossimo"
+    ],
+    "protezione": [
+        "proteziine"
     ],
     "prototipi": [
         "prototivi"
@@ -5225,6 +5270,9 @@
     "riscritto": [
         "riscitto"
     ],
+    "riscrive": [
+        "rischirve"
+    ],
     "risolto": [
         "rosolto",
         "rioslto",
@@ -5631,6 +5679,9 @@
         "sencondo",
         "secodno"
     ],
+    "segna": [
+        "senga"
+    ],
     "segnala": [
         "sengala"
     ],
@@ -5874,7 +5925,8 @@
         "situaizone",
         "situaizoni",
         "situazion",
-        "sitauazione"
+        "sitauazione",
+        "situazioen"
     ],
     "situazioni": [
         "situaizoni"
@@ -5966,6 +6018,9 @@
     ],
     "spacchettamento": [
         "spaccehttamento"
+    ],
+    "spacchettare": [
+        "spaccehttare"
     ],
     "sparassero": [
         "sparasserto"
@@ -6071,7 +6126,8 @@
         "stanho"
     ],
     "stasera": [
-        "stsera"
+        "stsera",
+        "staseta"
     ],
     "stata": [
         "stta"
@@ -6097,6 +6153,9 @@
     ],
     "stessa": [
         "tessa"
+    ],
+    "stesso": [
+        "stesos"
     ],
     "stiamo": [
         "sitamo",
@@ -6209,7 +6268,8 @@
         "sule"
     ],
     "sulla": [
-        "sulal"
+        "sulal",
+        "uslla"
     ],
     "sulle": [
         "sulel",
@@ -6545,6 +6605,9 @@
     "understand": [
         "undertand"
     ],
+    "unico": [
+        "unoca"
+    ],
     "universitari": [
         "unviersitari"
     ],
@@ -6573,7 +6636,8 @@
         "usaiamo"
     ],
     "utente": [
-        "uitente"
+        "uitente",
+        "utnte"
     ],
     "utenti": [
         "utneti",
@@ -6743,6 +6807,9 @@
     ],
     "visualizzazione": [
         "visualizazione"
+    ],
+    "visualizzazioni": [
+        "visualizzaizoni"
     ],
     "vita": [
         "vitra"
