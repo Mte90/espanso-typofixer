@@ -61,6 +61,9 @@
         "acedere",
         "accederre"
     ],
+    "accellerare": [
+        "accelleare"
+    ],
     "accessi": [
         "acessi"
     ],
@@ -88,6 +91,9 @@
     ],
     "accontertarti": [
         "acocntentarti"
+    ],
+    "accordarmi": [
+        "accrdarmi"
     ],
     "accorperei": [
         "accoreprei"
@@ -325,6 +331,9 @@
         "alotr",
         "latro"
     ],
+    "america": [
+        "amercia"
+    ],
     "ammesso": [
         "amesso"
     ],
@@ -544,6 +553,9 @@
     "aspetto": [
         "aseptto"
     ],
+    "assegnare": [
+        "assegnre"
+    ],
     "asset": [
         "assset"
     ],
@@ -552,6 +564,9 @@
     ],
     "assillarli": [
         "assilarli"
+    ],
+    "assilli": [
+        "assili"
     ],
     "associazione": [
         "assocaizione"
@@ -576,7 +591,8 @@
         "atetnzione"
     ],
     "attesa": [
-        "atesa"
+        "atesa",
+        "attsa"
     ],
     "attimo": [
         "attim"
@@ -624,7 +640,8 @@
         "autamatico",
         "autmatico",
         "autoamtico",
-        "atuomatico"
+        "atuomatico",
+        "uatomatico"
     ],
     "avanti": [
         "aventi"
@@ -664,6 +681,9 @@
     "avuto": [
         "auvot",
         "avvuto"
+    ],
+    "avvenuta": [
+        "avvneuta"
     ],
     "avvenuto": [
         "avenuto"
@@ -853,7 +873,8 @@
     "capisce": [
         "capise",
         "cpisce",
-        "capsice"
+        "capsice",
+        "cpiasce"
     ],
     "capisci": [
         "capsici"
@@ -1192,6 +1213,9 @@
     "comportarmi": [
         "comprotarmi"
     ],
+    "comportarsi": [
+        "comprtarsi"
+    ],
     "compra": [
         "compa"
     ],
@@ -1386,6 +1410,9 @@
     "consideriamo": [
         "consdieriamo"
     ],
+    "consigliato": [
+        "ocnsigliato"
+    ],
     "consiglio": [
         "consilgio",
         "consighlio"
@@ -1409,6 +1436,9 @@
     "contatto": [
         "cotatto"
     ],
+    "conteggio": [
+        "conreggio"
+    ],
     "contemporanea": [
         "conemporanea"
     ],
@@ -1417,6 +1447,9 @@
     ],
     "contento": [
         "conteto"
+    ],
+    "contenuti": [
+        "ocntenuti"
     ],
     "contenuto": [
         "contuto",
@@ -1624,6 +1657,9 @@
     ],
     "definitiva": [
         "definitva"
+    ],
+    "definitivamente": [
+        "definitvamente"
     ],
     "definitivo": [
         "definitvo",
@@ -1904,7 +1940,8 @@
     ],
     "domanda": [
         "doamnda",
-        "domadna"
+        "domadna",
+        "odmanda"
     ],
     "domande": [
         "domaned",
@@ -2146,7 +2183,8 @@
     "facciamo": [
         "faciamo",
         "faccimao",
-        "afcciamo"
+        "afcciamo",
+        "faccimo"
     ],
     "facciamoci": [
         "faccimaoci"
@@ -4405,6 +4443,9 @@
         "percedente",
         "rpecedente"
     ],
+    "precostituito": [
+        "precostituto"
+    ],
     "predefinite": [
         "predefinte"
     ],
@@ -4809,7 +4850,8 @@
         "quelal",
         "qeulla",
         "ueqall",
-        "uqella"
+        "uqella",
+        "quela"
     ],
     "quelle": [
         "quele"
@@ -4856,7 +4898,8 @@
         "uesto",
         "quesot",
         "qeuto",
-        "qiesto"
+        "qiesto",
+        "quaesto"
     ],
     "quindi": [
         "qundi",
@@ -4886,6 +4929,9 @@
     ],
     "ragionare": [
         "raguionare"
+    ],
+    "ragionato": [
+        "ragioneto"
     ],
     "ramo": [
         "rampo"
@@ -5068,6 +5114,9 @@
     ],
     "riconoscimento": [
         "riconsocimento"
+    ],
+    "riconosco": [
+        "riconsoco"
     ],
     "ricontrollati": [
         "ricontrolalti"
@@ -5290,6 +5339,9 @@
     ],
     "risolviamo": [
         "risovliamo"
+    ],
+    "risparmiare": [
+        "riasprmiare"
     ],
     "risparmiato": [
         "rispariamto",
@@ -5816,6 +5868,9 @@
         "settiaman",
         "settomana"
     ],
+    "settimane": [
+        "sewttimane"
+    ],
     "sezione": [
         "seizone"
     ],
@@ -6159,7 +6214,8 @@
     ],
     "stiamo": [
         "sitamo",
-        "stiao"
+        "stiao",
+        "staimo"
     ],
     "stimato": [
         "stimao"
@@ -6303,7 +6359,8 @@
         "svolat"
     ],
     "svuotato": [
-        "svutoato"
+        "svutoato",
+        "svuotaot"
     ],
     "switch": [
         "swtich"
@@ -6600,7 +6657,8 @@
         "u"
     ],
     "una": [
-        "uan"
+        "uan",
+        "uina"
     ],
     "understand": [
         "undertand"
