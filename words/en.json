@@ -4476,6 +4476,9 @@
     "alphas": [
         "ahlpas"
     ],
+    "alpine": [
+        "apline"
+    ],
     "already": [
         "alrteady",
         "alread",
@@ -26372,7 +26375,8 @@
     ],
     "dedicated": [
         "dedidated",
-        "decidated"
+        "decidated",
+        "dediated"
     ],
     "dedicates": [
         "dedidates",
@@ -43791,7 +43795,8 @@
         "grat",
         "gerat",
         "grea",
-        "graet"
+        "graet",
+        "geat"
     ],
     "greater": [
         "greate",
@@ -49290,7 +49295,8 @@
         "infininte",
         "inifinte",
         "infinit",
-        "inifinite"
+        "inifinite",
+        "infitinite"
     ],
     "infinitely": [
         "infinately",
@@ -50311,7 +50317,8 @@
         "insersted",
         "insered",
         "insterted",
-        "inrested"
+        "inrested",
+        "insrted"
     ],
     "inserter": [
         "inserstor",
@@ -91920,6 +91927,9 @@
     ],
     "telemetry": [
         "telementry"
+    ],
+    "telephone": [
+        "tlephone"
     ],
     "telephony": [
         "telphony"
