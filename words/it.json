@@ -218,6 +218,9 @@
         "aggiungiuamo",
         "aggiungiami"
     ],
+    "aggiungiamoli": [
+        "aggiungimaoli"
+    ],
     "aggiungo": [
         "agigungo"
     ],
@@ -2433,7 +2436,8 @@
         "funizoni",
         "fuznioni",
         "fufnzioni",
-        "funziohni"
+        "funziohni",
+        "funzini"
     ],
     "funzionino": [
         "funzionico"
@@ -2593,6 +2597,9 @@
     ],
     "guardarli": [
         "giardarli"
+    ],
+    "guardo": [
+        "gardo"
     ],
     "guerra": [
         "guera"
@@ -2819,6 +2826,9 @@
         "informaioni",
         "informazioi"
     ],
+    "infrastrutture": [
+        "inftrastrutture"
+    ],
     "ingegneria": [
         "ingengeria"
     ],
@@ -2999,7 +3009,8 @@
     ],
     "interno": [
         "itnerno",
-        "iterno"
+        "iterno",
+        "intenro"
     ],
     "interscambio": [
         "interscabmio"
@@ -3032,6 +3043,9 @@
     ],
     "investirci": [
         "ivestirci"
+    ],
+    "investitori": [
+        "investotori"
     ],
     "inviato": [
         "iniato"
@@ -3664,7 +3678,8 @@
         "nela",
         "nlla",
         "enlla",
-        "nelal"
+        "nelal",
+        "nllo"
     ],
     "nessun": [
         "nesusn"
@@ -3767,6 +3782,9 @@
     ],
     "oblique": [
         "olbique"
+    ],
+    "occhiata": [
+        "occiata"
     ],
     "offerta": [
         "offetra"
@@ -3959,7 +3977,8 @@
         "ovviametne",
         "ovviaemnte",
         "ovviamnte",
-        "ovviamtne"
+        "ovviamtne",
+        "ovviamete"
     ],
     "pacchettizzato": [
         "pacchettizato"
@@ -4369,7 +4388,8 @@
     "possiamo": [
         "possiam",
         "possimoa",
-        "posiamo"
+        "posiamo",
+        "possimao"
     ],
     "possibile": [
         "possibiel"
@@ -4951,6 +4971,9 @@
     ],
     "rappresentanza": [
         "rappresentaza"
+    ],
+    "razzia": [
+        "razia"
     ],
     "realizzazione": [
         "relaizzazione",
