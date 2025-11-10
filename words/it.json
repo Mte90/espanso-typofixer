@@ -49,7 +49,8 @@
         "abiutati"
     ],
     "abituato": [
-        "abiutato"
+        "abiutato",
+        "abitutato"
     ],
     "accadendo": [
         "acadendo"
@@ -331,7 +332,8 @@
         "altrimeti",
         "altrimneti",
         "altrimejti",
-        "altirmenti"
+        "altirmenti",
+        "latirmenti"
     ],
     "altro": [
         "alotr",
@@ -582,7 +584,8 @@
         "assocaizione"
     ],
     "associazioni": [
-        "asociazioni"
+        "asociazioni",
+        "associaizoni"
     ],
     "assolutamente": [
         "assolutametne"
@@ -1283,7 +1286,8 @@
         "comunqu",
         "comunqua",
         "comuqneu",
-        "comnque"
+        "comnque",
+        "comuque"
     ],
     "con": [
         "ocn",
@@ -2741,6 +2745,9 @@
     "importare": [
         "oimportare"
     ],
+    "importava": [
+        "importsava"
+    ],
     "impossibile": [
         "impossibiel"
     ],
@@ -3515,7 +3522,8 @@
         "migliroata"
     ],
     "migliorato": [
-        "miglirato"
+        "miglirato",
+        "migliroato"
     ],
     "migliorava": [
         "migliroava"
@@ -4500,6 +4508,9 @@
     ],
     "prefigge": [
         "prefige"
+    ],
+    "premesse": [
+        "premsse"
     ],
     "premier": [
         "prmier"
@@ -5708,7 +5719,8 @@
     "scritto": [
         "scrito",
         "scirto",
-        "scrritto"
+        "scrritto",
+        "sctitto"
     ],
     "scrittura": [
         "scrittra"
@@ -6641,7 +6653,8 @@
     ],
     "trovare": [
         "torvare",
-        "trvare"
+        "trvare",
+        "trovavre"
     ],
     "trovato": [
         "trovaot",
@@ -6680,7 +6693,8 @@
     ],
     "tutto": [
         "tuto",
-        "utto"
+        "utto",
+        "tuitto"
     ],
     "ufficiale": [
         "ufficile"
@@ -6861,7 +6875,8 @@
         "verificndo"
     ],
     "verificato": [
-        "vrificato"
+        "vrificato",
+        "verifficato"
     ],
     "verranno": [
         "verrano"
@@ -7004,6 +7019,9 @@
     ],
     "vuoi": [
         "vuioi"
+    ],
+    "vuole": [
+        "vuiole"
     ],
     "webinar": [
         "webianr"
