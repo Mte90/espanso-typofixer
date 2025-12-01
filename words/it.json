@@ -921,7 +921,8 @@
     ],
     "capito": [
         "capto",
-        "cpaito"
+        "cpaito",
+        "cappito"
     ],
     "cappellata": [
         "cappellatta"
@@ -2310,6 +2311,9 @@
     "fatti": [
         "faftti"
     ],
+    "fattibile": [
+        "fattibnile"
+    ],
     "fattibili": [
         "fattibli"
     ],
@@ -2632,6 +2636,9 @@
     ],
     "gruppi": [
         "gurppi"
+    ],
+    "guadagnare": [
+        "guadaganre"
     ],
     "guadagnerebbero": [
         "guadagnerenbbero"
@@ -3756,7 +3763,8 @@
         "nlla",
         "enlla",
         "nelal",
-        "nllo"
+        "nllo",
+        "nrlla"
     ],
     "nessun": [
         "nesusn"
@@ -3847,7 +3855,8 @@
         "nuvoa"
     ],
     "nuovamente": [
-        "nuovametne"
+        "nuovametne",
+        "nuovamnte"
     ],
     "obbligatorie": [
         "obbilgiatorie"
@@ -4090,7 +4099,8 @@
         "pgarmi"
     ],
     "pagato": [
-        "apgato"
+        "apgato",
+        "pagto"
     ],
     "pagina": [
         "pagia",
@@ -4592,7 +4602,8 @@
     "prendere": [
         "predenre",
         "prendenre",
-        "prednere"
+        "prednere",
+        "prendee"
     ],
     "prenderebbe": [
         "prenderebe"
@@ -5487,7 +5498,8 @@
         "riscponde",
         "rispodne",
         "rispode",
-        "risdponde"
+        "risdponde",
+        "riosponde"
     ],
     "rispondendo": [
         "ripondendo"
@@ -6119,7 +6131,8 @@
         "situaizoni",
         "situazion",
         "sitauazione",
-        "situazioen"
+        "situazioen",
+        "siutazione"
     ],
     "situazioni": [
         "situaizoni"
@@ -6135,6 +6148,9 @@
     ],
     "software": [
         "softweare"
+    ],
+    "soggetto": [
+        "soggeto"
     ],
     "solitamente": [
         "solitasmente",
@@ -6254,6 +6270,9 @@
     "sperimentare": [
         "sperimetnare"
     ],
+    "spero": [
+        "sppero"
+    ],
     "spiegano": [
         "spiegnao"
     ],
@@ -6362,6 +6381,9 @@
     ],
     "stimato": [
         "stimao"
+    ],
+    "stimiamo": [
+        "stiamiamo"
     ],
     "storico": [
         "sotirco"
