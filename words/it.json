@@ -171,7 +171,8 @@
         "aggioenare",
         "aggiorare",
         "aggiornre",
-        "agigoranre"
+        "agigoranre",
+        "aggironare"
     ],
     "aggiornata": [
         "agigornata"
@@ -571,7 +572,8 @@
     ],
     "aspetto": [
         "aseptto",
-        "aspeto"
+        "aspeto",
+        "sspetto"
     ],
     "assegnare": [
         "assegnre"
@@ -869,6 +871,9 @@
     "campagne": [
         "camapgne"
     ],
+    "campi": [
+        "cmapi"
+    ],
     "campo": [
         "cmpo",
         "cmapo"
@@ -1108,7 +1113,8 @@
         "clientelle"
     ],
     "codice": [
-        "coeice"
+        "coeice",
+        "cocice"
     ],
     "cogliere": [
         "colgiere"
@@ -1221,7 +1227,8 @@
         "ocmpleti"
     ],
     "completo": [
-        "compoleto"
+        "compoleto",
+        "comlpeto"
     ],
     "complicato": [
         "complciato"
@@ -2110,7 +2117,8 @@
         "enaugh"
     ],
     "entrambe": [
-        "netrambe"
+        "netrambe",
+        "enrambe"
     ],
     "entrambi": [
         "emtrabi",
@@ -2276,7 +2284,8 @@
         "frare",
         "fafre",
         "afre",
-        "fae"
+        "fae",
+        "fre"
     ],
     "farebbe": [
         "farebe"
@@ -3545,6 +3554,9 @@
         "emttere",
         "metrtere"
     ],
+    "metterla": [
+        "metterela"
+    ],
     "metterli": [
         "emtterli"
     ],
@@ -4028,7 +4040,8 @@
         "orgnaizzeranno"
     ],
     "organizziamo": [
-        "orgnaizziamo"
+        "orgnaizziamo",
+        "organizzaimo"
     ],
     "organizzo": [
         "orgnaizzo"
@@ -4118,6 +4131,9 @@
     ],
     "paraddossalmente": [
         "pradossalmente"
+    ],
+    "paragonato": [
+        "parsgonato"
     ],
     "paragrafo": [
         "paragrfo"
@@ -4490,7 +4506,8 @@
         "possibiel"
     ],
     "posso": [
-        "posos"
+        "posos",
+        "psso"
     ],
     "poste": [
         "spote"
@@ -4652,7 +4669,8 @@
         "presas"
     ],
     "pressione": [
-        "pressioen"
+        "pressioen",
+        "pressone"
     ],
     "presso": [
         "persso"
@@ -4956,7 +4974,8 @@
         "qualcoas"
     ],
     "qualcuno": [
-        "qulaucno"
+        "qulaucno",
+        "qulacuno"
     ],
     "quali": [
         "qualsi"
@@ -5145,6 +5164,9 @@
     ],
     "relazione": [
         "realzione"
+    ],
+    "relazioni": [
+        "relaizoni"
     ],
     "respirare": [
         "respitare"
