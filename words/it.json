@@ -291,6 +291,9 @@
     "allineati": [
         "allienati"
     ],
+    "allineato": [
+        "allienato"
+    ],
     "allontamenerei": [
         "allontamenrei"
     ],
@@ -491,6 +494,9 @@
     ],
     "are": [
         "ae"
+    ],
+    "arrangia": [
+        "arangia"
     ],
     "arrapano": [
         "arrpano"
@@ -2796,7 +2802,8 @@
         "importate",
         "imporntate",
         "importanete",
-        "imporrtante"
+        "imporrtante",
+        "imprtante"
     ],
     "importare": [
         "oimportare"
@@ -4106,7 +4113,8 @@
         "pagno"
     ],
     "pagare": [
-        "apgare"
+        "apgare",
+        "pagae"
     ],
     "pagarmi": [
         "pgarmi"
@@ -4341,6 +4349,9 @@
     ],
     "perdendo": [
         "perndendo"
+    ],
+    "perderci": [
+        "perdeci"
     ],
     "perdere": [
         "predere"
@@ -5267,6 +5278,9 @@
     "ricominciamo": [
         "ricomicniamo"
     ],
+    "riconfigurare": [
+        "riconfiguare"
+    ],
     "riconoscere": [
         "riconsocere"
     ],
@@ -5933,7 +5947,8 @@
     ],
     "sembra": [
         "smebra",
-        "smbra"
+        "smbra",
+        "sewmbra"
     ],
     "sembrava": [
         "sebrava"
@@ -5956,6 +5971,9 @@
     ],
     "semplifica": [
         "semplkifica"
+    ],
+    "semplificare": [
+        "sepmplificare"
     ],
     "semplificherebbe": [
         "semplifhcerebbe"
@@ -6670,6 +6688,9 @@
         "tstare",
         "tesatre"
     ],
+    "testarli": [
+        "testrli"
+    ],
     "tienile": [
         "tenile"
     ],
@@ -6961,6 +6982,9 @@
     "vediamo": [
         "vediam",
         "veidamo"
+    ],
+    "vedo": [
+        "evdo"
     ],
     "vedrei": [
         "vederi"
