@@ -682,6 +682,9 @@
         "vare",
         "averr"
     ],
+    "avercelo": [
+        "avecelo"
+    ],
     "avere": [
         "avcere"
     ],
@@ -1564,6 +1567,9 @@
     "convertire": [
         "convbertire"
     ],
+    "convertirlo": [
+        "convertirolo"
+    ],
     "conviene": [
         "convine"
     ],
@@ -1806,6 +1812,9 @@
     "dicono": [
         "idcono"
     ],
+    "didascalie": [
+        "diddascalie"
+    ],
     "dietro": [
         "dieotr",
         "deitro"
@@ -2047,7 +2056,8 @@
         "dovrebe",
         "dorvebbe",
         "dsovrebbe",
-        "dovrebeb"
+        "dovrebeb",
+        "doverbbe"
     ],
     "dovrebbero": [
         "dovrebero"
@@ -3012,6 +3022,9 @@
         "iuntanto",
         "inanto"
     ],
+    "integrazione": [
+        "integraizone"
+    ],
     "integrazioni": [
         "integraizoni"
     ],
@@ -3963,6 +3976,9 @@
         "oaramai",
         "roamai"
     ],
+    "ordinare": [
+        "ordianre"
+    ],
     "ordinato": [
         "ordianto"
     ],
@@ -4279,7 +4295,8 @@
         "pasare"
     ],
     "passati": [
-        "apassati"
+        "apassati",
+        "pasasti"
     ],
     "passato": [
         "pasato"
@@ -5179,6 +5196,9 @@
     "relazioni": [
         "relaizoni"
     ],
+    "respira": [
+        "repira"
+    ],
     "respirare": [
         "respitare"
     ],
@@ -5699,7 +5719,8 @@
         "sperlo"
     ],
     "sapevo": [
-        "sapeo"
+        "sapeo",
+        "sappevo"
     ],
     "sapienza": [
         "spaienza"
@@ -6223,6 +6244,9 @@
         "sno",
         "soo"
     ],
+    "sopraggiunta": [
+        "sopragginta"
+    ],
     "soprattutto": [
         "sorpattutto"
     ],
@@ -6377,6 +6401,9 @@
     "stampato": [
         "stmpato",
         "sytmpato"
+    ],
+    "stampo": [
+        "stmapo"
     ],
     "stanno": [
         "stanho"
@@ -7093,6 +7120,9 @@
     ],
     "vita": [
         "vitra"
+    ],
+    "vocabolario": [
+        "vocabilario"
     ],
     "vocale": [
         "voccale"
