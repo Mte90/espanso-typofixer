@@ -1205,6 +1205,9 @@
     "comparazione": [
         "comaprazione"
     ],
+    "compatibile": [
+        "comaptibile"
+    ],
     "compatibili": [
         "comaptibili"
     ],
@@ -1486,6 +1489,9 @@
     "consumando": [
         "consumenado"
     ],
+    "consumi": [
+        "comsuni"
+    ],
     "contattare": [
         "cotnatt"
     ],
@@ -1760,7 +1766,8 @@
         "despoito"
     ],
     "deprecato": [
-        "deprcato"
+        "deprcato",
+        "derepcato"
     ],
     "depresse": [
         "deprese"
@@ -1771,7 +1778,8 @@
     "descrizione": [
         "descirizione",
         "descirzione",
-        "decsrizione"
+        "decsrizione",
+        "descrizine"
     ],
     "descrizioni": [
         "descirzioni",
@@ -4191,7 +4199,8 @@
         "paramtero",
         "paarmetro",
         "paramentro",
-        "parameatro"
+        "parameatro",
+        "paraemtro"
     ],
     "paranoici": [
         "pranoici"
@@ -4753,7 +4762,8 @@
     ],
     "probabilmente": [
         "probabilmetne",
-        "probabilnmente`"
+        "probabilnmente`",
+        "probabilemnte"
     ],
     "problema": [
         "prlblema",
@@ -4884,7 +4894,8 @@
         "propio",
         "proproo",
         "prorio",
-        "porprio"
+        "porprio",
+        "proptio"
     ],
     "prorogato": [
         "prorogatp"
@@ -6736,6 +6747,9 @@
     ],
     "testarli": [
         "testrli"
+    ],
+    "testato": [
+        "testao"
     ],
     "tienile": [
         "tenile"
