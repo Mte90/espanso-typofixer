@@ -686,7 +686,8 @@
         "avecelo"
     ],
     "avere": [
-        "avcere"
+        "avcere",
+        "avevre"
     ],
     "averli": [
         "vaerli"
@@ -773,6 +774,9 @@
     ],
     "bella": [
         "belal"
+    ],
+    "bene": [
+        "bane"
     ],
     "benedetto": [
         "bendetto"
@@ -1241,6 +1245,9 @@
     "completi": [
         "ocmpleti"
     ],
+    "completion": [
+        "comlpetion"
+    ],
     "completo": [
         "compoleto",
         "comlpeto"
@@ -1465,7 +1472,8 @@
     "considerazione": [
         "consdierazione",
         "considearzione",
-        "considerazine"
+        "considerazine",
+        "cosiderazione"
     ],
     "consideriamo": [
         "consdieriamo"
@@ -2186,7 +2194,8 @@
         "eempio",
         "esemio",
         "esmepio",
-        "esmpio"
+        "esmpio",
+        "esmpeio"
     ],
     "esiste": [
         "essite"
@@ -3988,7 +3997,8 @@
     ],
     "opzione": [
         "zopione",
-        "opzine"
+        "opzine",
+        "ozpione"
     ],
     "opzioni": [
         "ozpioni"
@@ -4191,7 +4201,8 @@
         "paratetri",
         "parameti",
         "paraemtri",
-        "aprametri"
+        "aprametri",
+        "parmetri"
     ],
     "parametro": [
         "aprametro",
@@ -4629,6 +4640,9 @@
     "precedente": [
         "percedente",
         "rpecedente"
+    ],
+    "precedenti": [
+        "prcedenti"
     ],
     "precostituito": [
         "precostituto"
@@ -5438,7 +5452,8 @@
         "rialsciato"
     ],
     "rilascio": [
-        "rialscio"
+        "rialscio",
+        "rilasio"
     ],
     "rimandare": [
         "rimadnare"
@@ -6143,7 +6158,8 @@
         "sicuramnte",
         "sicurmaente",
         "sicuramtne",
-        "scuramente"
+        "scuramente",
+        "sicyramente"
     ],
     "sicurezza": [
         "iscurezza"
@@ -6603,7 +6619,8 @@
         "spupporta"
     ],
     "supporto": [
-        "spporto"
+        "spporto",
+        "suppoto"
     ],
     "svenire": [
         "svnire"
