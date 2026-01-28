@@ -1144,6 +1144,9 @@
     "coinquilina": [
         "coinquila"
     ],
+    "coinquilino": [
+        "coinquilno"
+    ],
     "coinvolgere": [
         "coinvoglere"
     ],
@@ -1663,6 +1666,9 @@
     "costa": [
         "csta"
     ],
+    "costano": [
+        "cotano"
+    ],
     "costante": [
         "costsnte"
     ],
@@ -2076,7 +2082,8 @@
         "dorvebbe",
         "dsovrebbe",
         "dovrebeb",
-        "doverbbe"
+        "doverbbe",
+        "sovrebbe"
     ],
     "dovrebbero": [
         "dovrebero"
@@ -3157,6 +3164,9 @@
         "imvece",
         "inevce"
     ],
+    "inventa": [
+        "inveta"
+    ],
     "inventano": [
         "invetano"
     ],
@@ -3608,7 +3618,8 @@
         "metterela"
     ],
     "metterli": [
-        "emtterli"
+        "emtterli",
+        "mettelri"
     ],
     "mettermeli": [
         "metermili"
@@ -3624,7 +3635,8 @@
         "emtti"
     ],
     "mettiamo": [
-        "metttiamo"
+        "metttiamo",
+        "mettimao"
     ],
     "mettono": [
         "emtono"
@@ -4411,6 +4423,9 @@
         "pereftto",
         "eprfetto"
     ],
+    "performance": [
+        "perfromance"
+    ],
     "performante": [
         "performaten"
     ],
@@ -4453,6 +4468,9 @@
         "eprsone",
         "persoen",
         "personme"
+    ],
+    "pessima": [
+        "pssima"
     ],
     "piacciono": [
         "piacicono"
@@ -4574,7 +4592,8 @@
         "spote"
     ],
     "posti": [
-        "posit"
+        "posit",
+        "poati"
     ],
     "potente": [
         "poteten"
@@ -4705,7 +4724,8 @@
         "preocupi"
     ],
     "preparo": [
-        "praparo"
+        "praparo",
+        "preapro"
     ],
     "prescindere": [
         "prescidenre",
@@ -4921,6 +4941,9 @@
     "prossimamente": [
         "prosimamente"
     ],
+    "prossimi": [
+        "prossii"
+    ],
     "prossimo": [
         "prosismo",
         "possimo",
@@ -4934,6 +4957,12 @@
     ],
     "prova": [
         "rpova"
+    ],
+    "provando": [
+        "proando"
+    ],
+    "provano": [
+        "provsno"
     ],
     "provarla": [
         "prvarla"
@@ -6242,7 +6271,8 @@
         "siutazione"
     ],
     "situazioni": [
-        "situaizoni"
+        "situaizoni",
+        "siutazioni"
     ],
     "slogarsi": [
         "sgloarsi"
@@ -6352,6 +6382,9 @@
     ],
     "spazio": [
         "spaizo"
+    ],
+    "specificarla": [
+        "soecificarla"
     ],
     "specifichiate": [
         "specifchiate"
