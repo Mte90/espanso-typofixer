@@ -436,6 +436,9 @@
     "annullo": [
         "annulo"
     ],
+    "annuncerei": [
+        "annucerei"
+    ],
     "ansia": [
         "nasia"
     ],
@@ -1321,6 +1324,9 @@
     ],
     "comprai": [
         "comorai"
+    ],
+    "comprano": [
+        "comrpano"
     ],
     "comprare": [
         "comrapre",
@@ -2524,6 +2530,9 @@
     "fornitore": [
         "frornitore"
     ],
+    "forniture": [
+        "firniture"
+    ],
     "forse": [
         "frose"
     ],
@@ -2959,6 +2968,9 @@
     "indagare": [
         "inagare"
     ],
+    "indicare": [
+        "indiciare"
+    ],
     "indietro": [
         "inidetro"
     ],
@@ -3314,7 +3326,8 @@
     "lavorando": [
         "alvorando",
         "laorando",
-        "lavotando"
+        "lavotando",
+        "lavarando"
     ],
     "lavorare": [
         "alvorare",
@@ -3669,7 +3682,8 @@
     ],
     "mettere": [
         "emttere",
-        "metrtere"
+        "metrtere",
+        "metere"
     ],
     "metterla": [
         "metterela"
@@ -4643,7 +4657,9 @@
         "possimao"
     ],
     "possibile": [
-        "possibiel"
+        "possibiel",
+        "possobile",
+        "posibile"
     ],
     "posso": [
         "posos",
@@ -7159,7 +7175,8 @@
     "vedere": [
         "vedree",
         "vederre",
-        "vecere"
+        "vecere",
+        "videre"
     ],
     "vedetelo": [
         "vedetrelo"
