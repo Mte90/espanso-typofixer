@@ -250,6 +250,9 @@
     "aggreghiamo": [
         "agreghiamo"
     ],
+    "aggressivamente": [
+        "aggressivmaente"
+    ],
     "agosto": [
         "agsoto"
     ],
@@ -513,7 +516,8 @@
         "ariva"
     ],
     "arrivano": [
-        "arivano"
+        "arivano",
+        "arrivnao"
     ],
     "arrivare": [
         "arivare",
@@ -867,6 +871,9 @@
     "caduto": [
         "caudot"
     ],
+    "calcolarmi": [
+        "calocarmi"
+    ],
     "calvario": [
         "cavalrio"
     ],
@@ -1086,6 +1093,9 @@
         "chaive",
         "chiav"
     ],
+    "chiave ": [
+        "chaive"
+    ],
     "chiavi": [
         "chivai"
     ],
@@ -1150,7 +1160,8 @@
     ],
     "cliente": [
         "clienete",
-        "lciente"
+        "lciente",
+        "clinete"
     ],
     "clientele": [
         "clientelle"
@@ -1538,7 +1549,8 @@
         "consumenado"
     ],
     "consumi": [
-        "comsuni"
+        "comsuni",
+        "ocnsumi"
     ],
     "contattare": [
         "cotnatt"
@@ -2201,6 +2213,9 @@
     "emetterti": [
         "emeterti"
     ],
+    "endpoint": [
+        "endopit"
+    ],
     "energie": [
         "enerige"
     ],
@@ -2330,6 +2345,9 @@
     ],
     "evoluzione": [
         "evoluazione"
+    ],
+    "extra": [
+        "extta"
     ],
     "faccia": [
         "afccia"
@@ -2526,6 +2544,9 @@
     ],
     "formato": [
         "formatoo"
+    ],
+    "formazione": [
+        "fomrazione"
     ],
     "fornitore": [
         "frornitore"
@@ -3980,6 +4001,9 @@
     "notare": [
         "ntoare"
     ],
+    "notavo": [
+        "notvo"
+    ],
     "notifica": [
         "motifica"
     ],
@@ -4015,6 +4039,9 @@
     ],
     "oblique": [
         "olbique"
+    ],
+    "occasione": [
+        "occaisone"
     ],
     "occhiata": [
         "occiata"
@@ -5245,6 +5272,9 @@
     "raddoppi": [
         "rddoppi"
     ],
+    "rafforzando": [
+        "raforzando"
+    ],
     "raggruppare": [
         "raggrupare"
     ],
@@ -5388,6 +5418,9 @@
     ],
     "riattivarsi": [
         "riattivarrsi"
+    ],
+    "riavvii": [
+        "riavii"
     ],
     "riavvio": [
         "riavivo"
@@ -6154,6 +6187,9 @@
     ],
     "semplificare": [
         "sepmplificare"
+    ],
+    "semplificato": [
+        "semplifcato"
     ],
     "semplificherebbe": [
         "semplifhcerebbe"
@@ -7181,6 +7217,9 @@
     "vedetelo": [
         "vedetrelo"
     ],
+    "vedi": [
+        "vei"
+    ],
     "vediamo": [
         "vediam",
         "veidamo"
@@ -7272,7 +7311,8 @@
     ],
     "virgola": [
         "verigola",
-        "virgona"
+        "virgona",
+        "virogla"
     ],
     "virtuale": [
         "vrituale"
