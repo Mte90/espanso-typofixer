@@ -3422,7 +3422,8 @@
         "agant"
     ],
     "agents": [
-        "agants"
+        "agants",
+        "angets"
     ],
     "ages": [
         "ags"
@@ -12901,6 +12902,9 @@
     ],
     "buffets": [
         "boofays"
+    ],
+    "bug": [
+        "gug"
     ],
     "bugfix": [
         "bugix"
@@ -60230,7 +60234,8 @@
         "monthe"
     ],
     "monthly": [
-        "montly"
+        "montly",
+        "motly"
     ],
     "months": [
         "mounths",
@@ -66746,7 +66751,6 @@
         "parliement",
         "parlaiment",
         "pairlament",
-        "parliamone",
         "parliamant",
         "parliment"
     ],
@@ -66835,7 +66839,8 @@
         "parseing",
         "pasing",
         "parsering",
-        "parsin"
+        "parsin",
+        "aprsing"
     ],
     "part": [
         "pard",

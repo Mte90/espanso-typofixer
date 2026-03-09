@@ -287,6 +287,9 @@
     "alleanze": [
         "allenaze"
     ],
+    "allineamenti": [
+        "allineaemnti"
+    ],
     "allineamento": [
         "allineameto"
     ],
@@ -618,6 +621,9 @@
     "assolutamente": [
         "assolutametne"
     ],
+    "assurdo": [
+        "assourdo"
+    ],
     "attacchi": [
         "attachi"
     ],
@@ -721,6 +727,9 @@
     ],
     "avevamo": [
         "avevao"
+    ],
+    "avevano": [
+        "avavno"
     ],
     "avevi": [
         "vevi",
@@ -848,6 +857,9 @@
     ],
     "bordi": [
         "borid"
+    ],
+    "bravi": [
+        "ravi"
     ],
     "buongiorno": [
         "Buongirono"
@@ -1007,10 +1019,14 @@
         "casiin"
     ],
     "casistica": [
-        "caissitica"
+        "caissitica",
+        "casisistca"
     ],
     "casistiche": [
         "casisisthce"
+    ],
+    "cassare": [
+        "cassere"
     ],
     "categoria": [
         "categoira",
@@ -1132,7 +1148,8 @@
         "hicesto",
         "cheisto",
         "chisto",
-        "chieto"
+        "chieto",
+        "vhiesto"
     ],
     "chiudere": [
         "chiuedere"
@@ -1210,6 +1227,9 @@
     "collezione": [
         "colelzione"
     ],
+    "collo": [
+        "coloo"
+    ],
     "comando": [
         "cmmando"
     ],
@@ -1286,6 +1306,9 @@
         "complemtanete",
         "compeltamente",
         "completanemente"
+    ],
+    "completes": [
+        "compeltes"
     ],
     "completi": [
         "ocmpleti"
@@ -1504,6 +1527,9 @@
     "consegnano": [
         "cosnegano"
     ],
+    "conservassimo": [
+        "coservassimo"
+    ],
     "considera": [
         "consdiera",
         "conmsidera"
@@ -1561,6 +1587,9 @@
     ],
     "contatto": [
         "cotatto"
+    ],
+    "conteggi": [
+        "cotneggi"
     ],
     "conteggio": [
         "conreggio"
@@ -1687,7 +1716,8 @@
     ],
     "corretto": [
         "coretto",
-        "correto"
+        "correto",
+        "crretto"
     ],
     "correzione": [
         "corezione"
@@ -1730,6 +1760,9 @@
     "costerebbe": [
         "costerebe"
     ],
+    "crashati": [
+        "crahsati"
+    ],
     "creare": [
         "cerare"
     ],
@@ -1738,6 +1771,9 @@
     ],
     "creazione": [
         "creazioen"
+    ],
+    "creazioni": [
+        "creaioni"
     ],
     "credito": [
         "cerdito"
@@ -1748,6 +1784,9 @@
     ],
     "criticando": [
         "crticando"
+    ],
+    "criticit\u00e0": [
+        "ciriticit\u00e0"
     ],
     "cuffie": [
         "cuffe"
@@ -2019,6 +2058,9 @@
     "disegnarlo": [
         "disetgnarlo"
     ],
+    "disiscritto": [
+        "disicritto"
+    ],
     "disiscrivermi": [
         "discrevermi"
     ],
@@ -2203,6 +2245,9 @@
     ],
     "elaborazione": [
         "elborazione"
+    ],
+    "elenchi": [
+        "elenci"
     ],
     "elettronica": [
         "eletronica"
@@ -2414,7 +2459,8 @@
         "farlgieli"
     ],
     "farla": [
-        "afrla"
+        "afrla",
+        "falra"
     ],
     "farlo": [
         "falro"
@@ -2903,7 +2949,8 @@
     ],
     "implementato": [
         "implmentato",
-        "implementto"
+        "implementto",
+        "implemetnato"
     ],
     "implementazione": [
         "impementazione"
@@ -2948,7 +2995,8 @@
         "impsotazioni"
     ],
     "impressione": [
-        "imrpessione"
+        "imrpessione",
+        "impresisone"
     ],
     "improve": [
         "improev"
@@ -3440,7 +3488,8 @@
         "linite"
     ],
     "limiti": [
-        "likmiti"
+        "likmiti",
+        "limti"
     ],
     "linea": [
         "liena"
@@ -3551,6 +3600,9 @@
     ],
     "mandarmi": [
         "madnarmi"
+    ],
+    "mandarti": [
+        "madnarti"
     ],
     "mandato": [
         "manato"
@@ -3829,7 +3881,8 @@
     "modifiche": [
         "mdofiche",
         "moficihe",
-        "mdoifiche"
+        "mdoifiche",
+        "modifhce"
     ],
     "modulo": [
         "moudlo"
@@ -3843,6 +3896,9 @@
     "momento": [
         "moento",
         "moemnto"
+    ],
+    "monitorare": [
+        "moniotorare"
     ],
     "montaggio": [
         "montagigo"
@@ -3918,6 +3974,9 @@
     "necessario": [
         "encessario",
         "necesario"
+    ],
+    "negativo": [
+        "negatio"
     ],
     "nei": [
         "nie"
@@ -4114,6 +4173,9 @@
     "opzioni": [
         "ozpioni"
     ],
+    "ora": [
+        "pra"
+    ],
     "oramai": [
         "oaramai",
         "roamai"
@@ -4238,6 +4300,9 @@
     "ottimizzazioni": [
         "ottimizzaizoni",
         "ottinmizzazioni"
+    ],
+    "ottimo": [
+        "otitmo"
     ],
     "ovunque": [
         "vounque"
@@ -4519,6 +4584,9 @@
     ],
     "perdere": [
         "predere"
+    ],
+    "perfect": [
+        "perfefct"
     ],
     "perfetto": [
         "perfeto",
@@ -4980,6 +5048,9 @@
     ],
     "proiettore": [
         "proeittore"
+    ],
+    "prompt": [
+        "prmpt"
     ],
     "prontissime": [
         "prosntissime"
@@ -5519,7 +5590,8 @@
     ],
     "riesce": [
         "risce",
-        "reisce"
+        "reisce",
+        "riescie"
     ],
     "riesco": [
         "reisco",
@@ -5569,7 +5641,8 @@
     ],
     "riguardo": [
         "rgiuardo",
-        "rugardo"
+        "rugardo",
+        "rigaurdo"
     ],
     "rilascia": [
         "rialscia"
@@ -5596,6 +5669,9 @@
     "rilascio": [
         "rialscio",
         "rilasio"
+    ],
+    "rilevato": [
+        "rilevaot"
     ],
     "rimandare": [
         "rimadnare"
@@ -5698,6 +5774,9 @@
     ],
     "riscritto": [
         "riscitto"
+    ],
+    "riscrittura": [
+        "riscirttura"
     ],
     "riscrive": [
         "rischirve"
@@ -5885,6 +5964,9 @@
     "salvato": [
         "savalto",
         "lsavato"
+    ],
+    "salvo": [
+        "lsavo"
     ],
     "sangue": [
         "sange"
@@ -6161,7 +6243,8 @@
     "sembra": [
         "smebra",
         "smbra",
-        "sewmbra"
+        "sewmbra",
+        "smrba"
     ],
     "sembrava": [
         "sebrava"
@@ -6361,7 +6444,8 @@
         "singolrmente"
     ],
     "sistemando": [
-        "sitemando"
+        "sitemando",
+        "sistmando"
     ],
     "sistemare": [
         "sistamre",
@@ -6959,6 +7043,9 @@
     "tolgono": [
         "toglono"
     ],
+    "torna": [
+        "tirna"
+    ],
     "tornare": [
         "toranre"
     ],
@@ -7027,6 +7114,9 @@
     ],
     "tratterebbe": [
         "tratterenbbe"
+    ],
+    "triplo": [
+        "tirplo"
     ],
     "triste": [
         "trsite"
@@ -7402,7 +7492,8 @@
     ],
     "vorrei": [
         "voreri",
-        "vorrie"
+        "vorrie",
+        "borrei"
     ],
     "vostre": [
         "votre"
