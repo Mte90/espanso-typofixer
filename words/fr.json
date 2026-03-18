@@ -11,14 +11,30 @@
     "Isra\u00e9liens": [
         "Isra\u00ebliens"
     ],
+    "a": [
+        "\u00e0"
+    ],
+    "acad\u00e9mie": [
+        "academie"
+    ],
     "agression": [
         "aggression"
+    ],
+    "all\u00e9": [
+        "ale",
+        "all\u00e8"
+    ],
+    "arriv\u00e9e": [
+        "arrivee"
     ],
     "arr\u00eater": [
         "arreter"
     ],
     "ascenseur": [
         "ascenceur"
+    ],
+    "autorit\u00e9": [
+        "autorite"
     ],
     "banlieue": [
         "banlieu"
@@ -35,8 +51,28 @@
     "bleus": [
         "bleux"
     ],
+    "bl\u00e2me": [
+        "blame"
+    ],
+    "bl\u00e9": [
+        "ble"
+    ],
+    "br\u00fbler": [
+        "bruler"
+    ],
     "budg\u00e9taire": [
         "bug\u00e9taire"
+    ],
+    "b\u00e2timent": [
+        "batiment"
+    ],
+    "c'est": [
+        "cest",
+        "ces",
+        "ses"
+    ],
+    "caf\u00e9": [
+        "cafe"
     ],
     "caresse": [
         "casress"
@@ -50,11 +86,30 @@
     "cauchemars": [
         "cauchemards"
     ],
+    "ces": [
+        "ses",
+        "c'est"
+    ],
     "championnat": [
         "championat"
     ],
+    "chr\u00e9tien": [
+        "chretien"
+    ],
+    "ch\u00e8re": [
+        "chere"
+    ],
     "ci-dessus": [
         "cidessus"
+    ],
+    "clo\u00eetre": [
+        "cloitre"
+    ],
+    "cl\u00e9": [
+        "cle"
+    ],
+    "coll\u00e8ge": [
+        "college"
     ],
     "colocataire": [
         "colocateur"
@@ -62,14 +117,77 @@
     "colophane": [
         "collophane"
     ],
+    "col\u00e8re": [
+        "colere"
+    ],
+    "comit\u00e9": [
+        "comite"
+    ],
     "comp\u00e9titivit\u00e9": [
         "comp\u00e9tivit\u00e9"
+    ],
+    "com\u00e9die": [
+        "comedie"
+    ],
+    "congr\u00e8s": [
+        "congres"
+    ],
+    "conna\u00eetre": [
+        "connaitre"
     ],
     "conscience": [
         "concience"
     ],
+    "consid\u00e9rer": [
+        "considerer"
+    ],
+    "cons\u00e9quence": [
+        "consequence"
+    ],
+    "contr\u00f4le": [
+        "controle"
+    ],
+    "contr\u00f4ler": [
+        "controler"
+    ],
+    "convi\u00e9": [
+        "convie"
+    ],
     "croisement": [
         "croissement"
+    ],
+    "cro\u00eetre": [
+        "croitre"
+    ],
+    "cr\u00e2ne": [
+        "crane"
+    ],
+    "cr\u00e8me": [
+        "creme"
+    ],
+    "cr\u00e9ance": [
+        "creance"
+    ],
+    "cr\u00e9ature": [
+        "creature"
+    ],
+    "cr\u00e9dit": [
+        "credit"
+    ],
+    "cr\u00e9e": [
+        "cee"
+    ],
+    "cr\u00e9er": [
+        "creer"
+    ],
+    "cr\u00eate": [
+        "crete"
+    ],
+    "c\u00e9dille": [
+        "cedille"
+    ],
+    "c\u00e9ramique": [
+        "ceramique"
     ],
     "c\u00f4lon": [
         "colon"
@@ -77,15 +195,43 @@
     "c\u00f4lons": [
         "colons"
     ],
+    "degr\u00e9": [
+        "degre"
+    ],
     "derni\u00e8re": [
         "derniere"
+    ],
+    "derri\u00e8re": [
+        "derriere"
+    ],
+    "dispara\u00eetre": [
+        "disparaitre"
     ],
     "d\u00e9barrasser": [
         "d\u00e9barasser"
     ],
+    "d\u00e9bat": [
+        "debats"
+    ],
+    "d\u00e9but": [
+        "debut"
+    ],
+    "d\u00e9cevoir": [
+        "decevoir"
+    ],
     "d\u00e9faite": [
         "d\u00e9f\u00e8te",
         "d\u00e9fete"
+    ],
+    "d\u00e9g\u00e2t": [
+        "degat"
+    ],
+    "d\u00e9jeuner": [
+        "dejeuner"
+    ],
+    "d\u00e9j\u00e0": [
+        "deja",
+        "d\u00e9ja"
     ],
     "d\u00e9shydrog\u00e9nase": [
         "deshydrogenase"
@@ -98,6 +244,21 @@
     ],
     "entrepreneuriat": [
         "entrepreunariat"
+    ],
+    "entrep\u00f4t": [
+        "entrepot"
+    ],
+    "esp\u00e8ce": [
+        "espece"
+    ],
+    "esp\u00e9rer": [
+        "esperer"
+    ],
+    "est": [
+        "et"
+    ],
+    "et": [
+        "est"
     ],
     "etc.": [
         "ect."
@@ -135,6 +296,17 @@
     "lipofuscine": [
         "lipofucsine"
     ],
+    "m'a": [
+        "ma"
+    ],
+    "ma": [
+        "m'a"
+    ],
+    "mang\u00e9": [
+        "mange",
+        "mang\u00e8",
+        "manger"
+    ],
     "merci": [
         "mer\u00e7i"
     ],
@@ -144,11 +316,25 @@
     "niveau": [
         "nivau"
     ],
+    "on": [
+        "ont"
+    ],
+    "ont": [
+        "on"
+    ],
+    "o\u00f9": [
+        "ou"
+    ],
     "par-ci": [
         "par ci"
     ],
     "par-la": [
         "par la"
+    ],
+    "parl\u00e9": [
+        "parle",
+        "parl\u00e8",
+        "parler"
     ],
     "patin \u00e0 roulettes": [
         "patin \u00e0 roues"
@@ -174,11 +360,40 @@
     "roder": [
         "r\u00f4der"
     ],
+    "s'a": [
+        "sa"
+    ],
+    "sa": [
+        "s'a"
+    ],
     "sayn\u00e8te": [
         "saynette"
     ],
+    "ses": [
+        "c'est",
+        "ces"
+    ],
     "soi-disant": [
         "soit-disant"
+    ],
+    "son": [
+        "sont"
+    ],
+    "sons": [
+        "sont"
+    ],
+    "sont": [
+        "son",
+        "sons"
+    ],
+    "t'a": [
+        "ta"
+    ],
+    "ta": [
+        "t'a"
+    ],
+    "th\u00e9": [
+        "the"
     ],
     "transsexuel": [
         "transexuel"
@@ -188,6 +403,13 @@
     ],
     "trompe-l\u2019\u0153il": [
         "trompe l'oeil"
+    ],
+    "\u00e0": [
+        "a"
+    ],
+    "\u00e7a": [
+        "ca",
+        "sa"
     ],
     "\u00e7\u00e0 et l\u00e0": [
         "\u00e7a et l\u00e0"
@@ -200,6 +422,16 @@
     ],
     "\u00e9taits": [
         "etaits"
+    ],
+    "\u00e9tranger": [
+        "etranger"
+    ],
+    "\u00e9tudier": [
+        "etudier"
+    ],
+    "\u00e9t\u00e9": [
+        "ete",
+        "et\u00e9"
     ],
     "\u00eatre": [
         "etre"

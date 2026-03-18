@@ -56,6 +56,9 @@
     "accadendo": [
         "acadendo"
     ],
+    "accanto": [
+        "acanto"
+    ],
     "accede": [
         "acede"
     ],
@@ -76,6 +79,10 @@
     "accetta": [
         "acectta"
     ],
+    "accettare": [
+        "acetare",
+        "accetare"
+    ],
     "accettata": [
         "accetata"
     ],
@@ -87,6 +94,9 @@
     ],
     "accettazione": [
         "accetazione"
+    ],
+    "accetto": [
+        "acetto"
     ],
     "accontenta": [
         "acontenta"
@@ -102,6 +112,20 @@
     ],
     "accorpiamo": [
         "accopriamo"
+    ],
+    "acqua": [
+        "acqa",
+        "acgua"
+    ],
+    "acquario": [
+        "acuario"
+    ],
+    "acque": [
+        "acqe",
+        "acgue"
+    ],
+    "acquedotto": [
+        "acuedotto"
     ],
     "acquirente": [
         "acquriente"
@@ -355,6 +379,14 @@
         "alotr",
         "latro"
     ],
+    "ambiente": [
+        "ambente",
+        "amb\u00edente",
+        "ambiento",
+        "ambiete",
+        "ambienete",
+        "ambinete"
+    ],
     "america": [
         "amercia"
     ],
@@ -430,6 +462,11 @@
     "animazioni": [
         "animaizoni"
     ],
+    "anno": [
+        "ano",
+        "annno",
+        "anmo"
+    ],
     "annuale": [
         "annulae"
     ],
@@ -496,6 +533,13 @@
     ],
     "approvato": [
         "aprrovato"
+    ],
+    "appuntamento": [
+        "appuntamnto",
+        "apuntamento",
+        "appuntemento",
+        "appuntameto",
+        "appuntamneto"
     ],
     "apriamo": [
         "aprimao"
@@ -656,6 +700,9 @@
     "attiveremo": [
         "atteveremo"
     ],
+    "attivit\u00e0": [
+        "attivita"
+    ],
     "attrezzi": [
         "atrezi"
     ],
@@ -679,6 +726,14 @@
     ],
     "autobiografia": [
         "autobiogrfia"
+    ],
+    "autobus": [
+        "autobu",
+        "autobuss",
+        "autobuz",
+        "autobbuss",
+        "autobbus",
+        "autobhuss"
     ],
     "automatica": [
         "autoamtica"
@@ -811,6 +866,15 @@
     "bella": [
         "belal"
     ],
+    "bellissimo": [
+        "bellissimmo",
+        "bellisimo",
+        "belissimo",
+        "bellissino",
+        "bellissinmo",
+        "bellissimno",
+        "bellisismo"
+    ],
     "bene": [
         "bane"
     ],
@@ -829,8 +893,20 @@
     "bibliografia": [
         "bibligorafia"
     ],
+    "bicchiere": [
+        "bicchire",
+        "bicchere",
+        "bichiere",
+        "bicchier"
+    ],
     "bidoni": [
         "biodni"
+    ],
+    "biglietto": [
+        "biglieto",
+        "biglhetto",
+        "bighetto",
+        "biglietio"
     ],
     "bisogna": [
         "bisgona",
@@ -857,6 +933,9 @@
     ],
     "bonifico": [
         "bnoifico"
+    ],
+    "bont\u00e0": [
+        "bonta"
     ],
     "bordello": [
         "brodello"
@@ -889,6 +968,9 @@
     "caduto": [
         "caudot"
     ],
+    "caff\u00e8": [
+        "caffe"
+    ],
     "calcolarmi": [
         "calocarmi"
     ],
@@ -919,6 +1001,18 @@
         "acmbio",
         "cmabio",
         "cabmio"
+    ],
+    "camicia": [
+        "camica",
+        "camiccia",
+        "camissia",
+        "camiscia"
+    ],
+    "camminare": [
+        "caminare",
+        "cammianre",
+        "camminarre",
+        "camminrae"
     ],
     "campagna": [
         "campgna"
@@ -1041,6 +1135,12 @@
     ],
     "categorie": [
         "cateogrie"
+    ],
+    "cattivo": [
+        "cativo",
+        "cattio",
+        "cattiv",
+        "cattivvo"
     ],
     "cavolo": [
         "caovlo"
@@ -1169,6 +1269,12 @@
     "citazioni": [
         "citaizoni"
     ],
+    "citt\u00e0": [
+        "citta",
+        "cit\u00e0",
+        "citt\u00e1",
+        "citt"
+    ],
     "classe": [
         "clase"
     ],
@@ -1210,6 +1316,14 @@
     ],
     "coinvolgere": [
         "coinvoglere"
+    ],
+    "colazione": [
+        "colazone",
+        "colazi\u00f3n",
+        "colatione",
+        "colasione",
+        "colazioone",
+        "colazion"
     ],
     "collaborazione": [
         "collbaorazione"
@@ -1514,13 +1628,17 @@
     ],
     "conoscenza": [
         "consocenza",
-        "cconscenza"
+        "cconscenza",
+        "conos\u00e7enza"
     ],
     "conoscenze": [
         "consocenze"
     ],
     "conoscere": [
-        "consocere"
+        "consocere",
+        "conoscre",
+        "conosere",
+        "conoschere"
     ],
     "conoscete": [
         "consocete"
@@ -1773,6 +1891,9 @@
     "costerebbe": [
         "costerebe"
     ],
+    "cos\u00ec": [
+        "cosi"
+    ],
     "crashati": [
         "crahsati"
     ],
@@ -1804,6 +1925,10 @@
     "cuffie": [
         "cuffe"
     ],
+    "danno": [
+        "dano",
+        "danio"
+    ],
     "dargli": [
         "darlgi"
     ],
@@ -1818,7 +1943,10 @@
     ],
     "davvero": [
         "davero",
-        "davveo"
+        "davveo",
+        "daver\u00f2",
+        "daverro",
+        "daveero"
     ],
     "decentemente": [
         "decentemnte"
@@ -1963,7 +2091,12 @@
     ],
     "difficile": [
         "difficle",
-        "difficiel"
+        "difficiel",
+        "dificile",
+        "dificille",
+        "dif\u00edcile",
+        "difficille",
+        "diffile"
     ],
     "diffondete": [
         "difondete"
@@ -2042,6 +2175,9 @@
     "direttivo": [
         "diretivo"
     ],
+    "diretto": [
+        "direto"
+    ],
     "dirglielo": [
         "dirgielo",
         "dirglelo"
@@ -2091,6 +2227,12 @@
     ],
     "disposizione": [
         "dispozione"
+    ],
+    "distacco": [
+        "distaco",
+        "distaccho",
+        "distacoco",
+        "distacck"
     ],
     "distrazioni": [
         "distraizoni"
@@ -2169,7 +2311,10 @@
         "domai",
         "domano",
         "odmani",
-        "domni"
+        "domni",
+        "doman",
+        "doman\u00ec",
+        "doman\u00ee"
     ],
     "domenica": [
         "dominica"
@@ -2181,6 +2326,11 @@
     "donazione": [
         "donazioen"
     ],
+    "donna": [
+        "dona",
+        "donnaa",
+        "donan"
+    ],
     "dopo": [
         "dipo"
     ],
@@ -2190,8 +2340,20 @@
     "dormivo": [
         "odrmivo"
     ],
+    "dottore": [
+        "dotore",
+        "dottorr",
+        "dottor",
+        "dottorre"
+    ],
     "dove": [
         "doev"
+    ],
+    "dovere": [
+        "dov\u00e9re",
+        "dovree",
+        "dovare",
+        "dovrere"
     ],
     "dovevo": [
         "doveo"
@@ -2244,6 +2406,16 @@
     "ebbe": [
         "ebe"
     ],
+    "eccetto": [
+        "ecetto",
+        "ecceto"
+    ],
+    "edificare": [
+        "edifcare",
+        "edificarre",
+        "edificere",
+        "edifichere"
+    ],
     "effetti": [
         "effeti"
     ],
@@ -2267,6 +2439,12 @@
     ],
     "eliminare": [
         "eliniare"
+    ],
+    "emergenza": [
+        "emerganza",
+        "emerg\u00e9nza",
+        "em\u00e9rgenza",
+        "emerg\u00e9nnza"
     ],
     "emetterti": [
         "emeterti"
@@ -2304,6 +2482,12 @@
     "entrato": [
         "etrnato"
     ],
+    "equilibrato": [
+        "eqilibrato",
+        "equilibratto",
+        "equilibarto",
+        "equilibtrato"
+    ],
     "equivoco": [
         "ecquivoco"
     ],
@@ -2321,7 +2505,12 @@
     ],
     "esattamente": [
         "esattametne",
-        "esattamtnte"
+        "esattamtnte",
+        "esattamnte",
+        "esattam\u00e9nte",
+        "esattamante",
+        "esattament",
+        "esattamnete"
     ],
     "esempio": [
         "eempio",
@@ -2351,6 +2540,13 @@
     ],
     "espressi": [
         "esperssi"
+    ],
+    "essenziale": [
+        "essnziale",
+        "essenz\u00edale",
+        "essensiale",
+        "essenziaale",
+        "essenzale"
     ],
     "essere": [
         "essre",
@@ -2387,6 +2583,9 @@
     ],
     "etichette": [
         "etichete"
+    ],
+    "et\u00e0": [
+        "eta"
     ],
     "euro": [
         "uero"
@@ -2432,7 +2631,9 @@
         "facndo"
     ],
     "facile": [
-        "faciel"
+        "faciel",
+        "fatile",
+        "facille"
     ],
     "facili": [
         "faicli"
@@ -2443,6 +2644,10 @@
     "fai": [
         "fafi"
     ],
+    "famiglia": [
+        "famigla",
+        "famigl\u00eda"
+    ],
     "fammeli": [
         "fammili"
     ],
@@ -2450,7 +2655,8 @@
         "fampo"
     ],
     "fanno": [
-        "fano"
+        "fano",
+        "fannno"
     ],
     "fare": [
         "frare",
@@ -2491,7 +2697,8 @@
         "ffatemelo"
     ],
     "fatti": [
-        "faftti"
+        "faftti",
+        "fati"
     ],
     "fattibile": [
         "fattibnile"
@@ -2504,7 +2711,8 @@
         "fatot",
         "ftto",
         "faftto",
-        "fgatto"
+        "fgatto",
+        "fato"
     ],
     "features": [
         "fetaures"
@@ -2512,10 +2720,17 @@
     "febbraio": [
         "febbrai",
         "febraio",
-        "fabbraio"
+        "fabbraio",
+        "febbrajo",
+        "febbario"
     ],
     "felice": [
         "filice"
+    ],
+    "femmina": [
+        "femina",
+        "femm\u00edna",
+        "femmnia"
     ],
     "fermato": [
         "femrato"
@@ -2538,6 +2753,12 @@
     ],
     "fighi": [
         "ifghi"
+    ],
+    "figlia": [
+        "figla"
+    ],
+    "figlio": [
+        "figlo"
     ],
     "filmare": [
         "filmanre"
@@ -2636,16 +2857,34 @@
     "fratelli": [
         "fratteli"
     ],
+    "fratello": [
+        "fratelo",
+        "fratelio",
+        "fratell"
+    ],
     "frattempo": [
         "frattmepo",
         "fratempo",
         "frattampo"
+    ],
+    "freddo": [
+        "fredo"
     ],
     "fretta": [
         "freta"
     ],
     "frontiere": [
         "frotneiere"
+    ],
+    "frutta": [
+        "fruta",
+        "frutt\u00e1",
+        "fruttta",
+        "frutatta"
+    ],
+    "fuggire": [
+        "fugire",
+        "fuggir"
     ],
     "funziona": [
         "funizona",
@@ -2699,6 +2938,11 @@
     "gastrica": [
         "grastrica"
     ],
+    "gatto": [
+        "gato",
+        "gattto",
+        "gatro"
+    ],
     "genera": [
         "genra"
     ],
@@ -2741,6 +2985,10 @@
     "gestisce": [
         "gestiosce"
     ],
+    "giallo": [
+        "gialo",
+        "giailo"
+    ],
     "gioco": [
         "gico"
     ],
@@ -2759,6 +3007,9 @@
     ],
     "giovedi": [
         "givoed\u00ec"
+    ],
+    "gioved\u00ec": [
+        "giovedi"
     ],
     "girare": [
         "giarre"
@@ -2780,6 +3031,12 @@
         "viusto",
         "guisto",
         "gisuto"
+    ],
+    "gi\u00e0": [
+        "gia"
+    ],
+    "gi\u00f9": [
+        "giu"
     ],
     "gli": [
         "gloi"
@@ -2813,6 +3070,17 @@
     ],
     "grandinato": [
         "gradninato"
+    ],
+    "grasso": [
+        "graso",
+        "grassso",
+        "grasoo"
+    ],
+    "grattugia": [
+        "gratugia",
+        "grattuggia",
+        "gratuggia",
+        "grattug\u00eda"
     ],
     "gratuita": [
         "gratutia"
@@ -2862,7 +3130,9 @@
         "gardo"
     ],
     "guerra": [
-        "guera"
+        "guera",
+        "guerrea",
+        "guerrar"
     ],
     "guida": [
         "guda"
@@ -2875,7 +3145,16 @@
         "hano",
         "hannio",
         "hanon",
-        "hann"
+        "hann",
+        "anno",
+        "ano",
+        "anmo",
+        "annno",
+        "anono"
+    ],
+    "hering": [
+        "ering",
+        "herring"
     ],
     "hosting": [
         "hsoting"
@@ -2910,7 +3189,12 @@
         "imamginato"
     ],
     "immagine": [
-        "imamgine"
+        "imamgine",
+        "immagene",
+        "imm\u00e1gine",
+        "immagini",
+        "immagina",
+        "immag\u00edne"
     ],
     "immagini": [
         "immaggini",
@@ -3026,6 +3310,11 @@
     "improve": [
         "improev"
     ],
+    "in": [
+        "ino",
+        "i\u00f1",
+        "iin"
+    ],
     "incastrare": [
         "icastrare"
     ],
@@ -3120,6 +3409,9 @@
     "ingegneria": [
         "ingengeria"
     ],
+    "inghilterra": [
+        "inghiltera"
+    ],
     "inglese": [
         "inglse",
         "ingelse"
@@ -3157,7 +3449,12 @@
     ],
     "inoltre": [
         "inolter",
-        "inotlre"
+        "inotlre",
+        "inolre",
+        "inoltr",
+        "inoltrre",
+        "inolatre",
+        "inolrte"
     ],
     "insalata": [
         "inslata"
@@ -3478,6 +3775,13 @@
         "eltto",
         "leto"
     ],
+    "lezione": [
+        "lezion",
+        "lezi\u00f3n",
+        "lesione",
+        "lezioone",
+        "lezioine"
+    ],
     "liberativo": [
         "lbierativo"
     ],
@@ -3531,6 +3835,12 @@
     "listini": [
         "lisitini"
     ],
+    "livello": [
+        "livelo",
+        "livelio",
+        "liveloo",
+        "livell"
+    ],
     "locale": [
         "lcoale"
     ],
@@ -3540,6 +3850,11 @@
     "locazione": [
         "localzione"
     ],
+    "lotta": [
+        "lota",
+        "lottoa",
+        "lottra"
+    ],
     "luglio": [
         "lulgio"
     ],
@@ -3548,6 +3863,9 @@
     ],
     "lungo": [
         "lingo"
+    ],
+    "l\u00ec": [
+        "li"
     ],
     "macchina": [
         "amcchina",
@@ -3573,7 +3891,11 @@
         "magaro"
     ],
     "magazzino": [
-        "amgazzino"
+        "amgazzino",
+        "magazino",
+        "magazinn",
+        "magazzin",
+        "magazzni"
     ],
     "maggiore": [
         "amggiore"
@@ -3589,6 +3911,11 @@
     ],
     "male": [
         "makle"
+    ],
+    "mamma": [
+        "mama",
+        "mammm",
+        "mamam"
     ],
     "manca": [
         "amnca"
@@ -3661,6 +3988,11 @@
     "maniglie": [
         "manigle"
     ],
+    "manoscritto": [
+        "manoscrito",
+        "manoscritta",
+        "manoscr\u00ectto"
+    ],
     "manteniamo": [
         " manteiamo"
     ],
@@ -3690,11 +4022,23 @@
     "marinella": [
         "marniella"
     ],
+    "marted\u00ec": [
+        "martedi"
+    ],
+    "mascella": [
+        "mascela",
+        "mascelia"
+    ],
     "massimo": [
         "masismo"
     ],
     "materassi": [
         "amterassi"
+    ],
+    "materasso": [
+        "materaso",
+        "materasoo",
+        "materass"
     ],
     "materia": [
         "amteria"
@@ -3712,6 +4056,10 @@
     "mattina": [
         "mattian",
         "matina"
+    ],
+    "mazzetta": [
+        "mazetta",
+        "mazzeta"
     ],
     "medaglie": [
         "mdeaglie"
@@ -3739,8 +4087,15 @@
     "menzionare": [
         "menzioanre"
     ],
+    "men\u00f9": [
+        "menu",
+        "men\u00fa"
+    ],
     "mercato": [
         "emrcato"
+    ],
+    "mercoled\u00ec": [
+        "mercoledi"
     ],
     "mese": [
         "emse"
@@ -3753,7 +4108,11 @@
         "mesaggi"
     ],
     "messaggio": [
-        "emssaggio"
+        "emssaggio",
+        "messagio",
+        "mesaggio",
+        "messagg",
+        "messaggi"
     ],
     "messo": [
         "meso"
@@ -3817,8 +4176,19 @@
         "metttiamo",
         "mettimao"
     ],
+    "metto": [
+        "meto"
+    ],
     "mettono": [
         "emtono"
+    ],
+    "met\u00e0": [
+        "meta"
+    ],
+    "mezzo": [
+        "mezo",
+        "mezoo",
+        "mezz"
     ],
     "migliaio": [
         "miglialio"
@@ -3856,7 +4226,10 @@
         "miliome"
     ],
     "mille": [
-        "milel"
+        "milel",
+        "mile",
+        "milie",
+        "millem"
     ],
     "millennio": [
         "millenio"
@@ -4000,6 +4373,10 @@
         "enanceh",
         "nenache"
     ],
+    "nebbia": [
+        "nebia",
+        "nebbi"
+    ],
     "necessaria": [
         "encessaria"
     ],
@@ -4008,7 +4385,8 @@
     ],
     "necessario": [
         "encessario",
-        "necesario"
+        "necesario",
+        "ne\u00e7essario"
     ],
     "negativo": [
         "negatio"
@@ -4063,6 +4441,10 @@
     "nonnismo": [
         "nonnsimo"
     ],
+    "nonno": [
+        "nono",
+        "nonn"
+    ],
     "nonostante": [
         "nonoistante"
     ],
@@ -4101,6 +4483,16 @@
     "notifica": [
         "motifica"
     ],
+    "notizia": [
+        "notisia",
+        "notiia",
+        "notiiza"
+    ],
+    "notte": [
+        "note",
+        "nottea",
+        "notet"
+    ],
     "nozze": [
         "nozza"
     ],
@@ -4122,6 +4514,9 @@
         "nuovametne",
         "nuovamnte"
     ],
+    "n\u00e9": [
+        "ne"
+    ],
     "obbligatorie": [
         "obbilgiatorie"
     ],
@@ -4135,7 +4530,11 @@
         "olbique"
     ],
     "occasione": [
-        "occaisone"
+        "occaisone",
+        "ocasi\u00f3n",
+        "ocasion",
+        "occatione",
+        "occhione"
     ],
     "occhiata": [
         "occiata"
@@ -4176,6 +4575,10 @@
     "oltreutto": [
         "otlretutto"
     ],
+    "ombrello": [
+        "ombrelo",
+        "ombrell"
+    ],
     "onestamente": [
         "omestamentr"
     ],
@@ -4194,8 +4597,18 @@
     "opinioni": [
         "opinoni"
     ],
+    "opportunit\u00e0": [
+        "opportunita",
+        "opportunit\u00e1",
+        "opportunitt\u00e0"
+    ],
     "opposed": [
         "opppsed"
+    ],
+    "opposto": [
+        "oposto",
+        "oppso",
+        "oposito"
     ],
     "oppure": [
         "opure"
@@ -4317,6 +4730,10 @@
     "ormai": [
         "omrai"
     ],
+    "orologio": [
+        "orolog",
+        "orolgio"
+    ],
     "oscuro": [
         "oscruo"
     ],
@@ -4343,7 +4760,10 @@
         "otitmo"
     ],
     "ovunque": [
-        "vounque"
+        "vounque",
+        "ovunqe",
+        "ovunqu",
+        "ovunq"
     ],
     "ovviamente": [
         "ovviammnete",
@@ -4395,8 +4815,30 @@
         "apio",
         "pai"
     ],
+    "palazzo": [
+        "palazo",
+        "palazoo",
+        "palazz"
+    ],
+    "palla": [
+        "pala"
+    ],
+    "pallone": [
+        "palone",
+        "palione",
+        "pallore"
+    ],
     "pannello": [
         "pannelo"
+    ],
+    "panno": [
+        "pano",
+        "panon",
+        "pann"
+    ],
+    "pap\u00e0": [
+        "papa",
+        "pap\u00e1"
     ],
     "paraddossalmente": [
         "pradossalmente"
@@ -4448,6 +4890,12 @@
         "aprecchio",
         "precchio",
         "parechio"
+    ],
+    "parere": [
+        "pare",
+        "par\u00e9re",
+        "pareere",
+        "paree"
     ],
     "pareri": [
         "apreri"
@@ -4529,7 +4977,9 @@
     ],
     "passaggio": [
         "passagio",
-        "pasaggio"
+        "pasaggio",
+        "passagg",
+        "passaggi"
     ],
     "passando": [
         "opassndo"
@@ -4548,6 +4998,9 @@
     "passato": [
         "pasato"
     ],
+    "passerella": [
+        "passerela"
+    ],
     "passiamo": [
         "passaimo"
     ],
@@ -4563,17 +5016,38 @@
     "pausa": [
         "apusa"
     ],
+    "pavimento": [
+        "pavimnto",
+        "pavimeto",
+        "pavimeno",
+        "pavimnento"
+    ],
     "pazienza": [
         "pazienda"
     ],
     "pazzesca": [
         "pazzzesca"
     ],
+    "peccato": [
+        "pecato"
+    ],
     "peggio": [
-        "pegio"
+        "pegio",
+        "pegg",
+        "pegig"
     ],
     "peggiore": [
         "pegiore"
+    ],
+    "pelle": [
+        "pela",
+        "pelie"
+    ],
+    "penna": [
+        "pna",
+        "penn",
+        "pena",
+        "pennna"
     ],
     "pensa": [
         "pennsa"
@@ -4612,7 +5086,12 @@
         "perchp\u00e8"
     ],
     "perch\u00e9": [
-        "perch\u00e8"
+        "perch\u00e8",
+        "perche"
+    ],
+    "percorso": [
+        "percors",
+        "perc\u00f3rso"
     ],
     "perdendo": [
         "perndendo"
@@ -4644,7 +5123,9 @@
         "eprmessi"
     ],
     "permette": [
-        "permete"
+        "permete",
+        "permte",
+        "perm\u00e9te"
     ],
     "permetterebbe": [
         "pemretterebbe"
@@ -4679,6 +5160,11 @@
         "eprsone",
         "persoen",
         "personme"
+    ],
+    "pesce": [
+        "pece",
+        "p\u00e9sce",
+        "pes\u00e7e"
     ],
     "pessima": [
         "pssima"
@@ -4720,20 +5206,49 @@
         "paittaforma",
         "piattafomra"
     ],
+    "piatto": [
+        "piato",
+        "piatoo"
+    ],
+    "piazza": [
+        "piaza",
+        "piazssa"
+    ],
     "piccola": [
         "piccoal"
     ],
     "piccoli": [
         "picocli"
     ],
+    "piccolo": [
+        "picolo",
+        "piccol"
+    ],
     "piedi": [
         "peidi"
+    ],
+    "piegare": [
+        "piagare",
+        "pi\u00e9gare"
     ],
     "pienissimo": [
         "pienissio"
     ],
     "pieno": [
         "piemo"
+    ],
+    "pillole": [
+        "pilole",
+        "pill\u00f3le"
+    ],
+    "pioggia": [
+        "pioja",
+        "pi\u00f3gia",
+        "pioia"
+    ],
+    "piovuto": [
+        "piovu",
+        "piov\u00fato"
     ],
     "pisciare": [
         "piscaire"
@@ -4743,6 +5258,9 @@
     ],
     "pizza": [
         "piza"
+    ],
+    "pi\u00f9": [
+        "piu"
     ],
     "pochetto": [
         "pcohetto"
@@ -4754,9 +5272,19 @@
     "polemiche": [
         "poelmiche"
     ],
+    "poliziotto": [
+        "polizioto"
+    ],
+    "pollo": [
+        "polo",
+        "polio"
+    ],
     "pomeriggio": [
         "pomerigigo",
         "poermiggio"
+    ],
+    "pomodoro": [
+        "pmodoro"
     ],
     "porcherie": [
         "procherie"
@@ -4784,7 +5312,8 @@
         "porot"
     ],
     "posizione": [
-        "posizone"
+        "posizone",
+        "posizi\u00f3ne"
     ],
     "possiamo": [
         "possiam",
@@ -4800,6 +5329,9 @@
     "posso": [
         "posos",
         "psso"
+    ],
+    "possono": [
+        "posono"
     ],
     "poste": [
         "spote"
@@ -4819,6 +5351,12 @@
     ],
     "poter": [
         "ptoer"
+    ],
+    "potere": [
+        "pot\u00e9re",
+        "potree",
+        "potare",
+        "potrere"
     ],
     "poterlo": [
         "opterlo"
@@ -4850,6 +5388,11 @@
     ],
     "poveraccio": [
         "poveracco"
+    ],
+    "povero": [
+        "povro",
+        "p\u00f3vero",
+        "pov\u00e9ro"
     ],
     "pranzo": [
         "rpanzo"
@@ -4986,7 +5529,9 @@
         "previsot"
     ],
     "prezzo": [
-        "prrzzo"
+        "prrzzo",
+        "prezo",
+        "pr\u00e9zzo"
     ],
     "prima": [
         "pri",
@@ -5033,13 +5578,17 @@
     "processato": [
         "processoto"
     ],
+    "processo": [
+        "proceso"
+    ],
     "prodotti": [
         "porodotti",
         "prodoti"
     ],
     "prodotto": [
         "prodtto",
-        "prodoto"
+        "prodoto",
+        "pr\u00f2dotto"
     ],
     "produzione": [
         "produzioen"
@@ -5063,7 +5612,9 @@
         "prgoetto",
         "priogetto",
         "rpogetto",
-        "pgoretto"
+        "pgoretto",
+        "progeto",
+        "pr\u00f2getto"
     ],
     "programma": [
         "proramma",
@@ -5089,6 +5640,10 @@
     ],
     "proiettore": [
         "proeittore"
+    ],
+    "promessa": [
+        "promesa",
+        "pr\u00f3messa"
     ],
     "prompt": [
         "prmpt"
@@ -5293,6 +5848,9 @@
     "quali": [
         "qualsi"
     ],
+    "qualit\u00e0": [
+        "qualita"
+    ],
     "qualsiasi": [
         "quasliasi",
         "qualsaisi",
@@ -5301,6 +5859,9 @@
     "quando": [
         "qaundo",
         "qunado"
+    ],
+    "quantit\u00e0": [
+        "quantita"
     ],
     "quanto": [
         "quanot",
@@ -5996,6 +6557,9 @@
     "rompere": [
         "romepre"
     ],
+    "rosso": [
+        "roso"
+    ],
     "rotta": [
         "rota"
     ],
@@ -6579,7 +7143,11 @@
         "sonmo",
         "osno",
         "sno",
-        "soo"
+        "soo",
+        "somo",
+        "sonno",
+        "snono",
+        "soono"
     ],
     "sopraggiunta": [
         "sopragginta"
@@ -6746,7 +7314,9 @@
         "stmapo"
     ],
     "stanno": [
-        "stanho"
+        "stanho",
+        "stano",
+        "stannno"
     ],
     "stasera": [
         "stsera",
@@ -6874,7 +7444,8 @@
         "sucessivo"
     ],
     "successo": [
-        "sucesso"
+        "sucesso",
+        "succeso"
     ],
     "sufficente": [
         "sufficinte"
@@ -6943,6 +7514,9 @@
     ],
     "switch": [
         "swtich"
+    ],
+    "s\u00e9": [
+        "se"
     ],
     "tagliare": [
         "taglaire"
@@ -7213,20 +7787,28 @@
     "tutela": [
         "tutetla"
     ],
+    "tutta": [
+        "tuta"
+    ],
     "tutte": [
-        "tutet"
+        "tutet",
+        "tute"
     ],
     "tutti": [
         "tutit",
         "tuutti",
         "tuttti",
         "tuitti",
-        "ttuti"
+        "ttuti",
+        "tuti"
     ],
     "tutto": [
         "tuto",
         "utto",
         "tuitto"
+    ],
+    "t\u00e8": [
+        "te"
     ],
     "ufficiale": [
         "ufficile"
@@ -7277,7 +7859,8 @@
         "unviersitria"
     ],
     "universit\u00e0": [
-        "unviersit\u00e0"
+        "unviersit\u00e0",
+        "universita"
     ],
     "usabile": [
         "suabile"
@@ -7335,6 +7918,10 @@
     "valutazioni": [
         "valutaizoni"
     ],
+    "vanno": [
+        "vano",
+        "vannno"
+    ],
     "vantaggio": [
         "vantaggii"
     ],
@@ -7391,6 +7978,9 @@
     ],
     "vendite": [
         "vedite"
+    ],
+    "venerd\u00ec": [
+        "venerdi"
     ],
     "vengono": [
         "vnegono"
@@ -7475,6 +8065,9 @@
     "virtualmente": [
         "virtualemnte"
     ],
+    "virt\u00f9": [
+        "virtu"
+    ],
     "visite": [
         "visiste"
     ],
@@ -7522,6 +8115,12 @@
     ],
     "volentieri": [
         "volnteri"
+    ],
+    "volere": [
+        "vol\u00e9re",
+        "volree",
+        "volare",
+        "volrere"
     ],
     "volesse": [
         "volese"

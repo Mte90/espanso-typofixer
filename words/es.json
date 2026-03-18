@@ -2,9 +2,21 @@
     "Caracas": [
         "Carcas"
     ],
+    "a veces": [
+        "aveces"
+    ],
+    "a ver": [
+        "haber"
+    ],
     "abandonar": [
         "abandoran",
         "abandoanr"
+    ],
+    "ac\u00e1": [
+        "aca"
+    ],
+    "adem\u00e1s": [
+        "ademas"
     ],
     "adios": [
         "addios"
@@ -12,8 +24,23 @@
     "adulterado": [
         "adulterdo"
     ],
+    "afici\u00f3n": [
+        "aficion"
+    ],
     "afirmaci\u00f3n": [
         "afirmasi\u00f3n"
+    ],
+    "ah\u00ed": [
+        "ay"
+    ],
+    "alegr\u00eda": [
+        "alegria"
+    ],
+    "alem\u00e1n": [
+        "aleman"
+    ],
+    "all\u00ed": [
+        "alli"
     ],
     "alumnos": [
         "alunmos"
@@ -21,8 +48,26 @@
     "amoroso": [
         "amorso"
     ],
+    "an\u00e1lisis": [
+        "analisis"
+    ],
     "aparece": [
         "aprarce"
+    ],
+    "aqu\u00ed": [
+        "aqui"
+    ],
+    "art\u00edculo": [
+        "articulo"
+    ],
+    "as\u00ed": [
+        "asi"
+    ],
+    "atenci\u00f3n": [
+        "atencion"
+    ],
+    "atr\u00e1s": [
+        "atras"
     ],
     "avanzar": [
         "avansar"
@@ -30,14 +75,51 @@
     "aversi\u00f3n": [
         "adversi\u00f3n"
     ],
+    "avi\u00f3n": [
+        "avion"
+    ],
+    "ay": [
+        "hay"
+    ],
     "ayudarte": [
         "ayudrate"
+    ],
+    "a\u00e9reo": [
+        "aereo"
+    ],
+    "a\u00f1adir": [
+        "anadir"
+    ],
+    "bajo": [
+        "vajo"
+    ],
+    "balc\u00f3n": [
+        "balcon"
     ],
     "banal": [
         "vanal"
     ],
+    "bater\u00eda": [
+        "bateria",
+        "vateria"
+    ],
+    "bello": [
+        "vello"
+    ],
+    "boca": [
+        "voca"
+    ],
     "bueno": [
         "beuno"
+    ],
+    "b\u00e1sico": [
+        "basico"
+    ],
+    "caf\u00e9": [
+        "cafe"
+    ],
+    "calle": [
+        "caye"
     ],
     "cantar": [
         "cantra"
@@ -46,20 +128,66 @@
         "capasidad",
         "capsidad"
     ],
+    "cap\u00edtulo": [
+        "capitulo"
+    ],
+    "car\u00e1cter": [
+        "caracter"
+    ],
+    "casa": [
+        "cassa",
+        "kasa"
+    ],
+    "casta\u00f1o": [
+        "castano"
+    ],
+    "cat\u00e1strofe": [
+        "catastrofe"
+    ],
     "causa": [
         "casua"
+    ],
+    "cay\u00f3": [
+        "llay\u00f3"
+    ],
+    "caza": [
+        "casa",
+        "kas"
     ],
     "cepillo": [
         "sepillo"
     ],
+    "cero": [
+        "sero",
+        "zero"
+    ],
+    "cerveza": [
+        "cervesa",
+        "serveza"
+    ],
+    "ciencia": [
+        "cienca"
+    ],
+    "cient\u00edfico": [
+        "cientifico"
+    ],
     "coger": [
         "cojer"
+    ],
+    "colecci\u00f3n": [
+        "coleccion"
     ],
     "comenzar": [
         "conmenzar"
     ],
+    "comit\u00e9": [
+        "comite"
+    ],
     "comunismo": [
         "conumismo"
+    ],
+    "com\u00fan": [
+        "comun"
     ],
     "conciencia": [
         "consiensia",
@@ -73,14 +201,47 @@
     "convalecencia": [
         "convalescencia"
     ],
+    "conversi\u00f3n": [
+        "conversion"
+    ],
     "conyuntura": [
         "conyontura"
+    ],
+    "coraz\u00f3n": [
+        "corazon"
+    ],
+    "cuesti\u00f3n": [
+        "cuestion"
     ],
     "cuidar": [
         "ciudar"
     ],
+    "cumplea\u00f1os": [
+        "cumpleanos"
+    ],
+    "cu\u00e1ndo": [
+        "cuando"
+    ],
+    "c\u00e9sped": [
+        "cesped"
+    ],
+    "c\u00f3digo": [
+        "codigo"
+    ],
+    "c\u00f3mo": [
+        "como"
+    ],
+    "c\u00f3mprame": [
+        "comprame"
+    ],
+    "da\u00f1o": [
+        "dano"
+    ],
     "decisi\u00f3n": [
         "desici\u00f3n"
+    ],
+    "desempe\u00f1o": [
+        "desempeno"
     ],
     "deshabitado": [
         "desabitado"
@@ -93,17 +254,62 @@
         "desprenderce",
         "depsenderse"
     ],
+    "despu\u00e9s": [
+        "despues"
+    ],
+    "dif\u00edcil": [
+        "dificil"
+    ],
+    "dimensi\u00f3n": [
+        "dimension"
+    ],
+    "direcci\u00f3n": [
+        "direccion"
+    ],
     "distintos": [
         "disitintos"
+    ],
+    "d\u00e9": [
+        "de"
+    ],
+    "d\u00eda": [
+        "dia"
+    ],
+    "d\u00f3nde": [
+        "donde"
+    ],
+    "d\u00fao": [
+        "duo"
+    ],
+    "echo": [
+        "hecho"
+    ],
+    "edici\u00f3n": [
+        "edicion"
     ],
     "editorial": [
         "editorail"
     ],
+    "educaci\u00f3n": [
+        "educacion"
+    ],
     "efectividad": [
         "efectiviad"
     ],
+    "elecci\u00f3n": [
+        "eleccion"
+    ],
+    "emoci\u00f3n": [
+        "emocion"
+    ],
+    "empe\u00f1o": [
+        "empeno"
+    ],
     "empieza": [
         "empiesza"
+    ],
+    "energ\u00eda": [
+        "energia"
     ],
     "enfermo": [
         "enfermp"
@@ -117,6 +323,12 @@
     "enojado": [
         "enojadp"
     ],
+    "ense\u00f1ar": [
+        "ensenar"
+    ],
+    "env\u00edo": [
+        "envio"
+    ],
     "episodios": [
         "espisodios"
     ],
@@ -125,6 +337,9 @@
     ],
     "esc\u00e9ptico": [
         "exc\u00e9ptico"
+    ],
+    "espa\u00f1ol": [
+        "espanol"
     ],
     "esperamos": [
         "esperamso"
@@ -157,23 +372,53 @@
     "frontera": [
         "frotnera"
     ],
+    "f\u00e1cil": [
+        "facil"
+    ],
     "garaje": [
         "garage"
     ],
     "general": [
-        "genral"
+        "genral",
+        "jeneral",
+        "keneral"
+    ],
+    "gente": [
+        "jente",
+        "kente"
     ],
     "glosario": [
         "glosairo"
     ],
     "gracias": [
-        "gracas"
+        "gracas",
+        "grazias"
     ],
     "gusano": [
         "gusanso"
     ],
+    "haber": [
+        "aber"
+    ],
+    "hacer": [
+        "azer",
+        "acer"
+    ],
+    "hay": [
+        "ay",
+        "ah\u00ed"
+    ],
+    "haya": [
+        "halla"
+    ],
+    "hecho": [
+        "echo"
+    ],
     "humano": [
         "human"
+    ],
+    "h\u00e1bil": [
+        "habil"
     ],
     "idiocincrasia": [
         "idiocincracia"
@@ -200,14 +445,43 @@
     "inter\u00e9s": [
         "interez"
     ],
+    "joven": [
+        "goven",
+        "hoven"
+    ],
+    "ley\u00f3": [
+        "lley\u00f3"
+    ],
+    "llamar": [
+        "yamar"
+    ],
+    "llave": [
+        "yave"
+    ],
+    "lleno": [
+        "yeno"
+    ],
     "llorar": [
-        "llroar"
+        "llroar",
+        "yorar"
+    ],
+    "l\u00e1piz": [
+        "lapiz"
+    ],
+    "mam\u00e1": [
+        "mama"
     ],
     "mis\u00f3gino": [
         "mis\u00f3geno"
     ],
     "muestra": [
         "meustra"
+    ],
+    "m\u00e1s": [
+        "mas"
+    ],
+    "m\u00ed": [
+        "mi"
     ],
     "m\u00f3vil": [
         "m\u00f3bil"
@@ -230,8 +504,15 @@
     "olor": [
         "holor"
     ],
+    "pap\u00e1": [
+        "papa"
+    ],
     "para": [
         "pra"
+    ],
+    "pez": [
+        "pes",
+        "vez"
     ],
     "plagio": [
         "plajio"
@@ -258,8 +539,15 @@
     "pueblo": [
         "puevlo"
     ],
+    "qu\u00e9": [
+        "que"
+    ],
     "realidad": [
         "realiad"
+    ],
+    "regalo": [
+        "rejalo",
+        "rekalo"
     ],
     "relaciones": [
         "relasion",
@@ -271,8 +559,19 @@
     "ruptura": [
         "ruputura"
     ],
+    "r\u00e1pido": [
+        "rapido"
+    ],
+    "saber": [
+        "saver",
+        "zaber"
+    ],
     "sacapuntas": [
         "sakapuntas"
+    ],
+    "seis": [
+        "ceis",
+        "zeis"
     ],
     "social": [
         "socail"
@@ -281,12 +580,23 @@
         "sosiedad",
         "socieda"
     ],
+    "sof\u00e1": [
+        "sofa"
+    ],
     "soledad": [
         "soldedad",
         "solaedad"
     ],
     "solidario": [
         "solidairo"
+    ],
+    "s\u00ed": [
+        "si"
+    ],
+    "tambi\u00e9n": [
+        "tabien",
+        "tambien",
+        "tambi\u00e8n"
     ],
     "terminaba": [
         "temrinaba"
@@ -296,6 +606,10 @@
     ],
     "todav\u00eda": [
         "todab\u00eda"
+    ],
+    "trabajo": [
+        "trabaho",
+        "trabago"
     ],
     "traducidos": [
         "traduciods",
@@ -310,17 +624,70 @@
     "trastornado": [
         "transtornado"
     ],
+    "t\u00e9": [
+        "te"
+    ],
     "t\u00f3xicas": [
         "t\u00f3xisac"
     ],
+    "t\u00fa": [
+        "tu"
+    ],
     "unidos": [
         "unidso"
+    ],
+    "vaca": [
+        "baca"
     ],
     "vacaciones": [
         "vacasiones",
         "vacasions"
     ],
+    "valla": [
+        "baya"
+    ],
+    "valor": [
+        "balar"
+    ],
+    "vaya": [
+        "baya",
+        "valla"
+    ],
+    "vive": [
+        "bibe"
+    ],
+    "vivo": [
+        "bivo"
+    ],
+    "volar": [
+        "bolar"
+    ],
     "yendo": [
         "llendo"
+    ],
+    "zapato": [
+        "sapato",
+        "capato"
+    ],
+    "\u00e1ngulo": [
+        "angulo"
+    ],
+    "\u00e1rbol": [
+        "arbol"
+    ],
+    "\u00e9l": [
+        "el"
+    ],
+    "\u00e9lite": [
+        "elite"
+    ],
+    "\u00e9poca": [
+        "epoca"
+    ],
+    "\u00e9xito": [
+        "exito"
+    ],
+    "\u00faltimo": [
+        "ultimo"
     ]
 }
