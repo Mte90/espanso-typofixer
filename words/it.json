@@ -2654,6 +2654,9 @@
         "fuznona",
         "fuziona"
     ],
+    "funzionano": [
+        "funzionao"
+    ],
     "funzionante": [
         "funzionate",
         "funzionente",
@@ -2719,6 +2722,9 @@
     "generazione": [
         "generaizine",
         "generaizone"
+    ],
+    "genere": [
+        "genre"
     ],
     "genitore": [
         "gentiore"
@@ -2928,6 +2934,9 @@
     "imparare": [
         "imaprare"
     ],
+    "impazzendo": [
+        "impazzndo"
+    ],
     "impazziscano": [
         "imppazziscano"
     ],
@@ -3058,6 +3067,9 @@
     ],
     "indietro": [
         "inidetro"
+    ],
+    "indirizzi": [
+        "indirzzi"
     ],
     "indirizzo": [
         "idirizzo",
@@ -3557,7 +3569,8 @@
     ],
     "magari": [
         "mfgari",
-        "mgari"
+        "mgari",
+        "magaro"
     ],
     "magazzino": [
         "amgazzino"
@@ -4165,6 +4178,9 @@
     ],
     "onestamente": [
         "omestamentr"
+    ],
+    "online": [
+        "onlione"
     ],
     "opensource": [
         "openosurce"
@@ -7124,6 +7140,9 @@
     ],
     "tranquilli": [
         "trnaquilli"
+    ],
+    "tranquillo": [
+        "trabnquillo"
     ],
     "transazione": [
         "trasazione"
