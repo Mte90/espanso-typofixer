@@ -974,6 +974,9 @@
     "calcolarmi": [
         "calocarmi"
     ],
+    "calendario": [
+        "calendairo"
+    ],
     "calvario": [
         "cavalrio"
     ],
@@ -1031,7 +1034,8 @@
         "calane"
     ],
     "cancellare": [
-        "cancelalre"
+        "cancelalre",
+        "canellare"
     ],
     "cancellarle": [
         "cencellarle"
@@ -1225,6 +1229,9 @@
         "chide",
         "cheide"
     ],
+    "chiederci": [
+        "chiderci"
+    ],
     "chiedere": [
         "cheidere",
         "chidere",
@@ -1236,7 +1243,8 @@
     ],
     "chiederti": [
         "chiererti",
-        "chiderti"
+        "chiderti",
+        "chidereti"
     ],
     "chieder\u00f2": [
         "cheider\u00f2"
@@ -1671,7 +1679,8 @@
         "consdierando"
     ],
     "considerare": [
-        "consdierare"
+        "consdierare",
+        "considearre"
     ],
     "considerate": [
         "consdierate",
@@ -3380,6 +3389,9 @@
         "infati",
         "inaftti"
     ],
+    "infiltrazioni": [
+        "inflitrazioni"
+    ],
     "inflazione": [
         "infalzione"
     ],
@@ -3863,9 +3875,6 @@
     ],
     "lungo": [
         "lingo"
-    ],
-    "l\u00ec": [
-        "li"
     ],
     "macchina": [
         "amcchina",
@@ -4514,9 +4523,6 @@
         "nuovametne",
         "nuovamnte"
     ],
-    "n\u00e9": [
-        "ne"
-    ],
     "obbligatorie": [
         "obbilgiatorie"
     ],
@@ -4795,7 +4801,8 @@
     ],
     "pagare": [
         "apgare",
-        "pagae"
+        "pagae",
+        "pagre"
     ],
     "pagarmi": [
         "pgarmi"
@@ -4954,6 +4961,9 @@
         "partecipazioen",
         "partecipaizone",
         "aprtecipazione"
+    ],
+    "partendo": [
+        "aprtendo"
     ],
     "parti": [
         "aprti"
@@ -5285,6 +5295,9 @@
     ],
     "pomodoro": [
         "pmodoro"
+    ],
+    "porca": [
+        "proca"
     ],
     "porcherie": [
         "procherie"
@@ -7313,6 +7326,9 @@
     "stampo": [
         "stmapo"
     ],
+    "standup": [
+        "standuup"
+    ],
     "stanno": [
         "stanho",
         "stano",
@@ -7440,6 +7456,9 @@
     "successivamente": [
         "sucessivamente"
     ],
+    "successivi": [
+        "usccessivi"
+    ],
     "successivo": [
         "sucessivo"
     ],
@@ -7514,9 +7533,6 @@
     ],
     "switch": [
         "swtich"
-    ],
-    "s\u00e9": [
-        "se"
     ],
     "tagliare": [
         "taglaire"
@@ -7650,6 +7666,9 @@
     ],
     "timeout": [
         "timoeut"
+    ],
+    "tipi": [
+        "itpi"
     ],
     "toccare": [
         "tocacre"
@@ -8154,7 +8173,8 @@
     "vorrei": [
         "voreri",
         "vorrie",
-        "borrei"
+        "borrei",
+        "vorei"
     ],
     "vostre": [
         "votre"
