@@ -528,6 +528,9 @@
     "approfittiamo": [
         "approfitiamo"
     ],
+    "approfondisco": [
+        "aprofondisco"
+    ],
     "approvare": [
         "apprrovare"
     ],
@@ -2615,6 +2618,9 @@
     "extra": [
         "extta"
     ],
+    "fa": [
+        "fda"
+    ],
     "faccia": [
         "afccia"
     ],
@@ -3487,7 +3493,8 @@
         "insetia"
     ],
     "inserito": [
-        "inmserito"
+        "inmserito",
+        "insetito"
     ],
     "insieme": [
         "inseieme"
@@ -5498,7 +5505,8 @@
     ],
     "prescindere": [
         "prescidenre",
-        "prescidnere"
+        "prescidnere",
+        "precisndere"
     ],
     "presentazione": [
         "presentaizone"
@@ -6627,6 +6635,9 @@
     "saprei": [
         "sapreo"
     ],
+    "saranno": [
+        "sranno"
+    ],
     "sarebbe": [
         "sarebe",
         "sarbebe"
@@ -7024,7 +7035,8 @@
         "sicyramente"
     ],
     "sicurezza": [
-        "iscurezza"
+        "iscurezza",
+        "sicurzza"
     ],
     "sicuro": [
         "Siuro"
@@ -7366,6 +7378,9 @@
     "stessa": [
         "tessa"
     ],
+    "stesse": [
+        "stresse"
+    ],
     "stesso": [
         "stesos"
     ],
@@ -7393,6 +7408,9 @@
     ],
     "strade": [
         "stade"
+    ],
+    "straniero": [
+        "starniero"
     ],
     "straordinarie": [
         "straordinare"
@@ -7523,6 +7541,9 @@
     ],
     "sviluppo": [
         "svilupo"
+    ],
+    "svizzera": [
+        "scizzera"
     ],
     "svolta": [
         "svolat"
@@ -7825,9 +7846,6 @@
         "tuto",
         "utto",
         "tuitto"
-    ],
-    "t\u00e8": [
-        "te"
     ],
     "ufficiale": [
         "ufficile"
