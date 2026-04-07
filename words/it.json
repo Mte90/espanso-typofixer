@@ -286,6 +286,9 @@
     "alcune": [
         "alcuen"
     ],
+    "alcuni": [
+        "alucni"
+    ],
     "alessandro": [
         "alesandro"
     ],
@@ -756,6 +759,9 @@
         "autoamtico",
         "atuomatico",
         "uatomatico"
+    ],
+    "automation": [
+        "autoamtion"
     ],
     "automatismi": [
         "atuomatismi"
@@ -1818,7 +1824,8 @@
         "convicnere"
     ],
     "convinto": [
-        "cnvinto"
+        "cnvinto",
+        "convitno"
     ],
     "convinzione": [
         "cpnvinzione"
@@ -2913,7 +2920,8 @@
         "fuzniona",
         "fuznona",
         "fuziona",
-        "funzioan"
+        "funzioan",
+        "funiona"
     ],
     "funzionano": [
         "funzionao"
@@ -3355,6 +3363,9 @@
     ],
     "including": [
         "inclufing"
+    ],
+    "includono": [
+        "incluno"
     ],
     "incollati": [
         "inollati"
@@ -4091,7 +4102,9 @@
     "meglio": [
         "megli",
         "melgio",
-        "megio"
+        "megio",
+        "mglio",
+        "maglio"
     ],
     "meno": [
         "menp"
@@ -4496,7 +4509,8 @@
     "nostro": [
         "nsotro",
         "nostor",
-        "snotro"
+        "snotro",
+        "nosro"
     ],
     "notare": [
         "ntoare"
@@ -5195,12 +5209,16 @@
     "pessima": [
         "pssima"
     ],
+    "pessimo": [
+        "pesismo"
+    ],
     "piacciono": [
         "piacicono"
     ],
     "piace": [
         "paice",
-        "oiace"
+        "oiace",
+        "piacoe"
     ],
     "piacere": [
         "piacree",
@@ -5762,13 +5780,17 @@
         "rpova"
     ],
     "provando": [
-        "proando"
+        "proando",
+        "provado"
     ],
     "provano": [
         "provsno"
     ],
     "provarla": [
         "prvarla"
+    ],
+    "provarlo": [
+        "proivarlo"
     ],
     "provati": [
         "rpovati"
@@ -6212,6 +6234,9 @@
     "ricostruire": [
         "ricotruirti"
     ],
+    "ridimmi": [
+        "riddimi"
+    ],
     "rielaborare": [
         "rielaorare"
     ],
@@ -6515,7 +6540,8 @@
     ],
     "risulta": [
         "risutla",
-        "riulta"
+        "riulta",
+        "risulya"
     ],
     "risultare": [
         "risutlare"
@@ -6676,6 +6702,9 @@
     ],
     "sbrandizzato": [
         "sbradizzato"
+    ],
+    "scaduto": [
+        "scatuto"
     ],
     "scansionare": [
         "scansioanre"
