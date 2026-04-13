@@ -212,7 +212,8 @@
     "aggiornato": [
         "agiornato",
         "agigornato",
-        "aggioranto"
+        "aggioranto",
+        "aggiornaot"
     ],
     "aggiornerei": [
         "aggiorenrei"
@@ -934,6 +935,9 @@
     "bloccarli": [
         "blocarli"
     ],
+    "bloccassimo": [
+        "vloccassimo"
+    ],
     "blocchi": [
         "blochci"
     ],
@@ -1208,6 +1212,9 @@
     ],
     "chiamarti": [
         "hciamrti"
+    ],
+    "chiamata": [
+        "chaimata"
     ],
     "chiamate": [
         "chiamte"
@@ -2544,6 +2551,9 @@
     "esiste": [
         "essite"
     ],
+    "esisteva": [
+        "esistea"
+    ],
     "espande": [
         "epsande"
     ],
@@ -3033,7 +3043,8 @@
     ],
     "giorni": [
         "gionri",
-        "grioni"
+        "grioni",
+        "gioni"
     ],
     "giovedi": [
         "givoed\u00ec"
@@ -3170,6 +3181,9 @@
     ],
     "ha": [
         "hja"
+    ],
+    "hai": [
+        "hao"
     ],
     "hanno": [
         "hhan",
@@ -3333,6 +3347,9 @@
     ],
     "impostazioni": [
         "impsotazioni"
+    ],
+    "impressionante": [
+        "impressionatnte"
     ],
     "impressione": [
         "imrpessione",
@@ -3708,8 +3725,14 @@
     "italiana": [
         "itliana"
     ],
+    "italiani": [
+        "itlaiani"
+    ],
     "italianizziamo": [
         "italianiziamo"
+    ],
+    "lampioni": [
+        "lapmioni"
     ],
     "lanciare": [
         "lancaire"
@@ -4048,6 +4071,9 @@
     "marcia": [
         "amrcia"
     ],
+    "marciapiede": [
+        "amrciapiede"
+    ],
     "marco": [
         "amrco"
     ],
@@ -4229,6 +4255,9 @@
     ],
     "migliaio": [
         "miglialio"
+    ],
+    "migliora": [
+        "migliroa"
     ],
     "migliorabili": [
         "miglioraili"
@@ -5514,6 +5543,9 @@
     "prendesse": [
         "perndesse"
     ],
+    "prendi": [
+        "prenmdi"
+    ],
     "prendiamoci": [
         "prebndiamoci"
     ],
@@ -6178,6 +6210,9 @@
     ],
     "riceverla": [
         "riveerla"
+    ],
+    "ricevuto": [
+        "ricuevto"
     ],
     "richiede": [
         "richede"
@@ -7132,6 +7167,9 @@
     "sistemarle": [
         "sistemrle"
     ],
+    "sistemati": [
+        "sistmati"
+    ],
     "sistemato": [
         "sistamto",
         "sismteato"
@@ -7497,7 +7535,9 @@
         "subierebbe"
     ],
     "subito": [
-        "subiuto"
+        "subiuto",
+        "subto",
+        "suito"
     ],
     "succede": [
         "sucede"
