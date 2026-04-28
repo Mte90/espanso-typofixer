@@ -17,7 +17,8 @@
         "abastanza",
         "abstanza",
         "abbastazna",
-        "abbastananza"
+        "abbastananza",
+        "abbastenza"
     ],
     "abbiamo": [
         "abbimoa",
@@ -2093,7 +2094,8 @@
     ],
     "dicevo": [
         "dcevo",
-        "didevo"
+        "didevo",
+        "dievo"
     ],
     "dichiarazione": [
         "dichiarazioen",
@@ -2547,6 +2549,9 @@
         "esattamante",
         "esattament",
         "esattamnete"
+    ],
+    "eseguito": [
+        "eseguitp"
     ],
     "esempio": [
         "eempio",
@@ -3147,7 +3152,8 @@
         "granzie",
         "grazi",
         "graie",
-        "grazioe"
+        "grazioe",
+        "grzie"
     ],
     "griglia": [
         "girglia"
@@ -3218,12 +3224,18 @@
     "ieri": [
         "eiri"
     ],
+    "ignora": [
+        "ginora"
+    ],
     "ignoranza": [
         "ignorazna",
         "inoranza"
     ],
     "ignorare": [
         "inograre"
+    ],
+    "ignorati": [
+        "ingorati"
     ],
     "ignori": [
         "ingori"
@@ -3385,6 +3397,9 @@
     ],
     "incentivi": [
         "incetivi"
+    ],
+    "incidente": [
+        "invidente"
     ],
     "includendo": [
         "inclduendo"
@@ -3569,6 +3584,9 @@
     "instead": [
         "isntead"
     ],
+    "insultare": [
+        "insutlare"
+    ],
     "intanto": [
         "intnaot",
         "intato",
@@ -3642,7 +3660,8 @@
         "interesato"
     ],
     "interesse": [
-        "itneresse"
+        "itneresse",
+        "interrsse"
     ],
     "interessi": [
         "itneressi"
@@ -4207,6 +4226,9 @@
     ],
     "mette": [
         "emtte"
+    ],
+    "mettemmo": [
+        "emttemo"
     ],
     "mettendo": [
         "metendo",
@@ -4853,7 +4875,8 @@
         "ovviaemnte",
         "ovviamnte",
         "ovviamtne",
-        "ovviamete"
+        "ovviamete",
+        "ovvamente"
     ],
     "pacchettizzato": [
         "pacchettizato"
@@ -4878,7 +4901,8 @@
     "pagare": [
         "apgare",
         "pagae",
-        "pagre"
+        "pagre",
+        "poagare"
     ],
     "pagarmi": [
         "pgarmi"
@@ -4951,7 +4975,8 @@
         "paarmetro",
         "paramentro",
         "parameatro",
-        "paraemtro"
+        "paraemtro",
+        "paratmetro"
     ],
     "paranoici": [
         "pranoici"
@@ -5646,6 +5671,9 @@
         "principlamente",
         "principalemnte"
     ],
+    "priorit\u00e0": [
+        "prioti\u00e0"
+    ],
     "privato": [
         "prvato",
         "prtivato",
@@ -5836,6 +5864,9 @@
     "provano": [
         "provsno"
     ],
+    "provare": [
+        "porvare"
+    ],
     "provarla": [
         "prvarla"
     ],
@@ -5996,7 +6027,8 @@
         "qeullo",
         "uqello",
         "quelo",
-        "quallo"
+        "quallo",
+        "euqllo"
     ],
     "questa": [
         "qeusta",
@@ -6348,6 +6380,9 @@
     ],
     "riga": [
         "rgia"
+    ],
+    "righe": [
+        "rige"
     ],
     "riguarda": [
         "rugiarda",
@@ -6960,7 +6995,8 @@
         "segnalaizone"
     ],
     "segnalazioni": [
-        "segnalaizoni"
+        "segnalaizoni",
+        "segnalaizonoi"
     ],
     "segnato": [
         "sengato",
@@ -7168,7 +7204,8 @@
         "sincerammente",
         "siceramente",
         "sinceramenten",
-        "sicnramente"
+        "sicnramente",
+        "sicneramente"
     ],
     "singola": [
         "signola",
@@ -7368,6 +7405,9 @@
     ],
     "spero": [
         "sppero"
+    ],
+    "spiega": [
+        "psiega"
     ],
     "spiegano": [
         "spiegnao"
@@ -8119,6 +8159,9 @@
     "vendite": [
         "vedite"
     ],
+    "vendo": [
+        "evndo"
+    ],
     "venerd\u00ec": [
         "venerdi"
     ],
@@ -8164,7 +8207,8 @@
         "iversone",
         "verisone",
         "vrsione",
-        "verisoen"
+        "verisoen",
+        "vesione"
     ],
     "versioni": [
         "versoni",
