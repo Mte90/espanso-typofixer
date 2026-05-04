@@ -155,6 +155,9 @@
     "adozione": [
         "adozoone"
     ],
+    "aereoporto": [
+        "areoporto"
+    ],
     "affidabile": [
         "affadabile"
     ],
@@ -216,7 +219,8 @@
         "agiornato",
         "agigornato",
         "aggioranto",
-        "aggiornaot"
+        "aggiornaot",
+        "aggironato"
     ],
     "aggiornerei": [
         "aggiorenrei"
@@ -294,7 +298,8 @@
         "alcuen"
     ],
     "alcuni": [
-        "alucni"
+        "alucni",
+        "aleuni"
     ],
     "alessandro": [
         "alesandro"
@@ -1740,7 +1745,8 @@
     ],
     "consumi": [
         "comsuni",
-        "ocnsumi"
+        "ocnsumi",
+        "oncusmi"
     ],
     "contattare": [
         "cotnatt"
@@ -2000,6 +2006,9 @@
     ],
     "decrementa": [
         "decremeta"
+    ],
+    "definendo": [
+        "definiendo"
     ],
     "definiamo": [
         "deviniamo"
@@ -2576,6 +2585,9 @@
         "epserienza",
         "espereienza"
     ],
+    "esponiamo": [
+        "esponaimo"
+    ],
     "esportare": [
         "espoertare"
     ],
@@ -2636,6 +2648,9 @@
     ],
     "eventuale": [
         "envetuale"
+    ],
+    "eventualmente": [
+        "eventualemnte"
     ],
     "evidentemente": [
         "evidentemetne",
@@ -2760,6 +2775,9 @@
         "faftto",
         "fgatto",
         "fato"
+    ],
+    "fattura": [
+        "fatura"
     ],
     "features": [
         "fetaures"
@@ -4366,7 +4384,8 @@
         "miatica"
     ],
     "misure": [
-        "msiure"
+        "msiure",
+        "misre"
     ],
     "mobile": [
         "modile"
@@ -5421,6 +5440,9 @@
     "portare": [
         "protare"
     ],
+    "portarla": [
+        "protarla"
+    ],
     "portatile": [
         "protatile"
     ],
@@ -6307,6 +6329,9 @@
     "riconoscimento": [
         "riconsocimento"
     ],
+    "riconosciuto": [
+        "riconoaciuto"
+    ],
     "riconosco": [
         "riconsoco"
     ],
@@ -6452,6 +6477,9 @@
     ],
     "rimborsate": [
         "rimobrsate"
+    ],
+    "rimborso": [
+        "romborso"
     ],
     "rimesso": [
         "rimsso"
@@ -6924,7 +6952,8 @@
         "scrivevre"
     ],
     "scrivergli": [
-        "scrviergli"
+        "scrviergli",
+        "scriergli"
     ],
     "scriverlo": [
         "scrivero"
@@ -8141,7 +8170,8 @@
         "veidamo"
     ],
     "vedo": [
-        "evdo"
+        "evdo",
+        "veod"
     ],
     "vedrei": [
         "vederi"
