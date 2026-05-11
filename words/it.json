@@ -254,6 +254,9 @@
         "aggiubngere",
         "aggiunegre"
     ],
+    "aggiungerla": [
+        "aggurgela"
+    ],
     "aggiungerne": [
         "aggiugnerne"
     ],
@@ -1829,6 +1832,9 @@
     "controllato": [
         "cotrllato"
     ],
+    "controlli": [
+        "cntrolli"
+    ],
     "conversazionale": [
         "cdonversazionale"
     ],
@@ -1910,7 +1916,8 @@
     ],
     "cosa": [
         "acos",
-        "coa"
+        "coa",
+        "ocsa"
     ],
     "cose": [
         "cse",
@@ -2524,7 +2531,8 @@
     ],
     "entrare": [
         "netrare",
-        "entrrare"
+        "entrrare",
+        "entrae"
     ],
     "entrato": [
         "etrnato"
@@ -2777,7 +2785,8 @@
         "fato"
     ],
     "fattura": [
-        "fatura"
+        "fatura",
+        "afttura"
     ],
     "features": [
         "fetaures"
@@ -6335,6 +6344,9 @@
     "riconosco": [
         "riconsoco"
     ],
+    "ricontrollare": [
+        "ricotnrollare"
+    ],
     "ricontrollati": [
         "ricontrolalti"
     ],
@@ -6379,6 +6391,9 @@
     ],
     "rifacciamo": [
         "rifaciamo"
+    ],
+    "rifaccio": [
+        "ricaccio"
     ],
     "rifacendo": [
         "rifancedo"
@@ -6822,6 +6837,9 @@
     "sbrandizzato": [
         "sbradizzato"
     ],
+    "scadenze": [
+        "scandeze"
+    ],
     "scaduto": [
         "scatuto"
     ],
@@ -6966,6 +6984,9 @@
     ],
     "scrivessero": [
         "scirvessero"
+    ],
+    "scrivi": [
+        "srcivi"
     ],
     "scrivilo": [
         "scrivlo"
@@ -7565,7 +7586,8 @@
         "stiamiamo"
     ],
     "storico": [
-        "sotirco"
+        "sotirco",
+        "stirco"
     ],
     "strada": [
         "sttada",
@@ -8281,6 +8303,9 @@
     ],
     "virt\u00f9": [
         "virtu"
+    ],
+    "visitabile": [
+        "visitable"
     ],
     "visite": [
         "visiste"
