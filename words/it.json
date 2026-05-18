@@ -6,7 +6,8 @@
         "abbandoare"
     ],
     "abbassare": [
-        "abasare"
+        "abasare",
+        "abassare"
     ],
     "abbastanza": [
         "ababstanza",
@@ -256,6 +257,9 @@
     ],
     "aggiungerla": [
         "aggurgela"
+    ],
+    "aggiungerlo": [
+        "aggiugnerlo"
     ],
     "aggiungerne": [
         "aggiugnerne"
@@ -619,6 +623,9 @@
         "articol",
         "arciolo",
         "articoo"
+    ],
+    "artisti": [
+        "atisti"
     ],
     "ascensore": [
         "ascnesore"
@@ -1400,7 +1407,8 @@
         "coem",
         "cvome",
         "ocme",
-        "comne"
+        "comne",
+        "cme"
     ],
     "cominciando": [
         "comnciando"
@@ -2418,7 +2426,8 @@
         "dsovrebbe",
         "dovrebeb",
         "doverbbe",
-        "sovrebbe"
+        "sovrebbe",
+        "dobrevve"
     ],
     "dovrebbero": [
         "dovrebero"
@@ -2547,7 +2556,8 @@
         "ecquivoco"
     ],
     "erano": [
-        "eano"
+        "eano",
+        "eranno"
     ],
     "eravamo": [
         "eravano"
@@ -2761,7 +2771,8 @@
         "fafrvi"
     ],
     "fastidio": [
-        "farsidio"
+        "farsidio",
+        "astidio"
     ],
     "fatemelo": [
         "ffatemelo"
@@ -4304,7 +4315,8 @@
         "emttiamo"
     ],
     "metto": [
-        "meto"
+        "meto",
+        "emtto"
     ],
     "mettono": [
         "emtono"
@@ -5101,6 +5113,9 @@
     "particolare": [
         "particoalre"
     ],
+    "partiranno": [
+        "paritanno"
+    ],
     "partire": [
         "aprtire",
         "paritre"
@@ -5357,6 +5372,9 @@
     "piazza": [
         "piaza",
         "piazssa"
+    ],
+    "picco": [
+        "pocco"
     ],
     "piccola": [
         "piccoal"
@@ -5700,7 +5718,8 @@
     ],
     "principalmente": [
         "principlamente",
-        "principalemnte"
+        "principalemnte",
+        "principalemtne"
     ],
     "priorit\u00e0": [
         "prioti\u00e0"
@@ -5863,6 +5882,9 @@
     ],
     "prorogato": [
         "prorogatp"
+    ],
+    "proseguendo": [
+        "prosegunedo"
     ],
     "prossima": [
         "prossim",
@@ -6126,6 +6148,9 @@
     ],
     "raggruppare": [
         "raggrupare"
+    ],
+    "ragionano": [
+        "raguionano"
     ],
     "ragionare": [
         "raguionare"
@@ -6945,6 +6970,9 @@
     "scorte": [
         "scrote"
     ],
+    "scraping": [
+        "scarping"
+    ],
     "scritta": [
         "scirtta"
     ],
@@ -7270,7 +7298,8 @@
     ],
     "sistemare": [
         "sistamre",
-        "sistamare"
+        "sistamare",
+        "sistemre"
     ],
     "sistemarle": [
         "sistemrle"
@@ -8203,6 +8232,9 @@
     ],
     "vendere": [
         "vednere"
+    ],
+    "vendergli": [
+        "venrergli"
     ],
     "vendiamo": [
         "nvediamo",
