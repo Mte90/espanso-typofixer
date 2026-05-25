@@ -210,7 +210,8 @@
         "agigornata"
     ],
     "aggiornate": [
-        "aggiorante"
+        "aggiorante",
+        "aggirnate"
     ],
     "aggiornati": [
         "aggironati",
@@ -430,6 +431,9 @@
     ],
     "amministratori": [
         "amministrtatori"
+    ],
+    "amministrazione": [
+        "amministraaizone"
     ],
     "amministrazioni": [
         "amministraizoni"
@@ -837,7 +841,8 @@
     ],
     "avuto": [
         "auvot",
-        "avvuto"
+        "avvuto",
+        "auvto"
     ],
     "avvenuta": [
         "avvneuta"
@@ -1237,7 +1242,8 @@
         "hciamrti"
     ],
     "chiamata": [
-        "chaimata"
+        "chaimata",
+        "chiaamta"
     ],
     "chiamate": [
         "chiamte"
@@ -1561,7 +1567,8 @@
         "comunicziaone",
         "comunicaizone",
         "comuinicazione",
-        "comuncazione"
+        "comuncazione",
+        "cominicaizone"
     ],
     "comunicazioni": [
         "comunicaizoni"
@@ -1757,7 +1764,8 @@
     "consumi": [
         "comsuni",
         "ocnsumi",
-        "oncusmi"
+        "oncusmi",
+        "cnsoumi"
     ],
     "contattare": [
         "cotnatt"
@@ -2001,7 +2009,8 @@
         "davveo",
         "daver\u00f2",
         "daverro",
-        "daveero"
+        "daveero",
+        "davvro"
     ],
     "decentemente": [
         "decentemnte"
@@ -3038,7 +3047,8 @@
         "genra"
     ],
     "generale": [
-        "genrale"
+        "genrale",
+        "gerale"
     ],
     "generare": [
         "generaer"
@@ -3357,7 +3367,8 @@
     "implementare": [
         "implemntare",
         "impelemtare",
-        "implemetnare"
+        "implemetnare",
+        "implememtare"
     ],
     "implementarla": [
         "implelenmtarla"
@@ -3799,11 +3810,17 @@
     "italianizziamo": [
         "italianiziamo"
     ],
+    "italiano": [
+        "tialiano"
+    ],
     "lampioni": [
         "lapmioni"
     ],
     "lanciare": [
         "lancaire"
+    ],
+    "lanciato": [
+        "alnciato"
     ],
     "largo": [
         "alrgo"
@@ -4296,6 +4313,9 @@
         "emtterli",
         "mettelri"
     ],
+    "metterlo": [
+        "metetrlo"
+    ],
     "mettermeli": [
         "metermili"
     ],
@@ -4579,7 +4599,8 @@
         "enon",
         "nons",
         "nmon",
-        "noin"
+        "noin",
+        "nkn"
     ],
     "nonnismo": [
         "nonnsimo"
@@ -6346,7 +6367,8 @@
     ],
     "richiesto": [
         "richeisto",
-        "riochiesto"
+        "riochiesto",
+        "rihiesto"
     ],
     "richiudiamo": [
         "richiuduamo"
@@ -6543,6 +6565,9 @@
     "rimuovo": [
         "rimuiovo"
     ],
+    "rincoglionito": [
+        "rincoglioninto"
+    ],
     "ringrazierai": [
         "ringrazieai"
     ],
@@ -6709,6 +6734,9 @@
         "rsiultati",
         "rislutati",
         "irsultati"
+    ],
+    "risultato": [
+        "risutlato"
     ],
     "ritardo": [
         "irtardo"
@@ -7169,7 +7197,8 @@
     ],
     "serve": [
         "sevre",
-        "seve"
+        "seve",
+        "sereve"
     ],
     "servi": [
         "srvi"
@@ -7215,6 +7244,9 @@
     ],
     "sezioni": [
         "seizoni"
+    ],
+    "sforare": [
+        "sofrare"
     ],
     "sfortunatamente": [
         "sfortuantamente",
@@ -7533,6 +7565,9 @@
     "spostare": [
         "spsotare"
     ],
+    "sposterei": [
+        "sopsterei"
+    ],
     "sprite": [
         "spirte"
     ],
@@ -7825,7 +7860,8 @@
         "tasteira"
     ],
     "tecnica": [
-        "techinca"
+        "techinca",
+        "tecnina"
     ],
     "telefonare": [
         "telefoanre",
@@ -8087,7 +8123,8 @@
         "ultiam"
     ],
     "ultimamente": [
-        "ultiamente"
+        "ultiamente",
+        "ultimanmente"
     ],
     "ultime": [
         "utlime",
@@ -8412,6 +8449,9 @@
     "volta": [
         "votla",
         "vlta"
+    ],
+    "volte": [
+        "vlte"
     ],
     "voluti": [
         "vcoluti"
