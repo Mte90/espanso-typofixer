@@ -32,7 +32,8 @@
         "abobnamenti"
     ],
     "abbonamento": [
-        "abonamento"
+        "abonamento",
+        "abbnamento"
     ],
     "abilitate": [
         "abiltiate"
@@ -347,7 +348,8 @@
         "allienati"
     ],
     "allineato": [
-        "allienato"
+        "allienato",
+        "llineato"
     ],
     "allontamenerei": [
         "allontamenrei"
@@ -526,12 +528,16 @@
     "anzi": [
         "nzi"
     ],
+    "aperitivo": [
+        "aperitivio"
+    ],
     "aperte": [
         "paerte"
     ],
     "aperto": [
         "paerto",
-        "apeto"
+        "apeto",
+        "aprto"
     ],
     "apparire": [
         "apprire"
@@ -834,7 +840,8 @@
         "aevvi"
     ],
     "avevo": [
-        "aveo"
+        "aveo",
+        "avveo"
     ],
     "avrebbe": [
         "avrebe"
@@ -2439,7 +2446,8 @@
         "dobrevve"
     ],
     "dovrebbero": [
-        "dovrebero"
+        "dovrebero",
+        "dvrebbero"
     ],
     "dovrei": [
         "covrei",
@@ -4238,6 +4246,9 @@
     "menzionare": [
         "menzioanre"
     ],
+    "menzioni": [
+        "mensioni"
+    ],
     "men\u00f9": [
         "menu",
         "men\u00fa"
@@ -5665,6 +5676,9 @@
     "prenotare": [
         "prentoare"
     ],
+    "preoccupato": [
+        "preoccuparto"
+    ],
     "preoccuperei": [
         "preoccuperi"
     ],
@@ -5681,7 +5695,8 @@
         "precisndere"
     ],
     "presentazione": [
-        "presentaizone"
+        "presentaizone",
+        "presentaqzione"
     ],
     "presentazioni": [
         "presentaizoni"
@@ -7009,7 +7024,8 @@
         "scirto",
         "scrritto",
         "sctitto",
-        "srittp"
+        "srittp",
+        "sciitto"
     ],
     "scrittura": [
         "scrittra"
@@ -7978,7 +7994,8 @@
     ],
     "tornato": [
         "toranto",
-        "trnato"
+        "trnato",
+        "tornto"
     ],
     "torrnare": [
         "toranre"
