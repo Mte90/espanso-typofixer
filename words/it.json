@@ -116,6 +116,9 @@
     "accorpiamo": [
         "accopriamo"
     ],
+    "accreditato": [
+        "accreaditato"
+    ],
     "acqua": [
         "acqa",
         "acgua"
@@ -165,6 +168,9 @@
     ],
     "affidabili": [
         "afffidabili"
+    ],
+    "affiliazioni": [
+        "affilizioni"
     ],
     "affittarla": [
         "affitarla"
@@ -318,6 +324,9 @@
     ],
     "algoritmo": [
         "algortimo"
+    ],
+    "ali": [
+        "quliq"
     ],
     "alimentatore": [
         "alimetnatore"
@@ -2354,7 +2363,8 @@
         "divuolgazione"
     ],
     "dobbiamo": [
-        "dobbiao"
+        "dobbiao",
+        "dovbbiamo"
     ],
     "documentare": [
         "documetnare"
@@ -2485,6 +2495,9 @@
     ],
     "ebbe": [
         "ebe"
+    ],
+    "eccesso": [
+        "ecesso"
     ],
     "eccetto": [
         "ecetto",
@@ -2690,6 +2703,9 @@
     "evidentemente": [
         "evidentemetne",
         "evidentemnte"
+    ],
+    "evitargli": [
+        "eveitargli"
     ],
     "eviterei": [
         "eviteirei"
@@ -4583,7 +4599,8 @@
         "nesusn"
     ],
     "nessuna": [
-        "nesusna"
+        "nesusna",
+        "nessuan"
     ],
     "nessuno": [
         "enssuno",
@@ -4961,6 +4978,9 @@
     ],
     "paese": [
         "apese"
+    ],
+    "pagamenti": [
+        "apgament"
     ],
     "pagamento": [
         "apgamento",
@@ -5954,7 +5974,8 @@
         "provsno"
     ],
     "provare": [
-        "porvare"
+        "porvare",
+        "povare"
     ],
     "provarla": [
         "prvarla"
@@ -6474,8 +6495,14 @@
     "rifiuta": [
         "rifitua"
     ],
+    "rifiutata": [
+        "rifuitata"
+    ],
     "riflessione": [
         "riflesisone"
+    ],
+    "rifletterebbe": [
+        "ifletterebbe"
     ],
     "rifornimento": [
         "riforinmenti"
@@ -7560,6 +7587,9 @@
         "spieazioni",
         "spiagazioni"
     ],
+    "spiegherebbe": [
+        "spiegehrebbe"
+    ],
     "spiego": [
         "psiego"
     ],
@@ -7708,7 +7738,8 @@
         "struementi"
     ],
     "strumento": [
-        "strumeto"
+        "strumeto",
+        "sturmento"
     ],
     "studentesche": [
         "studentesce"
@@ -7878,6 +7909,9 @@
     "tecnica": [
         "techinca",
         "tecnina"
+    ],
+    "tedesco": [
+        "tedenco"
     ],
     "telefonare": [
         "telefoanre",
@@ -8119,7 +8153,8 @@
     "tutto": [
         "tuto",
         "utto",
-        "tuitto"
+        "tuitto",
+        "uttto"
     ],
     "ufficiale": [
         "ufficile"
