@@ -1075,7 +1075,8 @@
         "camminrae"
     ],
     "campagna": [
-        "campgna"
+        "campgna",
+        "campanga"
     ],
     "campagne": [
         "camapgne"
@@ -1352,6 +1353,9 @@
     ],
     "classificatore": [
         "cassificatore"
+    ],
+    "clicchi": [
+        "clicci"
     ],
     "client": [
         "lcient"
@@ -1744,6 +1748,9 @@
     "considerare": [
         "consdierare",
         "considearre"
+    ],
+    "considerarsi": [
+        "consdierars"
     ],
     "considerate": [
         "consdierate",
@@ -2265,6 +2272,9 @@
     "dirglielo": [
         "dirgielo",
         "dirglelo"
+    ],
+    "disabilitato": [
+        "disabulitato"
     ],
     "disallineato": [
         "disallienato"
@@ -3436,7 +3446,8 @@
         "impsota"
     ],
     "impostare": [
-        "impstare"
+        "impstare",
+        "impsotare"
     ],
     "impostato": [
         "impsotato"
@@ -4162,6 +4173,9 @@
         "manoscrito",
         "manoscritta",
         "manoscr\u00ectto"
+    ],
+    "mantenendo": [
+        "mantendendo"
     ],
     "manteniamo": [
         " manteiamo"
@@ -5500,6 +5514,9 @@
     "pomodoro": [
         "pmodoro"
     ],
+    "popolare": [
+        "poplare"
+    ],
     "porca": [
         "proca"
     ],
@@ -5539,7 +5556,8 @@
         "possiam",
         "possimoa",
         "posiamo",
-        "possimao"
+        "possimao",
+        "posisamo"
     ],
     "possibile": [
         "possibiel",
@@ -6438,6 +6456,9 @@
     ],
     "ricordati": [
         "ricoradti"
+    ],
+    "ricordo": [
+        "ircordo"
     ],
     "ricostruire": [
         "ricotruirti"
@@ -8110,6 +8131,9 @@
         "trvare",
         "trovavre"
     ],
+    "trovarmi": [
+        "trvarmi"
+    ],
     "trovato": [
         "trovaot",
         "trvato",
@@ -8266,6 +8290,9 @@
     "valutazioni": [
         "valutaizoni"
     ],
+    "valutiamo": [
+        "valutaiamo"
+    ],
     "vanno": [
         "vano",
         "vannno"
@@ -8367,6 +8394,9 @@
         "vrificato",
         "verifficato",
         "evrificato"
+    ],
+    "verificherei": [
+        "verificehrei"
     ],
     "verranno": [
         "verrano"

@@ -17,8 +17,28 @@ matches:
   replace: Israéliens
   propagate_case: true
   word: true
+- trigger: à
+  replace: a
+  propagate_case: true
+  word: true
+- trigger: academie
+  replace: académie
+  propagate_case: true
+  word: true
 - trigger: aggression
   replace: agression
+  propagate_case: true
+  word: true
+- trigger: ale
+  replace: allé
+  propagate_case: true
+  word: true
+- trigger: allè
+  replace: allé
+  propagate_case: true
+  word: true
+- trigger: arrivee
+  replace: arrivée
   propagate_case: true
   word: true
 - trigger: arreter
@@ -27,6 +47,10 @@ matches:
   word: true
 - trigger: ascenceur
   replace: ascenseur
+  propagate_case: true
+  word: true
+- trigger: autorite
+  replace: autorité
   propagate_case: true
   word: true
 - trigger: banlieu
@@ -49,8 +73,40 @@ matches:
   replace: bleus
   propagate_case: true
   word: true
+- trigger: blame
+  replace: blâme
+  propagate_case: true
+  word: true
+- trigger: ble
+  replace: blé
+  propagate_case: true
+  word: true
+- trigger: bruler
+  replace: brûler
+  propagate_case: true
+  word: true
 - trigger: bugétaire
   replace: budgétaire
+  propagate_case: true
+  word: true
+- trigger: batiment
+  replace: bâtiment
+  propagate_case: true
+  word: true
+- trigger: cest
+  replace: c'est
+  propagate_case: true
+  word: true
+- trigger: ces
+  replace: c'est
+  propagate_case: true
+  word: true
+- trigger: ses
+  replace: c'est
+  propagate_case: true
+  word: true
+- trigger: cafe
+  replace: café
   propagate_case: true
   word: true
 - trigger: casress
@@ -69,12 +125,40 @@ matches:
   replace: cauchemars
   propagate_case: true
   word: true
+- trigger: ses
+  replace: ces
+  propagate_case: true
+  word: true
+- trigger: c'est
+  replace: ces
+  propagate_case: true
+  word: true
 - trigger: championat
   replace: championnat
   propagate_case: true
   word: true
+- trigger: chretien
+  replace: chrétien
+  propagate_case: true
+  word: true
+- trigger: chere
+  replace: chère
+  propagate_case: true
+  word: true
 - trigger: cidessus
   replace: ci-dessus
+  propagate_case: true
+  word: true
+- trigger: cloitre
+  replace: cloître
+  propagate_case: true
+  word: true
+- trigger: cle
+  replace: clé
+  propagate_case: true
+  word: true
+- trigger: college
+  replace: collège
   propagate_case: true
   word: true
 - trigger: colocateur
@@ -85,16 +169,100 @@ matches:
   replace: colophane
   propagate_case: true
   word: true
+- trigger: colere
+  replace: colère
+  propagate_case: true
+  word: true
+- trigger: comite
+  replace: comité
+  propagate_case: true
+  word: true
 - trigger: compétivité
   replace: compétitivité
+  propagate_case: true
+  word: true
+- trigger: comedie
+  replace: comédie
+  propagate_case: true
+  word: true
+- trigger: congres
+  replace: congrès
+  propagate_case: true
+  word: true
+- trigger: connaitre
+  replace: connaître
   propagate_case: true
   word: true
 - trigger: concience
   replace: conscience
   propagate_case: true
   word: true
+- trigger: considerer
+  replace: considérer
+  propagate_case: true
+  word: true
+- trigger: consequence
+  replace: conséquence
+  propagate_case: true
+  word: true
+- trigger: controle
+  replace: contrôle
+  propagate_case: true
+  word: true
+- trigger: controler
+  replace: contrôler
+  propagate_case: true
+  word: true
+- trigger: convie
+  replace: convié
+  propagate_case: true
+  word: true
 - trigger: croissement
   replace: croisement
+  propagate_case: true
+  word: true
+- trigger: croitre
+  replace: croître
+  propagate_case: true
+  word: true
+- trigger: crane
+  replace: crâne
+  propagate_case: true
+  word: true
+- trigger: creme
+  replace: crème
+  propagate_case: true
+  word: true
+- trigger: creance
+  replace: créance
+  propagate_case: true
+  word: true
+- trigger: creature
+  replace: créature
+  propagate_case: true
+  word: true
+- trigger: credit
+  replace: crédit
+  propagate_case: true
+  word: true
+- trigger: cee
+  replace: crée
+  propagate_case: true
+  word: true
+- trigger: creer
+  replace: créer
+  propagate_case: true
+  word: true
+- trigger: crete
+  replace: crête
+  propagate_case: true
+  word: true
+- trigger: cedille
+  replace: cédille
+  propagate_case: true
+  word: true
+- trigger: ceramique
+  replace: céramique
   propagate_case: true
   word: true
 - trigger: colon
@@ -105,12 +273,36 @@ matches:
   replace: côlons
   propagate_case: true
   word: true
+- trigger: degre
+  replace: degré
+  propagate_case: true
+  word: true
 - trigger: derniere
   replace: dernière
   propagate_case: true
   word: true
+- trigger: derriere
+  replace: derrière
+  propagate_case: true
+  word: true
+- trigger: disparaitre
+  replace: disparaître
+  propagate_case: true
+  word: true
 - trigger: débarasser
   replace: débarrasser
+  propagate_case: true
+  word: true
+- trigger: debats
+  replace: débat
+  propagate_case: true
+  word: true
+- trigger: debut
+  replace: début
+  propagate_case: true
+  word: true
+- trigger: decevoir
+  replace: décevoir
   propagate_case: true
   word: true
 - trigger: défète
@@ -119,6 +311,22 @@ matches:
   word: true
 - trigger: défete
   replace: défaite
+  propagate_case: true
+  word: true
+- trigger: degat
+  replace: dégât
+  propagate_case: true
+  word: true
+- trigger: dejeuner
+  replace: déjeuner
+  propagate_case: true
+  word: true
+- trigger: deja
+  replace: déjà
+  propagate_case: true
+  word: true
+- trigger: déja
+  replace: déjà
   propagate_case: true
   word: true
 - trigger: deshydrogenase
@@ -135,6 +343,26 @@ matches:
   word: true
 - trigger: entrepreunariat
   replace: entrepreneuriat
+  propagate_case: true
+  word: true
+- trigger: entrepot
+  replace: entrepôt
+  propagate_case: true
+  word: true
+- trigger: espece
+  replace: espèce
+  propagate_case: true
+  word: true
+- trigger: esperer
+  replace: espérer
+  propagate_case: true
+  word: true
+- trigger: et
+  replace: est
+  propagate_case: true
+  word: true
+- trigger: est
+  replace: et
   propagate_case: true
   word: true
 - trigger: ect.
@@ -185,6 +413,26 @@ matches:
   replace: lipofuscine
   propagate_case: true
   word: true
+- trigger: ma
+  replace: m'a
+  propagate_case: true
+  word: true
+- trigger: m'a
+  replace: ma
+  propagate_case: true
+  word: true
+- trigger: mange
+  replace: mangé
+  propagate_case: true
+  word: true
+- trigger: mangè
+  replace: mangé
+  propagate_case: true
+  word: true
+- trigger: manger
+  replace: mangé
+  propagate_case: true
+  word: true
 - trigger: merçi
   replace: merci
   propagate_case: true
@@ -197,12 +445,36 @@ matches:
   replace: niveau
   propagate_case: true
   word: true
+- trigger: ont
+  replace: 'on'
+  propagate_case: true
+  word: true
+- trigger: 'on'
+  replace: ont
+  propagate_case: true
+  word: true
+- trigger: ou
+  replace: où
+  propagate_case: true
+  word: true
 - trigger: par ci
   replace: par-ci
   propagate_case: true
   word: true
 - trigger: par la
   replace: par-la
+  propagate_case: true
+  word: true
+- trigger: parle
+  replace: parlé
+  propagate_case: true
+  word: true
+- trigger: parlè
+  replace: parlé
+  propagate_case: true
+  word: true
+- trigger: parler
+  replace: parlé
   propagate_case: true
   word: true
 - trigger: patin à roues
@@ -237,12 +509,56 @@ matches:
   replace: roder
   propagate_case: true
   word: true
+- trigger: sa
+  replace: s'a
+  propagate_case: true
+  word: true
+- trigger: s'a
+  replace: sa
+  propagate_case: true
+  word: true
 - trigger: saynette
   replace: saynète
   propagate_case: true
   word: true
+- trigger: c'est
+  replace: ses
+  propagate_case: true
+  word: true
+- trigger: ces
+  replace: ses
+  propagate_case: true
+  word: true
 - trigger: soit-disant
   replace: soi-disant
+  propagate_case: true
+  word: true
+- trigger: sont
+  replace: son
+  propagate_case: true
+  word: true
+- trigger: sont
+  replace: sons
+  propagate_case: true
+  word: true
+- trigger: son
+  replace: sont
+  propagate_case: true
+  word: true
+- trigger: sons
+  replace: sont
+  propagate_case: true
+  word: true
+- trigger: ta
+  replace: t'a
+  propagate_case: true
+  word: true
+- trigger: t'a
+  replace: ta
+  propagate_case: true
+  word: true
+- trigger: the
+  replace: thé
   propagate_case: true
   word: true
 - trigger: transexuel
@@ -255,6 +571,18 @@ matches:
   word: true
 - trigger: trompe l'oeil
   replace: trompe-l’œil
+  propagate_case: true
+  word: true
+- trigger: a
+  replace: à
+  propagate_case: true
+  word: true
+- trigger: ca
+  replace: ça
+  propagate_case: true
+  word: true
+- trigger: sa
+  replace: ça
   propagate_case: true
   word: true
 - trigger: ça et là
@@ -271,6 +599,22 @@ matches:
   word: true
 - trigger: etaits
   replace: étaits
+  propagate_case: true
+  word: true
+- trigger: etranger
+  replace: étranger
+  propagate_case: true
+  word: true
+- trigger: etudier
+  replace: étudier
+  propagate_case: true
+  word: true
+- trigger: ete
+  replace: été
+  propagate_case: true
+  word: true
+- trigger: eté
+  replace: été
   propagate_case: true
   word: true
 - trigger: etre
