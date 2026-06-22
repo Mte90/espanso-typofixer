@@ -914,6 +914,9 @@
     "beccare": [
         "becare"
     ],
+    "becchiamo": [
+        "bechciamo"
+    ],
     "bel": [
         "mel"
     ],
@@ -1121,7 +1124,8 @@
         "capise",
         "cpisce",
         "capsice",
-        "cpiasce"
+        "cpiasce",
+        "cpaisce"
     ],
     "capisci": [
         "capsici"
@@ -1588,7 +1592,8 @@
         "comunicaizone",
         "comuinicazione",
         "comuncazione",
-        "cominicaizone"
+        "cominicaizone",
+        "cominicazione"
     ],
     "comunicazioni": [
         "comunicaizoni"
@@ -1767,6 +1772,9 @@
     ],
     "consigliato": [
         "ocnsigliato"
+    ],
+    "consigliavano": [
+        "consiglivano"
     ],
     "consiglio": [
         "consilgio",
@@ -2282,6 +2290,9 @@
     "disattivare": [
         "diattivare",
         "disativare"
+    ],
+    "disattivato": [
+        "disativato"
     ],
     "disattiviamo": [
         "disattivamo"
@@ -2820,6 +2831,9 @@
     "fatemelo": [
         "ffatemelo"
     ],
+    "fatta": [
+        "aftta"
+    ],
     "fatti": [
         "faftti",
         "fati"
@@ -3063,6 +3077,9 @@
     "funzionino": [
         "funzionico"
     ],
+    "fuorviante": [
+        "fuorvianete"
+    ],
     "furgoncino": [
         "furgonicno"
     ],
@@ -3262,7 +3279,8 @@
         "guato"
     ],
     "guardando": [
-        "guardandno"
+        "guardandno",
+        "guarando"
     ],
     "guardarli": [
         "giardarli"
@@ -3470,6 +3488,9 @@
         "i\u00f1",
         "iin"
     ],
+    "inbattuta": [
+        "imbatuta"
+    ],
     "incastrare": [
         "icastrare"
     ],
@@ -3596,6 +3617,9 @@
         "inizare",
         "inizire"
     ],
+    "inizierei": [
+        "inizieri"
+    ],
     "innalzati": [
         "inalzati"
     ],
@@ -3627,7 +3651,8 @@
         "insguano"
     ],
     "inserire": [
-        "isnerire"
+        "isnerire",
+        "inseire"
     ],
     "inserirli": [
         "isnerirli"
@@ -4411,7 +4436,8 @@
     ],
     "migliorato": [
         "miglirato",
-        "migliroato"
+        "migliroato",
+        "miglioreato"
     ],
     "migliorava": [
         "migliroava"
@@ -4823,6 +4849,9 @@
     "optimized": [
         "optiomized"
     ],
+    "opzionali": [
+        "opzioneli"
+    ],
     "opzione": [
         "zopione",
         "opzine",
@@ -5189,6 +5218,9 @@
     "partiva": [
         "parrtiva",
         "aprtiva"
+    ],
+    "partono": [
+        "partno"
     ],
     "parzialmente": [
         "pazrialmente"
@@ -5557,7 +5589,8 @@
         "possimoa",
         "posiamo",
         "possimao",
-        "posisamo"
+        "posisamo",
+        "posismao"
     ],
     "possibile": [
         "possibiel",
@@ -6693,6 +6726,9 @@
     "riscrive": [
         "rischirve"
     ],
+    "riscrivendo": [
+        "risciervendo"
+    ],
     "risolto": [
         "rosolto",
         "rioslto",
@@ -7485,6 +7521,9 @@
         "snono",
         "soono"
     ],
+    "sopporto": [
+        "sopprto"
+    ],
     "sopraggiunta": [
         "sopragginta"
     ],
@@ -8181,7 +8220,8 @@
         "uttto"
     ],
     "ufficiale": [
-        "ufficile"
+        "ufficile",
+        "utfficiale"
     ],
     "ufficialmente": [
         "ufficiaalmente",
@@ -8247,6 +8287,9 @@
     ],
     "usate": [
         "suate"
+    ],
+    "uscire": [
+        "sucire"
     ],
     "usiamo": [
         "usaiamo"
@@ -8334,7 +8377,8 @@
     ],
     "vediamo": [
         "vediam",
-        "veidamo"
+        "veidamo",
+        "veddiamo"
     ],
     "vedo": [
         "evdo",
@@ -8524,6 +8568,9 @@
     "volevo": [
         "voelvo",
         "veolvo"
+    ],
+    "volo": [
+        "ovlo"
     ],
     "volontari": [
         "ovltnoari"
