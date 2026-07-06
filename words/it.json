@@ -367,13 +367,17 @@
         "alora",
         "allroa"
     ],
+    "allucinazioni": [
+        "allcuinazioni"
+    ],
     "almeno": [
         "almneo",
         "lameno",
         "almeo",
         "alneno",
         "aleno",
-        "alnmeno"
+        "alnmeno",
+        "alemno"
     ],
     "alternativa": [
         "alternatva"
@@ -470,7 +474,8 @@
     "ancora": [
         "ancoran",
         "acora",
-        "ancoraq"
+        "ancoraq",
+        "anora"
     ],
     "andando": [
         "anando"
@@ -682,6 +687,9 @@
     ],
     "aspettavo": [
         "aspetavo"
+    ],
+    "aspetti": [
+        "apsetti"
     ],
     "aspettiamo": [
         "aspttiamo",
@@ -992,6 +1000,9 @@
     "blocchi": [
         "blochci"
     ],
+    "blocchiamo": [
+        "blocciamo"
+    ],
     "bombardando": [
         "bombarando"
     ],
@@ -1154,6 +1165,9 @@
     ],
     "cappellata": [
         "cappellatta"
+    ],
+    "caratteri": [
+        "caretteri"
     ],
     "caratteristiche": [
         "carettaristiche"
@@ -1360,7 +1374,8 @@
         "lcassi"
     ],
     "classificatore": [
-        "cassificatore"
+        "cassificatore",
+        "classifiactore"
     ],
     "clicchi": [
         "clicci"
@@ -1590,6 +1605,9 @@
     "comunicare": [
         "counicare",
         "comuinicare"
+    ],
+    "comunicativo": [
+        "comuniactivo"
     ],
     "comunicazione": [
         "comunicziaone",
@@ -2041,6 +2059,9 @@
     ],
     "dashboard": [
         "dasbhoard"
+    ],
+    "davide": [
+        "davde"
     ],
     "davvero": [
         "davero",
@@ -2661,6 +2682,9 @@
         "epserienza",
         "espereienza"
     ],
+    "esperto": [
+        "erspeto"
+    ],
     "esponiamo": [
         "esponaimo"
     ],
@@ -3161,6 +3185,9 @@
     "giorgia": [
         "gioriga"
     ],
+    "giornaliero": [
+        "gironaliero"
+    ],
     "giornata": [
         "gioranta"
     ],
@@ -3276,6 +3303,9 @@
     ],
     "gruppi": [
         "gurppi"
+    ],
+    "gruppo": [
+        "grupo"
     ],
     "guadagnare": [
         "guadaganre"
@@ -3623,6 +3653,9 @@
     ],
     "inizia": [
         "iniza"
+    ],
+    "iniziamo": [
+        "inizimo"
     ],
     "iniziando": [
         "iniziado"
@@ -4761,6 +4794,9 @@
         "nuovametne",
         "nuovamnte"
     ],
+    "nuovo": [
+        "nuo"
+    ],
     "obbligatorie": [
         "obbilgiatorie"
     ],
@@ -5555,7 +5591,8 @@
     ],
     "pomeriggio": [
         "pomerigigo",
-        "poermiggio"
+        "poermiggio",
+        "pomerigio"
     ],
     "pomodoro": [
         "pmodoro"
@@ -5864,7 +5901,8 @@
         "probema",
         "prolema",
         "porblema",
-        "probelma"
+        "probelma",
+        "prblema"
     ],
     "problemi": [
         "provlemi",
@@ -5892,7 +5930,8 @@
         "pr\u00f2dotto"
     ],
     "produzione": [
-        "produzioen"
+        "produzioen",
+        "rpdozuione"
     ],
     "professionale": [
         "profesisonale"
@@ -6299,6 +6338,9 @@
         "rappresentaza",
         "rappreentanza"
     ],
+    "razionalizzare": [
+        "razinalizzare"
+    ],
     "razzia": [
         "razia"
     ],
@@ -6544,7 +6586,8 @@
         "reisco",
         "riesc",
         "risco",
-        "rieso"
+        "rieso",
+        "rieco"
     ],
     "rifacciamo": [
         "rifaciamo"
@@ -7132,7 +7175,8 @@
         "scrritto",
         "sctitto",
         "srittp",
-        "sciitto"
+        "sciitto",
+        "srcitto"
     ],
     "scrittura": [
         "scrittra"
@@ -7169,6 +7213,9 @@
     ],
     "scrivilo": [
         "scrivlo"
+    ],
+    "scrivo": [
+        "srivo"
     ],
     "scrivono": [
         "scrivvono",
@@ -7338,7 +7385,8 @@
     "servizio": [
         "servioz",
         "serivioz",
-        "serivizio"
+        "serivizio",
+        "servoizio"
     ],
     "servono": [
         "serovno",
@@ -7380,6 +7428,9 @@
     ],
     "sfugge": [
         "sfuge"
+    ],
+    "sguardo": [
+        "sgurdo"
     ],
     "siamo": [
         "siao"
@@ -7741,6 +7792,9 @@
     ],
     "stato": [
         "stto"
+    ],
+    "statuto": [
+        "statuo"
     ],
     "stava": [
         "satava"
@@ -8285,7 +8339,8 @@
         "undertand"
     ],
     "unico": [
-        "unoca"
+        "unoca",
+        "uncio"
     ],
     "universitari": [
         "unviersitari"
@@ -8370,6 +8425,9 @@
     "vari": [
         "varri"
     ],
+    "variabili": [
+        "variaibli"
+    ],
     "variazioni": [
         "variaizoni"
     ],
@@ -8418,7 +8476,8 @@
         "vednere"
     ],
     "vendergli": [
-        "venrergli"
+        "venrergli",
+        "venderlgi"
     ],
     "vendiamo": [
         "nvediamo",
