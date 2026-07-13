@@ -107,6 +107,9 @@
     "accontertarti": [
         "acocntentarti"
     ],
+    "accoppiato": [
+        "accopiato"
+    ],
     "accordarmi": [
         "accrdarmi"
     ],
@@ -1309,6 +1312,9 @@
     "chiavi": [
         "chivai"
     ],
+    "chieda": [
+        "cheda"
+    ],
     "chiede": [
         "chide",
         "cheide"
@@ -1461,6 +1467,9 @@
     ],
     "cominciando": [
         "comnciando"
+    ],
+    "cominciare": [
+        "cominicare"
     ],
     "cominciato": [
         "cominicato"
@@ -1668,6 +1677,9 @@
     ],
     "condizioni": [
         "codnizioni"
+    ],
+    "condominiale": [
+        "condominale"
     ],
     "condotta": [
         "condatta"
@@ -2349,6 +2361,9 @@
     "disiscrivermi": [
         "discrevermi"
     ],
+    "disiscriversi": [
+        "discriversi"
+    ],
     "disistallare": [
         "disistalalre"
     ],
@@ -2484,7 +2499,8 @@
         "dottorre"
     ],
     "dove": [
-        "doev"
+        "doev",
+        "dvoe"
     ],
     "dovere": [
         "dov\u00e9re",
@@ -2786,7 +2802,8 @@
     "faccio": [
         "facco",
         "facico",
-        "facio"
+        "facio",
+        "fafccio"
     ],
     "facemmo": [
         "facemo"
@@ -2794,7 +2811,8 @@
     "facendo": [
         "afcendo",
         "facndo",
-        "acendo"
+        "acendo",
+        "fadcendo"
     ],
     "facile": [
         "faciel",
@@ -2823,6 +2841,9 @@
     "fanno": [
         "fano",
         "fannno"
+    ],
+    "farcela": [
+        "fardcela"
     ],
     "fare": [
         "frare",
@@ -3752,6 +3773,9 @@
         "iuntanto",
         "inanto"
     ],
+    "integrare": [
+        "intregrare"
+    ],
     "integrarlo": [
         "integral"
     ],
@@ -3781,6 +3805,9 @@
     ],
     "intenzione": [
         "intezione"
+    ],
+    "interagirci": [
+        "itneragirci"
     ],
     "interattivi": [
         "interativi"
@@ -4379,7 +4406,8 @@
         "messaggi"
     ],
     "messo": [
-        "meso"
+        "meso",
+        "mesos"
     ],
     "meteo": [
         "emteo"
@@ -4578,6 +4606,9 @@
     "momentaneamente": [
         "momentanemanete"
     ],
+    "momenti": [
+        "moemnti"
+    ],
     "momento": [
         "moento",
         "moemnto"
@@ -4620,6 +4651,9 @@
     ],
     "nasconde": [
         "ansconde"
+    ],
+    "nascondere": [
+        "mascondere"
     ],
     "nascosta": [
         "nasconsta"
@@ -4785,7 +4819,8 @@
     "numero": [
         "numeor",
         "numeto",
-        "munero"
+        "munero",
+        "numro"
     ],
     "nuova": [
         "nuvoa"
@@ -5859,7 +5894,8 @@
         "prevsioni"
     ],
     "previsto": [
-        "previsot"
+        "previsot",
+        "porevisto"
     ],
     "prezzo": [
         "prrzzo",
@@ -6190,7 +6226,8 @@
     "qualcosa": [
         "quaclosa",
         "qualcoa",
-        "qualcoas"
+        "qualcoas",
+        "qualosa"
     ],
     "qualcuno": [
         "qulaucno",
@@ -6855,6 +6892,9 @@
     "rispondervi": [
         "rispndervi"
     ],
+    "rispondevamo": [
+        "rispindevamo"
+    ],
     "risponditore": [
         "rispnditore"
     ],
@@ -6949,6 +6989,9 @@
     "rivedere": [
         "rivedre"
     ],
+    "rivendete": [
+        "rivendente"
+    ],
     "rivisitato": [
         "rivistato"
     ],
@@ -7027,6 +7070,9 @@
     "sarebbe": [
         "sarebe",
         "sarbebe"
+    ],
+    "sarebbero": [
+        "sarebero"
     ],
     "sbagliata": [
         "sbaglaita"
@@ -8352,6 +8398,9 @@
         "unviersit\u00e0",
         "universita"
     ],
+    "urgenze": [
+        "ugenze"
+    ],
     "usabile": [
         "suabile"
     ],
@@ -8389,6 +8438,9 @@
     ],
     "utilizzare": [
         "utilizzre"
+    ],
+    "utilizzo": [
+        " otulizzo"
     ],
     "vacanze": [
         "vancaze",
