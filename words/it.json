@@ -283,6 +283,7 @@
         "aggiungimaoli"
     ],
     "aggiungo": [
+        "agigungo",
         "agigungo"
     ],
     "aggiungono": [
@@ -1125,6 +1126,9 @@
     "cancellazione": [
         "cancellzione"
     ],
+    "cancellerebbe": [
+        "canellerebbe"
+    ],
     "cancello": [
         "cacnello"
     ],
@@ -1188,6 +1192,9 @@
     "caricato": [
         "carricato",
         "aricato"
+    ],
+    "carico": [
+        "cariico"
     ],
     "carriera": [
         "carrira",
@@ -2247,7 +2254,8 @@
         "dilletante"
     ],
     "dimenticato": [
-        "dimetnicato"
+        "dimetnicato",
+        "dimeneticato"
     ],
     "dimentichiamo": [
         "dimenticiamo"
@@ -5938,7 +5946,8 @@
         "prolema",
         "porblema",
         "probelma",
-        "prblema"
+        "prblema",
+        "prpoblema"
     ],
     "problemi": [
         "provlemi",
@@ -8565,6 +8574,9 @@
     "verificando": [
         "verificano",
         "verificndo"
+    ],
+    "verificare": [
+        "veriicare"
     ],
     "verificasse": [
         "verifacasse"
