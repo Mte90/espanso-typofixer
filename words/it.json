@@ -593,7 +593,8 @@
     ],
     "andavano": [
         "anvano",
-        "adnavano"
+        "adnavano",
+        "andvano"
     ],
     "andrebbe": [
         "andrebeb",
@@ -677,9 +678,13 @@
         "apprire",
         "apaprire"
     ],
+    "appassionati": [
+        "appasisonati"
+    ],
     "appena": [
         "appean",
-        "apepna"
+        "apepna",
+        "apena"
     ],
     "applicazioni": [
         "applicaizoni",
@@ -804,6 +809,9 @@
     "ascolti": [
         "ascolit",
         "acsolti"
+    ],
+    "asincrona": [
+        "ascinrona"
     ],
     "aspetta": [
         "aspeta",
@@ -950,6 +958,9 @@
     "aumentano": [
         "aumentnao",
         "amuentano"
+    ],
+    "autenticato": [
+        "autenciato"
     ],
     "autenticazione": [
         "autenticaizone",
@@ -1374,7 +1385,8 @@
     ],
     "cancello": [
         "cacnello",
-        "cnacello"
+        "cnacello",
+        "cencello"
     ],
     "candida": [
         "candinda",
@@ -2110,6 +2122,9 @@
     "confonderci": [
         "convorderci",
         "cnofonderci"
+    ],
+    "confronto": [
+        "confroto"
     ],
     "confusione": [
         "confusioen",
@@ -3430,7 +3445,8 @@
     ],
     "facilmente": [
         "facilemten",
-        "fcailmente"
+        "fcailmente",
+        "facilemente"
     ],
     "fai": [
         "fafi"
@@ -4360,6 +4376,9 @@
     "indagare": [
         "inagare",
         "idnagare"
+    ],
+    "indeterminato": [
+        "indetwrminato"
     ],
     "indicare": [
         "indiciare",
@@ -6595,7 +6614,8 @@
     "perfetto": [
         "perfeto",
         "pereftto",
-        "eprfetto"
+        "eprfetto",
+        "perfeftto"
     ],
     "performance": [
         "perfromance",
@@ -6877,7 +6897,8 @@
     ],
     "possono": [
         "posono",
-        "psosono"
+        "psosono",
+        "pososno"
     ],
     "poste": [
         "spote",
@@ -7130,7 +7151,8 @@
     ],
     "previsto": [
         "previsot",
-        "porevisto"
+        "porevisto",
+        "prveisto"
     ],
     "prezzo": [
         "prrzzo",
@@ -8142,6 +8164,9 @@
         "rimobrsate",
         "rmiborsate"
     ],
+    "rimborsato": [
+        "rmborsato"
+    ],
     "rimborso": [
         "romborso",
         "rmiborso"
@@ -9130,7 +9155,8 @@
     ],
     "sistemando": [
         "sitemando",
-        "sistmando"
+        "sistmando",
+        "sistemado"
     ],
     "sistemare": [
         "sistamre",
@@ -10311,7 +10337,8 @@
     ],
     "vedo": [
         "evdo",
-        "veod"
+        "veod",
+        "veo"
     ],
     "vedrei": [
         "vederi",
