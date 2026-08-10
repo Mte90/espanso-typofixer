@@ -1,627 +1,727 @@
 name: typofixer-fr
 parent: default
 matches:
-- trigger: cène
+- triggers:
+  - cène
   replace: Cène
   propagate_case: true
   word: true
-- trigger: Guyana
+- triggers:
+  - Guyana
   replace: Guiana
   propagate_case: true
   word: true
-- trigger: Israëlien
+- triggers:
+  - Israëlien
   replace: Israélien
   propagate_case: true
   word: true
-- trigger: Israëliens
+- triggers:
+  - Israëliens
   replace: Israéliens
   propagate_case: true
   word: true
-- trigger: à
+- triggers:
+  - à
   replace: a
   propagate_case: true
   word: true
-- trigger: academie
+- triggers:
+  - academie
   replace: académie
   propagate_case: true
   word: true
-- trigger: aggression
+- triggers:
+  - aggression
   replace: agression
   propagate_case: true
   word: true
-- trigger: ale
+- triggers:
+  - ale
+  - allè
   replace: allé
   propagate_case: true
   word: true
-- trigger: allè
-  replace: allé
-  propagate_case: true
-  word: true
-- trigger: arrivee
+- triggers:
+  - arrivee
   replace: arrivée
   propagate_case: true
   word: true
-- trigger: arreter
+- triggers:
+  - arreter
   replace: arrêter
   propagate_case: true
   word: true
-- trigger: ascenceur
+- triggers:
+  - ascenceur
   replace: ascenseur
   propagate_case: true
   word: true
-- trigger: autorite
+- triggers:
+  - autorite
   replace: autorité
   propagate_case: true
   word: true
-- trigger: banlieu
+- triggers:
+  - banlieu
   replace: banlieue
   propagate_case: true
   word: true
-- trigger: banlieux
+- triggers:
+  - banlieux
   replace: banlieues
   propagate_case: true
   word: true
-- trigger: belle-soeur
+- triggers:
+  - belle-soeur
   replace: belle-sœur
   propagate_case: true
   word: true
-- trigger: bitter
+- triggers:
+  - bitter
   replace: biter
   propagate_case: true
   word: true
-- trigger: bleux
+- triggers:
+  - bleux
   replace: bleus
   propagate_case: true
   word: true
-- trigger: blame
+- triggers:
+  - blame
   replace: blâme
   propagate_case: true
   word: true
-- trigger: ble
+- triggers:
+  - ble
   replace: blé
   propagate_case: true
   word: true
-- trigger: bruler
+- triggers:
+  - bruler
   replace: brûler
   propagate_case: true
   word: true
-- trigger: bugétaire
+- triggers:
+  - bugétaire
   replace: budgétaire
   propagate_case: true
   word: true
-- trigger: batiment
+- triggers:
+  - batiment
   replace: bâtiment
   propagate_case: true
   word: true
-- trigger: cest
+- triggers:
+  - cest
+  - ces
+  - ses
   replace: c'est
   propagate_case: true
   word: true
-- trigger: ces
-  replace: c'est
-  propagate_case: true
-  word: true
-- trigger: ses
-  replace: c'est
-  propagate_case: true
-  word: true
-- trigger: cafe
+- triggers:
+  - cafe
   replace: café
   propagate_case: true
   word: true
-- trigger: casress
+- triggers:
+  - casress
   replace: caresse
   propagate_case: true
   word: true
-- trigger: cathéchisme
+- triggers:
+  - cathéchisme
   replace: catéchisme
   propagate_case: true
   word: true
-- trigger: cauchemard
+- triggers:
+  - cauchemard
   replace: cauchemar
   propagate_case: true
   word: true
-- trigger: cauchemards
+- triggers:
+  - cauchemards
   replace: cauchemars
   propagate_case: true
   word: true
-- trigger: ses
+- triggers:
+  - ses
+  - c'est
   replace: ces
   propagate_case: true
   word: true
-- trigger: c'est
-  replace: ces
-  propagate_case: true
-  word: true
-- trigger: championat
+- triggers:
+  - championat
   replace: championnat
   propagate_case: true
   word: true
-- trigger: chretien
+- triggers:
+  - chretien
   replace: chrétien
   propagate_case: true
   word: true
-- trigger: chere
+- triggers:
+  - chere
   replace: chère
   propagate_case: true
   word: true
-- trigger: cidessus
+- triggers:
+  - cidessus
   replace: ci-dessus
   propagate_case: true
   word: true
-- trigger: cloitre
+- triggers:
+  - cloitre
   replace: cloître
   propagate_case: true
   word: true
-- trigger: cle
+- triggers:
+  - cle
   replace: clé
   propagate_case: true
   word: true
-- trigger: college
+- triggers:
+  - college
   replace: collège
   propagate_case: true
   word: true
-- trigger: colocateur
+- triggers:
+  - colocateur
   replace: colocataire
   propagate_case: true
   word: true
-- trigger: collophane
+- triggers:
+  - collophane
   replace: colophane
   propagate_case: true
   word: true
-- trigger: colere
+- triggers:
+  - colere
   replace: colère
   propagate_case: true
   word: true
-- trigger: comite
+- triggers:
+  - comite
   replace: comité
   propagate_case: true
   word: true
-- trigger: compétivité
+- triggers:
+  - compétivité
   replace: compétitivité
   propagate_case: true
   word: true
-- trigger: comedie
+- triggers:
+  - comedie
   replace: comédie
   propagate_case: true
   word: true
-- trigger: congres
+- triggers:
+  - congres
   replace: congrès
   propagate_case: true
   word: true
-- trigger: connaitre
+- triggers:
+  - connaitre
   replace: connaître
   propagate_case: true
   word: true
-- trigger: concience
+- triggers:
+  - concience
   replace: conscience
   propagate_case: true
   word: true
-- trigger: considerer
+- triggers:
+  - considerer
   replace: considérer
   propagate_case: true
   word: true
-- trigger: consequence
+- triggers:
+  - consequence
   replace: conséquence
   propagate_case: true
   word: true
-- trigger: controle
+- triggers:
+  - controle
   replace: contrôle
   propagate_case: true
   word: true
-- trigger: controler
+- triggers:
+  - controler
   replace: contrôler
   propagate_case: true
   word: true
-- trigger: convie
+- triggers:
+  - convie
   replace: convié
   propagate_case: true
   word: true
-- trigger: croissement
+- triggers:
+  - croissement
   replace: croisement
   propagate_case: true
   word: true
-- trigger: croitre
+- triggers:
+  - croitre
   replace: croître
   propagate_case: true
   word: true
-- trigger: crane
+- triggers:
+  - crane
   replace: crâne
   propagate_case: true
   word: true
-- trigger: creme
+- triggers:
+  - creme
   replace: crème
   propagate_case: true
   word: true
-- trigger: creance
+- triggers:
+  - creance
   replace: créance
   propagate_case: true
   word: true
-- trigger: creature
+- triggers:
+  - creature
   replace: créature
   propagate_case: true
   word: true
-- trigger: credit
+- triggers:
+  - credit
   replace: crédit
   propagate_case: true
   word: true
-- trigger: cee
+- triggers:
+  - cee
   replace: crée
   propagate_case: true
   word: true
-- trigger: creer
+- triggers:
+  - creer
   replace: créer
   propagate_case: true
   word: true
-- trigger: crete
+- triggers:
+  - crete
   replace: crête
   propagate_case: true
   word: true
-- trigger: cedille
+- triggers:
+  - cedille
   replace: cédille
   propagate_case: true
   word: true
-- trigger: ceramique
+- triggers:
+  - ceramique
   replace: céramique
   propagate_case: true
   word: true
-- trigger: colon
+- triggers:
+  - colon
   replace: côlon
   propagate_case: true
   word: true
-- trigger: colons
+- triggers:
+  - colons
   replace: côlons
   propagate_case: true
   word: true
-- trigger: degre
+- triggers:
+  - degre
   replace: degré
   propagate_case: true
   word: true
-- trigger: derniere
+- triggers:
+  - derniere
   replace: dernière
   propagate_case: true
   word: true
-- trigger: derriere
+- triggers:
+  - derriere
   replace: derrière
   propagate_case: true
   word: true
-- trigger: disparaitre
+- triggers:
+  - disparaitre
   replace: disparaître
   propagate_case: true
   word: true
-- trigger: débarasser
+- triggers:
+  - débarasser
   replace: débarrasser
   propagate_case: true
   word: true
-- trigger: debats
+- triggers:
+  - debats
   replace: débat
   propagate_case: true
   word: true
-- trigger: debut
+- triggers:
+  - debut
   replace: début
   propagate_case: true
   word: true
-- trigger: decevoir
+- triggers:
+  - decevoir
   replace: décevoir
   propagate_case: true
   word: true
-- trigger: défète
+- triggers:
+  - défète
+  - défete
   replace: défaite
   propagate_case: true
   word: true
-- trigger: défete
-  replace: défaite
-  propagate_case: true
-  word: true
-- trigger: degat
+- triggers:
+  - degat
   replace: dégât
   propagate_case: true
   word: true
-- trigger: dejeuner
+- triggers:
+  - dejeuner
   replace: déjeuner
   propagate_case: true
   word: true
-- trigger: deja
+- triggers:
+  - deja
+  - déja
   replace: déjà
   propagate_case: true
   word: true
-- trigger: déja
-  replace: déjà
-  propagate_case: true
-  word: true
-- trigger: deshydrogenase
+- triggers:
+  - deshydrogenase
   replace: déshydrogénase
   propagate_case: true
   word: true
-- trigger: ellesmêmes
+- triggers:
+  - ellesmêmes
   replace: elles-mêmes
   propagate_case: true
   word: true
-- trigger: entre-gens
+- triggers:
+  - entre-gens
   replace: entregent
   propagate_case: true
   word: true
-- trigger: entrepreunariat
+- triggers:
+  - entrepreunariat
   replace: entrepreneuriat
   propagate_case: true
   word: true
-- trigger: entrepot
+- triggers:
+  - entrepot
   replace: entrepôt
   propagate_case: true
   word: true
-- trigger: espece
+- triggers:
+  - espece
   replace: espèce
   propagate_case: true
   word: true
-- trigger: esperer
+- triggers:
+  - esperer
   replace: espérer
   propagate_case: true
   word: true
-- trigger: et
+- triggers:
+  - et
   replace: est
   propagate_case: true
   word: true
-- trigger: est
+- triggers:
+  - est
   replace: et
   propagate_case: true
   word: true
-- trigger: ect.
+- triggers:
+  - ect.
   replace: etc.
   propagate_case: true
   word: true
-- trigger: experimental
+- triggers:
+  - experimental
   replace: expérimental
   propagate_case: true
   word: true
-- trigger: fachisme
+- triggers:
+  - fachisme
   replace: fascisme
   propagate_case: true
   word: true
-- trigger: fachismes
+- triggers:
+  - fachismes
   replace: fascismes
   propagate_case: true
   word: true
-- trigger: fachiste
+- triggers:
+  - fachiste
   replace: fasciste
   propagate_case: true
   word: true
-- trigger: fachistes
+- triggers:
+  - fachistes
   replace: fascistes
   propagate_case: true
   word: true
-- trigger: flotilles
+- triggers:
+  - flotilles
   replace: flotrilles
   propagate_case: true
   word: true
-- trigger: flotille
+- triggers:
+  - flotille
   replace: flottille
   propagate_case: true
   word: true
-- trigger: fœhn
+- triggers:
+  - fœhn
   replace: foehn
   propagate_case: true
   word: true
-- trigger: içi
+- triggers:
+  - içi
   replace: ici
   propagate_case: true
   word: true
-- trigger: inclu
+- triggers:
+  - inclu
   replace: inclus
   propagate_case: true
   word: true
-- trigger: lipofucsine
+- triggers:
+  - lipofucsine
   replace: lipofuscine
   propagate_case: true
   word: true
-- trigger: ma
+- triggers:
+  - ma
   replace: m'a
   propagate_case: true
   word: true
-- trigger: m'a
+- triggers:
+  - m'a
   replace: ma
   propagate_case: true
   word: true
-- trigger: mange
+- triggers:
+  - mange
+  - mangè
+  - manger
   replace: mangé
   propagate_case: true
   word: true
-- trigger: mangè
-  replace: mangé
-  propagate_case: true
-  word: true
-- trigger: manger
-  replace: mangé
-  propagate_case: true
-  word: true
-- trigger: merçi
+- triggers:
+  - merçi
   replace: merci
   propagate_case: true
   word: true
-- trigger: merveilleu
+- triggers:
+  - merveilleu
   replace: merveilleux
   propagate_case: true
   word: true
-- trigger: nivau
+- triggers:
+  - nivau
   replace: niveau
   propagate_case: true
   word: true
-- trigger: ont
+- triggers:
+  - ont
   replace: 'on'
   propagate_case: true
   word: true
-- trigger: 'on'
+- triggers:
+  - 'on'
   replace: ont
   propagate_case: true
   word: true
-- trigger: ou
+- triggers:
+  - ou
   replace: où
   propagate_case: true
   word: true
-- trigger: par ci
+- triggers:
+  - par ci
   replace: par-ci
   propagate_case: true
   word: true
-- trigger: par la
+- triggers:
+  - par la
   replace: par-la
   propagate_case: true
   word: true
-- trigger: parle
+- triggers:
+  - parle
+  - parlè
+  - parler
   replace: parlé
   propagate_case: true
   word: true
-- trigger: parlè
-  replace: parlé
-  propagate_case: true
-  word: true
-- trigger: parler
-  replace: parlé
-  propagate_case: true
-  word: true
-- trigger: patin à roues
+- triggers:
+  - patin à roues
   replace: patin à roulettes
   propagate_case: true
   word: true
-- trigger: pendre la crémallière
+- triggers:
+  - pendre la crémallière
   replace: pendre la crémaillère
   propagate_case: true
   word: true
-- trigger: peut être
+- triggers:
+  - peut être
   replace: peut-être
   propagate_case: true
   word: true
-- trigger: pouasse
+- triggers:
+  - pouasse
   replace: poisse
   propagate_case: true
   word: true
-- trigger: pourpalers
+- triggers:
+  - pourpalers
   replace: pourparlers
   propagate_case: true
   word: true
-- trigger: protége
+- triggers:
+  - protége
   replace: protège
   propagate_case: true
   word: true
-- trigger: qualitée
+- triggers:
+  - qualitée
   replace: qualité
   propagate_case: true
   word: true
-- trigger: rôder
+- triggers:
+  - rôder
   replace: roder
   propagate_case: true
   word: true
-- trigger: sa
+- triggers:
+  - sa
   replace: s'a
   propagate_case: true
   word: true
-- trigger: s'a
+- triggers:
+  - s'a
   replace: sa
   propagate_case: true
   word: true
-- trigger: saynette
+- triggers:
+  - saynette
   replace: saynète
   propagate_case: true
   word: true
-- trigger: c'est
+- triggers:
+  - c'est
+  - ces
   replace: ses
   propagate_case: true
   word: true
-- trigger: ces
-  replace: ses
-  propagate_case: true
-  word: true
-- trigger: soit-disant
+- triggers:
+  - soit-disant
   replace: soi-disant
   propagate_case: true
   word: true
-- trigger: sont
+- triggers:
+  - sont
   replace: son
   propagate_case: true
   word: true
-- trigger: sont
+- triggers:
+  - sont
   replace: sons
   propagate_case: true
   word: true
-- trigger: son
+- triggers:
+  - son
+  - sons
   replace: sont
   propagate_case: true
   word: true
-- trigger: sons
-  replace: sont
-  propagate_case: true
-  word: true
-- trigger: ta
+- triggers:
+  - ta
   replace: t'a
   propagate_case: true
   word: true
-- trigger: t'a
+- triggers:
+  - t'a
   replace: ta
   propagate_case: true
   word: true
-- trigger: the
+- triggers:
+  - the
   replace: thé
   propagate_case: true
   word: true
-- trigger: transexuel
+- triggers:
+  - transexuel
   replace: transsexuel
   propagate_case: true
   word: true
-- trigger: transexuels
+- triggers:
+  - transexuels
   replace: transsexuels
   propagate_case: true
   word: true
-- trigger: trompe l'oeil
+- triggers:
+  - trompe l'oeil
   replace: trompe-l’œil
   propagate_case: true
   word: true
-- trigger: a
+- triggers:
+  - a
   replace: à
   propagate_case: true
   word: true
-- trigger: ca
+- triggers:
+  - ca
+  - sa
   replace: ça
   propagate_case: true
   word: true
-- trigger: sa
-  replace: ça
-  propagate_case: true
-  word: true
-- trigger: ça et là
+- triggers:
+  - ça et là
   replace: çà et là
   propagate_case: true
   word: true
-- trigger: etaient
+- triggers:
+  - etaient
   replace: étaient
   propagate_case: true
   word: true
-- trigger: etait
+- triggers:
+  - etait
   replace: était
   propagate_case: true
   word: true
-- trigger: etaits
+- triggers:
+  - etaits
   replace: étaits
   propagate_case: true
   word: true
-- trigger: etranger
+- triggers:
+  - etranger
   replace: étranger
   propagate_case: true
   word: true
-- trigger: etudier
+- triggers:
+  - etudier
   replace: étudier
   propagate_case: true
   word: true
-- trigger: ete
+- triggers:
+  - ete
+  - eté
   replace: été
   propagate_case: true
   word: true
-- trigger: eté
-  replace: été
-  propagate_case: true
-  word: true
-- trigger: etre
+- triggers:
+  - etre
   replace: être
   propagate_case: true
   word: true
-- trigger: ilôt
+- triggers:
+  - ilôt
   replace: îlot
   propagate_case: true
   word: true

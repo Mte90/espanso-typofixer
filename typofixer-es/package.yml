@@ -1,1023 +1,1130 @@
 name: typofixer-es
 parent: default
 matches:
-- trigger: Carcas
+- triggers:
+  - Carcas
   replace: Caracas
   propagate_case: true
   word: true
-- trigger: aveces
+- triggers:
+  - aveces
   replace: a veces
   propagate_case: true
   word: true
-- trigger: haber
+- triggers:
+  - haber
   replace: a ver
   propagate_case: true
   word: true
-- trigger: abandoran
+- triggers:
+  - abandoran
+  - abandoanr
   replace: abandonar
   propagate_case: true
   word: true
-- trigger: abandoanr
-  replace: abandonar
-  propagate_case: true
-  word: true
-- trigger: aca
+- triggers:
+  - aca
   replace: acá
   propagate_case: true
   word: true
-- trigger: ademas
+- triggers:
+  - ademas
   replace: además
   propagate_case: true
   word: true
-- trigger: addios
+- triggers:
+  - addios
   replace: adios
   propagate_case: true
   word: true
-- trigger: adulterdo
+- triggers:
+  - adulterdo
   replace: adulterado
   propagate_case: true
   word: true
-- trigger: aficion
+- triggers:
+  - aficion
   replace: afición
   propagate_case: true
   word: true
-- trigger: afirmasión
+- triggers:
+  - afirmasión
   replace: afirmación
   propagate_case: true
   word: true
-- trigger: ay
+- triggers:
+  - ay
   replace: ahí
   propagate_case: true
   word: true
-- trigger: alegria
+- triggers:
+  - alegria
   replace: alegría
   propagate_case: true
   word: true
-- trigger: aleman
+- triggers:
+  - aleman
   replace: alemán
   propagate_case: true
   word: true
-- trigger: alli
+- triggers:
+  - alli
   replace: allí
   propagate_case: true
   word: true
-- trigger: alunmos
+- triggers:
+  - alunmos
   replace: alumnos
   propagate_case: true
   word: true
-- trigger: amorso
+- triggers:
+  - amorso
   replace: amoroso
   propagate_case: true
   word: true
-- trigger: analisis
+- triggers:
+  - analisis
   replace: análisis
   propagate_case: true
   word: true
-- trigger: aprarce
+- triggers:
+  - aprarce
   replace: aparece
   propagate_case: true
   word: true
-- trigger: aqui
+- triggers:
+  - aqui
   replace: aquí
   propagate_case: true
   word: true
-- trigger: articulo
+- triggers:
+  - articulo
   replace: artículo
   propagate_case: true
   word: true
-- trigger: asi
+- triggers:
+  - asi
   replace: así
   propagate_case: true
   word: true
-- trigger: atencion
+- triggers:
+  - atencion
   replace: atención
   propagate_case: true
   word: true
-- trigger: atras
+- triggers:
+  - atras
   replace: atrás
   propagate_case: true
   word: true
-- trigger: avansar
+- triggers:
+  - avansar
   replace: avanzar
   propagate_case: true
   word: true
-- trigger: adversión
+- triggers:
+  - adversión
   replace: aversión
   propagate_case: true
   word: true
-- trigger: avion
+- triggers:
+  - avion
   replace: avión
   propagate_case: true
   word: true
-- trigger: hay
+- triggers:
+  - hay
   replace: ay
   propagate_case: true
   word: true
-- trigger: ayudrate
+- triggers:
+  - ayudrate
   replace: ayudarte
   propagate_case: true
   word: true
-- trigger: aereo
+- triggers:
+  - aereo
   replace: aéreo
   propagate_case: true
   word: true
-- trigger: anadir
+- triggers:
+  - anadir
   replace: añadir
   propagate_case: true
   word: true
-- trigger: vajo
+- triggers:
+  - vajo
   replace: bajo
   propagate_case: true
   word: true
-- trigger: balcon
+- triggers:
+  - balcon
   replace: balcón
   propagate_case: true
   word: true
-- trigger: vanal
+- triggers:
+  - vanal
   replace: banal
   propagate_case: true
   word: true
-- trigger: bateria
+- triggers:
+  - bateria
+  - vateria
   replace: batería
   propagate_case: true
   word: true
-- trigger: vateria
-  replace: batería
-  propagate_case: true
-  word: true
-- trigger: vello
+- triggers:
+  - vello
   replace: bello
   propagate_case: true
   word: true
-- trigger: voca
+- triggers:
+  - voca
   replace: boca
   propagate_case: true
   word: true
-- trigger: beuno
+- triggers:
+  - beuno
   replace: bueno
   propagate_case: true
   word: true
-- trigger: basico
+- triggers:
+  - basico
   replace: básico
   propagate_case: true
   word: true
-- trigger: cafe
+- triggers:
+  - cafe
   replace: café
   propagate_case: true
   word: true
-- trigger: caye
+- triggers:
+  - caye
   replace: calle
   propagate_case: true
   word: true
-- trigger: cantra
+- triggers:
+  - cantra
   replace: cantar
   propagate_case: true
   word: true
-- trigger: capasidad
+- triggers:
+  - capasidad
+  - capsidad
   replace: capacidad
   propagate_case: true
   word: true
-- trigger: capsidad
-  replace: capacidad
-  propagate_case: true
-  word: true
-- trigger: capitulo
+- triggers:
+  - capitulo
   replace: capítulo
   propagate_case: true
   word: true
-- trigger: caracter
+- triggers:
+  - caracter
   replace: carácter
   propagate_case: true
   word: true
-- trigger: cassa
+- triggers:
+  - cassa
+  - kasa
   replace: casa
   propagate_case: true
   word: true
-- trigger: kasa
-  replace: casa
-  propagate_case: true
-  word: true
-- trigger: castano
+- triggers:
+  - castano
   replace: castaño
   propagate_case: true
   word: true
-- trigger: catastrofe
+- triggers:
+  - catastrofe
   replace: catástrofe
   propagate_case: true
   word: true
-- trigger: casua
+- triggers:
+  - casua
   replace: causa
   propagate_case: true
   word: true
-- trigger: llayó
+- triggers:
+  - llayó
   replace: cayó
   propagate_case: true
   word: true
-- trigger: casa
+- triggers:
+  - casa
+  - kas
   replace: caza
   propagate_case: true
   word: true
-- trigger: kas
-  replace: caza
-  propagate_case: true
-  word: true
-- trigger: sepillo
+- triggers:
+  - sepillo
   replace: cepillo
   propagate_case: true
   word: true
-- trigger: sero
+- triggers:
+  - sero
+  - zero
   replace: cero
   propagate_case: true
   word: true
-- trigger: zero
-  replace: cero
-  propagate_case: true
-  word: true
-- trigger: cervesa
+- triggers:
+  - cervesa
+  - serveza
   replace: cerveza
   propagate_case: true
   word: true
-- trigger: serveza
-  replace: cerveza
-  propagate_case: true
-  word: true
-- trigger: cienca
+- triggers:
+  - cienca
   replace: ciencia
   propagate_case: true
   word: true
-- trigger: cientifico
+- triggers:
+  - cientifico
   replace: científico
   propagate_case: true
   word: true
-- trigger: cojer
+- triggers:
+  - cojer
   replace: coger
   propagate_case: true
   word: true
-- trigger: coleccion
+- triggers:
+  - coleccion
   replace: colección
   propagate_case: true
   word: true
-- trigger: conmenzar
+- triggers:
+  - conmenzar
   replace: comenzar
   propagate_case: true
   word: true
-- trigger: comite
+- triggers:
+  - comite
   replace: comité
   propagate_case: true
   word: true
-- trigger: conumismo
+- triggers:
+  - conumismo
   replace: comunismo
   propagate_case: true
   word: true
-- trigger: comun
+- triggers:
+  - comun
   replace: común
   propagate_case: true
   word: true
-- trigger: consiensia
+- triggers:
+  - consiensia
+  - consiencia
+  - consciencia
+  - conciensia
   replace: conciencia
   propagate_case: true
   word: true
-- trigger: consiencia
-  replace: conciencia
-  propagate_case: true
-  word: true
-- trigger: consciencia
-  replace: conciencia
-  propagate_case: true
-  word: true
-- trigger: conciensia
-  replace: conciencia
-  propagate_case: true
-  word: true
-- trigger: contendo
+- triggers:
+  - contendo
   replace: contento
   propagate_case: true
   word: true
-- trigger: convalescencia
+- triggers:
+  - convalescencia
   replace: convalecencia
   propagate_case: true
   word: true
-- trigger: conversion
+- triggers:
+  - conversion
   replace: conversión
   propagate_case: true
   word: true
-- trigger: conyontura
+- triggers:
+  - conyontura
   replace: conyuntura
   propagate_case: true
   word: true
-- trigger: corazon
+- triggers:
+  - corazon
   replace: corazón
   propagate_case: true
   word: true
-- trigger: cuestion
+- triggers:
+  - cuestion
   replace: cuestión
   propagate_case: true
   word: true
-- trigger: ciudar
+- triggers:
+  - ciudar
   replace: cuidar
   propagate_case: true
   word: true
-- trigger: cumpleanos
+- triggers:
+  - cumpleanos
   replace: cumpleaños
   propagate_case: true
   word: true
-- trigger: cuando
+- triggers:
+  - cuando
   replace: cuándo
   propagate_case: true
   word: true
-- trigger: cesped
+- triggers:
+  - cesped
   replace: césped
   propagate_case: true
   word: true
-- trigger: codigo
+- triggers:
+  - codigo
   replace: código
   propagate_case: true
   word: true
-- trigger: como
+- triggers:
+  - como
   replace: cómo
   propagate_case: true
   word: true
-- trigger: comprame
+- triggers:
+  - comprame
   replace: cómprame
   propagate_case: true
   word: true
-- trigger: dano
+- triggers:
+  - dano
   replace: daño
   propagate_case: true
   word: true
-- trigger: desición
+- triggers:
+  - desición
   replace: decisión
   propagate_case: true
   word: true
-- trigger: desempeno
+- triggers:
+  - desempeno
   replace: desempeño
   propagate_case: true
   word: true
-- trigger: desabitado
+- triggers:
+  - desabitado
   replace: deshabitado
   propagate_case: true
   word: true
-- trigger: desdecho
+- triggers:
+  - desdecho
+  - desecho
   replace: deshecho
   propagate_case: true
   word: true
-- trigger: desecho
-  replace: deshecho
-  propagate_case: true
-  word: true
-- trigger: desprenderce
+- triggers:
+  - desprenderce
+  - depsenderse
   replace: desprenderse
   propagate_case: true
   word: true
-- trigger: depsenderse
-  replace: desprenderse
-  propagate_case: true
-  word: true
-- trigger: despues
+- triggers:
+  - despues
   replace: después
   propagate_case: true
   word: true
-- trigger: dificil
+- triggers:
+  - dificil
   replace: difícil
   propagate_case: true
   word: true
-- trigger: dimension
+- triggers:
+  - dimension
   replace: dimensión
   propagate_case: true
   word: true
-- trigger: direccion
+- triggers:
+  - direccion
   replace: dirección
   propagate_case: true
   word: true
-- trigger: disitintos
+- triggers:
+  - disitintos
   replace: distintos
   propagate_case: true
   word: true
-- trigger: de
+- triggers:
+  - de
   replace: dé
   propagate_case: true
   word: true
-- trigger: dia
+- triggers:
+  - dia
   replace: día
   propagate_case: true
   word: true
-- trigger: donde
+- triggers:
+  - donde
   replace: dónde
   propagate_case: true
   word: true
-- trigger: duo
+- triggers:
+  - duo
   replace: dúo
   propagate_case: true
   word: true
-- trigger: hecho
+- triggers:
+  - hecho
   replace: echo
   propagate_case: true
   word: true
-- trigger: edicion
+- triggers:
+  - edicion
   replace: edición
   propagate_case: true
   word: true
-- trigger: editorail
+- triggers:
+  - editorail
   replace: editorial
   propagate_case: true
   word: true
-- trigger: educacion
+- triggers:
+  - educacion
   replace: educación
   propagate_case: true
   word: true
-- trigger: efectiviad
+- triggers:
+  - efectiviad
   replace: efectividad
   propagate_case: true
   word: true
-- trigger: eleccion
+- triggers:
+  - eleccion
   replace: elección
   propagate_case: true
   word: true
-- trigger: emocion
+- triggers:
+  - emocion
   replace: emoción
   propagate_case: true
   word: true
-- trigger: empeno
+- triggers:
+  - empeno
   replace: empeño
   propagate_case: true
   word: true
-- trigger: empiesza
+- triggers:
+  - empiesza
   replace: empieza
   propagate_case: true
   word: true
-- trigger: energia
+- triggers:
+  - energia
   replace: energía
   propagate_case: true
   word: true
-- trigger: enfermp
+- triggers:
+  - enfermp
   replace: enfermo
   propagate_case: true
   word: true
-- trigger: enfretnarse
+- triggers:
+  - enfretnarse
   replace: enfrentarse
   propagate_case: true
   word: true
-- trigger: enferente
+- triggers:
+  - enferente
   replace: enfrente
   propagate_case: true
   word: true
-- trigger: enojadp
+- triggers:
+  - enojadp
   replace: enojado
   propagate_case: true
   word: true
-- trigger: ensenar
+- triggers:
+  - ensenar
   replace: enseñar
   propagate_case: true
   word: true
-- trigger: envio
+- triggers:
+  - envio
   replace: envío
   propagate_case: true
   word: true
-- trigger: espisodios
+- triggers:
+  - espisodios
   replace: episodios
   propagate_case: true
   word: true
-- trigger: escojer
+- triggers:
+  - escojer
   replace: escoger
   propagate_case: true
   word: true
-- trigger: excéptico
+- triggers:
+  - excéptico
   replace: escéptico
   propagate_case: true
   word: true
-- trigger: espanol
+- triggers:
+  - espanol
   replace: español
   propagate_case: true
   word: true
-- trigger: esperamso
+- triggers:
+  - esperamso
   replace: esperamos
   propagate_case: true
   word: true
-- trigger: estimaods
+- triggers:
+  - estimaods
+  - estimaos
   replace: estimados
   propagate_case: true
   word: true
-- trigger: estimaos
-  replace: estimados
-  propagate_case: true
-  word: true
-- trigger: estubiera
+- triggers:
+  - estubiera
   replace: estuviera
   propagate_case: true
   word: true
-- trigger: exalar
+- triggers:
+  - exalar
   replace: exhalar
   propagate_case: true
   word: true
-- trigger: exausto
+- triggers:
+  - exausto
   replace: exhausto
   propagate_case: true
   word: true
-- trigger: exortar
+- triggers:
+  - exortar
   replace: exhortar
   propagate_case: true
   word: true
-- trigger: exumar
+- triggers:
+  - exumar
   replace: exhumar
   propagate_case: true
   word: true
-- trigger: familai
+- triggers:
+  - familai
   replace: familia
   propagate_case: true
   word: true
-- trigger: fideligno
+- triggers:
+  - fideligno
   replace: fidedigno
   propagate_case: true
   word: true
-- trigger: frotnera
+- triggers:
+  - frotnera
   replace: frontera
   propagate_case: true
   word: true
-- trigger: facil
+- triggers:
+  - facil
   replace: fácil
   propagate_case: true
   word: true
-- trigger: garage
+- triggers:
+  - garage
   replace: garaje
   propagate_case: true
   word: true
-- trigger: genral
+- triggers:
+  - genral
+  - jeneral
+  - keneral
   replace: general
   propagate_case: true
   word: true
-- trigger: jeneral
-  replace: general
-  propagate_case: true
-  word: true
-- trigger: keneral
-  replace: general
-  propagate_case: true
-  word: true
-- trigger: jente
+- triggers:
+  - jente
+  - kente
   replace: gente
   propagate_case: true
   word: true
-- trigger: kente
-  replace: gente
-  propagate_case: true
-  word: true
-- trigger: glosairo
+- triggers:
+  - glosairo
   replace: glosario
   propagate_case: true
   word: true
-- trigger: gracas
+- triggers:
+  - gracas
+  - grazias
   replace: gracias
   propagate_case: true
   word: true
-- trigger: grazias
-  replace: gracias
-  propagate_case: true
-  word: true
-- trigger: gusanso
+- triggers:
+  - gusanso
   replace: gusano
   propagate_case: true
   word: true
-- trigger: aber
+- triggers:
+  - aber
   replace: haber
   propagate_case: true
   word: true
-- trigger: azer
+- triggers:
+  - azer
+  - acer
   replace: hacer
   propagate_case: true
   word: true
-- trigger: acer
-  replace: hacer
-  propagate_case: true
-  word: true
-- trigger: ay
+- triggers:
+  - ay
+  - ahí
   replace: hay
   propagate_case: true
   word: true
-- trigger: ahí
-  replace: hay
-  propagate_case: true
-  word: true
-- trigger: halla
+- triggers:
+  - halla
   replace: haya
   propagate_case: true
   word: true
-- trigger: echo
+- triggers:
+  - echo
   replace: hecho
   propagate_case: true
   word: true
-- trigger: human
+- triggers:
+  - human
   replace: humano
   propagate_case: true
   word: true
-- trigger: habil
+- triggers:
+  - habil
   replace: hábil
   propagate_case: true
   word: true
-- trigger: idiocincracia
+- triggers:
+  - idiocincracia
   replace: idiocincrasia
   propagate_case: true
   word: true
-- trigger: iluisón
+- triggers:
+  - iluisón
   replace: ilusión
   propagate_case: true
   word: true
-- trigger: infanca
+- triggers:
+  - infanca
   replace: infancia
   propagate_case: true
   word: true
-- trigger: inflingido
+- triggers:
+  - inflingido
   replace: infligido
   propagate_case: true
   word: true
-- trigger: ingerencia
+- triggers:
+  - ingerencia
   replace: injerencia
   propagate_case: true
   word: true
-- trigger: insistr
+- triggers:
+  - insistr
+  - incistir
   replace: insistir
   propagate_case: true
   word: true
-- trigger: incistir
-  replace: insistir
-  propagate_case: true
-  word: true
-- trigger: interesnate
+- triggers:
+  - interesnate
   replace: interesante
   propagate_case: true
   word: true
-- trigger: interez
+- triggers:
+  - interez
   replace: interés
   propagate_case: true
   word: true
-- trigger: goven
+- triggers:
+  - goven
+  - hoven
   replace: joven
   propagate_case: true
   word: true
-- trigger: hoven
-  replace: joven
-  propagate_case: true
-  word: true
-- trigger: lleyó
+- triggers:
+  - lleyó
   replace: leyó
   propagate_case: true
   word: true
-- trigger: yamar
+- triggers:
+  - yamar
   replace: llamar
   propagate_case: true
   word: true
-- trigger: yave
+- triggers:
+  - yave
   replace: llave
   propagate_case: true
   word: true
-- trigger: yeno
+- triggers:
+  - yeno
   replace: lleno
   propagate_case: true
   word: true
-- trigger: llroar
+- triggers:
+  - llroar
+  - yorar
   replace: llorar
   propagate_case: true
   word: true
-- trigger: yorar
-  replace: llorar
-  propagate_case: true
-  word: true
-- trigger: lapiz
+- triggers:
+  - lapiz
   replace: lápiz
   propagate_case: true
   word: true
-- trigger: mama
+- triggers:
+  - mama
   replace: mamá
   propagate_case: true
   word: true
-- trigger: misógeno
+- triggers:
+  - misógeno
   replace: misógino
   propagate_case: true
   word: true
-- trigger: meustra
+- triggers:
+  - meustra
   replace: muestra
   propagate_case: true
   word: true
-- trigger: mas
+- triggers:
+  - mas
   replace: más
   propagate_case: true
   word: true
-- trigger: mi
+- triggers:
+  - mi
   replace: mí
   propagate_case: true
   word: true
-- trigger: móbil
+- triggers:
+  - móbil
   replace: móvil
   propagate_case: true
   word: true
-- trigger: nosotrs
+- triggers:
+  - nosotrs
   replace: nosotros
   propagate_case: true
   word: true
-- trigger: novedaes
+- triggers:
+  - novedaes
   replace: novedades
   propagate_case: true
   word: true
-- trigger: neustra
+- triggers:
+  - neustra
   replace: nuestra
   propagate_case: true
   word: true
-- trigger: neuvo
+- triggers:
+  - neuvo
   replace: nuevo
   propagate_case: true
   word: true
-- trigger: ocación
+- triggers:
+  - ocación
   replace: ocasión
   propagate_case: true
   word: true
-- trigger: holor
+- triggers:
+  - holor
   replace: olor
   propagate_case: true
   word: true
-- trigger: papa
+- triggers:
+  - papa
   replace: papá
   propagate_case: true
   word: true
-- trigger: pra
+- triggers:
+  - pra
   replace: para
   propagate_case: true
   word: true
-- trigger: pes
+- triggers:
+  - pes
+  - vez
   replace: pez
   propagate_case: true
   word: true
-- trigger: vez
-  replace: pez
-  propagate_case: true
-  word: true
-- trigger: plajio
+- triggers:
+  - plajio
   replace: plagio
   propagate_case: true
   word: true
-- trigger: preparadso
+- triggers:
+  - preparadso
   replace: preparados
   propagate_case: true
   word: true
-- trigger: preción
+- triggers:
+  - preción
   replace: presión
   propagate_case: true
   word: true
-- trigger: prsetarnos
+- triggers:
+  - prsetarnos
   replace: prestarnos
   propagate_case: true
   word: true
-- trigger: preveer
+- triggers:
+  - preveer
   replace: prever
   propagate_case: true
   word: true
-- trigger: professor
+- triggers:
+  - professor
   replace: profesor
   propagate_case: true
   word: true
-- trigger: proihibido
+- triggers:
+  - proihibido
+  - proibido
   replace: prohibido
   propagate_case: true
   word: true
-- trigger: proibido
-  replace: prohibido
-  propagate_case: true
-  word: true
-- trigger: puevlo
+- triggers:
+  - puevlo
   replace: pueblo
   propagate_case: true
   word: true
-- trigger: que
+- triggers:
+  - que
   replace: qué
   propagate_case: true
   word: true
-- trigger: realiad
+- triggers:
+  - realiad
   replace: realidad
   propagate_case: true
   word: true
-- trigger: rejalo
+- triggers:
+  - rejalo
+  - rekalo
   replace: regalo
   propagate_case: true
   word: true
-- trigger: rekalo
-  replace: regalo
-  propagate_case: true
-  word: true
-- trigger: relasion
+- triggers:
+  - relasion
+  - relacions
   replace: relaciones
   propagate_case: true
   word: true
-- trigger: relacions
-  replace: relaciones
-  propagate_case: true
-  word: true
-- trigger: resvalando
+- triggers:
+  - resvalando
   replace: resbalando
   propagate_case: true
   word: true
-- trigger: ruputura
+- triggers:
+  - ruputura
   replace: ruptura
   propagate_case: true
   word: true
-- trigger: rapido
+- triggers:
+  - rapido
   replace: rápido
   propagate_case: true
   word: true
-- trigger: saver
+- triggers:
+  - saver
+  - zaber
   replace: saber
   propagate_case: true
   word: true
-- trigger: zaber
-  replace: saber
-  propagate_case: true
-  word: true
-- trigger: sakapuntas
+- triggers:
+  - sakapuntas
   replace: sacapuntas
   propagate_case: true
   word: true
-- trigger: ceis
+- triggers:
+  - ceis
+  - zeis
   replace: seis
   propagate_case: true
   word: true
-- trigger: zeis
-  replace: seis
-  propagate_case: true
-  word: true
-- trigger: socail
+- triggers:
+  - socail
   replace: social
   propagate_case: true
   word: true
-- trigger: sosiedad
+- triggers:
+  - sosiedad
+  - socieda
   replace: sociedad
   propagate_case: true
   word: true
-- trigger: socieda
-  replace: sociedad
-  propagate_case: true
-  word: true
-- trigger: sofa
+- triggers:
+  - sofa
   replace: sofá
   propagate_case: true
   word: true
-- trigger: soldedad
+- triggers:
+  - soldedad
+  - solaedad
   replace: soledad
   propagate_case: true
   word: true
-- trigger: solaedad
-  replace: soledad
-  propagate_case: true
-  word: true
-- trigger: solidairo
+- triggers:
+  - solidairo
   replace: solidario
   propagate_case: true
   word: true
-- trigger: si
+- triggers:
+  - si
   replace: sí
   propagate_case: true
   word: true
-- trigger: tabien
+- triggers:
+  - tabien
+  - tambien
+  - tambièn
   replace: también
   propagate_case: true
   word: true
-- trigger: tambien
-  replace: también
-  propagate_case: true
-  word: true
-- trigger: tambièn
-  replace: también
-  propagate_case: true
-  word: true
-- trigger: temrinaba
+- triggers:
+  - temrinaba
   replace: terminaba
   propagate_case: true
   word: true
-- trigger: teinda
+- triggers:
+  - teinda
   replace: tienda
   propagate_case: true
   word: true
-- trigger: todabía
+- triggers:
+  - todabía
   replace: todavía
   propagate_case: true
   word: true
-- trigger: trabaho
+- triggers:
+  - trabaho
+  - trabago
   replace: trabajo
   propagate_case: true
   word: true
-- trigger: trabago
-  replace: trabajo
-  propagate_case: true
-  word: true
-- trigger: traduciods
+- triggers:
+  - traduciods
+  - traducidso
   replace: traducidos
   propagate_case: true
   word: true
-- trigger: traducidso
-  replace: traducidos
-  propagate_case: true
-  word: true
-- trigger: traspsan
+- triggers:
+  - traspsan
   replace: traspasan
   propagate_case: true
   word: true
-- trigger: traspsar
+- triggers:
+  - traspsar
   replace: traspasar
   propagate_case: true
   word: true
-- trigger: transtornado
+- triggers:
+  - transtornado
   replace: trastornado
   propagate_case: true
   word: true
-- trigger: te
+- triggers:
+  - te
   replace: té
   propagate_case: true
   word: true
-- trigger: tóxisac
+- triggers:
+  - tóxisac
   replace: tóxicas
   propagate_case: true
   word: true
-- trigger: tu
+- triggers:
+  - tu
   replace: tú
   propagate_case: true
   word: true
-- trigger: unidso
+- triggers:
+  - unidso
   replace: unidos
   propagate_case: true
   word: true
-- trigger: baca
+- triggers:
+  - baca
   replace: vaca
   propagate_case: true
   word: true
-- trigger: vacasiones
+- triggers:
+  - vacasiones
+  - vacasions
   replace: vacaciones
   propagate_case: true
   word: true
-- trigger: vacasions
-  replace: vacaciones
-  propagate_case: true
-  word: true
-- trigger: baya
+- triggers:
+  - baya
   replace: valla
   propagate_case: true
   word: true
-- trigger: balar
+- triggers:
+  - balar
   replace: valor
   propagate_case: true
   word: true
-- trigger: baya
+- triggers:
+  - baya
+  - valla
   replace: vaya
   propagate_case: true
   word: true
-- trigger: valla
-  replace: vaya
-  propagate_case: true
-  word: true
-- trigger: bibe
+- triggers:
+  - bibe
   replace: vive
   propagate_case: true
   word: true
-- trigger: bivo
+- triggers:
+  - bivo
   replace: vivo
   propagate_case: true
   word: true
-- trigger: bolar
+- triggers:
+  - bolar
   replace: volar
   propagate_case: true
   word: true
-- trigger: llendo
+- triggers:
+  - llendo
   replace: yendo
   propagate_case: true
   word: true
-- trigger: sapato
+- triggers:
+  - sapato
+  - capato
   replace: zapato
   propagate_case: true
   word: true
-- trigger: capato
-  replace: zapato
-  propagate_case: true
-  word: true
-- trigger: angulo
+- triggers:
+  - angulo
   replace: ángulo
   propagate_case: true
   word: true
-- trigger: arbol
+- triggers:
+  - arbol
   replace: árbol
   propagate_case: true
   word: true
-- trigger: el
+- triggers:
+  - el
   replace: él
   propagate_case: true
   word: true
-- trigger: elite
+- triggers:
+  - elite
   replace: élite
   propagate_case: true
   word: true
-- trigger: epoca
+- triggers:
+  - epoca
   replace: época
   propagate_case: true
   word: true
-- trigger: exito
+- triggers:
+  - exito
   replace: éxito
   propagate_case: true
   word: true
-- trigger: ultimo
+- triggers:
+  - ultimo
   replace: último
   propagate_case: true
   word: true

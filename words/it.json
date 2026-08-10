@@ -1580,7 +1580,8 @@
     ],
     "chiamata": [
         "chaimata",
-        "chiaamta"
+        "chiaamta",
+        "chiamta"
     ],
     "chiamate": [
         "chiamte",
@@ -3095,7 +3096,8 @@
     ],
     "dovremmo": [
         "doremmo",
-        "dvoremmo"
+        "dvoremmo",
+        "dorevmmo"
     ],
     "dovreste": [
         "drovreste",
@@ -3302,6 +3304,9 @@
         "esponaimo",
         "epsoniamo"
     ],
+    "esportando": [
+        "espotando"
+    ],
     "esportare": [
         "espoertare",
         "epsortare"
@@ -3412,7 +3417,8 @@
         "faciamo",
         "faccimao",
         "afcciamo",
-        "faccimo"
+        "faccimo",
+        "fafcciamo"
     ],
     "facciamoci": [
         "faccimaoci",
@@ -3843,7 +3849,8 @@
     ],
     "generare": [
         "generaer",
-        "gneerare"
+        "gneerare",
+        "genrare"
     ],
     "generata": [
         "gnerata",
@@ -4340,6 +4347,9 @@
     "incidente": [
         "invidente",
         "icnidente"
+    ],
+    "include": [
+        "inclde"
     ],
     "includendo": [
         "inclduendo",
@@ -4931,6 +4941,9 @@
         "leggeemrnete",
         "lettegrmente"
     ],
+    "leggo": [
+        "elggo"
+    ],
     "leggono": [
         "legono",
         "lgegono"
@@ -5456,7 +5469,8 @@
     ],
     "metto": [
         "meto",
-        "emtto"
+        "emtto",
+        "metot"
     ],
     "mettono": [
         "emtono",
@@ -6203,6 +6217,9 @@
         "pacchettizato",
         "pcachettizzato"
     ],
+    "pacchetto": [
+        "paccehtto"
+    ],
     "pacchettone": [
         "paccehttone",
         "pcachettone"
@@ -6253,7 +6270,8 @@
     ],
     "paio": [
         "apio",
-        "pai"
+        "pai",
+        "oaio"
     ],
     "palazzo": [
         "palazo",
@@ -6470,6 +6488,9 @@
     "passare": [
         "apssare",
         "pasare"
+    ],
+    "passata": [
+        "passta"
     ],
     "passati": [
         "apassati",
@@ -7424,7 +7445,8 @@
     ],
     "provato": [
         "proivato",
-        "porvato"
+        "porvato",
+        "perovato"
     ],
     "provavto": [
         "proavto",
@@ -7849,6 +7871,9 @@
         "riaggioni",
         "raiggiorni"
     ],
+    "riandava": [
+        "riadava"
+    ],
     "riapprovarla": [
         "riapporvarla",
         "raipprovarla"
@@ -8095,6 +8120,9 @@
         "rgiuardo",
         "rugardo",
         "rigaurdo"
+    ],
+    "rilanciato": [
+        "rilancaito"
     ],
     "rilascia": [
         "rialscia",
@@ -8345,7 +8373,8 @@
         "ripsondere",
         "rspiondre",
         "rispodnere",
-        "rsipondere"
+        "rsipondere",
+        "risapondere"
     ],
     "rispondergli": [
         "risponderlgi",
@@ -8367,6 +8396,9 @@
         "rispnditore",
         "rsiponditore"
     ],
+    "rispondo": [
+        "rispono"
+    ],
     "rispondono": [
         "rispondno",
         "riscondono"
@@ -8381,7 +8413,8 @@
     ],
     "risposto": [
         "rispsoto",
-        "risopsto"
+        "risopsto",
+        "ruisposto"
     ],
     "ristorante": [
         "ristornate",
@@ -8415,7 +8448,8 @@
     ],
     "ritardo": [
         "irtardo",
-        "rtiardo"
+        "rtiardo",
+        "titardo"
     ],
     "ritornano": [
         "ritrnano",
@@ -8953,7 +8987,8 @@
         "smepre",
         "smpere",
         "sepmre",
-        "sempore"
+        "sempore",
+        "sermpre"
     ],
     "senso": [
         "sneso",
@@ -9100,7 +9135,8 @@
     ],
     "sicurezza": [
         "iscurezza",
-        "sicurzza"
+        "sicurzza",
+        "sicureza"
     ],
     "sicuro": [
         "Siuro",
@@ -9215,6 +9251,9 @@
     "smarchiamo": [
         "smarchimao",
         "samrchiamo"
+    ],
+    "soddisfazioni": [
+        "soffisfazioni"
     ],
     "sofisticato": [
         "sofistiacto",
@@ -9684,7 +9723,8 @@
     ],
     "sufficiente": [
         "sufficente",
-        "sfuficiente"
+        "sfuficiente",
+        "suddiciente"
     ],
     "sufficienti": [
         "sufficenti",
