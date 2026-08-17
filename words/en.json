@@ -4909,7 +4909,8 @@
         "alreadt",
         "allready",
         "aylready",
-        "alrdy"
+        "alrdy",
+        "arealdy"
     ],
     "alright": [
         "allright",
@@ -44504,6 +44505,9 @@
         "fraternaty",
         "fraternety"
     ],
+    "fraud": [
+        "farud"
+    ],
     "fraudulent": [
         "fraudalent",
         "fraudelant",
@@ -82535,6 +82539,9 @@
         "reffers",
         "referres"
     ],
+    "reffactoring": [
+        "refactroring"
+    ],
     "refills": [
         "refilles",
         "refillls"
@@ -92458,7 +92465,8 @@
         "softwade",
         "sotfware",
         "softwares",
-        "softwaer"
+        "softwaer",
+        "softwae"
     ],
     "soil": [
         "moil",

@@ -141,6 +141,9 @@
         "accopriamo",
         "acocrpiamo"
     ],
+    "account": [
+        "acocunt"
+    ],
     "accreditato": [
         "accreaditato",
         "acrceditato"
@@ -516,6 +519,9 @@
         "amercia",
         "aemrica"
     ],
+    "americana": [
+        "amiericana"
+    ],
     "ammesso": [
         "amesso",
         "amemsso"
@@ -655,7 +661,8 @@
     ],
     "antonio": [
         "antono",
-        "atnonio"
+        "atnonio",
+        "antpnio"
     ],
     "anzi": [
         "nzi",
@@ -1921,7 +1928,8 @@
     ],
     "componenti": [
         "compnenti",
-        "cmoponenti"
+        "cmoponenti",
+        "ocmpnenti"
     ],
     "componibile": [
         "ocmponibile",
@@ -2237,6 +2245,9 @@
         "costruttuvamente",
         "cnostruttivamente"
     ],
+    "consulente": [
+        "consukente"
+    ],
     "consultarci": [
         "consultrci",
         "cnosultarci"
@@ -2347,7 +2358,8 @@
     ],
     "controllare": [
         "controlalre",
-        "cnotrollare"
+        "cnotrollare",
+        "copntrollare"
     ],
     "controllato": [
         "cotrllato",
@@ -3652,6 +3664,12 @@
         "finisehd",
         "fniished"
     ],
+    "finito": [
+        "ifnito"
+    ],
+    "fino": [
+        "finmo"
+    ],
     "fiori": [
         "fioir",
         "foiri"
@@ -4305,7 +4323,8 @@
     ],
     "impostazioni": [
         "impsotazioni",
-        "ipmostazioni"
+        "ipmostazioni",
+        "impostaizoni"
     ],
     "impressionante": [
         "impressionatnte",
@@ -4805,6 +4824,9 @@
     "iscrivere": [
         "iscirvere",
         "icsrivere"
+    ],
+    "iscriversi": [
+        "icriversi"
     ],
     "iscrizione": [
         "iscrizioen",
@@ -5573,7 +5595,8 @@
     ],
     "minuto": [
         "miunto",
-        "mniuto"
+        "mniuto",
+        "minuot"
     ],
     "mistica": [
         "miatica",
@@ -5602,6 +5625,9 @@
     "modifica": [
         "modififca",
         "modofica"
+    ],
+    "modificare": [
+        "modifficare"
     ],
     "modificato": [
         "midificato",
@@ -6278,6 +6304,9 @@
         "palazoo",
         "palazz"
     ],
+    "palesemente": [
+        "palesemete"
+    ],
     "palla": [
         "pala",
         "plala"
@@ -6822,6 +6851,9 @@
     "pi\u00f9": [
         "piu"
     ],
+    "planimetria": [
+        "planimetrai"
+    ],
     "pochetto": [
         "pcohetto",
         "pohcetto"
@@ -6845,7 +6877,8 @@
     "pomeriggio": [
         "pomerigigo",
         "poermiggio",
-        "pomerigio"
+        "pomerigio",
+        "pmeriggio"
     ],
     "pomodoro": [
         "pmodoro",
@@ -8182,7 +8215,8 @@
     ],
     "rimasti": [
         "riamsti",
-        "rmiasti"
+        "rmiasti",
+        "rrimasti"
     ],
     "rimborsa": [
         "rimnorsa",
@@ -8299,6 +8333,9 @@
         "risaricmento",
         "rsiarcimento"
     ],
+    "rischiamo": [
+        "rishciamo"
+    ],
     "riscritto": [
         "riscitto",
         "rsicritto"
@@ -8375,6 +8412,9 @@
         "rispodnere",
         "rsipondere",
         "risapondere"
+    ],
+    "risponderemo": [
+        "sisponderemo"
     ],
     "rispondergli": [
         "risponderlgi",
@@ -8728,6 +8768,9 @@
     "schianta": [
         "schianata",
         "shcianta"
+    ],
+    "schiantando": [
+        "schiantanto"
     ],
     "schiantare": [
         "schianatare",
@@ -9131,7 +9174,8 @@
         "sicurmaente",
         "sicuramtne",
         "scuramente",
-        "sicyramente"
+        "sicyramente",
+        "sciuramente"
     ],
     "sicurezza": [
         "iscurezza",
@@ -9455,7 +9499,8 @@
     "spiegato": [
         "psiegato",
         "speigato",
-        "dspiegato"
+        "dspiegato",
+        "spiegtato"
     ],
     "spiegazione": [
         "speigazione",
@@ -9536,7 +9581,8 @@
         "stanho",
         "stano",
         "stannno",
-        "stnno"
+        "stnno",
+        "tanno"
     ],
     "stasera": [
         "stsera",
@@ -9667,6 +9713,9 @@
     "studiamo": [
         "stidiamo",
         "sutdiamo"
+    ],
+    "studiando": [
+        "sudiando"
     ],
     "studio": [
         "stodui",
@@ -10171,7 +10220,8 @@
         "tuto",
         "utto",
         "tuitto",
-        "uttto"
+        "uttto",
+        "ttuto"
     ],
     "ufficiale": [
         "ufficile",
@@ -10295,6 +10345,9 @@
     "vado": [
         "vaod",
         "vdao"
+    ],
+    "validare": [
+        "vlaidare"
     ],
     "validazione": [
         "validazioen",
@@ -10670,7 +10723,8 @@
     ],
     "vuole": [
         "vuiole",
-        "voule"
+        "voule",
+        "vuoe"
     ],
     "webinar": [
         "webianr",
