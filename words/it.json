@@ -333,7 +333,8 @@
     ],
     "aggiungiamo": [
         "aggiungiuamo",
-        "aggiungiami"
+        "aggiungiami",
+        "aggiungimao"
     ],
     "aggiungiamoli": [
         "aggiungimaoli",
@@ -641,6 +642,9 @@
         "annucerei",
         "anunncerei"
     ],
+    "annunciato": [
+        "annucniato"
+    ],
     "ansia": [
         "nasia",
         "asnia"
@@ -694,6 +698,9 @@
         "appean",
         "apepna",
         "apena"
+    ],
+    "applicano": [
+        "paplicano"
     ],
     "applicazioni": [
         "applicaizoni",
@@ -930,7 +937,8 @@
     ],
     "attivarlo": [
         "attiarlo",
-        "atitvarlo"
+        "atitvarlo",
+        "attivrlo"
     ],
     "attivazione": [
         "attivaizone",
@@ -997,7 +1005,8 @@
     ],
     "automaticamente": [
         "autoamticamente",
-        "atuomaticamente"
+        "atuomaticamente",
+        "automaticemten"
     ],
     "automatici": [
         "autoamtici",
@@ -2225,7 +2234,8 @@
         "consdierazione",
         "considearzione",
         "considerazine",
-        "cosiderazione"
+        "cosiderazione",
+        "consideraizone"
     ],
     "consideriamo": [
         "consdieriamo",
@@ -3860,6 +3870,9 @@
         "funturo",
         "ftuuro"
     ],
+    "garantisce": [
+        "garantiece"
+    ],
     "gastrica": [
         "grastrica",
         "gsatrica"
@@ -4394,6 +4407,9 @@
     "includono": [
         "incluno",
         "icnludono"
+    ],
+    "inclusi": [
+        "icnlsui"
     ],
     "incollati": [
         "inollati",
@@ -6287,6 +6303,9 @@
         "pagno",
         "pgaano"
     ],
+    "paganti": [
+        "paganeti"
+    ],
     "pagare": [
         "apgare",
         "pagae",
@@ -7433,7 +7452,8 @@
         "proproo",
         "prorio",
         "porprio",
-        "proptio"
+        "proptio",
+        "proprip"
     ],
     "prorogato": [
         "prorogatp",
@@ -7721,11 +7741,15 @@
         "quaindi",
         "uindi",
         "quidi",
-        "qujndi"
+        "qujndi",
+        "quinfi"
     ],
     "quotazione": [
         "quotazone",
         "qoutazione"
+    ],
+    "quotidianamente": [
+        "quoditianamwnte"
     ],
     "raccogliamo": [
         "raccoglaimo",
