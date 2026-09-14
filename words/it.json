@@ -411,6 +411,9 @@
         "alimetnatore",
         "ailmentatore"
     ],
+    "alimentatori": [
+        "alimwntatori"
+    ],
     "alla": [
         "alal",
         "ala"
@@ -1496,7 +1499,8 @@
     ],
     "cartella": [
         "cartelal",
-        "cratella"
+        "cratella",
+        "catella"
     ],
     "cartellazione": [
         "caretllazione",
@@ -1690,6 +1694,9 @@
         "chisto",
         "chieto",
         "vhiesto"
+    ],
+    "chiocciola": [
+        "chioccila"
     ],
     "chiudere": [
         "chiuedere",
@@ -2445,6 +2452,9 @@
     "copiare": [
         "copaire",
         "cpoiare"
+    ],
+    "copiato": [
+        "cpiato"
     ],
     "coraggio": [
         "coragio",
@@ -4503,6 +4513,9 @@
         "influsice",
         "ifnluisce"
     ],
+    "infografica": [
+        "infrografica"
+    ],
     "informarlo": [
         "inofrmarlo",
         "ifnormarlo"
@@ -4640,7 +4653,8 @@
     "installare": [
         "instalalre",
         "isntallare",
-        "installae"
+        "installae",
+        "instllare"
     ],
     "installati": [
         "isntallati",
@@ -4920,7 +4934,8 @@
     "lasciamo": [
         "lsaciamo",
         "laciamo",
-        "lacsiamo"
+        "lacsiamo",
+        "liasciamo"
     ],
     "lasciandolo": [
         "lascianolo",
@@ -5450,7 +5465,8 @@
         "messagio",
         "mesaggio",
         "messagg",
-        "messaggi"
+        "messaggi",
+        "mesasggio"
     ],
     "messo": [
         "meso",
@@ -7213,7 +7229,8 @@
     ],
     "presentazione": [
         "presentaizone",
-        "presentaqzione"
+        "presentaqzione",
+        "preentazione"
     ],
     "presentazioni": [
         "presentaizoni",
@@ -7714,7 +7731,8 @@
         "uqello",
         "quelo",
         "quallo",
-        "euqllo"
+        "euqllo",
+        "qullo"
     ],
     "questa": [
         "qeusta",
@@ -9423,6 +9441,9 @@
         "sopprto",
         "spoporto"
     ],
+    "sopra": [
+        "soppra"
+    ],
     "sopraggiunta": [
         "sopragginta",
         "sporaggiunta"
@@ -9556,7 +9577,8 @@
     ],
     "spiega": [
         "psiega",
-        "sipega"
+        "sipega",
+        "siega"
     ],
     "spiegano": [
         "spiegnao",
