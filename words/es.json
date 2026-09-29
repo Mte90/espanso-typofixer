@@ -5,17 +5,15 @@
     "a veces": [
         "aveces"
     ],
-    "a ver": [
-        "haber"
-    ],
+    "a ver": [],
     "abandonar": [
         "abandoran",
         "abandoanr"
     ],
-    "ac\u00e1": [
+    "acá": [
         "aca"
     ],
-    "adem\u00e1s": [
+    "además": [
         "ademas"
     ],
     "adios": [
@@ -24,22 +22,20 @@
     "adulterado": [
         "adulterdo"
     ],
-    "afici\u00f3n": [
+    "afición": [
         "aficion"
     ],
-    "afirmaci\u00f3n": [
-        "afirmasi\u00f3n"
+    "afirmación": [
+        "afirmasión"
     ],
-    "ah\u00ed": [
-        "ay"
-    ],
-    "alegr\u00eda": [
+    "ahí": [],
+    "alegría": [
         "alegria"
     ],
-    "alem\u00e1n": [
+    "alemán": [
         "aleman"
     ],
-    "all\u00ed": [
+    "allí": [
         "alli"
     ],
     "alumnos": [
@@ -48,58 +44,56 @@
     "amoroso": [
         "amorso"
     ],
-    "an\u00e1lisis": [
+    "análisis": [
         "analisis"
     ],
     "aparece": [
         "aprarce"
     ],
-    "aqu\u00ed": [
+    "aquí": [
         "aqui"
     ],
-    "art\u00edculo": [
+    "artículo": [
         "articulo"
     ],
-    "as\u00ed": [
+    "así": [
         "asi"
     ],
-    "atenci\u00f3n": [
+    "atención": [
         "atencion"
     ],
-    "atr\u00e1s": [
+    "atrás": [
         "atras"
     ],
     "avanzar": [
         "avansar"
     ],
-    "aversi\u00f3n": [
-        "adversi\u00f3n"
+    "aversión": [
+        "adversión"
     ],
-    "avi\u00f3n": [
+    "avión": [
         "avion"
     ],
-    "ay": [
-        "hay"
-    ],
+    "ay": [],
     "ayudarte": [
         "ayudrate"
     ],
-    "a\u00e9reo": [
+    "aéreo": [
         "aereo"
     ],
-    "a\u00f1adir": [
+    "añadir": [
         "anadir"
     ],
     "bajo": [
         "vajo"
     ],
-    "balc\u00f3n": [
+    "balcón": [
         "balcon"
     ],
     "banal": [
         "vanal"
     ],
-    "bater\u00eda": [
+    "batería": [
         "bateria",
         "vateria"
     ],
@@ -112,10 +106,10 @@
     "bueno": [
         "beuno"
     ],
-    "b\u00e1sico": [
+    "básico": [
         "basico"
     ],
-    "caf\u00e9": [
+    "café": [
         "cafe"
     ],
     "calle": [
@@ -128,30 +122,29 @@
         "capasidad",
         "capsidad"
     ],
-    "cap\u00edtulo": [
+    "capítulo": [
         "capitulo"
     ],
-    "car\u00e1cter": [
+    "carácter": [
         "caracter"
     ],
     "casa": [
         "cassa",
         "kasa"
     ],
-    "casta\u00f1o": [
+    "castaño": [
         "castano"
     ],
-    "cat\u00e1strofe": [
+    "catástrofe": [
         "catastrofe"
     ],
     "causa": [
         "casua"
     ],
-    "cay\u00f3": [
-        "llay\u00f3"
+    "cayó": [
+        "llayó"
     ],
     "caza": [
-        "casa",
         "kas"
     ],
     "cepillo": [
@@ -168,25 +161,25 @@
     "ciencia": [
         "cienca"
     ],
-    "cient\u00edfico": [
+    "científico": [
         "cientifico"
     ],
     "coger": [
         "cojer"
     ],
-    "colecci\u00f3n": [
+    "colección": [
         "coleccion"
     ],
     "comenzar": [
         "conmenzar"
     ],
-    "comit\u00e9": [
+    "comité": [
         "comite"
     ],
     "comunismo": [
         "conumismo"
     ],
-    "com\u00fan": [
+    "común": [
         "comun"
     ],
     "conciencia": [
@@ -201,46 +194,46 @@
     "convalecencia": [
         "convalescencia"
     ],
-    "conversi\u00f3n": [
+    "conversión": [
         "conversion"
     ],
     "conyuntura": [
         "conyontura"
     ],
-    "coraz\u00f3n": [
+    "corazón": [
         "corazon"
     ],
-    "cuesti\u00f3n": [
+    "cuestión": [
         "cuestion"
     ],
     "cuidar": [
         "ciudar"
     ],
-    "cumplea\u00f1os": [
+    "cumpleaños": [
         "cumpleanos"
     ],
-    "cu\u00e1ndo": [
+    "cuándo": [
         "cuando"
     ],
-    "c\u00e9sped": [
+    "césped": [
         "cesped"
     ],
-    "c\u00f3digo": [
+    "código": [
         "codigo"
     ],
-    "c\u00f3mo": [
+    "cómo": [
         "como"
     ],
-    "c\u00f3mprame": [
+    "cómprame": [
         "comprame"
     ],
-    "da\u00f1o": [
+    "daño": [
         "dano"
     ],
-    "decisi\u00f3n": [
-        "desici\u00f3n"
+    "decisión": [
+        "desición"
     ],
-    "desempe\u00f1o": [
+    "desempeño": [
         "desempeno"
     ],
     "deshabitado": [
@@ -254,61 +247,59 @@
         "desprenderce",
         "depsenderse"
     ],
-    "despu\u00e9s": [
+    "después": [
         "despues"
     ],
-    "dif\u00edcil": [
+    "difícil": [
         "dificil"
     ],
-    "dimensi\u00f3n": [
+    "dimensión": [
         "dimension"
     ],
-    "direcci\u00f3n": [
+    "dirección": [
         "direccion"
     ],
     "distintos": [
         "disitintos"
     ],
-    "d\u00e9": [
+    "dé": [
         "de"
     ],
-    "d\u00eda": [
+    "día": [
         "dia"
     ],
-    "d\u00f3nde": [
+    "dónde": [
         "donde"
     ],
-    "d\u00fao": [
+    "dúo": [
         "duo"
     ],
-    "echo": [
-        "hecho"
-    ],
-    "edici\u00f3n": [
+    "echo": [],
+    "edición": [
         "edicion"
     ],
     "editorial": [
         "editorail"
     ],
-    "educaci\u00f3n": [
+    "educación": [
         "educacion"
     ],
     "efectividad": [
         "efectiviad"
     ],
-    "elecci\u00f3n": [
+    "elección": [
         "eleccion"
     ],
-    "emoci\u00f3n": [
+    "emoción": [
         "emocion"
     ],
-    "empe\u00f1o": [
+    "empeño": [
         "empeno"
     ],
     "empieza": [
         "empiesza"
     ],
-    "energ\u00eda": [
+    "energía": [
         "energia"
     ],
     "enfermo": [
@@ -323,10 +314,10 @@
     "enojado": [
         "enojadp"
     ],
-    "ense\u00f1ar": [
+    "enseñar": [
         "ensenar"
     ],
-    "env\u00edo": [
+    "envío": [
         "envio"
     ],
     "episodios": [
@@ -335,10 +326,10 @@
     "escoger": [
         "escojer"
     ],
-    "esc\u00e9ptico": [
-        "exc\u00e9ptico"
+    "escéptico": [
+        "excéptico"
     ],
-    "espa\u00f1ol": [
+    "español": [
         "espanol"
     ],
     "esperamos": [
@@ -372,7 +363,7 @@
     "frontera": [
         "frotnera"
     ],
-    "f\u00e1cil": [
+    "fácil": [
         "facil"
     ],
     "garaje": [
@@ -404,27 +395,22 @@
         "azer",
         "acer"
     ],
-    "hay": [
-        "ay",
-        "ah\u00ed"
-    ],
+    "hay": [],
     "haya": [
         "halla"
     ],
-    "hecho": [
-        "echo"
-    ],
+    "hecho": [],
     "humano": [
         "human"
     ],
-    "h\u00e1bil": [
+    "hábil": [
         "habil"
     ],
     "idiocincrasia": [
         "idiocincracia"
     ],
-    "ilusi\u00f3n": [
-        "iluis\u00f3n"
+    "ilusión": [
+        "iluisón"
     ],
     "infancia": [
         "infanca"
@@ -442,15 +428,15 @@
     "interesante": [
         "interesnate"
     ],
-    "inter\u00e9s": [
+    "interés": [
         "interez"
     ],
     "joven": [
         "goven",
         "hoven"
     ],
-    "ley\u00f3": [
-        "lley\u00f3"
+    "leyó": [
+        "lleyó"
     ],
     "llamar": [
         "yamar"
@@ -465,26 +451,26 @@
         "llroar",
         "yorar"
     ],
-    "l\u00e1piz": [
+    "lápiz": [
         "lapiz"
     ],
-    "mam\u00e1": [
+    "mamá": [
         "mama"
     ],
-    "mis\u00f3gino": [
-        "mis\u00f3geno"
+    "misógino": [
+        "misógeno"
     ],
     "muestra": [
         "meustra"
     ],
-    "m\u00e1s": [
+    "más": [
         "mas"
     ],
-    "m\u00ed": [
+    "mí": [
         "mi"
     ],
-    "m\u00f3vil": [
-        "m\u00f3bil"
+    "móvil": [
+        "móbil"
     ],
     "nosotros": [
         "nosotrs"
@@ -498,13 +484,13 @@
     "nuevo": [
         "neuvo"
     ],
-    "ocasi\u00f3n": [
-        "ocaci\u00f3n"
+    "ocasión": [
+        "ocación"
     ],
     "olor": [
         "holor"
     ],
-    "pap\u00e1": [
+    "papá": [
         "papa"
     ],
     "para": [
@@ -520,8 +506,8 @@
     "preparados": [
         "preparadso"
     ],
-    "presi\u00f3n": [
-        "preci\u00f3n"
+    "presión": [
+        "preción"
     ],
     "prestarnos": [
         "prsetarnos"
@@ -539,7 +525,7 @@
     "pueblo": [
         "puevlo"
     ],
-    "qu\u00e9": [
+    "qué": [
         "que"
     ],
     "realidad": [
@@ -559,7 +545,7 @@
     "ruptura": [
         "ruputura"
     ],
-    "r\u00e1pido": [
+    "rápido": [
         "rapido"
     ],
     "saber": [
@@ -580,7 +566,7 @@
         "sosiedad",
         "socieda"
     ],
-    "sof\u00e1": [
+    "sofá": [
         "sofa"
     ],
     "soledad": [
@@ -590,13 +576,13 @@
     "solidario": [
         "solidairo"
     ],
-    "s\u00ed": [
+    "sí": [
         "si"
     ],
-    "tambi\u00e9n": [
+    "también": [
         "tabien",
         "tambien",
-        "tambi\u00e8n"
+        "tambièn"
     ],
     "terminaba": [
         "temrinaba"
@@ -604,8 +590,8 @@
     "tienda": [
         "teinda"
     ],
-    "todav\u00eda": [
-        "todab\u00eda"
+    "todavía": [
+        "todabía"
     ],
     "trabajo": [
         "trabaho",
@@ -624,13 +610,13 @@
     "trastornado": [
         "transtornado"
     ],
-    "t\u00e9": [
+    "té": [
         "te"
     ],
-    "t\u00f3xicas": [
-        "t\u00f3xisac"
+    "tóxicas": [
+        "tóxisac"
     ],
-    "t\u00fa": [
+    "tú": [
         "tu"
     ],
     "unidos": [
@@ -650,8 +636,7 @@
         "balar"
     ],
     "vaya": [
-        "baya",
-        "valla"
+        "baya"
     ],
     "vive": [
         "bibe"
@@ -669,25 +654,25 @@
         "sapato",
         "capato"
     ],
-    "\u00e1ngulo": [
+    "ángulo": [
         "angulo"
     ],
-    "\u00e1rbol": [
+    "árbol": [
         "arbol"
     ],
-    "\u00e9l": [
+    "él": [
         "el"
     ],
-    "\u00e9lite": [
+    "élite": [
         "elite"
     ],
-    "\u00e9poca": [
+    "época": [
         "epoca"
     ],
-    "\u00e9xito": [
+    "éxito": [
         "exito"
     ],
-    "\u00faltimo": [
+    "último": [
         "ultimo"
     ]
 }

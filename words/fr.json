@@ -1,39 +1,37 @@
 {
-    "C\u00e8ne": [
-        "c\u00e8ne"
+    "Cène": [
+        "cène"
     ],
     "Guiana": [
         "Guyana"
     ],
-    "Isra\u00e9lien": [
-        "Isra\u00eblien"
+    "Israélien": [
+        "Israëlien"
     ],
-    "Isra\u00e9liens": [
-        "Isra\u00ebliens"
+    "Israéliens": [
+        "Israëliens"
     ],
-    "a": [
-        "\u00e0"
-    ],
-    "acad\u00e9mie": [
+    "a": [],
+    "académie": [
         "academie"
     ],
     "agression": [
         "aggression"
     ],
-    "all\u00e9": [
+    "allé": [
         "ale",
-        "all\u00e8"
+        "allè"
     ],
-    "arriv\u00e9e": [
+    "arrivée": [
         "arrivee"
     ],
-    "arr\u00eater": [
+    "arrêter": [
         "arreter"
     ],
     "ascenseur": [
         "ascenceur"
     ],
-    "autorit\u00e9": [
+    "autorité": [
         "autorite"
     ],
     "banlieue": [
@@ -42,7 +40,7 @@
     "banlieues": [
         "banlieux"
     ],
-    "belle-s\u0153ur": [
+    "belle-sœur": [
         "belle-soeur"
     ],
     "biter": [
@@ -51,34 +49,32 @@
     "bleus": [
         "bleux"
     ],
-    "bl\u00e2me": [
+    "blâme": [
         "blame"
     ],
-    "bl\u00e9": [
+    "blé": [
         "ble"
     ],
-    "br\u00fbler": [
+    "brûler": [
         "bruler"
     ],
-    "budg\u00e9taire": [
-        "bug\u00e9taire"
+    "budgétaire": [
+        "bugétaire"
     ],
-    "b\u00e2timent": [
+    "bâtiment": [
         "batiment"
     ],
     "c'est": [
-        "cest",
-        "ces",
-        "ses"
+        "cest"
     ],
-    "caf\u00e9": [
+    "café": [
         "cafe"
     ],
     "caresse": [
         "casress"
     ],
-    "cat\u00e9chisme": [
-        "cath\u00e9chisme"
+    "catéchisme": [
+        "cathéchisme"
     ],
     "cauchemar": [
         "cauchemard"
@@ -86,29 +82,26 @@
     "cauchemars": [
         "cauchemards"
     ],
-    "ces": [
-        "ses",
-        "c'est"
-    ],
+    "ces": [],
     "championnat": [
         "championat"
     ],
-    "chr\u00e9tien": [
+    "chrétien": [
         "chretien"
     ],
-    "ch\u00e8re": [
+    "chère": [
         "chere"
     ],
     "ci-dessus": [
         "cidessus"
     ],
-    "clo\u00eetre": [
+    "cloître": [
         "cloitre"
     ],
-    "cl\u00e9": [
+    "clé": [
         "cle"
     ],
-    "coll\u00e8ge": [
+    "collège": [
         "college"
     ],
     "colocataire": [
@@ -117,127 +110,127 @@
     "colophane": [
         "collophane"
     ],
-    "col\u00e8re": [
+    "colère": [
         "colere"
     ],
-    "comit\u00e9": [
+    "comité": [
         "comite"
     ],
-    "comp\u00e9titivit\u00e9": [
-        "comp\u00e9tivit\u00e9"
+    "compétitivité": [
+        "compétivité"
     ],
-    "com\u00e9die": [
+    "comédie": [
         "comedie"
     ],
-    "congr\u00e8s": [
+    "congrès": [
         "congres"
     ],
-    "conna\u00eetre": [
+    "connaître": [
         "connaitre"
     ],
     "conscience": [
         "concience"
     ],
-    "consid\u00e9rer": [
+    "considérer": [
         "considerer"
     ],
-    "cons\u00e9quence": [
+    "conséquence": [
         "consequence"
     ],
-    "contr\u00f4le": [
+    "contrôle": [
         "controle"
     ],
-    "contr\u00f4ler": [
+    "contrôler": [
         "controler"
     ],
-    "convi\u00e9": [
+    "convié": [
         "convie"
     ],
     "croisement": [
         "croissement"
     ],
-    "cro\u00eetre": [
+    "croître": [
         "croitre"
     ],
-    "cr\u00e2ne": [
+    "crâne": [
         "crane"
     ],
-    "cr\u00e8me": [
+    "crème": [
         "creme"
     ],
-    "cr\u00e9ance": [
+    "créance": [
         "creance"
     ],
-    "cr\u00e9ature": [
+    "créature": [
         "creature"
     ],
-    "cr\u00e9dit": [
+    "crédit": [
         "credit"
     ],
-    "cr\u00e9e": [
+    "crée": [
         "cee"
     ],
-    "cr\u00e9er": [
+    "créer": [
         "creer"
     ],
-    "cr\u00eate": [
+    "crête": [
         "crete"
     ],
-    "c\u00e9dille": [
+    "cédille": [
         "cedille"
     ],
-    "c\u00e9ramique": [
+    "céramique": [
         "ceramique"
     ],
-    "c\u00f4lon": [
+    "côlon": [
         "colon"
     ],
-    "c\u00f4lons": [
+    "côlons": [
         "colons"
     ],
-    "degr\u00e9": [
+    "degré": [
         "degre"
     ],
-    "derni\u00e8re": [
+    "dernière": [
         "derniere"
     ],
-    "derri\u00e8re": [
+    "derrière": [
         "derriere"
     ],
-    "dispara\u00eetre": [
+    "disparaître": [
         "disparaitre"
     ],
-    "d\u00e9barrasser": [
-        "d\u00e9barasser"
+    "débarrasser": [
+        "débarasser"
     ],
-    "d\u00e9bat": [
+    "débat": [
         "debats"
     ],
-    "d\u00e9but": [
+    "début": [
         "debut"
     ],
-    "d\u00e9cevoir": [
+    "décevoir": [
         "decevoir"
     ],
-    "d\u00e9faite": [
-        "d\u00e9f\u00e8te",
-        "d\u00e9fete"
+    "défaite": [
+        "défète",
+        "défete"
     ],
-    "d\u00e9g\u00e2t": [
+    "dégât": [
         "degat"
     ],
-    "d\u00e9jeuner": [
+    "déjeuner": [
         "dejeuner"
     ],
-    "d\u00e9j\u00e0": [
+    "déjà": [
         "deja",
-        "d\u00e9ja"
+        "déja"
     ],
-    "d\u00e9shydrog\u00e9nase": [
+    "déshydrogénase": [
         "deshydrogenase"
     ],
-    "elles-m\u00eames": [
-        "ellesm\u00eames"
+    "elles-mêmes": [
+        "ellesmêmes"
     ],
     "entregent": [
         "entre-gens"
@@ -245,25 +238,21 @@
     "entrepreneuriat": [
         "entrepreunariat"
     ],
-    "entrep\u00f4t": [
+    "entrepôt": [
         "entrepot"
     ],
-    "esp\u00e8ce": [
+    "espèce": [
         "espece"
     ],
-    "esp\u00e9rer": [
+    "espérer": [
         "esperer"
     ],
-    "est": [
-        "et"
-    ],
-    "et": [
-        "est"
-    ],
+    "est": [],
+    "et": [],
     "etc.": [
         "ect."
     ],
-    "exp\u00e9rimental": [
+    "expérimental": [
         "experimental"
     ],
     "fascisme": [
@@ -285,10 +274,10 @@
         "flotille"
     ],
     "foehn": [
-        "f\u0153hn"
+        "fœhn"
     ],
     "ici": [
-        "i\u00e7i"
+        "içi"
     ],
     "inclus": [
         "inclu"
@@ -296,19 +285,15 @@
     "lipofuscine": [
         "lipofucsine"
     ],
-    "m'a": [
-        "ma"
-    ],
-    "ma": [
-        "m'a"
-    ],
-    "mang\u00e9": [
+    "m'a": [],
+    "ma": [],
+    "mangé": [
         "mange",
-        "mang\u00e8",
+        "mangè",
         "manger"
     ],
     "merci": [
-        "mer\u00e7i"
+        "merçi"
     ],
     "merveilleux": [
         "merveilleu"
@@ -316,13 +301,9 @@
     "niveau": [
         "nivau"
     ],
-    "on": [
-        "ont"
-    ],
-    "ont": [
-        "on"
-    ],
-    "o\u00f9": [
+    "on": [],
+    "ont": [],
+    "où": [
         "ou"
     ],
     "par-ci": [
@@ -331,19 +312,19 @@
     "par-la": [
         "par la"
     ],
-    "parl\u00e9": [
+    "parlé": [
         "parle",
-        "parl\u00e8",
+        "parlè",
         "parler"
     ],
-    "patin \u00e0 roulettes": [
-        "patin \u00e0 roues"
+    "patin à roulettes": [
+        "patin à roues"
     ],
-    "pendre la cr\u00e9maill\u00e8re": [
-        "pendre la cr\u00e9malli\u00e8re"
+    "pendre la crémaillère": [
+        "pendre la crémallière"
     ],
-    "peut-\u00eatre": [
-        "peut \u00eatre"
+    "peut-être": [
+        "peut être"
     ],
     "poisse": [
         "pouasse"
@@ -351,48 +332,30 @@
     "pourparlers": [
         "pourpalers"
     ],
-    "prot\u00e8ge": [
-        "prot\u00e9ge"
+    "protège": [
+        "protége"
     ],
-    "qualit\u00e9": [
-        "qualit\u00e9e"
+    "qualité": [
+        "qualitée"
     ],
     "roder": [
-        "r\u00f4der"
+        "rôder"
     ],
-    "s'a": [
-        "sa"
-    ],
-    "sa": [
-        "s'a"
-    ],
-    "sayn\u00e8te": [
+    "s'a": [],
+    "sa": [],
+    "saynète": [
         "saynette"
     ],
-    "ses": [
-        "c'est",
-        "ces"
-    ],
+    "ses": [],
     "soi-disant": [
         "soit-disant"
     ],
-    "son": [
-        "sont"
-    ],
-    "sons": [
-        "sont"
-    ],
-    "sont": [
-        "son",
-        "sons"
-    ],
-    "t'a": [
-        "ta"
-    ],
-    "ta": [
-        "t'a"
-    ],
-    "th\u00e9": [
+    "son": [],
+    "sons": [],
+    "sont": [],
+    "t'a": [],
+    "ta": [],
+    "thé": [
         "the"
     ],
     "transsexuel": [
@@ -401,42 +364,39 @@
     "transsexuels": [
         "transexuels"
     ],
-    "trompe-l\u2019\u0153il": [
+    "trompe-l’œil": [
         "trompe l'oeil"
     ],
-    "\u00e0": [
-        "a"
+    "à": [],
+    "ça": [
+        "ca"
     ],
-    "\u00e7a": [
-        "ca",
-        "sa"
+    "çà et là": [
+        "ça et là"
     ],
-    "\u00e7\u00e0 et l\u00e0": [
-        "\u00e7a et l\u00e0"
-    ],
-    "\u00e9taient": [
+    "étaient": [
         "etaient"
     ],
-    "\u00e9tait": [
+    "était": [
         "etait"
     ],
-    "\u00e9taits": [
+    "étaits": [
         "etaits"
     ],
-    "\u00e9tranger": [
+    "étranger": [
         "etranger"
     ],
-    "\u00e9tudier": [
+    "étudier": [
         "etudier"
     ],
-    "\u00e9t\u00e9": [
+    "été": [
         "ete",
-        "et\u00e9"
+        "eté"
     ],
-    "\u00eatre": [
+    "être": [
         "etre"
     ],
-    "\u00eelot": [
-        "il\u00f4t"
+    "îlot": [
+        "ilôt"
     ]
 }
