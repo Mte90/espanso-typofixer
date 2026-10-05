@@ -325,9 +325,9 @@
         "Goerge",
         "Geroge"
     ],
-    "Gerät": [
+    "Ger\u00e4t": [
         "gerat",
-        "Greät"
+        "Gre\u00e4t"
     ],
     "Gibraltar": [
         "Gibralter",
@@ -9149,11 +9149,11 @@
         "applys",
         "apllies"
     ],
-    "appliqué": [
+    "appliqu\u00e9": [
         "aplikay",
         "applikay"
     ],
-    "appliqués": [
+    "appliqu\u00e9s": [
         "applikays",
         "aplikays"
     ],
@@ -24517,18 +24517,18 @@
         "chucrhes",
         "churcehs"
     ],
-    "château": [
+    "ch\u00e2teau": [
         "chateo",
         "chatou",
         "chateao",
         "shatow",
         "chatow"
     ],
-    "châteaus": [
+    "ch\u00e2teaus": [
         "shatows",
-        "câhteaus"
+        "c\u00e2hteaus"
     ],
-    "châteaux": [
+    "ch\u00e2teaux": [
         "chatous",
         "chatows",
         "chateaos",
@@ -25505,13 +25505,13 @@
         "clevelry",
         "cleevrly"
     ],
-    "cliché": [
+    "clich\u00e9": [
         "clishay",
         "clishey",
         "cleeshay",
         "cleeshey"
     ],
-    "clichés": [
+    "clich\u00e9s": [
         "cleesheys",
         "cleeshays",
         "clishays",
@@ -25716,20 +25716,20 @@
         "clocksoruce"
     ],
     "clockwise": [
-        "clockwíse",
+        "clockw\u00edse",
         "colckwise",
         "cclockwise",
         "clckwise",
         "clcokwise",
         "clockiwse"
     ],
-    "cloisonné": [
+    "cloisonn\u00e9": [
         "cloisonay",
-        "colisonné"
+        "colisonn\u00e9"
     ],
-    "cloisonnés": [
+    "cloisonn\u00e9s": [
         "cloisonays",
-        "colisonnés"
+        "colisonn\u00e9s"
     ],
     "clojure": [
         "cloure",
@@ -27987,13 +27987,13 @@
         "commuications",
         "communicatons"
     ],
-    "communiqué": [
+    "communiqu\u00e9": [
         "communikay",
-        "cmomuniqué"
+        "cmomuniqu\u00e9"
     ],
-    "communiqués": [
+    "communiqu\u00e9s": [
         "communikays",
-        "cmomuniqués"
+        "cmomuniqu\u00e9s"
     ],
     "communism": [
         "comunism",
@@ -32323,7 +32323,7 @@
         "cognatious"
     ],
     "contain": [
-        "сontain",
+        "\u0441ontain",
         "containn",
         "contaiun",
         "contian",
@@ -32358,7 +32358,7 @@
         "cointained",
         "containined",
         "contanined",
-        "сontained",
+        "\u0441ontained",
         "contianed",
         "containered",
         "ontained",
@@ -32383,7 +32383,7 @@
         "contener",
         "contaienr",
         "comtainer",
-        "сontainer",
+        "\u0441ontainer",
         "contaier",
         "conainter",
         "ontainer",
@@ -32393,7 +32393,7 @@
         "contianer",
         "containr",
         "cintainer",
-        "сontainor"
+        "\u0441ontainor"
     ],
     "containers": [
         "conatainers",
@@ -32405,8 +32405,8 @@
         "contaienrs",
         "ontainors",
         "contianers",
-        "сontainers",
-        "сontainors",
+        "\u0441ontainers",
+        "\u0441ontainors",
         "conainers",
         "containrs",
         "countainers",
@@ -32439,7 +32439,7 @@
         "cantaining",
         "continaing",
         "comtaining",
-        "сontaining",
+        "\u0441ontaining",
         "containings",
         "conatining",
         "containting",
@@ -32464,7 +32464,7 @@
         "contians",
         "cotains",
         "contanins",
-        "сontains",
+        "\u0441ontains",
         "contais",
         "conatains",
         "cntains",
@@ -33114,7 +33114,8 @@
         "contributie",
         "contribuye",
         "contribte",
-        "conttribute"
+        "conttribute",
+        "contrbute"
     ],
     "contributed": [
         "conttributed",
@@ -36323,7 +36324,7 @@
         "crystalus",
         "crystallis"
     ],
-    "crèche": [
+    "cr\u00e8che": [
         "kresh",
         "creche",
         "cresh"
@@ -46419,7 +46420,6 @@
         "distoretd"
     ],
     "distortion": [
-        "distorto",
         "distortian",
         "distrotion",
         "distoriton",
@@ -47312,9 +47312,9 @@
         "dopaimne",
         "dopamien"
     ],
-    "doppelgänger": [
+    "doppelg\u00e4nger": [
         "doppleganger",
-        "dpopelgänger"
+        "dpopelg\u00e4nger"
     ],
     "dormant": [
         "dorment",
@@ -53604,7 +53604,7 @@
         "evalute",
         "evaluete",
         "evalite",
-        "évaluate",
+        "\u00e9valuate",
         "evaludate",
         "avaluate",
         "evalueate",
@@ -58808,9 +58808,9 @@
         "fiacnee",
         "fianece"
     ],
-    "fiancée": [
+    "fianc\u00e9e": [
         "feonsay",
-        "faincée"
+        "fainc\u00e9e"
     ],
     "fibonacci": [
         "fibonaacci",
@@ -63046,9 +63046,9 @@
         "garbadge",
         "grabage"
     ],
-    "gardaí": [
+    "garda\u00ed": [
         "gardai",
-        "gradaí"
+        "grada\u00ed"
     ],
     "garfield": [
         "grafield",
@@ -65644,9 +65644,9 @@
         "guarnty",
         "guarranty"
     ],
-    "guaraná": [
+    "guaran\u00e1": [
         "gauarana",
-        "gauraná"
+        "gauran\u00e1"
     ],
     "guard": [
         "gard",
@@ -79694,6 +79694,9 @@
         "eychain",
         "kecyhain",
         "keeychain"
+    ],
+    "keycloak": [
+        "ketcloak"
     ],
     "keyevent": [
         "keyevente",
@@ -95167,8 +95170,8 @@
         "nymhps",
         "nypmhs"
     ],
-    "née": [
-        "neé"
+    "n\u00e9e": [
+        "ne\u00e9"
     ],
     "oauth": [
         "oaut",
@@ -99865,7 +99868,7 @@
         "paiknillers"
     ],
     "paint": [
-        "paínt",
+        "pa\u00ednt",
         "paaint",
         "aint",
         "apint",
@@ -124455,22 +124458,22 @@
         "ausages",
         "sauasges"
     ],
-    "sauté": [
+    "saut\u00e9": [
         "sawte",
         "sautay",
         "sawtay"
     ],
-    "sautéd": [
+    "saut\u00e9d": [
         "sawtayed",
         "sawteed",
         "sautayed"
     ],
-    "sautéing": [
+    "saut\u00e9ing": [
         "sawteing",
         "sawtaying",
         "sautaying"
     ],
-    "sautés": [
+    "saut\u00e9s": [
         "sautayes",
         "sautays",
         "sawtays",
@@ -131099,6 +131102,15 @@
         "osmetime",
         "smoetime",
         "someetime"
+    ],
+    "sometimes": [
+        "sometiles",
+        "sometims",
+        "soemtimes",
+        "somethimes",
+        "somtimes",
+        "sometines",
+        "sometiems"
     ],
     "somewhat": [
         "somehwat",
@@ -154181,9 +154193,9 @@
         "coid",
         "voiid"
     ],
-    "voilà": [
+    "voil\u00e0": [
         "wallah",
-        "violà"
+        "viol\u00e0"
     ],
     "volatility": [
         "volitality",
@@ -157840,14 +157852,5 @@
         "zookeenei",
         "zoocheenei",
         "zookeinees"
-    ],
-    "sometimes": [
-        "sometiles",
-        "sometims",
-        "soemtimes",
-        "somethimes",
-        "somtimes",
-        "sometines",
-        "sometiems"
     ]
 }

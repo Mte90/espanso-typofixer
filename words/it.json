@@ -960,7 +960,7 @@
     ],
     "ambiente": [
         "ambente",
-        "ambíente",
+        "amb\u00edente",
         "ambiento",
         "ambiete",
         "ambienete",
@@ -1789,9 +1789,9 @@
         "attievremo",
         "attiveermo"
     ],
-    "attività": [
+    "attivit\u00e0": [
         "attivita",
-        "atitvità"
+        "atitvit\u00e0"
     ],
     "attrezzi": [
         "atrezi",
@@ -2363,9 +2363,9 @@
         "bonfiico",
         "bonifcio"
     ],
-    "bontà": [
+    "bont\u00e0": [
         "bonta",
-        "bnotà"
+        "bnot\u00e0"
     ],
     "bordello": [
         "brodello",
@@ -2446,9 +2446,9 @@
         "cadto",
         "cadtuo"
     ],
-    "caffè": [
+    "caff\u00e8": [
         "caffe",
-        "cfafè"
+        "cfaf\u00e8"
     ],
     "calcolare": [
         "calcoalre",
@@ -3109,9 +3109,9 @@
         "cheiderti",
         "chideerti"
     ],
-    "chiederò": [
-        "cheiderò",
-        "cihederò"
+    "chieder\u00f2": [
+        "cheider\u00f2",
+        "ciheder\u00f2"
     ],
     "chiedete": [
         "cheidete",
@@ -3185,10 +3185,10 @@
         "ciazioni",
         "citazinoi"
     ],
-    "città": [
+    "citt\u00e0": [
         "citta",
-        "cità",
-        "cittá",
+        "cit\u00e0",
+        "citt\u00e1",
         "citt"
     ],
     "classe": [
@@ -3303,7 +3303,7 @@
     ],
     "colazione": [
         "colazone",
-        "colazión",
+        "colazi\u00f3n",
         "colatione",
         "colasione",
         "colazioone",
@@ -3820,7 +3820,8 @@
         "comuqneu",
         "comnque",
         "comuque",
-        "cominque"
+        "cominque",
+        "cmunque"
     ],
     "con": [
         "ocn",
@@ -4047,7 +4048,7 @@
     "conoscenza": [
         "consocenza",
         "cconscenza",
-        "conosçenza",
+        "conos\u00e7enza",
         "cnooscenza",
         "cnoscenza",
         "conocsenza"
@@ -4066,7 +4067,8 @@
         "conosere",
         "conoschere",
         "cnooscere",
-        "conocsere"
+        "conocsere",
+        "conscoscere"
     ],
     "conoscete": [
         "consocete",
@@ -4742,9 +4744,9 @@
         "cosetrebbe",
         "costeerbbe"
     ],
-    "così": [
+    "cos\u00ec": [
         "cosi",
-        "csoì"
+        "cso\u00ec"
     ],
     "crashati": [
         "crahsati",
@@ -4810,9 +4812,9 @@
         "criitcando",
         "critciando"
     ],
-    "criticità": [
-        "ciriticità",
-        "cirticità"
+    "criticit\u00e0": [
+        "ciriticit\u00e0",
+        "cirticit\u00e0"
     ],
     "cuffie": [
         "cuffe",
@@ -4873,7 +4875,7 @@
     "davvero": [
         "davero",
         "davveo",
-        "daverò",
+        "daver\u00f2",
         "daverro",
         "daveero",
         "davvro"
@@ -4925,6 +4927,9 @@
         "ddecrementa",
         "decermenta",
         "decreemnta"
+    ],
+    "decriptare": [
+        "derciptare"
     ],
     "definendo": [
         "definiendo",
@@ -5220,7 +5225,7 @@
         "difficiel",
         "dificile",
         "dificille",
-        "difícile",
+        "dif\u00edcile",
         "difficille",
         "diffile"
     ],
@@ -5574,6 +5579,9 @@
         "disatcco",
         "distacoc"
     ],
+    "distinguono": [
+        "distinugono"
+    ],
     "distrazioni": [
         "distraizoni",
         "dsitrazioni",
@@ -5743,8 +5751,8 @@
         "odmani",
         "domni",
         "doman",
-        "domanì",
-        "domanî"
+        "doman\u00ec",
+        "doman\u00ee"
     ],
     "domenica": [
         "dominica",
@@ -5816,7 +5824,7 @@
         "odve"
     ],
     "dovere": [
-        "dovére",
+        "dov\u00e9re",
         "dovree",
         "dovare",
         "dovrere",
@@ -6010,9 +6018,9 @@
     ],
     "emergenza": [
         "emerganza",
-        "emergénza",
-        "emérgenza",
-        "emergénnza",
+        "emerg\u00e9nza",
+        "em\u00e9rgenza",
+        "emerg\u00e9nnza",
         "eemrgenza",
         "emegrenza"
     ],
@@ -6148,7 +6156,7 @@
         "esattametne",
         "esattamtnte",
         "esattamnte",
-        "esattaménte",
+        "esattam\u00e9nte",
         "esattamante",
         "esattament",
         "esattamnete"
@@ -6259,7 +6267,7 @@
     ],
     "essenziale": [
         "essnziale",
-        "essenzíale",
+        "essenz\u00edale",
         "essensiale",
         "essenziaale",
         "essenzale",
@@ -6353,7 +6361,7 @@
         "etcihette",
         "eticehtte"
     ],
-    "età": [
+    "et\u00e0": [
         "eta"
     ],
     "euro": [
@@ -6362,6 +6370,9 @@
         "eeuro",
         "eiro",
         "euor"
+    ],
+    "evanescenti": [
+        "evanecesnti"
     ],
     "eventuale": [
         "envetuale",
@@ -6494,7 +6505,8 @@
         "facilemnte"
     ],
     "fai": [
-        "fafi"
+        "fafi",
+        "afi"
     ],
     "fallito": [
         "dallito",
@@ -6506,7 +6518,7 @@
     ],
     "famiglia": [
         "famigla",
-        "famiglía",
+        "famigl\u00eda",
         "afmiglia",
         "amiglia",
         "faamiglia",
@@ -6702,7 +6714,7 @@
     ],
     "femmina": [
         "femina",
-        "femmína",
+        "femm\u00edna",
         "femmnia",
         "efmmina",
         "emmina",
@@ -7088,6 +7100,9 @@
         "frett",
         "frteta"
     ],
+    "fronte": [
+        "frotne"
+    ],
     "frontiere": [
         "frotneiere",
         "forntiere",
@@ -7098,7 +7113,7 @@
     ],
     "frutta": [
         "fruta",
-        "fruttá",
+        "frutt\u00e1",
         "fruttta",
         "frutatta",
         "frtuta",
@@ -7121,8 +7136,8 @@
         "funzioan",
         "funiona"
     ],
-    "funzionalità": [
-        "fuznionalità"
+    "funzionalit\u00e0": [
+        "fuznionalit\u00e0"
     ],
     "funzionano": [
         "funzionao",
@@ -7410,10 +7425,10 @@
         "giorin",
         "giorn"
     ],
-    "giovedì": [
+    "gioved\u00ec": [
         "giovedi",
-        "goivedì",
-        "givoedì",
+        "goived\u00ec",
+        "givoed\u00ec",
         "goivedi"
     ],
     "girare": [
@@ -7471,6 +7486,9 @@
         "giusitficano",
         "giustfiicano"
     ],
+    "giustificare": [
+        "giustifficare"
+    ],
     "giustificativo": [
         "giustifcativo",
         "biustificativo",
@@ -7487,10 +7505,10 @@
         "giutso",
         "iusto"
     ],
-    "già": [
+    "gi\u00e0": [
         "gia"
     ],
-    "giù": [
+    "gi\u00f9": [
         "giu"
     ],
     "gli": [
@@ -7545,9 +7563,9 @@
         "grdao",
         "grdo"
     ],
-    "granchè": [
-        "grnachè",
-        "garnchè"
+    "granch\u00e8": [
+        "grnach\u00e8",
+        "garnch\u00e8"
     ],
     "grande": [
         "grrande",
@@ -7584,7 +7602,7 @@
         "gratugia",
         "grattuggia",
         "gratuggia",
-        "grattugía",
+        "grattug\u00eda",
         "garttugia",
         "grattguia"
     ],
@@ -7844,8 +7862,8 @@
     "immagine": [
         "imamgine",
         "immagene",
-        "immágine",
-        "immagíne",
+        "imm\u00e1gine",
+        "immag\u00edne",
         "immagien",
         "immagnie"
     ],
@@ -8131,7 +8149,7 @@
     ],
     "in": [
         "ino",
-        "iñ",
+        "i\u00f1",
         "iin"
     ],
     "inbattuta": [
@@ -9384,7 +9402,7 @@
     ],
     "lezione": [
         "lezion",
-        "lezión",
+        "lezi\u00f3n",
         "lesione",
         "lezioone",
         "lezioine",
@@ -9866,7 +9884,7 @@
     "manoscritto": [
         "manoscrito",
         "manoscritta",
-        "manoscrìtto",
+        "manoscr\u00ectto",
         "amnoscritto",
         "anoscritto",
         "manocsritto"
@@ -9955,9 +9973,9 @@
         "maarinella",
         "mairnella"
     ],
-    "martedì": [
+    "marted\u00ec": [
         "martedi",
-        "mratedì"
+        "mrated\u00ec"
     ],
     "mascella": [
         "mascela",
@@ -10006,9 +10024,9 @@
         "maetriale",
         "mateirale"
     ],
-    "maternità": [
-        "amternità",
-        "mtaernità"
+    "maternit\u00e0": [
+        "amternit\u00e0",
+        "mtaernit\u00e0"
     ],
     "matrimonio": [
         "amtrimonio",
@@ -10113,9 +10131,9 @@
         "meenzioni",
         "menizoni"
     ],
-    "menù": [
+    "men\u00f9": [
         "menu",
-        "menú"
+        "men\u00fa"
     ],
     "mercato": [
         "emrcato",
@@ -10125,9 +10143,9 @@
         "mecrato",
         "meracto"
     ],
-    "mercoledì": [
+    "mercoled\u00ec": [
         "mercoledi",
-        "mrecoledì"
+        "mrecoled\u00ec"
     ],
     "mese": [
         "emse",
@@ -10331,9 +10349,9 @@
         "meettono",
         "metotno"
     ],
-    "metà": [
+    "met\u00e0": [
         "meta",
-        "mteà"
+        "mte\u00e0"
     ],
     "mezzo": [
         "mezo",
@@ -10846,7 +10864,7 @@
     "necessario": [
         "encessario",
         "necesario",
-        "neçessario",
+        "ne\u00e7essario",
         "ecessario",
         "nceessario",
         "necesasrio"
@@ -11153,7 +11171,7 @@
     ],
     "occasione": [
         "occaisone",
-        "ocasión",
+        "ocasi\u00f3n",
         "ocasion",
         "occatione",
         "occhione",
@@ -11316,10 +11334,10 @@
         "opiinoni",
         "opininoi"
     ],
-    "opportunità": [
+    "opportunit\u00e0": [
         "opportunita",
-        "opportunitá",
-        "opportunittà"
+        "opportunit\u00e1",
+        "opportunitt\u00e0"
     ],
     "opposed": [
         "opppsed",
@@ -11881,9 +11899,9 @@
         "paanno",
         "pabno"
     ],
-    "papà": [
+    "pap\u00e0": [
         "papa",
-        "papá"
+        "pap\u00e1"
     ],
     "paraddossalmente": [
         "pradossalmente",
@@ -11984,7 +12002,7 @@
     ],
     "parere": [
         "pare",
-        "parére",
+        "par\u00e9re",
         "pareere",
         "paree",
         "aprere",
@@ -12075,7 +12093,8 @@
         "prate",
         "prte",
         "paarte",
-        "patre"
+        "patre",
+        "paete"
     ],
     "partecipa": [
         "aprtecipa",
@@ -12430,16 +12449,16 @@
         "peercentuale",
         "percentaule"
     ],
-    "perché": [
-        "perchè",
+    "perch\u00e9": [
+        "perch\u00e8",
         "perche",
-        "perchpè",
-        "prechè",
-        "erchè"
+        "perchp\u00e8",
+        "prech\u00e8",
+        "erch\u00e8"
     ],
     "percorso": [
         "percors",
-        "percórso",
+        "perc\u00f3rso",
         "eprcorso",
         "ercorso",
         "pecrorso",
@@ -12520,7 +12539,7 @@
     "permette": [
         "permete",
         "permte",
-        "perméte",
+        "perm\u00e9te",
         "eprmette",
         "ermette",
         "pemrette"
@@ -12607,8 +12626,8 @@
     ],
     "pesce": [
         "pece",
-        "pésce",
-        "pesçe",
+        "p\u00e9sce",
+        "pes\u00e7e",
         "epsce",
         "pecse",
         "pesc"
@@ -12766,7 +12785,7 @@
     ],
     "piegare": [
         "piagare",
-        "piégare",
+        "pi\u00e9gare",
         "iegare",
         "ipegare",
         "peigare",
@@ -12790,7 +12809,7 @@
     ],
     "pillole": [
         "pilole",
-        "pillóle",
+        "pill\u00f3le",
         "illole",
         "ipllole",
         "piillole",
@@ -12798,7 +12817,7 @@
     ],
     "pioggia": [
         "pioja",
-        "piógia",
+        "pi\u00f3gia",
         "pioia",
         "ioggia",
         "ipoggia",
@@ -12806,7 +12825,7 @@
     ],
     "piovuto": [
         "piovu",
-        "piovúto",
+        "piov\u00fato",
         "ipovuto",
         "piiovuto",
         "piouto",
@@ -12836,7 +12855,7 @@
         "pizaz",
         "ppizza"
     ],
-    "più": [
+    "pi\u00f9": [
         "piu"
     ],
     "planimetria": [
@@ -12988,7 +13007,7 @@
     ],
     "posizione": [
         "posizone",
-        "posizióne",
+        "posizi\u00f3ne",
         "opsizione",
         "osizione",
         "poiszione",
@@ -13073,7 +13092,7 @@
         "ppoter"
     ],
     "potere": [
-        "potére",
+        "pot\u00e9re",
         "potree",
         "potare",
         "potrere",
@@ -13154,8 +13173,8 @@
     ],
     "povero": [
         "povro",
-        "póvero",
-        "povéro",
+        "p\u00f3vero",
+        "pov\u00e9ro",
         "opvero",
         "overo",
         "poevro"
@@ -13509,7 +13528,7 @@
     "prezzo": [
         "prrzzo",
         "prezo",
-        "prézzo",
+        "pr\u00e9zzo",
         "perzzo",
         "prezoz",
         "przzo"
@@ -13538,9 +13557,9 @@
         "pirncipalmente",
         "pricnipalmente"
     ],
-    "priorità": [
-        "priotià",
-        "pirorità"
+    "priorit\u00e0": [
+        "prioti\u00e0",
+        "pirorit\u00e0"
     ],
     "privato": [
         "prvato",
@@ -13611,7 +13630,7 @@
     "prodotto": [
         "prodtto",
         "prodoto",
-        "pròdotto",
+        "pr\u00f2dotto",
         "podotto",
         "pordotto",
         "prdootto"
@@ -13670,7 +13689,7 @@
         "rpogetto",
         "pgoretto",
         "progeto",
-        "prògetto"
+        "pr\u00f2getto"
     ],
     "programma": [
         "proramma",
@@ -13730,7 +13749,7 @@
     ],
     "promessa": [
         "promesa",
-        "prómessa",
+        "pr\u00f3messa",
         "pomessa",
         "pormessa",
         "ppromessa",
@@ -13792,9 +13811,9 @@
         "prooprlo",
         "propolro"
     ],
-    "proporrà": [
-        "proporà",
-        "porporrà"
+    "proporr\u00e0": [
+        "propor\u00e0",
+        "porporr\u00e0"
     ],
     "proporzioni": [
         "proprozioni",
@@ -14229,9 +14248,9 @@
         "qulai",
         "uqali"
     ],
-    "qualità": [
+    "qualit\u00e0": [
         "qualita",
-        "qaulità"
+        "qaulit\u00e0"
     ],
     "qualsiasi": [
         "quasliasi",
@@ -14249,9 +14268,9 @@
         "quado",
         "quanod"
     ],
-    "quantità": [
+    "quantit\u00e0": [
         "quantita",
-        "qauntità"
+        "qauntit\u00e0"
     ],
     "quanto": [
         "quanot",
@@ -17591,9 +17610,9 @@
         "soostendere",
         "sosetndere"
     ],
-    "sostenibilitá": [
-        "sotenibilità",
-        "ssotenibilitá"
+    "sostenibilit\u00e1": [
+        "sotenibilit\u00e0",
+        "ssotenibilit\u00e1"
     ],
     "sostituirlo": [
         "sostotiurlo",
@@ -19292,8 +19311,8 @@
         "unievrsitaria",
         "uniiversitaria"
     ],
-    "università": [
-        "unviersità",
+    "universit\u00e0": [
+        "unviersit\u00e0",
         "universita"
     ],
     "urgenze": [
@@ -19629,9 +19648,9 @@
         "veendo",
         "venod"
     ],
-    "venerdì": [
+    "venerd\u00ec": [
         "venerdi",
-        "vneerdì"
+        "vneerd\u00ec"
     ],
     "vengono": [
         "vnegono",
@@ -19842,9 +19861,9 @@
         "viirtualmente",
         "virtaulmente"
     ],
-    "virtù": [
+    "virt\u00f9": [
         "virtu",
-        "vritù"
+        "vrit\u00f9"
     ],
     "visitabile": [
         "visitable",
@@ -19938,7 +19957,8 @@
         "oglio",
         "ovglio",
         "vgolio",
-        "vogglio"
+        "vogglio",
+        "vogloi"
     ],
     "volantino": [
         "vloantino",
@@ -19965,7 +19985,7 @@
         "voleentieri"
     ],
     "volere": [
-        "volére",
+        "vol\u00e9re",
         "volree",
         "volare",
         "volrere",
@@ -20096,9 +20116,9 @@
         "vullnerabile",
         "vulnearbile"
     ],
-    "vulnerabilitá": [
-        "vulenrabilitá",
-        "vlunerabilitá"
+    "vulnerabilit\u00e1": [
+        "vulenrabilit\u00e1",
+        "vlunerabilit\u00e1"
     ],
     "vuoi": [
         "vuioi",
