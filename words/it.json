@@ -6453,7 +6453,8 @@
         "afcciamo",
         "faccimo",
         "fafcciamo",
-        "faccaimo"
+        "faccaimo",
+        "fcciamo"
     ],
     "facciamoci": [
         "faccimaoci",
@@ -8642,7 +8643,8 @@
         "insetito",
         "iinserito",
         "inesrito",
-        "inseirto"
+        "inseirto",
+        "inseito"
     ],
     "insieme": [
         "inseieme",
@@ -9195,7 +9197,8 @@
         "anciato",
         "laanciato",
         "lacniato",
-        "lancaito"
+        "lancaito",
+        "lanciaro"
     ],
     "largo": [
         "alrgo",
@@ -13602,7 +13605,8 @@
         "porblema",
         "probelma",
         "prblema",
-        "prpoblema"
+        "prpoblema",
+        "problea"
     ],
     "problemi": [
         "provlemi",
@@ -14395,7 +14399,8 @@
         "uindi",
         "quidi",
         "qujndi",
-        "quinfi"
+        "quinfi",
+        "quihdi"
     ],
     "quotazione": [
         "quotazone",
@@ -14909,6 +14914,9 @@
         "riccerche",
         "ricecrhe"
     ],
+    "ricevendo": [
+        "riceendo"
+    ],
     "ricevere": [
         "ricvevere",
         "rcievere",
@@ -15130,7 +15138,8 @@
         "irentrato",
         "reintrato",
         "rieentrato",
-        "rienrato"
+        "rienrato",
+        "rietrato"
     ],
     "riesce": [
         "risce",
@@ -20110,6 +20119,9 @@
         "vorei",
         "ovrrei",
         "vrorei"
+    ],
+    "vorr\u00e0": [
+        "virr\u00e0"
     ],
     "vostre": [
         "votre",
